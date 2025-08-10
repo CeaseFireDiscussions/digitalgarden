@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/home/","tags":["Fireside","GateWisdom","OliveBranch","SacredTruces","TheHeraldsMessages","YadaYadaPauses","gardenEntry"]}
 ---
 
-test 
 
 Welcome to Cease Fire where we explore topics of contentions and study the Bible. 
 
