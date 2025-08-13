@@ -17,7 +17,7 @@ The timing aligns with Shavuot, as Jews from various nations were in Jerusalem f
 
 In the New Testament, Pentecost marks the outpouring of the Holy Spirit. This event parallels the giving of the Torah on Sinai in Jewish tradition, as both involve God’s revelation to His people—law in the Old Testament, Spirit in the New Testament.
 
-![MarkedJeremiah 31_30-33.png](/img/user/Assets/attachments/MarkedJeremiah%2031_30-33.png)
+![Marked Jeremiah 31_30-33.png](/img/user/Assets/attachments/Marked%20Jeremiah%2031_30-33.png)
 
 The connection is implicit: just as Shavuot celebrated the covenant through the Torah, Pentecost in Acts represents the new covenant through the Spirit, fulfilling prophecies like [[The Scrolls/2. Nevi'im (Prophets)/Joel 2\|Joel 2]]:28-32 (quoted in Acts 2:17-21), where God promises to pour out His Spirit on all people.
 

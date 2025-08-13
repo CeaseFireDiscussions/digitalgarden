@@ -21,7 +21,7 @@
 
 ##### Literal Translation: And-not shall-be-seen to-you leaven in-all-your-territory seven days, and-not shall-remain from-the-flesh which you-sacrifice in-the-evening in-the-day the-first until-morning.
 
-![DefDeuteronomy 16_3-4.webp](/img/user/Assets/attachments/DefDeuteronomy%2016_3-4.webp)
+![Def Deuteronomy 16_3-4.webp](/img/user/Assets/attachments/Def%20Deuteronomy%2016_3-4.webp)
 
 ^5 `Thou art not able to sacrifice the passover  within any of thy gates which Jehovah thy God is giving to thee,
 

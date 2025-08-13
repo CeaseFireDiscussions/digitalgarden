@@ -7,8 +7,8 @@
 
 # What is the New Covenant?
 
-![MarkedJeremiah 31_30-33.png](/img/user/Assets/attachments/MarkedJeremiah%2031_30-33.png)
+![Marked Jeremiah 31_30-33.png](/img/user/Assets/attachments/Marked%20Jeremiah%2031_30-33.png)
 
-![MarkedMatthew 5_17-20.png](/img/user/Assets/attachments/MarkedMatthew%205_17-20.png)
+![Marked Matthew 5_17-20.png](/img/user/Assets/attachments/Marked%20Matthew%205_17-20.png)
 
 [[The Herald's Messages/New Covenant\|New Covenant]]

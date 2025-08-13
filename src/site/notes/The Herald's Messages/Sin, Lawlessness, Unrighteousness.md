@@ -8,10 +8,10 @@
 
 The [[Law\|Law]], [[Torah\|Torah]], is found in the Old Testament because the New Testament didn't exist at the time of these writings.
 
-![HighHebrews10_26-31.png](/img/user/Assets/attachments/HighHebrews10_26-31.png)
+![Marked Hebrews 10_26-31.png](/img/user/Assets/attachments/Marked%20Hebrews%2010_26-31.png)
 
 
-![High1John3_4-9.png](/img/user/Assets/attachments/High1John3_4-9.png)
+![Marked 1 John 3_4-9.png](/img/user/Assets/attachments/Marked%201%20John%203_4-9.png)
 
 
 # Connections
