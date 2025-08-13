@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/shavuot/","tags":["#Shavuot","#Pentecost","GateWisdom","#Torah"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/shavuot/","tags":["#Shavuot","#Pentecost","#GateWisdom","#Torah"]}
 ---
 
 

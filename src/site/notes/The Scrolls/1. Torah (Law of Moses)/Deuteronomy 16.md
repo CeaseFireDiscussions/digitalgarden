@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/deuteronomy-16/","tags":["#Deuteronomy16","#passover"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/deuteronomy-16/","tags":["#Deuteronomy16","#passover","#Torah"]}
 ---
 
 

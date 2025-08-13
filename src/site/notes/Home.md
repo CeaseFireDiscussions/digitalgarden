@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["Fireside","GateWisdom","OliveBranch","SacredTruces","TheHeraldsMessages","YadaYadaPauses","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["#Fireside","#GateWisdom","#OliveBranch","#SacredTruces","#TheHeraldsMessages","#YadaYadaPauses","gardenEntry"]}
 ---
 
 

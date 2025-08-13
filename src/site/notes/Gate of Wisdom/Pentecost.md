@@ -24,4 +24,8 @@ The connection is implicit: just as Shavuot celebrated the covenant through the 
 
 [[The Herald's Messages/New Covenant\|New Covenant]]
 
+# Connected Notes
 
+[[Sacred Truces/Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths\|Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths]]
+[[Gate of Wisdom/Shavuot\|Shavuot]]
+[[Olive Branch Reconciliations/Scripture Survey Shavuot aka Pentecost\|Scripture Survey Shavuot aka Pentecost]]
