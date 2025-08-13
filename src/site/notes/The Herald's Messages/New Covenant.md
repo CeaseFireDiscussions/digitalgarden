@@ -10,3 +10,5 @@
 ![MarkedJeremiah 31_30-33.png](/img/user/Assets/attachments/MarkedJeremiah%2031_30-33.png)
 
 ![MarkedMatthew 5_17-20.png](/img/user/Assets/attachments/MarkedMatthew%205_17-20.png)
+
+[[The Herald's Messages/New Covenant\|New Covenant]]
