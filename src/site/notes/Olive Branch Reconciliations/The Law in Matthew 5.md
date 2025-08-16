@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-law-in-matthew-5/","tags":["#OliveBranch","#Matthew5"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-law-in-matthew-5/","tags":["#OliveBranch","#Matthew5","#Law","#Torah","#KingdomofHeaven","#JesusTeaching","#JesusFollowers","#Righteousness","#Scribes","#Pharisees","#SermonontheMount"]}
 ---
 
 

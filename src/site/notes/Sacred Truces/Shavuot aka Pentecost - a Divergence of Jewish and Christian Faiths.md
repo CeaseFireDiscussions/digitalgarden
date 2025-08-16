@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/shavuot-aka-pentecost-a-divergence-of-jewish-and-christian-faiths/","tags":["#Shavuot","#Pentecost","#SacredTruces"]}
+{"dg-publish":true,"permalink":"/sacred-truces/shavuot-aka-pentecost-a-divergence-of-jewish-and-christian-faiths/","tags":["#Shavuot","#Pentecost","#SacredTruces","#Torah","#HolySpirt","#Ruach"]}
 ---
 
 

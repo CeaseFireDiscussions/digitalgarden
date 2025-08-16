@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/pentecost/","tags":["#Shavuot","#Pentecost","#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/pentecost/","tags":["#Shavuot","#Pentecost","#GateWisdom","#HolySpirt","#Ruach","#Torah","#Tongues","#Acts2","#Deuteronomy16","#Joel2"]}
 ---
 
 # Define
