@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-herald-s-messages/who-may-dwell-with-god/","tags":["#TheHeraldsMessages","#Psalm15"]}
+{"dg-publish":true,"permalink":"/the-herald-s-messages/who-may-dwell-with-god/","tags":["#TheHeraldsMessages","#Psalm15","#Social","#Righteousness","#Writer/David"]}
 ---
 
 

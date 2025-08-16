@@ -21,3 +21,9 @@ Ancient manuscripts, such as the Dead Sea Scrolls (e.g., [the Temple Scroll, 11Q
 
 [[Olive Branch Reconciliations/Scripture Survey Shavuot aka Pentecost\|Scripture Survey Shavuot aka Pentecost]]
 
+# Connections
+
+[[Sacred Truces/Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths\|Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths]]
+
+
+

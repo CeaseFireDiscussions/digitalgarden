@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-herald-s-messages/know-the-children-of-god-how/","tags":["#1John5","#TheHeraldsMessages"]}
+{"dg-publish":true,"permalink":"/the-herald-s-messages/know-the-children-of-god-how/","tags":["#1John5","#TheHeraldsMessages","#Torah","#Law","#LoveGod","#LoveNeighbor","#JesusFollowers","#Writer/John","#Social"]}
 ---
 
 

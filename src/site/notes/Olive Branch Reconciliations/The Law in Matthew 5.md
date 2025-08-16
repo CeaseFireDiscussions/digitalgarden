@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-law-in-matthew-5/","tags":["#OliveBranch","#Matthew5","#Law","#Torah","#KingdomofHeaven","#JesusTeaching","#JesusFollowers","#Righteousness","#Scribes","#Pharisees","#SermonontheMount"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-law-in-matthew-5/","tags":["#OliveBranch","#Matthew5","#Law","#Torah","#KingdomofHeaven","#JesusTeaching","#JesusFollowers","#Righteousness","#Scribes","#Pharisees","#SermonontheMount","#Wordpress"]}
 ---
 
 
@@ -47,3 +47,10 @@
 - **How**: NA
 
 We used the American Standard Version (ASV) with bold and underline added
+
+
+# Connections
+
+[[Olive Branch Reconciliations/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
+
+

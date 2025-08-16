@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-herald-s-messages/new-covenant/","tags":["#Jeremiah31","#Matthew5","#TheHeraldsMessages","#SnipJeremiah31_30-33","#SnipMatthew5_17-20"]}
+{"dg-publish":true,"permalink":"/the-herald-s-messages/new-covenant/","tags":["#Jeremiah31","#Matthew5","#TheHeraldsMessages","#SnipJeremiah31_30-33","#SnipMatthew5_17-20","#NewCovenant","#Writer/Jeremiah","#Writer/Matthew","#Torah","#Law","#Prophets","#KingdomofHeaven","#Righteousness","#Scribes","#Pharisees","#SermonontheMount","#JesusTeaching","#JesusFollowers","#WriteonHeart","#Social"]}
 ---
 
 [[The Scrolls/2. Nevi'im (Prophets)/Jeremiah 31\|Jeremiah 31]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-herald-s-messages/when-the-kingdom-of-god-comes/","tags":["#Luke17","#Revelation14","#Deuteronomy16","#TheHeraldsMessages"]}
+{"dg-publish":true,"permalink":"/the-herald-s-messages/when-the-kingdom-of-god-comes/","tags":["#Luke17","#Revelation14","#Deuteronomy16","#TheHeraldsMessages","#KingdomofGod","#Social","#DaysofSonofMan","#Righteousness"]}
 ---
 
 It's interesting what you see when you set aside preconceived ideas and things you've been told without investigating yourself.

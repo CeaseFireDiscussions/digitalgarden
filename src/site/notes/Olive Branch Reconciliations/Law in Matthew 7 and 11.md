@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/law-in-matthew-7-and-11/","tags":["#Matthew7","#Matthew11","#Law","#Torah","#JesusTeaching","#JesusFollowers","#JohntheBaptist","#KingdomofHeaven","#SermonontheMount","#OliveBranch"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/law-in-matthew-7-and-11/","tags":["#Matthew7","#Matthew11","#Law","#Torah","#JesusTeaching","#JesusFollowers","#JohntheBaptist","#KingdomofHeaven","#SermonontheMount","#OliveBranch","#Wordpress"]}
 ---
 
 
@@ -38,3 +38,9 @@
 - **Where**: One of the cities, which is unknown, many believe it took place in Galilee, northern Israel
 - **Why**: John the Immerser/Baptizer disciples have just questioned Jesus and left. Now Jesus is explaining to the multitude about John.
 - **How**: NA
+
+# Connections
+
+[[Olive Branch Reconciliations/The Law in Matthew 5\|The Law in Matthew 5]]
+
+

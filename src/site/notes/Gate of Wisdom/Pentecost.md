@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/pentecost/","tags":["#Shavuot","#Pentecost","#GateWisdom","#HolySpirt","#Ruach","#Torah","#Tongues","#Acts2","#Deuteronomy16","#Joel2"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/pentecost/","tags":["#Shavuot","#Pentecost","#GateWisdom","#HolySpirt","#Ruach","#Torah","#Tongues","#Acts2","#Deuteronomy16","#Joel2","#NewCovenant"]}
 ---
 
 # Define
@@ -29,3 +29,6 @@ The connection is implicit: just as Shavuot celebrated the covenant through the 
 [[Sacred Truces/Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths\|Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths]]
 [[Gate of Wisdom/Shavuot\|Shavuot]]
 [[Olive Branch Reconciliations/Scripture Survey Shavuot aka Pentecost\|Scripture Survey Shavuot aka Pentecost]]
+
+
+

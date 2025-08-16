@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/shavuot-aka-pentecost-a-divergence-of-jewish-and-christian-faiths/","tags":["#Shavuot","#Pentecost","#SacredTruces","#Torah","#HolySpirt","#Ruach"]}
+{"dg-publish":true,"permalink":"/sacred-truces/shavuot-aka-pentecost-a-divergence-of-jewish-and-christian-faiths/","tags":["#Shavuot","#Pentecost","#SacredTruces","#Torah","#HolySpirt","#Ruach","#Exodus19","#Exodus20","#Acts2","#Jeremiah31","#Hebrews8","#Hebrews10","#Ezekiel36","#John14","#JesusFollowers","#JewishTradition","#ChristianTradition","#Law","#NewCovenant","#Wordpress"]}
 ---
 
 
@@ -54,3 +54,7 @@ He who loves Me
 will be loved by My Father,  
 and I will love him and reveal Myself to him.” ([[The Scrolls/3. Ketuvim (Writings)/John 14\|John 14]] TLV)
 
+# Connections
+
+[[Gate of Wisdom/Pentecost#Additional Info\|Pentecost#Additional Info]]
+[[Gate of Wisdom/Shavuot\|Shavuot]]

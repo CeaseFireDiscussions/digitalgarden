@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/yada-yada-colossians/","tags":["#Colossians","#YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/yada-yada-colossians/","tags":["#Colossians","#YadaYadaPauses","#Writer/Paul","#Paul","#Timothy","#NewCovenant","#Sabbath","#passover","#TheWay","#Deuteronomy10","#Jeremiah4","#Leviticus16","#KingdomofGod","#Righteousness","#Genesis1","#Exodus6","#Psalm89","#Firstborn","#HolySpirt","#Ruach","#Christ","#Lord","#God","#YHWH","#Jesus","#saints","#faith","#love","#hope","#gospel","#death","#wisdom","#knowledge","#peace","#heart","#Exodus14","#Joshua3","#Deuteronomy4","#Isaiah29","#Numbers26","#Joshua14","#Exodus13"]}
 ---
 
 
