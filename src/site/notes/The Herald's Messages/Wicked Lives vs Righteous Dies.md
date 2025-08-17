@@ -5,4 +5,4 @@
 
 # Ezekiel 33
 
-![High Ezekiel 33_12-20.png](/img/user/Assets/attachments/High%20Ezekiel%2033_12-20.png)
+![Marked Ezekiel 33_12-20.png](/img/user/Assets/attachments/Marked%20Ezekiel%2033_12-20.png)

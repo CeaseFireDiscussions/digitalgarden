@@ -6,4 +6,4 @@
 # Ezekiel 18
 
 
-![High Ezekiel 18_18-32.png](/img/user/Assets/attachments/High%20Ezekiel%2018_18-32.png)
+![Marked Ezekiel 18_18-32.png](/img/user/Assets/attachments/Marked%20Ezekiel%2018_18-32.png)
