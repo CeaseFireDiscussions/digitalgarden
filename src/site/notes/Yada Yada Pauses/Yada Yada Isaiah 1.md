@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/yada-yada-isaiah-1/","tags":["#Isaiah","#YadaYadaPauses","#Isaiah1","#Writer/Isaiah","#Judgment","#Genesis2","#Leviticus17","#Sins","#Offerings","#Rebellion","#Hear","#God","#YHWH"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/yada-yada-isaiah-1/","tags":["#Isaiah","#YadaYadaPauses","#Isaiah1","#Writer/Isaiah","#Judgment"]}
 ---
 
 ## Observations and Notes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/shavuot/","tags":["#Shavuot","#Pentecost","#GateWisdom","#Torah","#passover","#FirstFruits","#Leviticus","#Exodus23","#Leviticus23","#Deuteronomy16","#Numbers28","#Seven"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/shavuot/","tags":["#Shavuot","#Pentecost","GateWisdom","#Torah","#passover","#FirstFruits","#Leviticus","#Exodus23","#Leviticus23","#Deuteronomy16","#Numbers28","#Seven"]}
 ---
 
 
