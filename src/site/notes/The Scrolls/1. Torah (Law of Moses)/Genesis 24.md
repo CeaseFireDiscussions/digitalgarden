@@ -4,4 +4,6 @@
 
 
 # Connections
-![Genesis 24 Brain Outline.png](/img/user/Assets/attachments/Genesis%2024%20Brain%20Outline.png)
+
+
+![Genesis 24 The Brain Outline-1.png](/img/user/Assets/attachments/Genesis%2024%20The%20Brain%20Outline-1.png)
