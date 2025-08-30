@@ -42,8 +42,8 @@
         - God's soul or being hated them
             - Hebrew word for "soul" or "being" is נֶפֶשׁ (pronounced "nefesh"). It's used to express the personal, inner self or essence of the speaker, in this case, God expressing His feelings about the festivals and appointed feasts of the people.
             - Breath of Life:
-                - Genesis 2:7: "And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul (nefesh)." #Genesis2 
-                - Leviticus 17:11: For the life (nefesh) of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls (nefesh): for it is the blood that maketh an atonement for the soul (nefesh)." #Leviticus17
+                - Genesis 2:7: "And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul (nefesh)." [[Genesis2\|Genesis2]] 
+                - Leviticus 17:11: For the life (nefesh) of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls (nefesh): for it is the blood that maketh an atonement for the soul (nefesh)." [[Leviticus17\|Leviticus17]]
         - Were a burden to God
         - God grew weary of them
     - Their worship
@@ -74,12 +74,12 @@
 ## Repeated Words:
 
 - People
-- #Sins
+- [[Sins\|Sins]]
 - Hands
-- #Offerings
-- #Rebellion
-- #Hear
-- #God #YHWH 
+- [[Offerings\|Offerings]]
+- [[Rebellion\|Rebellion]]
+- [[Hear\|Hear]]
+- [[God\|God]] [[YHWH\|YHWH]] 
 
 ## Hyperlinks:
 

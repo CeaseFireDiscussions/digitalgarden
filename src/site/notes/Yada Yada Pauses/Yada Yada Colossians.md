@@ -321,41 +321,41 @@
 
 ## Repeated words
 
-- #Christ
-- #Lord
-- #God #YHWH 
+- [[Christ\|Christ]]
+- [[Lord\|Lord]]
+- [[God\|God]] [[YHWH\|YHWH]] 
 - things
-- #Jesus
-- #saints
-- #faith
-- #love
-- #hope
-- #gospel
+- [[Jesus\|Jesus]]
+- [[saints\|saints]]
+- [[faith\|faith]]
+- [[love\|love]]
+- [[hope\|hope]]
+- [[gospel\|gospel]]
 - body
-- #death
+- [[death\|death]]
 - fullness
-- #wisdom
-- #knowledge
-- #peace
-- #heart
+- [[wisdom\|wisdom]]
+- [[knowledge\|knowledge]]
+- [[Zunpublished/Peace\|Peace]]
+- [[heart\|heart]]
 - word
 
 ## Hyperlinks:
 
-- [[Deuteronomy\|Deuteronomy]] 10:16 circumcise therefore the foreskin of your heart; #Deuteronomy10
-- [[Jeremiah\|Jeremiah]] 4:4 circumcise yourself to the Lord #Jeremiah4
-- [[Exodus\|Exodus]] 14;22 Israel passing through the Red Sea; #Exodus14
-- [[Joshua\|Joshua]] 3:17 crossing the Jordan #Joshua3
-- [[Deuteronomy\|Deuteronomy]]Deuteronomy 4:19 #Deuteronomy4
-- [[Isaiah Book of\|Isaiah Book of]] 29:13 #Isaiah29
-- [[_My Bible/01 Genesis/Genesis 1\|Genesis 1]]:28 be fruitful and multiple #Genesis1 
-- [[Numbers\|Numbers]] 26:53, #Numbers26
-- [[Joshua\|Joshua]] 14:2 Inheritance of the land among Israel #Joshua14
-- [[_My Bible/01 Genesis/Genesis 1\|Genesis 1]]:4 And Elohim saw the light, that it was tov (good); and Elohim divided the ohr (light) from the choshech (darkness). #Genesis1 
-- [[Exodus\|Exodus]] 6:6 I will deliver you from slavery #Exodus6
-- [[_My Bible/01 Genesis/Genesis 1\|Genesis 1]]:1 in the beginning God created the heavens and earth #Genesis1 
-- [[Psalm\|Psalm]] 89:27 I will make him the firstborn, the highest of the kings; #Psalm89
-- [[Exodus\|Exodus]] 13:2 firstborn consecrated to God #Exodus13
-- [[Leviticus\|Leviticus]] 16:15-16 atonement by blood #Leviticus16
+- [[Deuteronomy\|Deuteronomy]] 10:16 circumcise therefore the foreskin of your heart; [[Deuteronomy10\|Deuteronomy10]]
+- [[Jeremiah\|Jeremiah]] 4:4 circumcise yourself to the Lord [[Jeremiah4\|Jeremiah4]]
+- [[Exodus\|Exodus]] 14;22 Israel passing through the Red Sea; [[Exodus14\|Exodus14]]
+- [[Joshua\|Joshua]] 3:17 crossing the Jordan [[Joshua3\|Joshua3]]
+- [[Deuteronomy\|Deuteronomy]]Deuteronomy 4:19 [[Deuteronomy4\|Deuteronomy4]]
+- [[Isaiah Book of\|Isaiah Book of]] 29:13 [[Isaiah29\|Isaiah29]]
+- [[_My Bible/01 Genesis/Genesis 1\|Genesis 1]]:28 be fruitful and multiple [[Genesis1\|Genesis1]] 
+- [[Numbers\|Numbers]] 26:53, [[Numbers26\|Numbers26]]
+- [[Joshua\|Joshua]] 14:2 Inheritance of the land among Israel [[Joshua14\|Joshua14]]
+- [[_My Bible/01 Genesis/Genesis 1\|Genesis 1]]:4 And Elohim saw the light, that it was tov (good); and Elohim divided the ohr (light) from the choshech (darkness). [[Genesis1\|Genesis1]] 
+- [[Exodus\|Exodus]] 6:6 I will deliver you from slavery [[Exodus6\|Exodus6]]
+- [[_My Bible/01 Genesis/Genesis 1\|Genesis 1]]:1 in the beginning God created the heavens and earth [[Genesis1\|Genesis1]] 
+- [[Psalm\|Psalm]] 89:27 I will make him the firstborn, the highest of the kings; [[Psalm89\|Psalm89]]
+- [[Exodus\|Exodus]] 13:2 firstborn consecrated to God [[Exodus13\|Exodus13]]
+- [[Leviticus\|Leviticus]] 16:15-16 atonement by blood [[Leviticus16\|Leviticus16]]
 
 > _Yada, the Hebrew word meaning, “**to know**,_
