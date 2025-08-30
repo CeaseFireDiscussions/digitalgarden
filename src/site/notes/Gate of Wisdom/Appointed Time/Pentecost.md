@@ -3,10 +3,10 @@
 ---
 
 # Define
-- Pentecost from the Greek word pentekoste ("fiftieth"), is the Greek name for [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]] in the New Testament and Hellenistic Jewish texts (e.g., Philo and Josephus). It retains the same timing and agricultural significance.
+- Pentecost from the Greek word pentekoste ("fiftieth"), is the Greek name for [[Gate of Wisdom/Shavuot\|Shavuot]] in the New Testament and Hellenistic Jewish texts (e.g., Philo and Josephus). It retains the same timing and agricultural significance.
 
 # Related words
-- [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
+- [[Gate of Wisdom/Shavuot\|Shavuot]]
 
 # Additional Info
 
@@ -26,9 +26,9 @@ The connection is implicit: just as Shavuot celebrated the covenant through the 
 # Connected Notes
 
 [[Sacred Truces/Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths\|Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths]]
-[[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
+[[Gate of Wisdom/Shavuot\|Shavuot]]
 [[Olive Branch Reconciliations/Scripture Survey Shavuot aka Pentecost\|Scripture Survey Shavuot aka Pentecost]]
 
 ###### Tags
-- [[Gate of Wisdom/Appointed Time\|Appointed Time]]
-[[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
+- [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
+[[Gate of Wisdom/Shavuot\|Shavuot]]

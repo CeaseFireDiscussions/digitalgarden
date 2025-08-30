@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/leviticus-16/","tags":["Torah"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/leviticus-16/","tags":["#Torah"]}
 ---
 
 Verses 1-5
@@ -269,5 +269,5 @@ Verses 29-34
 
 
 ###### Tags
-- [[Gate of Wisdom/Day of Atonement\|Day of Atonement]]
+- [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
 -
