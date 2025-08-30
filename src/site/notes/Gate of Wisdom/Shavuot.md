@@ -17,7 +17,7 @@ Leviticus 23:15-21 provides detailed instructions: From the day after the [[Gate
 
 Ancient manuscripts, such as the Dead Sea Scrolls (e.g., [the Temple Scroll, 11Q19](http://dss.collections.imj.org.il/temple)), confirm Shavuot’s agricultural focus and its timing. The Qumran community’s calendrical texts (e.g., [4Q320](https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q320-1?locale=en_US)-[4Q321](https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q321-1?locale=en_US)) detail precise calculations for the 50-day count, aligning with biblical instructions.
 
-[[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]], from the Greek word pentekoste ("fiftieth"), is the Greek name for Shavuot in the New Testament and Hellenistic Jewish texts (e.g., Philo and Josephus).
+[[Gate of Wisdom/Pentecost\|Pentecost]], from the Greek word pentekoste ("fiftieth"), is the Greek name for Shavuot in the New Testament and Hellenistic Jewish texts (e.g., Philo and Josephus).
 
 [[Olive Branch Reconciliations/Scripture Survey Shavuot aka Pentecost\|Scripture Survey Shavuot aka Pentecost]]
 
@@ -29,4 +29,4 @@ Ancient manuscripts, such as the Dead Sea Scrolls (e.g., [the Temple Scroll, 11Q
 
 ###### Tags
 - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
-- [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]]
+- [[Gate of Wisdom/Pentecost\|Pentecost]]

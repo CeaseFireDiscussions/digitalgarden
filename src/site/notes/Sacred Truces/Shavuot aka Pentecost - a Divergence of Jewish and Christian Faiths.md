@@ -56,5 +56,5 @@ and I will love him and reveal Myself to him.” ([[The Scrolls/3. Ketuvim (Writ
 
 # Connections
 
-[[Gate of Wisdom/Appointed Time/Pentecost#Additional Info\|Pentecost#Additional Info]]
+[[Gate of Wisdom/Pentecost#Additional Info\|Pentecost#Additional Info]]
 [[Gate of Wisdom/Shavuot\|Shavuot]]
