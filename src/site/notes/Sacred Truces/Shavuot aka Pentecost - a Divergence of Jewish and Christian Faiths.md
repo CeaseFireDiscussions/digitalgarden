@@ -9,7 +9,7 @@ Along with it's multiple names, there are multiple dates calculated as to when t
 
 One looks at Mt. Sinai at the followers of YHWH, the native Israelites and adopted foreigners. They are gathered at the base of the mountain. They saw the thunder and lightening and heard the shofar/trumpet and saw the mountain covered with smoke. The Lord descended in fire and gave them The Testimonies, which we now call the commandments (Exodus 19 and 20 NIV). In those, Yah included appointed times to keep, the Feast of Weeks being one of them. His followers were to keep these times for all generations. The followers receive these testimonies written on tablets.
 
-The other looks at mostly "Jewish" followers of Yeshua/Jesus gathered together to observe Shavuot, referred to by the Greek term Pentecost. They were gathered 50 days after the resurrection, 10 days after Jesus's ascension. They heard a sound like the blowing of a violent wind filling the whole house and saw fire descended and rest like tongues on each of them. It was the giving of the promised Set-Apart Breath of Yah (Holy Spirit) sent to write God's Testimonies/Commandments on their hearts and their minds. Just as foretold by Jeremiah ([[The Scrolls/2. Nevi'im (Prophets)/Jeremiah 31\|Jeremiah 31]],[[The Scrolls/4. The Gospels and The Apostles/Acts 2\|Acts 2]], [[The Scrolls/4. The Gospels and The Apostles/Hebrews 8\|Hebrews 8]], [[The Scrolls/4. The Gospels and The Apostles/Hebrews 10\|Hebrews 10]]).
+The other looks at mostly "Jewish" followers of Yeshua/Jesus gathered together to observe Shavuot, referred to by the Greek term Pentecost. They were gathered 50 days after the resurrection, 10 days after Jesus's ascension. They heard a sound like the blowing of a violent wind filling the whole house and saw fire descended and rest like tongues on each of them. It was the giving of the promised Set-Apart Breath of Yah (Holy Spirit) sent to write God's Testimonies/Commandments on their hearts and their minds. Just as foretold by Jeremiah ([[Zunpublished/Jeremiah 31\|Jeremiah 31]],[[Zunpublished/Acts 2\|Acts 2]], [[Zunpublished/Hebrews 8\|Hebrews 8]], [[Zunpublished/Hebrews 10\|Hebrews 10]]).
 
 Here we have a convergence of beliefs. Both Jewish followers of YHWH and the Christian followers of Jesus standing in awe of the presence of Yahweh/God coming near and giving to them a sign of his covenant with them. 
 
@@ -29,7 +29,7 @@ It was a wedding day. It was about a bride, seeking for her love, her rescuer, h
 
 "I will put My Torah within them.  
 Yes, I will write it on their heart.[e]  
-I will be their God" ([[The Scrolls/2. Nevi'im (Prophets)/Jeremiah 31\|Jeremiah 31]] TLV).
+I will be their God" ([[Zunpublished/Jeremiah 31\|Jeremiah 31]] TLV).
 
 I will give you a new heart.  
 I will put a new spirit within you.  
@@ -37,7 +37,7 @@ I will remove the stony heart from your flesh
 and give you a heart of flesh. [a]  
 I will put My Ruach within you.  
 Then I will cause you to walk in My laws,  
-so you will keep My rulings and do them. ([[The Scrolls/2. Nevi'im (Prophets)/Ezekiel 26\|Ezekiel 26]] TLV)
+so you will keep My rulings and do them. ([[Zunpublished/Ezekiel 26\|Ezekiel 26]] TLV)
 
 We shouldn't be so quick to skip to the reception where we can open our gifts and miss the beauty of the wedding day. Appreciate the love which stands before you, rescuing you, redeeming you, loving you. Waiting for you to accept his promises and make your vows, express your love, and keep his ways.
 
@@ -52,9 +52,9 @@ and keeps them
 is the one who loves Me.  
 He who loves Me  
 will be loved by My Father,  
-and I will love him and reveal Myself to him.” ([[The Scrolls/3. Ketuvim (Writings)/John 14\|John 14]] TLV)
+and I will love him and reveal Myself to him.” ([[Zunpublished/John 14\|John 14]] TLV)
 
 # Connections
 
-[[Gate of Wisdom/Pentecost#Additional Info\|Pentecost#Additional Info]]
-[[Gate of Wisdom/Shavuot\|Shavuot]]
+[[Gate of Wisdom/Appointed Time/Pentecost#Additional Info\|Pentecost#Additional Info]]
+[[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]

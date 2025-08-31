@@ -3,7 +3,7 @@
 ---
 
 # Define
-- [[The Scrolls/3. Ketuvim (Writings)/Matthew 5\|Matthew 5]]
+- [[The Scrolls/4. The Gospels and The Apostles/Matthew 5\|Matthew 5]]
 - **When**:
     - **Event**: Estimated Range: Late 29 AD to early 30 AD
     - **Writing**: 50-60 AD - some date it as late as 110 AD

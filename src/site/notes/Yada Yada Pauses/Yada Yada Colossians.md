@@ -205,7 +205,7 @@
     - [[Aristarchus\|Aristarchus]]
         - fellow prisoner of Paul's
         - sends his greetings
-    - [[Mark\|Mark]]
+    - [[Zunpublished/Mark\|Mark]]
         - cousin of Barnabas
         - sends his greetings
         - the Saints and Faithful Brothers in Colossae has received instructions from him earlier
@@ -327,16 +327,16 @@
 - things
 - [[Jesus\|Jesus]]
 - [[saints\|saints]]
-- [[faith\|faith]]
-- [[love\|love]]
+- [[Zunpublished/Faith\|Faith]]
+- [[Zunpublished/Love\|Love]]
 - [[hope\|hope]]
 - [[gospel\|gospel]]
 - body
 - [[death\|death]]
 - fullness
-- [[wisdom\|wisdom]]
-- [[knowledge\|knowledge]]
-- [[Zunpublished/Peace\|Peace]]
+- [[Zunpublished/Wisdom\|Wisdom]]
+- [[Gate of Wisdom/Tree/Knowledge\|Gate of Wisdom/Tree/Knowledge]]
+- [[Gate of Wisdom/Offering/Peace\|Gate of Wisdom/Offering/Peace]]
 - [[heart\|heart]]
 - word
 

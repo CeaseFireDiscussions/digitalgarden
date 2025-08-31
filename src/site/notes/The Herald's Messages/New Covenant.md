@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/the-herald-s-messages/new-covenant/","tags":["#Jeremiah31","#Matthew5","#TheHeraldsMessages","#SnipJeremiah31_30-33","#SnipMatthew5_17-20","#NewCovenant","#Writer/Jeremiah","#Writer/Matthew","#Torah","#Law","#Prophets","#KingdomofHeaven","#Righteousness","#Scribes","#Pharisees","#SermonontheMount","#JesusTeaching","#JesusFollowers","#WriteonHeart","#Social"]}
 ---
 
-[[The Scrolls/2. Nevi'im (Prophets)/Jeremiah 31\|Jeremiah 31]]
-[[The Scrolls/3. Ketuvim (Writings)/Matthew 5\|Matthew 5]]
+[[Zunpublished/Jeremiah 31\|Jeremiah 31]]
+[[The Scrolls/4. The Gospels and The Apostles/Matthew 5\|Matthew 5]]
 
 # What is the New Covenant?
 
