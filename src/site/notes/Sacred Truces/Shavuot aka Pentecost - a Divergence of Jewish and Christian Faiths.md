@@ -56,5 +56,5 @@ and I will love him and reveal Myself to him.” ([[Zunpublished/John 14\|John 1
 
 # Connections
 
-[[Gate of Wisdom/Pentecost#Additional Info\|Pentecost#Additional Info]]
-[[Gate of Wisdom/Shavuot\|Shavuot]]
+[[Gate of Wisdom/Appointed Time/Pentecost#Additional Info\|Pentecost#Additional Info]]
+[[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]

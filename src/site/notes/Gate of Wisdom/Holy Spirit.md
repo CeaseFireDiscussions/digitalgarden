@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/holy-spirit/","tags":["#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/holy-spirit/","tags":["#GateWisdom","#Ruach"]}
 ---
 
 # Define

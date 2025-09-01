@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/","tags":["#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/","tags":["#GateWisdom","#Ruach"]}
 ---
 
 # Define
