@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/matthew-4/","tags":["#GospelsApostles"]}
+{"dg-publish":true,"permalink":"/zunpublished/matthew-4/","tags":["GospelsApostles"]}
 ---
 
 

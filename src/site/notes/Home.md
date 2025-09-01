@@ -51,6 +51,10 @@ In these Ceasefire moments it's just like a potluck banquet, you never know what
 
 Behind the Gate of Wisdom you'll find general information about various topics. Think Wiki pages.  A variety of Source and Resource listings. Definitions, background information, indexes, etc. 
 
+# The Scrolls Section
+
+The Scrolls are originally in the World English Bible (WEB) because it is a public domain Bible. However, we do study and edit the text so it may be altered and is no longer considered the WEB Bible per their Copyright request. When changes are made, they will be obvious, highlighted, or noted.
+
 # Like and Follow:
 
 [Youtube](https://www.youtube.com/channel/UClucQfZWQ3dSZFMMoEfg5gA)

@@ -1,11 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/burnt-offering/","tags":["#GateWisdom","Offering"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/burnt-offering/","tags":["#GateWisdom","#Offering"]}
 ---
 
+# Define
+- Hebrew: olah (עֹלָה) means "that which goes up"
+- A type of offering
+	- Burnt offerings **are a type of offering**. They are a specific category of sacrifice distinct from other offerings, such as sin offerings, peace offerings, grain offerings, or trespass offerings. The term "burnt offering" (Hebrew: ʿōlâ, meaning "that which goes up") refers to a sacrifice where the entire animal (except for the skin in some cases) is consumed by fire on the altar, symbolizing complete dedication to God. And were offered voluntarily or as part of prescribed rituals to maintain a right relationship with God.
 
-olah
-* most important - no part of it was consumed by any man - the whole offering belonged to God
-* First occures in Genesis 8:20
+# Related words
+- [[Gate of Wisdom/Offering/Offerings\|Offerings]]
+- [[Zunpublished/Guilt Offering\|Guilt Offering]] or [[Zunpublished/Repartition Offering\|Repartition Offering]]
+- [[Zunpublished/Fellowship Offering\|Fellowship Offering]] or Peace Offering
+- [[Zunpublished/Sin Offering\|Sin Offering]] or [[Zunpublished/Repartition Offering\|Repartition Offering]]
+
+# Additional Info
+- most important - no part of it was consumed by any man - the whole offering belonged to God
+* First occurs in Genesis 8:20
 * This was the type of offering Isaac was representing
 * Moses demanded the animals from Pharoah for these offerings
 * It’s a sweet aroma to Yah
@@ -19,37 +29,36 @@ Were made even when there was no tabernacle or temple.
 * Samuel, acting under prophetic authority performed one and God accepted it. 
 * The Mosaic Law allowed non-priests to bring and slaughter animals for burnt offerings (Lev. 1:3-5), but priests were required for sprinkling the blood, arranging the animal on the altar, and burning it (Lev. 1:5-9). This division of labor meant non-priests “made” burnt offerings in the sense of providing and initiating them, but priests completed the sacred rites.
 
-Leviticus 1 
-* From the herd
-	* male without blemish
-	* offfer at entrance of the Tent of Meeting
-	* lay hand on the head so it will be accepted to make atonement
-	* the offerer will slaughter the bull
-	* Aaron’s sons/kohanim present the blood and splash it around the alter at the entrance of the Tent of Meeting
-	* the offerer skins the burn offering and cut it into pieces
-	* sons of Aaron place fire on the altar and arrage wood on the fire
-	* Aaron’s sons arrange the pieces, the head and the fat on the wood which is atop the altar
-	* the innards and legs the offer washes with water
-	* Aaron’s sons burn it all up as smoke on the altar - a soothing aroma to Adonai
-* From the flock
-	* sheep or goats
-	* male without blemish
-	* offerer slaugters it on the north side of the altar
-	* Aaron’s sons splash its blood around the altar
-	* offerer cuts it into pieces, with its head and its fat
-	* Aaron’s sons arrange them upon the wood on the fire atop the altar
-	* the innards and the legs the offer washes with water
-	* Aaron’s sons offer it all and burnt it on the altar - a soothing aroma to Adonai
-* From birds
-	* turtle doves or young pigeons
-	* bring it to the altar - wring off it’s head - and burn it on the altar
-	* its blood is drained out on the side of the altar
-	* the offerer cuts off its digestive tract with its filth and cast it beside the altar on the east side, into the place of the fat ashes
-	* the offerer tears off its wings but not divide it up
-	* Aaron’s sons burn it upon the altar on the wood on the fire - a soothing aroma to Adonai
+# Connections
+- Leviticus 1 
+	* From the herd
+		* male without blemish
+		* offfer at entrance of the Tent of Meeting
+		* lay hand on the head so it will be accepted to make atonement
+		* the offerer will slaughter the bull
+		* Aaron’s sons/kohanim present the blood and splash it around the alter at the entrance of the Tent of Meeting
+		* the offerer skins the burn offering and cut it into pieces
+		* sons of Aaron place fire on the altar and arrage wood on the fire
+		* Aaron’s sons arrange the pieces, the head and the fat on the wood which is atop the altar
+		* the innards and legs the offer washes with water
+		* Aaron’s sons burn it all up as smoke on the altar - a soothing aroma to Adonai
+	* From the flock
+		* sheep or goats
+		* male without blemish
+		* offerer slaugters it on the north side of the altar
+		* Aaron’s sons splash its blood around the altar
+		* offerer cuts it into pieces, with its head and its fat
+		* Aaron’s sons arrange them upon the wood on the fire atop the altar
+		* the innards and the legs the offer washes with water
+		* Aaron’s sons offer it all and burnt it on the altar - a soothing aroma to Adonai
+	* From birds
+		* turtle doves or young pigeons
+		* bring it to the altar - wring off it’s head - and burn it on the altar
+		* its blood is drained out on the side of the altar
+		* the offerer cuts off its digestive tract with its filth and cast it beside the altar on the east side, into the place of the fat ashes
+		* the offerer tears off its wings but not divide it up
+		* Aaron’s sons burn it upon the altar on the wood on the fire - a soothing aroma to Adonai
 
-## A type of offering
-Burnt offerings **are a type of offering**. They are a specific category of sacrifice distinct from other offerings, such as sin offerings, peace offerings, grain offerings, or trespass offerings. The term "burnt offering" (Hebrew: ʿōlâ, meaning "that which goes up") refers to a sacrifice where the entire animal (except for the skin in some cases) is consumed by fire on the altar, symbolizing complete dedication to God. And were offered voluntarily or as part of prescribed rituals to maintain a right relationship with God.
 
 ## Reasons for offering burnt offerings
 * Worship and Devotion to God

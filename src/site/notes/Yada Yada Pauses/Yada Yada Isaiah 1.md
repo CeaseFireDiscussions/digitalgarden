@@ -76,7 +76,7 @@
 - People
 - [[Sins\|Sins]]
 - Hands
-- [[Offerings\|Offerings]]
+- [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 - [[Rebellion\|Rebellion]]
 - [[Hear\|Hear]]
 - [[God\|God]] [[YHWH\|YHWH]] 
@@ -86,6 +86,6 @@
 - Hear and give ear makes me thing of Jesus saying, let those who have ears let them hear.
 - The ox knowing it's owner and donkey it's master brings to mind Jesus saying his people know his voice, the sheep know the shepherd.
 - Amos talks about God despising their feast days (appointed times)
-- [[Proverbs\|Proverbs]] 28 referencing the one turning away his ear from the law being an abomination
-- [[Revelation\|Revelation]] 7 talks about those who have washed their robes and made them white
+- [[The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Proverbs\|Proverbs]] 28 referencing the one turning away his ear from the law being an abomination
+- [[The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Revelation\|Revelation]] 7 talks about those who have washed their robes and made them white
 - [[Isaiah Book of\|Isaiah Book of]]
