@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/49-ephesians/ephes-05/","tags":["#TheScrolls","#GospelsApostles"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/49-ephesians/ephes-05/","tags":["TheScrolls","GospelsApostles"]}
 ---
 
 # Outline
@@ -187,41 +187,41 @@ New Testament Papyrus 49 (http://www.earlynewtestament.com/papyrus49.htm)
 # My Proposed Outline:
 ## Notes
 
-There are two main ideas
-	 Become Followers of God and be members of the Light
-	 Do not be members of the darkness
-There are Characteristics of each listed
-	 Members of the Light
-		 goodness
-		 righteousness
-		 truth
-		 proving what is well-pleasing to the Lord
-		 No fellowship with unfruitful works of the darkness
-		 Reprove unfruitful works of the darkness
-	 Members of the darkness
-		 whoredom, 
-		 all uncleanness, 
-		 covetousness
-		 filthiness, 
-		 and foolish talking, or jesting, 
-		 an idolater
-Reprove unfruitful works of the darkness by:
-	 Walk as wise
-	 Redeeming the time
-	 Do not be drunk with wine but be filled with the Spirit/Light
-		 speaking to YOURSELVES in YOUR heart to the Lord
-			 psalms
-			 hymns
-			 spiritual songs
-			 singing
-			 making melody
-		 Giving thanks always
-		 Subjecting yourselves for reproving the unfruitful works of the darkness
-			 One to one another
-			 Wives to their own husband
-	 The Husbands in reproving the wives
-		 love as Christ did the assembly
-		 love as their own body
+- There are two main ideas
+	 - Become Followers of God and be members of the Light
+	 - Do not be members of the darkness
+- There are Characteristics of each listed
+	 - Members of the Light
+		 - goodness
+		 - righteousness
+		 - truth
+		 - proving what is well-pleasing to the Lord
+		 - No fellowship with unfruitful works of the darkness
+		 - Reprove unfruitful works of the darkness
+	 - Members of the darkness
+		 - whoredom, 
+		 - all uncleanness, 
+		 - covetousness
+		 - filthiness, 
+		 - and foolish talking, or jesting, 
+		 - an idolater
+- Reprove unfruitful works of the darkness by:
+	 - Walk as wise
+	 - Redeeming the time
+	 - Do not be drunk with wine but be filled with the Spirit/Light
+		 - speaking to YOURSELVES in YOUR heart to the Lord
+			 - psalms
+			 - hymns
+			 - spiritual songs
+			 - singing
+			 - making melody
+		 - Giving thanks always
+		 - Subjecting yourselves for reproving the unfruitful works of the darkness
+			 - One to one another
+			 - Wives to their own husband
+	 - The Husbands in reproving the wives
+		 - love as Christ did the assembly
+		 - love as their own body
 
 
 # WEB Version
