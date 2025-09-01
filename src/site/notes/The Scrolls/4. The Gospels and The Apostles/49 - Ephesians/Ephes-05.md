@@ -2,39 +2,75 @@
 {"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/49-ephesians/ephes-05/","tags":["TheScrolls","GospelsApostles"]}
 ---
 
+# My Outline Notes:
+
+- There are two main ideas
+	 - Become Followers of God and be members of the Light
+	 - Do not be members of the darkness
+- There are Characteristics of each listed
+	 - Members of the Light
+		 - goodness
+		 - righteousness
+		 - truth
+		 - proving what is well-pleasing to the Lord
+		 - No fellowship with unfruitful works of the darkness
+		 - Reprove unfruitful works of the darkness
+	 - Members of the darkness
+		 - whoredom, 
+		 - all uncleanness, 
+		 - covetousness
+		 - filthiness, 
+		 - and foolish talking, or jesting, 
+		 - an idolater
+- Reprove unfruitful works of the darkness by:
+	 - Walk as wise
+	 - Redeeming the time
+	 - Do not be drunk with wine but be filled with the Spirit/Light
+		 - speaking to YOURSELVES in YOUR heart to the Lord
+			 - psalms
+			 - hymns
+			 - spiritual songs
+			 - singing
+			 - making melody
+		 - Giving thanks always
+		 - Subjecting yourselves for reproving the unfruitful works of the darkness
+			 - One to one another
+			 - Wives to their own husband
+	 - The Husbands in reproving the wives
+		 - love as Christ did the assembly
+		 - love as their own body
+
 # Outline
 
-##### Prologue: [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v13\|Ephes-04:13]][[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v14\|Ephes-04#v14]][[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v15\|-15]]-  We may all come to the unity of faith ... no longer be children ... carried around by every wind of the teaching, cunning men, to the scheming of leading astray ... speak truth in love wo we may increase in him all things who is the head - the Messiah. V 25 For this reason, putting away the lying, each speak truth with his neighbor .. v 28 who ever is stealing, let him no longer steal ... 
+#### Prologue: [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v13\|Ephes-04:13]][[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v14\|Ephes-04#v14]][[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v15\|-15]]-  We may all come to the unity of faith ... no longer be children ... carried around by every wind of the teaching, cunning men, to the scheming of leading astray ... speak truth in love wo we may increase in him all things who is the head - the Messiah. V 25 For this reason, putting away the lying, each speak truth with his neighbor .. v 28 who ever is stealing, let him no longer steal ... 
 
-## Outline of Scripture
 ### Followers of Yah and Members of Light
-	- Become, then, //see prologue above//
-		- followers of God, 
-			- as children beloved,
-			- and walk in love, 
-				- as also the Christ did love us, 
-				- and did give himself for us, 
-					- an offering 
-					- and a sacrifice 
-						- to God 
-							- for an odour of a sweet smell,
-			- as becometh saints
-				- -- but rather 
-					- thanksgiving;
-			- and now //you are// light in the Lord; 
-				- as children of light walk ye,
-				- for the fruit of the Spirit //light see DSC below)// [is] 
-					- in all goodness, 
+- Become, then, <mark style="background: #4DA6EDA6;">//see prologue above//</mark>
+	- followers of God, 
+		- as children beloved,
+		- and walk in love, 
+			- as also the Christ did love us, 
+			- and did give himself for us, 
+				- an offering 
+				- and a sacrifice 
+					- to God 
+						- for an odour of a sweet smell,
+		- as becometh saints
+			- -- but rather thanksgiving;
+		- and now <mark style="background: #4DA6EDA6;">//you are//</mark> light in the Lord; 
+			- as children of light walk ye,
+				- for the fruit of the Spirit <mark style="background: #4DA6EDA6;">//light see DSC below)//</mark> [is] 
+					- in all goodness,
 					- and righteousness, 
 					- and truth,
 					- proving what is well-pleasing to the Lord,
 					- and have no fellowship 
 						- with the unfruitful works of the darkness 
-							- and rather even convict //ἐλέγχω (elenchō)//
-							- and all the things reproved //ἐλέγχω (elenchō)// by the light 
+							- and rather even convict <mark style="background: #4DA6EDA6;">//ἐλέγχω (elenchō)//</mark>
+							- and all the things reproved <mark style="background: #4DA6EDA6;">//ἐλέγχω (elenchō)//</mark> by the light 
 								- are manifested, 
 								- for everything that is manifested is light;
-								- wherefore he //the Lord// saith, 
+								- wherefore he <mark style="background: #4DA6EDA6;">//the Lord//</mark> saith, 
 									- `Arouse thyself, 
 										- thou who art sleeping, 
 										- and arise out of the dead, 
@@ -184,44 +220,7 @@ New Testament Papyrus 49 (http://www.earlynewtestament.com/papyrus49.htm)
 [1] The manuscript matches the critical text.
 
 
-# My Proposed Outline:
-## Notes
-
-- There are two main ideas
-	 - Become Followers of God and be members of the Light
-	 - Do not be members of the darkness
-- There are Characteristics of each listed
-	 - Members of the Light
-		 - goodness
-		 - righteousness
-		 - truth
-		 - proving what is well-pleasing to the Lord
-		 - No fellowship with unfruitful works of the darkness
-		 - Reprove unfruitful works of the darkness
-	 - Members of the darkness
-		 - whoredom, 
-		 - all uncleanness, 
-		 - covetousness
-		 - filthiness, 
-		 - and foolish talking, or jesting, 
-		 - an idolater
-- Reprove unfruitful works of the darkness by:
-	 - Walk as wise
-	 - Redeeming the time
-	 - Do not be drunk with wine but be filled with the Spirit/Light
-		 - speaking to YOURSELVES in YOUR heart to the Lord
-			 - psalms
-			 - hymns
-			 - spiritual songs
-			 - singing
-			 - making melody
-		 - Giving thanks always
-		 - Subjecting yourselves for reproving the unfruitful works of the darkness
-			 - One to one another
-			 - Wives to their own husband
-	 - The Husbands in reproving the wives
-		 - love as Christ did the assembly
-		 - love as their own body
+# 
 
 
 # WEB Version
@@ -332,4 +331,3 @@ Nevertheless each of you must also love his own wife even as himself; and let th
 ***
 [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04\|← Ephesians 04]] | [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephesians\|Ephesians]] | [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-06\|Ephesians 06 →]]
 
-####  end
