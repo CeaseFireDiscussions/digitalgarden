@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/03-leviticus/lev-04/","tags":["#TheScrolls","#TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/03-leviticus/lev-04/","tags":["TheScrolls","TorahLawofMoses"]}
 ---
 
 
@@ -232,7 +232,7 @@ And if the whole company of Israel
 					as he hath burned the first bullock; 
 				it \[is\] a sin-offering of the assembly.
 				
-<mark style="background: #FFF3A3A6;">No Peace Offering [[Zunpublished/Fellowship Offering\|Fellowship Offering]] like when the Priest sinned</mark>
+##### No Peace Offering [[Zunpublished/Fellowship Offering\|Fellowship Offering]] like when the Priest sinned
 
 # Prince (Leader) Sin
 \`When a prince doth sin, translated as "leader," "ruler," or "prince" יֶחֱטָא (yecheta)
@@ -266,7 +266,7 @@ And if the whole company of Israel
 			because of his sin, 
 			and it hath been forgiven him.
 
-<mark style="background: #FFF3A3A6;">atonement is a made up word by Tyndale - at one ment - reconcillation, reintegration of relationships - making them one again. However, the weekness of this is that the priest does the kipper and then the forgivenss is done directly by God and that is what completes it - the atonement isn’t done until God has forgiven. The priest is not doing the whole of the reconcilation, he’s fulfilling a pre-requisite. He is removing an impediment to the devine - human relationship.</mark> 
+###### atonement is a made up word by Tyndale - at one ment - reconcillation, reintegration of relationships - making them one again. However, the weekness of this is that the priest does the kipper and then the forgivenss is done directly by God and that is what completes it - the atonement isn’t done until God has forgiven. The priest is not doing the whole of the reconcilation, he’s fulfilling a pre-requisite. He is removing an impediment to the devine - human relationship. 
 
 # Common people Sins
 
@@ -322,7 +322,7 @@ And if the whole company of Israel
 			for his sin which he hath sinned, 
 			and it hath been forgiven him.
 
-<mark style="background: #FFF3A3A6;">All the other’s bring a male, but the common person brings a female</mark>
+###### All the other’s bring a male, but the common person brings a female
 
 
 
