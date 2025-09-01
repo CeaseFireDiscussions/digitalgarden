@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/good-news/atonement/","tags":["#GateWisdom","#GoodNews"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/good-news/atonement/","tags":["#GateWisdom","GoodNews"]}
 ---
 
 # Define

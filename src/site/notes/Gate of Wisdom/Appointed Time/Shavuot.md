@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/shavuot/","tags":["#Shavuot","#Pentecost","#GateWisdom","#Torah","#passover","#FirstFruits","#Leviticus","#Exodus23","#Leviticus23","#Deuteronomy16","#Numbers28","#Seven","#AppointedTime"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/shavuot/","tags":["#Shavuot","#Pentecost","GateWisdom","#Torah","#passover","#FirstFruits","#Leviticus","#Exodus23","#Leviticus23","#Deuteronomy16","#Numbers28","#Seven","#AppointedTime"]}
 ---
 
 
