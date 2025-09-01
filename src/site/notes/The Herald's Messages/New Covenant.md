@@ -3,7 +3,7 @@
 ---
 
 [[Zunpublished/Jeremiah 31\|Jeremiah 31]]
-[[The Scrolls/4. The Gospels and The Apostles/Matthew 5\|Matthew 5]]
+[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 
 # What is the New Covenant?
 

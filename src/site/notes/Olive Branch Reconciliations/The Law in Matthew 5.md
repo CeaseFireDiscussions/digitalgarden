@@ -3,8 +3,8 @@
 ---
 
 
-
-[[The Scrolls/4. The Gospels and The Apostles/Matthew 5\|Matthew 5]]:17 Think not that I came to destroy the **_law_** or the prophets: I came not to destroy, but to fulfil. **18** For verily I say unto you, Till heaven and earth pass away, one jot or one tittle shall in no wise pass away from the **_law_**, till all things be accomplished. **19** Whosoever therefore shall break one of these least commandments, and shall teach men so, shall be called least in the kingdom of heaven: but whosoever shall do and teach them, he shall be called great in the kingdom of heaven. **20** For I say unto you, that except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no wise enter into the kingdom of heaven. 
+[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v17\|Matt-05:17]][[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v18\|Matt-05#v18]][[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v19\|Matt-05#v19]][[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v20\|-20]]
+17 Think not that I came to destroy the **_law_** or the prophets: I came not to destroy, but to fulfil. **18** For verily I say unto you, Till heaven and earth pass away, one jot or one tittle shall in no wise pass away from the **_law_**, till all things be accomplished. **19** Whosoever therefore shall break one of these least commandments, and shall teach men so, shall be called least in the kingdom of heaven: but whosoever shall do and teach them, he shall be called great in the kingdom of heaven. **20** For I say unto you, that except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no wise enter into the kingdom of heaven. 
 
 - **Defining**: destroy the law; pass away from the law
     - Greek Word: νόμος (nomos)
@@ -32,7 +32,7 @@
 - **Why**: Personal thoughts ... what follows could have been misunderstood as statements which are meant to cancel or nullify the current "Law of God," or "Law of Moses" and Jesus wants to make it perfectly clear this is not the case.
 - **How**: NA
 
-[[The Scrolls/4. The Gospels and The Apostles/Matthew 5\|Matthew 5]]:40 And if any man would go to **law** with thee, and take away thy coat, let him have thy cloak also.
+[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v40\|Matt-05:40]] And if any man would go to **law** with thee, and take away thy coat, let him have thy cloak also.
 
 - **Define**: goes to law with
     - Greek Word: κριθῆναι (krithēnai)
