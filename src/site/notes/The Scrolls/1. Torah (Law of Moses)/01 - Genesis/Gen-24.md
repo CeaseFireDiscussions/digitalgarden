@@ -157,7 +157,7 @@ And it cometh to pass,
 				* and emptieth her pitcher into the drinking-trough, 
 				* and runneth again unto the well to draw, and draweth for all his camels.
 
-And the man :{//the servant//:(style="color:#d000d0ff"):}:, 
+And the man :{//the servant//, 
 	* wondering at her, 
 		* remaineth silent, 
 			* to know whether Jehovah hath made his way prosperous or not.
@@ -184,7 +184,7 @@ She saith also
 		* boweth, 
 		* and doth obeisance to Jehovah,
 
-To be outlined V27-67
+# To be outlined V27-67
 # WEB Version
 
 ###### v1 
