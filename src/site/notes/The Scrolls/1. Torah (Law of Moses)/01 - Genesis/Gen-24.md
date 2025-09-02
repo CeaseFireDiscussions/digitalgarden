@@ -157,26 +157,27 @@ And it cometh to pass,
 				* and emptieth her pitcher into the drinking-trough, 
 				* and runneth again unto the well to draw, and draweth for all his camels.
 
-And the man :{//the servant//, 
+And the man //the servant//, 
 	* wondering at her, 
 		* remaineth silent, 
 			* to know whether Jehovah hath made his way prosperous or not.
-	* \And it cometh to pass 
+	* \^And it cometh to pass 
 		* when the camels have finished drinking, 
 		* that the man taketh 
 			* a golden ring 
-				* (whose weight \is\] [[Gate of Wisdom/Bekah\|Bekah]]
+				* (whose weight is a [[Gate of Wisdom/Bekah\|Bekah]]
 			* and two bracelets for her hands 
-				* (whose weight \is\] [[Zunpublished/Ten\|Ten]] [[Gate of Wisdom/Bekah\|Bekah]]
-		* \^and saith, 
+			* (whose weight is [[Zunpublished/Ten\|Ten]] [[Gate of Wisdom/Bekah\|Bekah]] of gold
+		* and saith, 
 			* \`Whose daughter \[art\] thou? 
 				* declare to me, I pray thee, 
 				* is the house of thy father a place for us to lodge in?'
 			* And she saith unto him, 
 				* \`I \[am\] daughter of Bethuel, 
-					* son of Milcah, whom she hath borne to Nahor.'
+				* son of Milcah, 
+					* whom she hath borne to Nahor.'
 
-She saith also 
+* She saith also 
 	* unto him, 
 		* \`Both straw and provender \[are\] abundant with us, 
 		* also a place to lodge in.'
