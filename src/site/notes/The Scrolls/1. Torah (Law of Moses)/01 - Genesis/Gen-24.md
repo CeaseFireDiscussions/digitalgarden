@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-24/","tags":["#TheScrolls","#TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-24/","tags":["TheScrolls","#TorahLawofMoses"]}
 ---
 
 
@@ -19,22 +19,22 @@ Connections
 ## [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]
 
 24 And Abraham 
-	* \[is\] old, 
-	* he hath entered into days, 
-	* and Jehovah hath 
-		* blessed Abraham 
-			* in all \[things\];
-	* and Abraham saith 
-		* unto his servant, 
-			* the eldest of his house, 
-			* who is ruling over all that he hath, 
-			* \`Put, I pray thee, thy hand under my thigh,
-			* and I cause thee to swear 
-				* by Jehovah, 
-					* God of the heavens, 
-					* and God of the earth, 
+* \[is\] old, 
+* he hath entered into days, 
+* and Jehovah hath 
+	* blessed Abraham 
+		* in all \[things\];
+* and Abraham saith 
+	* unto his servant, 
+		* the eldest of his house, 
+		* who is ruling over all that he hath, 
+		* \`Put, I pray thee, thy hand under my thigh,
+		* and I cause thee to swear 
+			* by Jehovah, 
+				* God of the heavens, 
+				* and God of the earth, 
 			* that thou dost not take a wife 
-				* for my son [[Zunpublished/Isaac\|Isaac]]
+				* for my son //[[Zunpublished/Isaac\|Isaac]]//
 				* from the daughters 
 					* of the Canaanite, 
 						* in the midst of whom I am dwelling;
@@ -43,15 +43,16 @@ Connections
 				* and unto my kindred 
 				* dost thou go, 
 
+
 ## The Servant
 
 And the servant saith 
-	* unto him :{//[[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]//:(style="color:#d000d0ff"):}:, \`
-		* It may be the woman is not willing to come after me 
-			* unto this land; 
-			* do I at all cause thy son :{//[[Zunpublished/Isaac\|Isaac]]//:(style="color:#d000d0ff"):}: 
-				* to turn back unto the land 
-					* from whence thou camest out?'
+* unto him :{//Abraham//:(style="color:#d000d0ff"):}:, \`
+	* It may be the woman is not willing to come after me 
+		* unto this land; 
+		* do I at all cause thy son :{//Isaac//:(style="color:#d000d0ff"):}: 
+			* to turn back unto the land 
+				* from whence thou camest out?'
 			* And Abraham saith unto him, 
 				* \`Take heed to thyself, 
 					* lest thou cause my son to turn back thither;
@@ -62,17 +63,17 @@ And the servant saith
 							* and from the land of my birth, 
 						* and who hath spoken to me, 
 						* and who hath sworn to me, saying, 
-							* To thy [Seed]
-							* I :{//God//:(style="color:#d000d0ff"):}: give this land, 
+							* To thy [[Zunpublished/Seed\|Seed]] 
+								* I :{//God//:(style="color:#d000d0ff"):}: give this land, 
 						* He doth send 
 							* His messenger 
-							* before thee, 
+								* before thee, 
 								* and thou hast taken a wife 
 									* for my son from thence;
 									* and if the woman be not willing to come after thee, 
 										* then thou hast been acquitted 
 											* from this mine oath: 
-				* only my son thou dost not cause to turn back thither.'
+						* only my son thou dost not cause to turn back thither.'
 * And the servant putteth his hand under the thigh 
 	* of Abraham 
 		* his lord, 
@@ -164,9 +165,9 @@ And the man :{//the servant//:(style="color:#d000d0ff"):}:,
 		* when the camels have finished drinking, 
 		* that the man taketh 
 			* a golden ring 
-				* (whose weight \is\] [[Zunpublished/Bekah\|Bekah]]
+				* (whose weight \is\] [[Gate of Wisdom/Bekah\|Bekah]]
 			* and two bracelets for her hands 
-				* (whose weight \is\] [[Zunpublished/Ten\|Ten]] [[Zunpublished/Bekah\|Bekah]]
+				* (whose weight \is\] [[Zunpublished/Ten\|Ten]] [[Gate of Wisdom/Bekah\|Bekah]]
 		* \^and saith, 
 			* \`Whose daughter \[art\] thou? 
 				* declare to me, I pray thee, 
