@@ -17,7 +17,7 @@
 - Service to Yah is not considered work or bondage: Exodus 3:12
 
 
-
+[[Gen-51#v1\|Gen-51:1]][[Gen-51#v2\|Gen-51#v2]][[Gen-51#v3\|Gen-51#v3]][[Gen-51#v4\|Gen-51#v4]][[Gen-51#v5\|-5]]
 
 
 

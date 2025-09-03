@@ -51,9 +51,21 @@ In these Ceasefire moments it's just like a potluck banquet, you never know what
 
 Behind the Gate of Wisdom you'll find general information about various topics. Think Wiki pages.  A variety of Source and Resource listings. Definitions, background information, indexes, etc. 
 
-# The Scrolls Section
+# The Scrolls Section 
 
 The Scrolls are originally in the World English Bible (WEB) because it is a public domain Bible. However, we do study and edit the text so it may be altered and is no longer considered the WEB Bible per their Copyright request. When changes are made, they will be obvious, highlighted, or noted.
+
+## The Scrolls Archaeology
+
+In this area you will find:
+1. My study notes. Digging into the related historical, cultural, and geographical contexts to better understand the events, people, and settings described in the text. 
+2. Chapter in "outline" format. The text will usually be in the Youngs Literal Translation (YLT) because it is public domain. This helps see the logical flow of ideas, breaks the chapter into manageable sections, reveals often overlook ideas, and groups related texts..
+
+
+
+
+
+
 
 # Like and Follow:
 
