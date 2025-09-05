@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/yada-yada-colossians/","tags":["#Colossians","#YadaYadaPauses","#Writer/Paul","#Paul","#Timothy","#NewCovenant","#Sabbath","#passover","#TheWay","#Deuteronomy10","#Jeremiah4","#Leviticus16","#KingdomofGod","#Righteousness","#Genesis1","#Exodus6","#Psalm89","#Firstborn","#HolySpirt","#Ruach"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/yada-yada-colossians/","tags":["#YadaYadaPauses"]}
 ---
 
-
+[[The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Colossians\|Colossians]]
 ## Backdrop:
 
 - The events in [[The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Colossians\|Colossians]] take place approximately 20-30 years after Jesus' ascension.
@@ -21,7 +21,7 @@
 
 ## People
 
-- **[[Gate of Wisdom/Paul\|Paul]], author**
+- **[[Zunpublished/Paul\|Paul]], author**
     - apostle of Messiah Yeshua/Jesus
     - minister of the good news proclaimed in all creation under heaven
         - according to the stewardship from God to declare his message in full

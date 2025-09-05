@@ -1,0 +1,450 @@
+---
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/sabbath/","tags":["#GateWisdom","#AppointedTime"]}
+---
+
+# Who Observes?
+
+- Genesis 2 :2-3
+	- Yah
+- Exodus 16 :21-30
+	- TO Adonai
+	- entire community of Israel who were brought out of Egypt Exodus 12  
+		- descendants of Jacob Israel
+		- A mixed multitude Exodus 12:38
+		- All the armies of Adonai Exodus 12:41
+- Exodus 20 :10
+	- TO adonai your God
+	- you //descendants of Jacob - Israel// Exodus 1 
+	- your son
+	- your daughter
+	- your male servant
+	- your female servant
+	- your cattle
+	- the outsider within your gates
+- Exodus 23 :12
+	- your  //descendants of Jacob - Israel// ox
+	- your donkey
+	- son of your handmaid
+	- the outsider
+- Exodus 34 :21
+	- Moses
+	- all the people 
+	- descendants of Jacob Israel
+	- A mixed multitude Exodus 12:38
+	- All the armies of Adonai Exodus 12:41
+- Leviticus 25 :1-7 (Sabbath Year)
+	- the land
+	- you
+	- descendants of Jacob Israel
+	- A mixed multitude Exodus 12:38
+	- All the armies of Adonai Exodus 12:41
+- Leviticus 26 :2
+	 - Israelites
+	- descendants of Jacob Israel
+	- A mixed multitude Exodus 12:38
+	- All the armies of Adonai Exodus 12:41
+- Deuteronomy 5 :12-15
+	- TO Adonai your God
+	- you  //descendants of Jacob - Israel//
+	- your son
+	- your daughter
+	- your slave
+	- your maid
+	- your ox
+	- your donkey
+	- your livestock
+	- the outsider within your gates
+- Isaiah 56 
+	- son of a foreigner who has joined himself to Adonai
+	- Eunuch
+	- a foreigner
+- Isaiah 58 :13-14
+	- My //YHWH// people
+	- the house of Jacob
+- Jeremiah 17 
+	- children of the people
+	- all the gates of Jerusalem
+	- kings of Judah
+	- all Judah
+	- all inhabitants of Jerusalem who enter through the gates
+- Ezekiel 20 :12-26
+	- House of Israel
+- Luke 4 :16
+	- Jesus, as was his custom
+- Acts 17 , Acts 18 :1
+	- Paul
+	- Paul’s companions
+# What is it for?
+
+- Exodus 31 :12-18
+	- A sign between me //YHWH// and you //community of Israel//
+		- throughout your generations
+		- may know that I am Adonai who sactifies you
+	- It is holy
+	- Perpetual covenant
+	- A sign between me  //YHWH// and you //community of Israel//
+		- for in six days Adonai made heaven and earth, and on the seventh day he ceased from work and rested.
+	#### Community of Israel (Exodus 12): descendants of Jacob/Israel;  A mixed multitude Exodus 12:38;  All the armies of Adonai
+- Exodus 34 :21
+	- The people you live among will see how awesome the work of the Lord is
+- Leviticus 26 :2
+	 - Rewards for Obedience
+		- rain in it’s season
+		- ground will yield crops
+		- trees yield fruit
+		- eat all the food you want
+		- live in safety in your land
+		- peace in the land
+		- no one will make you afraid
+		- remove wild beasts from the land
+		- sword will not pass through
+		- enemies will fall by the sword
+		- increase numbers
+		- dwelling place of God among you
+		- will walk among you
+		- God will not abhor 
+- Deuteronomy 5 :12-15
+	- So your //descendants of Jacob - Israel// slave and maid may rest as you do
+	- remember you were a slave in Egypt and Adonai brought you out
+- Isaiah 56 
+	- to the eunuchs who keep Sabbath
+		- give them my //YHWH// House
+		- within my walls a memorial and a name
+			- everlasting name that will not be cut off
+		- better sons and daughters
+	- to the Foreigners
+		- I will bring to my //YHWH// holy mountain
+		- let them rejoice in my house of prayer
+		- offerings and sacrifices will be acceptable at my altar
+		- My house will be called a house of prayer for all nations
+- Isaiah 58 :13-14
+	- I will let you ride over the heights of the earth
+	- feed you with the heritage of your father Jacob
+- Jeremiah 17  - Jerusalem gates
+	- carry no burdens the city will be inhabited forever
+	- carry burdens the gates will be set on fire and will consume the citadels of Jerusaelm and not be quenched.
+- Ezekiel 20 :12-26
+	- sign between me //YHWH// and them //House of Israel// that they would know that I am Adonai who made them holy
+	- sign between me //YHWH// and you //House of Israel// that you may know that I am Adonai your God.
+- Mark 2 :23-27
+	- made for man, not man for it
+
+# What to do?
+- Genesis 2 :1-3
+	- cease from work
+	- rest
+- Exodus 16 :21-30
+	- Rest
+	- eat
+- Exodus 20 :8
+	- keep it holy
+- Exodus 23 :12
+	- rest
+	- be refreshed
+- Exodus 34 :21
+	- rest
+		- even during plowing season and harvest
+- Exodus 31 :12-18
+	- complete rest
+- Exodus 35 :2
+	- holy day
+	- complete rest
+- Leviticus 19 :2
+	- keep my //Adonai// Shabbatot
+- Leviticus 23 :
+	- solemn rest
+	- holy convocation
+- Leviticus 24 :5-9
+	- set the cakes in order in the tabernacle //Aaron and his sons//
+	- eat the previous weeks cakes //Aaron and his sons//
+		- perpetual statue
+- Leviticus 25 :1-7 (Sabbath Year)
+	- land rests
+	- sow fields for six years
+	- prune vineyards and gather crops for six years
+	- whatever the land yields during the sabbath year will be food for you
+		- yourself
+		- your male servant
+		- your female servant
+		- the hired worker
+		- temporary resident who lives among you
+		- livestock
+		- wild animals
+	- whatever the land produces may be eaten
+- Leviticus 26 :2
+	 - observe SabbathS
+	- reverence sanctuary
+- Numbers 28 
+	- present burnt, grain, and drink offering - no earthly tabernacle/temple
+- Deuteronomy 5 :12-15
+	- rest
+- Isaiah 58 :13-14
+	- call Sabbtath a delight
+	- call it honorable
+- Isaiah 66 :23
+	- All flesh will come to bow down to Yah
+- Jeremiah 17 
+	- keep it holy
+	- sanctify it
+- Ezekiel 20 :12-26
+	- keep it holy
+- Ezekiel 44 
+	- the priests
+- Ezekiel 46 :
+	- Gate will open for worship - - no earthly tabernacle/temple
+	- burnt, grain, and fellowship offerings - no earthly tabernacle/temple
+- 2 Chronicles 8
+	- Solomon - burnt offereings - no earthly tabernacle/temple
+- Matthew 12 ; Mark 2 :23-24; Mark 3 
+	- disciples plucked heads of grain and ate them
+	- Jesus healed on Sabbath
+	- Jesus said it was permitted to do good
+	- Jesus said it was permitted to save a life
+- Mark 1 
+	- Jesus taught in the synagogues
+	- Casted out unclean spirits
+- Mark 6 :2, Luke 4 :31
+	- Jesus taught in the synagogues
+- Luke 13 :10-16
+	- Jesus taught in the synagogue
+	- Healed a crippled woman 
+	- Synagogue leader
+		- untie ox, donkey and lead it to get water
+- Luke 14 :1-5
+	- Jesus ate at the house of a Pharisee
+	- Healed man with abnormal swelling in his body
+- John 5 
+	- Jesus healed
+	- Jewish leaders didn’t permit carrying mats but Jesus had told him to pick up his mat and walk
+	- Jesus said “My father is still working and I also am working.”
+		- The father raises dead and gives life
+- John 7 
+	- Jesus healed
+	- Judean leaders circumcized on the Sabbath
+	- Jesus said do not judge by appearance but judge righteously.
+- John 9 
+	- Jesus made mud to heal a man’s eyes
+- Acts 1
+	- They traveled on Shabbat
+- Acts 13 
+	- Paul and Barnabas taught in synagogues
+- Acts 15 :21
+	- Law of Moses taught in synagogues
+- Acts 16 
+	- Paul immersed/baptized on Sabbath
+- Acts 17 , Acts 18 :1
+	- Paul reasoned from the old testament
+# What not to do?
+
+- Genesis 2 :1-3
+	- work
+- Exodus 16 :21-30
+	- gather manna
+	- go out from his place (tent)
+- Exodus 20 :10
+	- work
+- Exodus 31 :12-18
+	- work
+		- whoever works - that soul will be cut off from the midst of his people
+		- whoever works will be put to death
+- Exodus 34 :21
+	- work
+	- harvest
+	- plow/till
+- Exodus 35 :2-3
+	- work
+	- burn fire inside dwelling
+- Leviticus 23 :3
+	- work
+	- Leviticus 25 :1-7 (Sabbath Year)
+	- the land rests
+	- sow your fields
+	- prune your vineyards
+	- reap what grows of itself
+	- harvest grapes on untended vines
+- Numbers 15 
+		- gather wood
+		- Unintententional sin - bring atonement
+		- defiant sin - cut off from his people
+- Deuteronomy 5 :14
+	- work
+		- whoever does any work will die
+	- do not kindle a fire in any of your dwellings
+- Isaiah 58 :13-14
+	- not doing your pleasure
+	- not going your own ways
+	- not seeking your own pleasure
+	- not speaking your usual speech
+- Jeremiah 17 :21-27
+	- Carry burden or bring it in through the gates of Jerusalem
+	- carry a burden out of your houses
+		 - (massa) means "load," "burden," or "merchandise" in this context. It refers to any sort of goods or items that one might carry or transport
+			- Etymology: Massa is derived from the root נ-ש-א (https://x.com/i/grok?text=%D7%A0-%D7%A9-%D7%90) (nun-shin-alef), which generally means "to lift, carry, or bear."
+			- Basic Meaning: Literally, it means "load," "burden," or "something carried."
+			- Biblical usage: Physical burden, Metaphorical burden, Prophetic oracles
+			- Could it be massa means in Jeremiah 17 the same as Jeremiah 23? But if you say, ‘The burden of Adonai,’” then surely Adonai says, “because you keep saying this word: ‘The burden [massa] of Adonai,’ when I sent this word to you, you are not to say ‘The burden of Adonai’—
+			- The same as in Numbers 11:10-15  You have laid the burden [et massa] of all this people on me?
+			- Isaiah 13 The massa (burden) of Bavel (Babylon),
+	- work
+- Ezekiel 22 
+	- profane it
+- Ezekiel 23 
+	- profane it
+- Amos 8 :
+	- sell grain
+	- open the wheat market  
+		- Sell (מָכַר (https://x.com/i/grok?text=%D7%9E%D6%B8%D7%9B%D6%B7%D7%A8), makar): This verb means "to sell." 
+		- Market or more specifically "trading" or "selling" (מִמְכָּר, mimkar): This word is derived from the same root as "makar" and means "something sold" or "merchandise." However, in Amos 8:5, it's used in a form that suggests the act of selling or the place where selling occurs:
+- Nehemiah 10 
+	- not to buy merchandise or grain
+		- Merchandise (מַשָּׂא, massa): This word generally means "a load" or "burden" but in this context, it refers to "merchandise" or goods that are carried or traded.
+		- Sell (מָכַר, makar): This verb means "to sell." It's in the Hiphil stem in this verse, indicating causation, so it's actively selling or causing to be sold.
+		- Buy (קָנָה, qanah): This verb means "to buy" or "to acquire." In the context of Nehemiah 10:31, it's used in the sense of purchasing goods.
+- Nehemiah 13 
+	- shut the gates to keep merchants out
+- Matthew 12 ; Mark 2 :23-24; Luke 6 
+	- Pharisees said not permitted for Jesus’s disciples to pluck heads of grain and eat them
+	- Jesus said the Son of Man is Lord of Shabbat.
+- Matthew 24 :20
+	- Jesus said to pray “your escape will not happen in winter or on Shabbat.
+- John 5 
+	- Jewish leaders didn’t permit carrying mats but Jesus had told him to pick up his mat and walk
+- Colossians 2  Paul:
+	- Don’t let people judge you in respect to festivals, new moons, or Shabbat
+	- Don’t give in to man-made commands and teachings
+
+# SHABBAT FORGOTTEN OR MAN’S SHABBAT DESTROYED:
+- Hosea 2 :11 - The Lord would stop all the celebreations - Sabbaths because they had turned their back on Him.
+	- Isaiah 1 :14; Amos 5:21
+		- The vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz, and Hezekia, kings of Judah
+		- Israel had turned against YHWH/God. He did not want meaningless offereings, he detested them, could not bear the New Moons and Sabbaths and convocations.
+	- Amos 8:10
+		- They people couldn’t wait for the Sabbath to be over so they could sell their wheat.
+		- The Lord said he would turn their religious festivals into mourning.
+- Lamentations 2 :6 - The Lord is agnry over Israel turning their back on Him.
+	- Zephaniah 3:18 - those who mourn because they can not celebrate the Sabbaths/feasts in excile will be gathered and rescued
+- Nehemiah 9 
+	- They read the Torah then confessed and prostatrated themselves before Adonai their God. Then the Levites cried out and recounted historic events
+		- YHWH/God made a covenant with Abraham gave him the lands
+		- YHWH/God heard the affliction of those in Egype - gave signs and wonders against Pharoah, led them out of Egypt
+		- YHWH/God descended on Mt Sinai, gave just judgements, reliable laws, and good statues and mitzvot. Made known your holy Shabbat and ordained fro them mitzvot, statues, and Torah by the and of your Servant Moses. Gave them bread from heaven, water from a rock, told them to go in and posses the land you had promised them.
+		- They became arrogant, did not obey your mitzvot and did not remember your wonders. Appointed a leader to return to their bondage. Made a calf and commited great blasphemies.
+		- YHWH/God did not abandon them, guided them. Gave them your good Ruach/Holy Spirit to teach them. Did not withhold manna, gave water for their thirst. Sustained them for 40 years, they lacked nothing, their garments did not wear out, their feet did not swell. You gave them their land. 
+		- They became contentious and rebelled against you. Cast your Torah behind their backs. Killed your prophets, committed appalling blasphemies. 
+		- YHWH/God delivered them into the hand of their enemies who oppressed them. They cried out to you and you heard from heaven. You gave them deliverers who rescued them.
+		- As soon as they were at rest, they returned to doing evil. 
+		- YHWH/God abandoned them into the hand of their enemies who ruled over them. 
+		- They repented and cried out to you.
+		- YHWH/God heard and delivered them many times. You warned them in order to turn them back to Your Torah, your mitzvot
+		- They became insolent and disobeyed Your mitzvot, sinned against your ordiances - those by which if man does them he will live. They did not listen.
+		- YHWH/God bore with them for many years and admonished them by your Ruach/Holy Spirit, you handed them over to the peoples of the land, nevertheless, you did not put an end to them or abandom them.
+		- Our ancestors have not kept your Torah or paid attention to your mitzvot or your testimonies
+		- But see, we are slaves, we are in great distress. because of this we are making a binding agreement to (10:29) walk in the Torah of God given to Moses, to keep and do all the mitzvot, along with His ordiances and His statues. We will not buy grain on Shabbath or a holy day. 
+
+# Other
+- Matthew 28 ; Mark 16 , Luke 24 , John 20 
+	- After Shabbat
+	- as it began to dawn on the first day of the week - Miriam and Miriam found the tomb empty
+- Mark 15 :42, Luke 23 :54-Luke 24 :1, John 19 
+	- day before the Sabbath (Passover)
+	- next day was a special Sabbath
+- Hebrews 4 
+	- make every effort to enter that rest to not fall through the same pattern of disobedience
+- Isaiah 66:22-24 ([[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v22\|Isa-66:22]][[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v23\|Isa-66#v23]][[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v24\|-24]])
+	- New Moon and Shabbats will be celebrated by all flesh in the new kingdom.
+
+# Notes
+Shabbat is a holiday. The day of the week is Yom HaShevi'i.
+
+לשבות – to stop working, to strike – Hebrew conjugation tables (https://www.pealim.com/dict/2139-lishbot/)
+
+0-1 (https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/)
+
+The Sabbath was the only thing created after Man. Sabbath was made for man.
+
+# List of Scriptures:
+
+- Genesis 2 :2–3
+- Exodus 16 :23–30
+- Exodus 20 :8–11
+- Exodus 23 :12
+- Exodus 31 :13–17
+- Exodus 34 :21
+- Exodus 35 :1–3
+	- 40:2 FIRST DAY
+- Leviticus 19 :3, 30
+- Leviticus 23 :3–39
+- Leviticus 24 :5-9
+- Leviticus 25 :2–8
+- Leviticus  26:2, 34–43
+- Numbers 15 :32
+- Numbers 28 :25
+- Deuteronomy
+	- 5:12–15
+	- 2 Kings
+	- 16:16-18
+- Nehemiah
+	- 9:14
+	- 10:31–33
+	- 13:15–22
+- Isaiah
+	- 1:13
+	- 56:2–6
+	- 58:13
+	- 66:23
+- Jeremiah
+	- 17:21-27
+- Lamentations
+	- 2:6
+- Ezekiel
+	- 20:12–24
+	- 22:8, 26
+	- 23:38
+	- 44:24
+	- 46:1-12
+- Hosea
+	- 2:11;
+- Matthew
+	- 12:1–12
+	- 24:20
+	- 28:1
+- Mark
+	- 1:21
+	- 2:23–28
+	- 3:2–4
+	- 6:2
+	- 15:42
+	- 16:1, 9
+- Luke
+	- 4:16, 31
+	- 6:1–9
+	- 13:10–16
+	- 14:1–5
+	- 23:54–24:1
+- John
+	- 5:9–18
+	- 7:22–23
+	- 9:14–16
+	- 19:31
+	- 20:1, 19
+- Acts
+	- 2:1, 11, 46
+	- 5:12
+	- 12:12
+	- 13:14, 27–44
+	- 14:27
+	- 15:21, 30
+	- 16:13
+	- 17:2
+	- 18:4
+	- 20:7
+- 1 Corinthians
+	- 11:34
+	- 16:2
+- Colossians
+	- 2:16
+- Hebrews
+	- 4:4–9
+	- 10:25
+- Revelation
+	- 1:10

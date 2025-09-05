@@ -10,7 +10,7 @@
 # Related words
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 - [[Zunpublished/Guilt Offering\|Guilt Offering]] or [[Zunpublished/Repartition Offering\|Repartition Offering]]
-- [[Zunpublished/Fellowship Offering\|Fellowship Offering]] or Peace Offering
+- [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]] or Peace Offering
 - [[Zunpublished/Sin Offering\|Sin Offering]] or [[Zunpublished/Repartition Offering\|Repartition Offering]]
 
 # Additional Info

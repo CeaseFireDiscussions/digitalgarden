@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/yada-yada-isaiah-1/","tags":["#Isaiah","#YadaYadaPauses","#Isaiah1","#Writer/Isaiah","#Judgment"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/yada-yada-isaiah-1/","tags":["#Isaiah","#YadaYadaPauses"]}
 ---
 
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-01\|Isa-01]]
 ## Observations and Notes
 
 - Judah represents the people in the [[House of Judah\|House of Judah]]. Jerusalem represents the leaders, the elite, the religious leaders. Israel - descendants of those brought out of Egypt

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/sermon-on-the-mount/","tags":["#GateWisdom","#Matthew7","#Matthew5"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/sermon-on-the-mount/","tags":["#GateWisdom"]}
 ---
 
 # Define

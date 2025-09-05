@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/yom-kippur/","tags":["#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/yom-kippur/","tags":["#GateWisdom","#AppointedTime"]}
 ---
 
 # Define
@@ -10,6 +10,8 @@
 - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
 
 # Additional Info
+
+
 
 
 # Connections

@@ -1,20 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/good-news/atonement/","tags":["#GateWisdom","GoodNews"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/good-news/atonement/","tags":["#GateWisdom","#GoodNews"]}
 ---
 
-# Define
-- Kipper
-
-# Related words
-- Ransom
-
-# Additional Info
-
-
-# Connections
-
-
-- 
-
-###### Tags
+See [[Gate of Wisdom/Good News/Atonement\|Atonement]], [[Gate of Wisdom/Ransom\|Ransom]]
 - 

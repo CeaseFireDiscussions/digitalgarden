@@ -168,7 +168,7 @@ If the priest
 					which [is] on the flanks, 
 				and the redundance above the liver, 
 					(beside the kidneys he doth turn it aside),
-				as it is lifted up from the ox of the sacrifice of the [[Zunpublished/Fellowship Offering\|Fellowship Offering]]; 
+				as it is lifted up from the ox of the sacrifice of the [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]; 
 				and the priest hath made them a perfume 
 					on the altar of the burnt-offering. //Bronze Altar [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]//
 		`And the skin of the bullock, 
@@ -232,7 +232,7 @@ And if the whole company of Israel
 					as he hath burned the first bullock; 
 				it \[is\] a sin-offering of the assembly.
 				
-#### No Peace Offering [[Zunpublished/Fellowship Offering\|Fellowship Offering]] like when the Priest sinned
+#### No Peace Offering [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]] like when the Priest sinned
 
 # Prince (Leader) Sin
 \`When a prince doth sin, translated as "leader," "ruler," or "prince" יֶחֱטָא (yecheta)

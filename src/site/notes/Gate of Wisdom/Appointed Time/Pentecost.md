@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/pentecost/","tags":["#GateWisdom","#Torah","#AppointedTime"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/pentecost/","tags":["#GateWisdom","#AppointedTime"]}
 ---
 
 # Define
@@ -33,7 +33,7 @@ The connection is implicit: just as Shavuot celebrated the covenant through the 
 - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
 - [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
 - [[Gate of Wisdom/Holy Spirit\|Holy Spirit]]
-- [[Gate of Wisdom/Ruach\|Ruach]]
+- [[Gate of Wisdom/Ruach/Ruach\|Ruach]]
 - [[Zunpublished/Tongues\|Tongues]]
 - 
 - 

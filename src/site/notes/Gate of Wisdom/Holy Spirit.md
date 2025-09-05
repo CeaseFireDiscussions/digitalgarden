@@ -6,7 +6,7 @@
 - 
 
 # Related words
-- [[Gate of Wisdom/Ruach\|Ruach]]
+- [[Gate of Wisdom/Ruach/Ruach\|Ruach]]
 - 
 
 # Additional Info
