@@ -25,9 +25,9 @@ The connection is implicit: just as Shavuot celebrated the covenant through the 
 
 # Connected Notes
 
-[[Sacred Truces/Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths\|Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths]]
+[[Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths\|Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths]]
 [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
-[[Olive Branch Reconciliations/Scripture Survey Shavuot aka Pentecost\|Scripture Survey Shavuot aka Pentecost]]
+[[Scripture Survey Shavuot aka Pentecost\|Scripture Survey Shavuot aka Pentecost]]
 
 ###### Tags
 - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]

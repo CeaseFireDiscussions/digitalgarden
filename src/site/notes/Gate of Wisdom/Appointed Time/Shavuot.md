@@ -19,11 +19,11 @@ Ancient manuscripts, such as the Dead Sea Scrolls (e.g., [the Temple Scroll, 11Q
 
 [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]], from the Greek word pentekoste ("fiftieth"), is the Greek name for Shavuot in the New Testament and Hellenistic Jewish texts (e.g., Philo and Josephus).
 
-[[Olive Branch Reconciliations/Scripture Survey Shavuot aka Pentecost\|Scripture Survey Shavuot aka Pentecost]]
+[[Scripture Survey Shavuot aka Pentecost\|Scripture Survey Shavuot aka Pentecost]]
 
 # Connections
 
-[[Sacred Truces/Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths\|Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths]]
+[[Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths\|Shavuot aka Pentecost - a Divergence of Jewish and Christian Faiths]]
 
 
 
