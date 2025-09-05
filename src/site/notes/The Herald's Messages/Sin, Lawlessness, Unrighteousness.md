@@ -4,7 +4,7 @@
 
 
 
-[[Zunpublished/Sin Offering\|Sin Offering]], [[Lawlessness\|Lawlessness]], [[Unrighteousness\|Unrighteousness]] is defined in the Old Testament. 
+[[Zunpublished/Sin Offering\|Sin Offering]], [[Zunpublished/Lawlessness\|Lawlessness]], [[Unrighteousness\|Unrighteousness]] is defined in the Old Testament. 
 
 The [[Law\|Law]], [[Torah\|Torah]], is found in the Old Testament because the New Testament didn't exist at the time of these writings.
 

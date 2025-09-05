@@ -325,7 +325,7 @@
 - [[Lord\|Lord]]
 - [[God\|God]] [[YHWH\|YHWH]] 
 - things
-- [[Jesus\|Jesus]]
+- [[Zunpublished/Jesus\|Jesus]]
 - [[saints\|saints]]
 - [[Zunpublished/Faith\|Faith]]
 - [[Zunpublished/Love\|Love]]
