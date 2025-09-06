@@ -170,7 +170,7 @@ The boys grew.
 	- Jacob said, 
 		- "Swear to me first." 
 			- He //Esau// swore to him //Jacob//. 
-			- He sold his birthright to Jacob. 
+			- **He sold his birthright to Jacob**. 
 	- Jacob gave Esau 
 		- bread 
 		- and lentil stew. 
@@ -179,12 +179,11 @@ The boys grew.
 		- and drank, 
 		- rose up, 
 		- and went his way. 
-		- So Esau despised his birthright.
+		- So Esau despised his birthright. [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-12#v16\|Heb-12:16]]
 
 #### Despised =  בָּזָה (pronounced "bazah") means "to despise," "to scorn," "to hold in contempt," or "to regard as worthless." 
-#### The birthright included the double portion of inheritance and, for Esau as the firstborn, the leadership role and covenant blessing
 
-
+#### It seems to me Jacob valued the birthright more than Esau - he didn't "deceive" Esau or "trick" him out of it. The deception and trickery came in Jacob working to deceive his father, Isaac. 
 
 
 

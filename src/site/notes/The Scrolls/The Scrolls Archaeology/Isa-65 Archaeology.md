@@ -149,7 +149,7 @@
  
 - The wolf and the lamb will feed together. 
 - The lion will eat straw like the ox. 
-- Dust will be the serpent's food. 
+- Dust will be the serpent's food. [[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Dan-12#v2\|Dan-12:2]]
 - They will not hurt nor destroy in all my holy mountain," says Yahweh.
 
 ***

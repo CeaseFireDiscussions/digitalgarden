@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/isa-66-archaeology/","tags":["TheScrolls","Archaeology"]}
+{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/isa-66-archaeology/","tags":["#TheScrolls","#Archaeology"]}
 ---
 
 
@@ -12,9 +12,9 @@
 - Yahweh says, 
 	- "Heaven is my throne, 
 	- and the earth is my footstool. 
-		- What kind of house will you build to me? Where will I rest? 
+		- What kind of house will you build to me? Where will I rest? [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v34\|Matt-05:34]][[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v35\|-35]]
 	- For my hand has made all these things, 
-		- and so all these things came to be," says Yahweh:
+		- and so all these things came to be," says Yahweh: [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v49\|Acts-07:49]][[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v50\|-50]]
 
 #### Yah will create a new heaven (throne) and new earth (footstool)
 
