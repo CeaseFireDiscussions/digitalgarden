@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/righteous/","tags":["#GateWisdom","RightStanding"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/righteous/","tags":["#GateWisdom","#RightStanding"]}
 ---
 
 # Define
+
+In right standing with Yah/God
 
 Meaning
 - reasonable, unbiased, being right, 

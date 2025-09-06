@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/offerings/","tags":["#GateWisdom","Offering"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/offerings/","tags":["#GateWisdom","#Offering"]}
 ---
 
 # Define
@@ -79,7 +79,7 @@ Acts 24 :17
 ### Grain Offering - Minchah (מִנְחָה)
 
 * Meaning: Originally a gift or tribute, it often refers to a grain or cereal offering, though sometimes used for offerings in general. It can also imply a non-blood sacrifice.
-* Context: Frequently paired with other offerings (e.g., Leviticus 2 (brain://v8N8pFNWylOV0OjWfdsNEA/Leviticus2):1–16).
+* Context: Frequently paired with other offerings (e.g., Leviticus 2:1–16).
 * Key Points:
 
 	* Made of fine flour, oil, and frankincense; could be baked, cooked, or raw.
@@ -145,5 +145,21 @@ Acts 24 :17
 * Example: [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-28#v7\|Num-28:7]] – “Its drink offering (nesek) shall be one-fourth of a hin.”
 
 
-###### Tags
-- 
+# Classes of Offerings
+
+[[Gate of Wisdom/Offering/Zevah\|Zevah]]
+- is a lower class of offering because it could be shared with the offerer
+- the worshipper OUTSIDE of the Tabernacle, the priests INSIDE the Tabernacle
+- Peace Offering or Fellowship Offering (Zevah  Shelamim) and the Thanksgiving offering (Zevah Todah)
+
+‘Olah   
+- only the priests were permitted to use or benefit from any part of the sacrificial offering. the priests could keep the animal skin
+
+Minchah  
+- only the priests were permitted to use or benefit from any part of the sacrificial offering. 
+- the priests could keep the bulk of the grain offering as their own personal food
+- they were required to eat that food within the courtyard of the Tabernacle, for it was considered a sacred meal.
+
+
+Kodesh Kodashim class……the MOST holy
+Kodesh Kallim class….or, the offerings of lesser sanctity
