@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/abomination/abomination-of-the-desolation/","tags":["#GateWisdom","#Abomination"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/abomination/abomination-of-the-desolation/","tags":["#GateWisdom","Abomination"]}
 ---
 
 # Define

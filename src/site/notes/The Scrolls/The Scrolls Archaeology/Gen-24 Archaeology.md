@@ -32,7 +32,7 @@
 				* God of the heavens, 
 				* and God of the earth, 
 			* that thou dost not take a wife 
-				* for my son //[[Zunpublished/Isaac\|Isaac]]//
+				* for my son //[[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]//
 				* from the daughters 
 					* of the Canaanite, 
 						* in the midst of whom I am dwelling;
@@ -125,7 +125,7 @@ And the servant
 
 And it cometh to pass, 
 * before he hath finished speaking, 
-* that lo, [[Zunpublished/Rebekah\|Rebekah]] 
+* that lo, [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]] 
 	* (who was born to [[Bethuel\|Bethuel]], 
 		* son of [[Milcah\|Milcah]], 
 		* wife of [[Nahor,\|Nahor,]] 
