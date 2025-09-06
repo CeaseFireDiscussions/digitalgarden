@@ -53,7 +53,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 - Follow after peace 
 	- with all men, 
 	- and the sanctification <mark style="background: #CD04BBA6;">//set apartness=Holy//</mark>
-		- without which no man will see the Lord, 
+		- without which <mark style="background: #4DA6EDA6;">no man</mark> will see the Lord, 
 - looking carefully 
 	- lest there be any man 
 		- who falls short 

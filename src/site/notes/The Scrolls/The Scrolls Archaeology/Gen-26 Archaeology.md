@@ -33,7 +33,7 @@
 						- and to your offspring, 
 							- all these lands, 
 					- and I will establish the oath 
-						- which I swore to [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]] your father. //[[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]]//
+						- which I swore to [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]] your father. //[[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]] Covenant//
 							- I will multiply your offspring 
 								- as the stars of the sky, 
 								- and will give all these lands 
@@ -78,7 +78,7 @@
 						 - Abimelech commanded all the people, saying, 
 							 - "He who touches this man or his wife will surely be put to death." 
 
-# Isaacic Covenant
+#  [[Gate of Wisdom/Covenant/Isaacic\|Isaacic]] Covenant
 
 - Isaac 
 	- sowed in that land, 
@@ -141,7 +141,7 @@
 			- and pitched his tent there. 
 		- There Isaac's servants dug a well. 
 
-# Abimelech Covenant
+# Abimelech Covenant with Isaac
 
 - Then Abimelech went 
 	- to him //Isaac// 
@@ -180,14 +180,14 @@
 			- 
 # Esau
 
-When Esau was forty years old, 
-	he took as wife Judith, 
-		the daughter of Beeri 
-			the Hittite, 
-	and Basemath, 
-		the daughter of Elon 
-			the Hittite. 
-	They <mark style="background: #CD04BBA6;">//Judith and Basemath//</mark> grieved Isaac's and Rebekah's spirits.
+- When Esau was forty years old, 
+	- he took as wife Judith, 
+		- the daughter of Beeri 
+			- the Hittite, 
+	- and Basemath, 
+		- the daughter of Elon 
+			- the Hittite. 
+	- They <mark style="background: #CD04BBA6;">//Judith and Basemath//</mark> grieved Isaac's and Rebekah's spirits.
 
 ***
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|← Genesis 25]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|Genesis 27 →]]

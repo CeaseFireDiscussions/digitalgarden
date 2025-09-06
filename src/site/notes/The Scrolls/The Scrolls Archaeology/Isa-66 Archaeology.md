@@ -9,12 +9,12 @@
 ***
 
 
-Yahweh says, 
-	"Heaven is my throne, 
-	and the earth is my footstool. 
-		What kind of house will you build to me? Where will I rest? 
-	For my hand has made all these things, 
-		and so all these things came to be," says Yahweh:
+- Yahweh says, 
+	- "Heaven is my throne, 
+	- and the earth is my footstool. 
+		- What kind of house will you build to me? Where will I rest? 
+	- For my hand has made all these things, 
+		- and so all these things came to be," says Yahweh:
 
 #### Yah will create a new heaven (throne) and new earth (footstool)
 
@@ -116,6 +116,9 @@ The sacrifice of the wicked is an abomination-- how much more, when he brings it
 	- all you who love her. 
 - Rejoice for joy with her, 
 	- all you who mourn over her; 
+
+
+### To be outlined later ...
 
 - ###### v11 
 - that you may nurse and be satisfied at the comforting breasts; that you may drink deeply, and be delighted with the abundance of her glory." 
