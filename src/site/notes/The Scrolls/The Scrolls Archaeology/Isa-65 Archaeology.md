@@ -12,7 +12,7 @@
 - "I <mark style="background: #CD04BBA6;">//Yah// </mark>am inquired of 
 	- by those who didn't ask. 
 - I am found by those 
-	- who didn't seek me. 
+	- who didn't seek me. [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-10#v20\|Rom-10:20]]
 - I said, 'See me, see me,' 
 	- to a nation 
 		- that was not called by my [[Gate of Wisdom/Name\|Name]]. 
@@ -20,14 +20,14 @@
 	- to a rebellious people, 
 		- who walk in a way 
 			- that is not good, 
-		- after their own thoughts; 
+		- after their own thoughts; [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-10#v21\|Rom-10:21]]
 	- a people who 
 		- provoke me to my face continually, 
 			- sacrificing in gardens, 
 			- and burning incense on bricks; 
 		- who sit among the graves, 
 			- and spend nights in secret places; 
-			- who eat pig's meat, 
+			- who eat pig's meat [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-07#v18\|Lev-07:18]], 
 			- and broth of abominable things is in their vessels; 
 		- who say, 'Stay by yourself, 
 			- don't come near to me, 
@@ -107,7 +107,7 @@
 
 - "For, behold, I create 
 	- new heavens 
-	- and a new earth; 
+	- and a new earth; [[The Scrolls/4. The Gospels and The Apostles/61 - 2 Peter/2 Pet-03#v13\|2 Pet-03:13]]; [[The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-21#v1\|Rev-21:1]]
 	- and the former things 
 		- will not be remembered, 
 		- nor come into mind. 
@@ -115,7 +115,7 @@
 		- in that which I create; 
 		- for, behold, I create Jerusalem 
 			- to be a delight, 
-			- and her people a joy. 
+			- and her people a joy.  [[Psalm-48#v2\|Psalm-48:2]]
 			- I will rejoice 
 				- in Jerusalem, 
 				- and delight in my people; 

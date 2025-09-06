@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/heb-12-archaeology/","tags":["#TheScrolls","#Archaeology"]}
+{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/heb-12-archaeology/","tags":["TheScrolls","Archaeology"]}
 ---
 
 

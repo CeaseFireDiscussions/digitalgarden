@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/keturah/","tags":["#GateWisdom","#Being","#HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/keturah/","tags":["#GateWisdom","Being","HumanBeing"]}
 ---
 
 Abraham's wife after Sarah died. Some text says concubine.

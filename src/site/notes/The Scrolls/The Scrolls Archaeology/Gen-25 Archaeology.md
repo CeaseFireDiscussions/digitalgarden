@@ -38,25 +38,25 @@
 	- but Abraham gave gifts 
 		- to the sons of Abraham's concubines. 
 		- While he still lived, 
-		- he sent them away 
-			- from [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] 
-				- his son, 
-			- eastward, 
-			- to the east country. <mark style="background: #CD04BBA6;">//into the Arabian Peninsula or adjacent territories//</mark>
+			- he sent them away 
+				- from [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] 
+					- his son, 
+				- eastward, 
+				- to the east country. <mark style="background: #CD04BBA6;">//into the Arabian Peninsula or adjacent territories//</mark>
 	 - These are the days of the years of Abraham's life which he lived: 
-		 - one hundred seventy-five years. 175 years
+		 - one hundred seventy-five years. 
 		 - Abraham gave up his spirit, 
 		 - and died at a good old age, 
 			 - an old man, and
 			 - full of years, 
 			 - and was gathered to his people. 
-		 - Isaac and Ishmael, 
+		 - Isaac and [[Ishmael\|Ishmael]], 
 			 - his sons, 
-			 - buried him in the cave of Machpelah, 
+			 - buried him in the cave of Machpelah, [[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs\|Cave of the Patriarchs]]
 				 - in the field of Ephron, 
 					 - the son of Zohar 
 						 - the Hittite, 
-				 - which is near Mamre, 
+				 - which is near [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre\|Mamre]], 
 				 - the field which Abraham purchased from 
 					 - the children of Heth. 
 			 - Abraham was buried there with Sarah, 
@@ -64,7 +64,7 @@
 		 - After the death of Abraham, 
 			 - God blessed Isaac, 
 				 - his son. 
-				 - Isaac lived by Beer Lahai Roi. 
+				 - Isaac lived by [[Gate of Wisdom/Dwelling Places/Realm of Humans/Beer Lahai Roi\|Beer Lahai Roi]]. 
 
 ## Ishmael
 - Now this is the history of the generations of Ishmael, 
@@ -131,10 +131,10 @@
 							- The first 
 								- came out red all over, 
 								- like a hairy garment. 
-								- They named him Esau. 
+								- They named him [[Esau\|Esau]]. 
 							- After that, his brother came out, 
 								- and his hand had hold on Esau's heel. 
-								- He was named Jacob. 
+								- He was named [[Jacob\|Jacob]]. 
 						- Isaac was sixty years old when she bore them. 
 The boys grew. 
 ## Esau
@@ -166,7 +166,7 @@ The boys grew.
 		- "First, sell me your birthright."  
 	- Esau said, 
 		- "Behold, I am about to die. 
-			- What good is the birthright to me?"
+			- What good is the [[Gate of Wisdom/Birthright\|Birthright]] to me?"
 	- Jacob said, 
 		- "Swear to me first." 
 			- He //Esau// swore to him //Jacob//. 
