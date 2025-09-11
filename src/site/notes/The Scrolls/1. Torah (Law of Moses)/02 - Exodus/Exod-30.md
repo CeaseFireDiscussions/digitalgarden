@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/02-exodus/exod-30/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/02-exodus/exod-30/","tags":["#TheScrolls","#TorahLawofMoses"]}
 ---
+
 
 
 # Exodus 30

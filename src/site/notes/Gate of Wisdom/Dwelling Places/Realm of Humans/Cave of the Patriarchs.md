@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/cave-of-the-patriarchs/","tags":["#GateWisdom","#RealmofHumans"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/cave-of-the-patriarchs/","tags":["#GateWisdom","RealmofHumans"]}
 ---
 
 # Define

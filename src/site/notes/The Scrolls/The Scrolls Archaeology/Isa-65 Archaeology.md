@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/isa-65-archaeology/","tags":["#TheScrolls","#Archaeology"]}
+{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/isa-65-archaeology/","tags":["TheScrolls","Archaeology"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/gen-25-archaeology/","tags":["#TheScrolls","#Archaeology"]}
+{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/gen-25-archaeology/","tags":["TheScrolls","Archaeology"]}
 ---
 
 
@@ -14,14 +14,14 @@
 
 - [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]] 
 	- took another wife, 
-		- and her name was Keturah. 
+		- and her name was [[Gate of Wisdom/Beings/Human Beings/Keturah\|Keturah]]. 
 			- She bore him 
 				- Zimran, 
 				- Jokshan, 
 					- Jokshan became the father of Sheba, and Dedan. The sons of Dedan were Asshurim, Letushim, and Leummim
-				- Medan, 
-					- The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah.
+				- Medan, 					- 
 				- Midian, 
+					- The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah.
 				- Ishbak, and 
 				- Shuah. 
 				- All these were the children of Keturah. 
