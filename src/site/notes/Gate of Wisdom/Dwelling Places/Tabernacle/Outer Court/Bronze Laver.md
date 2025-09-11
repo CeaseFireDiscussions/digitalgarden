@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/outer-court/bronze-laver/","tags":["#GateWisdom","Tabernacle","OuterCourt"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/outer-court/bronze-laver/","tags":["#GateWisdom","#Tabernacle","#OuterCourt"]}
 ---
 
 ![Bronze Laver.jpg](/img/user/Assets/attachments/Bronze%20Laver.jpg)
