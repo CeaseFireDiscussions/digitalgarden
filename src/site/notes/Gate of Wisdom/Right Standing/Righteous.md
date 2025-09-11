@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/righteous/","tags":["#GateWisdom","RightStanding"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/righteous/","tags":["#GateWisdom","#RightStanding"]}
 ---
 
 # Define
@@ -43,9 +43,9 @@ A closely related word is צְדָקָה (tsedaqah), often translated as "righte
 - [[Gate of Wisdom/Righteousness\|Righteousness]]
 
 # Additional Info
-- Those who hunger and thrist after righteousness shall be filled - [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+- Those who hunger and thirst after righteousness shall be filled - [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 - those who are persecuted for righteousness sake has the kingdom of heaven -  [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
-- Must exceed that of the scribes and pahrisees or will not enter the kingdom of heaven - Matthew 5  [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+- Must exceed that of the scribes and pharisees or will not enter the kingdom of heaven - Matthew 5  [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 - Seek it first and “all these” will be added - Matthew 6 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
 
 # Connections

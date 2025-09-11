@@ -74,7 +74,7 @@ Exodus 31  - Shabbatot
 Appointed times of YHWH/God (Leviticus 23 ):
 
 - Passover  (Pesach)
-- Feast of Unleavened Bread  (Hag HaMatzot)
+- [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]  (Hag HaMatzot)
 - First Fruits  (Yom Hibikkurim)
 - Festival of Weeks /Pentecost  (Shavuot)
 - Feast of Trumpets  (Yom Teruah /Rosh Hashanah)

@@ -66,6 +66,7 @@ He sacrificed his fleshly body and died to sin, once and for all. Those trusting
 [[The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-58#v10\|Ps-58:10]] The righteous one will rejoice when he sees the retribution; he will wash his feet in the blood of the wicked.
 # Connections
 - [[Gate of Wisdom/Wash\|Wash]]
+- [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
 
 ###### Tags
 - 
