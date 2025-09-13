@@ -84,4 +84,4 @@ John 11 - I said this for the benefit of the people standing her that they may b
 
 
 # Connections
-[[Sacred Truces/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]]
+[[Assets/Clippings/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]]

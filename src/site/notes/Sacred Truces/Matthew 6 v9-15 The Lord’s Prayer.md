@@ -6,7 +6,7 @@
 
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2024/01/1f8ebfb3-d3e2-4249-907b-f798f4ac5f11.webp)
 
-Building on the previous blogs [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]] and [[Sacred Truces/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]] – keep carrying the concepts from one to the next, be careful not to drop them.
+Building on the previous blogs [[Assets/Clippings/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]] and [[Assets/Clippings/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]] – keep carrying the concepts from one to the next, be careful not to drop them.
 
 As tempting as it might be to fly through this because every Christian knows what it says – take time to read through. There are concepts in this prayer we do not naturally know.
 
@@ -84,7 +84,7 @@ Second observation – it kind of is in there when we say forgive our debts and 
 
 ## Observation
 
-As I finished this up, I noticed correlation to something from the previous blog [[Sacred Truces/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]], prayer is about participation of the heart, the body, and the mind in connecting with God. We could break this prayer down into three parts as well
+As I finished this up, I noticed correlation to something from the previous blog [[Assets/Clippings/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]], prayer is about participation of the heart, the body, and the mind in connecting with God. We could break this prayer down into three parts as well
 
 **The heart:** recognizing Yah/God is holy (set-apart) and wanting his reign to come, to walk in his ways and not our own.
 
@@ -98,8 +98,8 @@ Previously published on WordPress https://calltoceasefire.wordpress.com/2024/01/
 
 # Connections
 - [[Gate of Wisdom/Lord’s Prayer\|Lord’s Prayer]]
-- [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
-- [[Sacred Truces/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]]
+- [[Assets/Clippings/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
+- [[Assets/Clippings/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]]
 - [[Gate of Wisdom/Prayer\|Prayer]]
 
 
