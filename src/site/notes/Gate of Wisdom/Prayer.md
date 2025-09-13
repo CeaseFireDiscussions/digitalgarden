@@ -14,3 +14,4 @@ Another name for prayer that is commonly used within Jewish Ashkenazi communitie
 - [[Gate of Wisdom/Pray\|Pray]]
 - [[Gate of Wisdom/Tefillos\|Tefillos]]
 - [[Sacred Truces/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]]
+- [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]

@@ -10,7 +10,8 @@ Building on the previous blogs [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matth
 
 As tempting as it might be to fly through this because every Christian knows what it says – take time to read through. There are concepts in this prayer we do not naturally know.
 
-# Verses 9-15 [[Matt-6#v9\|Matt-6:9]][[Matt-6#v10\|Matt-6#v10]][[Matt-6#v11\|Matt-6#v11]][[Matt-6#v12\|Matt-6#v12]][[Matt-6#v13\|Matt-6#v13]][[Matt-6#v14\|Matt-6#v14]][[Matt-6#v15\|-15]]
+[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
+# Verses 9-15 
 
 ## ***Therefore pray thus: Our Father who is in the heavens, hallowed be your Name*** …
 

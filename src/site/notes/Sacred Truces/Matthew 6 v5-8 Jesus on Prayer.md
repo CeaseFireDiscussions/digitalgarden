@@ -6,7 +6,9 @@
 
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2024/01/1f8ebfb3-d3e2-4249-907b-f798f4ac5f11.webp)
 
-# Verses 5 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v5\|Matt-06:5]]
+[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
+
+# Verses 5 
 
 ## ***And when you //disciple// pray*** …
 
@@ -20,7 +22,7 @@ The hypocrites – those are the religious leaders of the day. Giving of Alms, P
 
 In Luke 18, Jesus tells a parable about a [[Gate of Wisdom/Pharisee\|Pharisee]] and a Publican (tax collector). Keep in mind a tax collector was believed to be so [[unclean\|unclean]], he was unredeemable, he couldn’t even give a testimony in the courts. Jesus tells how they are going to the temple to pray. In the end, the Publican was justified, not the Pharisee. Ponder on that one for a moment or two.
 
-# Verse 6 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v6\|Matt-06:6]]
+# Verse 6
 
 ## ***BUT/AND you //disciples// when you pray, go into your chamber and shut the door and pray to your Father in secret …***
 
@@ -40,7 +42,7 @@ Wonder what we are missing out on as we get caught up in the hustle and bustle o
 
 When all we do is pray in groups, thinking about each word and what others will think are we really communing with God? Do we only pray when we have a request to make, burden to share, food to be blessed? Can we break our concept of prayer and our pray habits and get back to an ability to truly commune with the Father like Jesus did?
 
-# Verse 7 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v7\|Matt-06:7]]
+# Verse 7 
 
 ## ***And praying, you //disciples// may not use vain repetition like the nations //people// for they think that in their speaking much they will be heard.***
 
@@ -52,7 +54,7 @@ Again, it seems to be about the connection of the heart. If one is just babbling
 
 Prayer is about participation of the heart, the body, and the mind in connecting with God. Oneness.
 
-# Verse 8 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v8\|Matt-06:8]]
+# Verse 8 
 
 ## ***Do not be like them //hypocrites// for your //disciples// Father knows those things that you need before your asking him.***
 
