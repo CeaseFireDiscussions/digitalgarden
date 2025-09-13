@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-24/","tags":["TheScrolls","#TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-24/","tags":["#TheScrolls","#TorahLawofMoses"]}
 ---
 
 
@@ -19,7 +19,7 @@ Abraham was old, and well advanced in age. Yahweh had blessed Abraham in all thi
 Abraham said to his servant, the elder of his house, who ruled over all that he had, "Please put your hand under my thigh. 
 
 ###### v3 
-I will make you swear by Yahweh, the God of heaven and the God of the earth, that you shall not take a wife for my son of the daughters of the Canaanites, among whom I live. 
+I will make you swear by Yahweh, the God of heaven and the God of the earth, that you shall not take a wife for my son of the daughters of the Canaanites, among whom I live.  [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v1\|Gen-12:1]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v2\|Gen-12#v2]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v3\|-3]]
 
 ###### v4 
 But you shall go to my country, and to my relatives, and take a wife for my son Isaac." 
@@ -31,7 +31,7 @@ The servant said to him, "What if the woman isn't willing to follow me to this l
 Abraham said to him, "Beware that you don't bring my son there again. 
 
 ###### v7 
-Yahweh, the God of heaven--who took me from my father's house, and from the land of my birth, who spoke to me, and who swore to me, saying, 'I will give this land to your offspring--he will send his angel before you, and you shall take a wife for my son from there. 
+Yahweh, the God of heaven--who took me from my father's house, and from the land of my birth, who spoke to me, and who swore to me, saying, 'I will give this land to your offspring--he will send his angel before you, and you shall take a wife for my son from there. [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v1\|Gen-12:1]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v2\|Gen-12#v2]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v3\|Gen-12#v3]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v4\|Gen-12#v4]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v5\|Gen-12#v5]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v6\|Gen-12#v6]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v7\|-7]]; [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-15#v18\|Gen-15:18]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-15#v19\|Gen-15#v19]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-15#v20\|Gen-15#v20]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-15#v21\|-21]]
 
 ###### v8 
 If the woman isn't willing to follow you, then you shall be clear from this oath to me. Only you shall not bring my son there again." 

@@ -3,7 +3,7 @@
 ---
 
 
-# Genesis 26
+# Genesis 26 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Gen-26]]
 
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|← Genesis 25]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|Genesis 27 →]]
 ***
@@ -41,15 +41,15 @@
 									- In your offspring 
 										- all the nations of the earth 
 											- will be blessed, //[[Gate of Wisdom/Covenant/Isaacic\|Isaacic]] Covenant//
-						- because Abraham 
+						- because [^2]Abraham 
 							- obeyed my voice, 
 							- and kept my requirements, 
 							- my commandments, 
 							- my statutes, 
 							- and my laws."
-					- Isaac lived in Gerar. 
+					- [^1]Isaac lived in Gerar. 
 
-#### BECAUSE Abraham obeyed - Yah/God makes the covenant with Isaac IF Isaac stays in the land of Gerar and does not go down to Egypt
+#### BECAUSE Abraham obeyed - Yah/God makes the covenant with Isaac IF Isaac stays in the land of Gerar and does not go down to Egypt [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12\|Gen-12]]; [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17\|Gen-17]]; [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-18\|Gen-18]]; [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22\|Gen-22]]
 
 # Abimelech
 
@@ -191,3 +191,7 @@
 
 ***
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|← Genesis 25]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|Genesis 27 →]]
+
+[^1]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Gen-26]] Isaac obeyed "Do not go down to Egypt"
+
+[^2]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Gen-26]] Abraham obeyed Yah's voice, kept Yah's requirements, commandments, statues, and laws.

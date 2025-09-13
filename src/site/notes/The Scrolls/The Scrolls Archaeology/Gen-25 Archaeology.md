@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/gen-25-archaeology/","tags":["TheScrolls","Archaeology"]}
+{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/gen-25-archaeology/","tags":["#TheScrolls","#Archaeology"]}
 ---
 
 
-# Genesis 25
+# Genesis 25 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Gen-25]]
 
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24\|← Genesis 24]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Genesis 26 →]]
 ***

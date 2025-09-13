@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-25/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-25/","tags":["#TheScrolls","#TorahLawofMoses"]}
 ---
 
 
@@ -7,8 +7,6 @@
 
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24\|← Genesis 24]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Genesis 26 →]]
 ***
-
-
 
 ###### v1 
 Abraham took another wife, and her name was Keturah. 
@@ -77,7 +75,7 @@ Isaac entreated Yahweh for his wife, because she was barren. Yahweh was entreate
 The children struggled together within her. She said, "If it is like this, why do I live?" She went to inquire of Yahweh. 
 
 ###### v23 
-Yahweh said to her, "Two nations are in your womb. Two peoples will be separated from your body. The one people will be stronger than the other people. The elder will serve the younger." 
+Yahweh said to her, "Two nations are in your womb. Two peoples will be separated from your body. The one people will be stronger than the other people. The elder will serve the younger." [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17#v4\|Gen-17:4]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17#v5\|Gen-17#v5]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17#v6\|-6]]
 
 ###### v24 
 When her days to be delivered were fulfilled, behold, there were twins in her womb. 
