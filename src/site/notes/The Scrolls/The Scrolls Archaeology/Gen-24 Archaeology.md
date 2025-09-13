@@ -38,13 +38,13 @@
 * \[is\] old, 
 * he hath entered into days, 
 * and Jehovah hath 
-	* blessed Abraham 
+	* [^1]blessed Abraham 
 		* in all \[things\];
 * and Abraham saith 
 	* unto his servant, 
 		* the eldest of his house, 
 		* who is ruling over all that he hath, 
-		* \`Put, I pray thee, thy hand under my thigh,
+		* \`Put, I pray thee, [^4]thy hand under my thigh,
 		* and I cause thee to swear 
 			* by Jehovah, 
 				* God of the heavens, 
@@ -79,7 +79,7 @@ And the servant saith
 							* and from the land of my birth, 
 						* and who hath spoken to me, 
 						* and who hath sworn to me, saying, 
-							* To thy [[Zunpublished/Seed\|Seed]] 
+							* [^2][^3]To thy [[Zunpublished/Seed\|Seed]] 
 								* I :{//God//:(style="color:#d000d0ff"):}: give this land, 
 						* He doth send 
 							* His messenger 
@@ -111,7 +111,7 @@ And the servant
 	* to kneel 
 	* at the outside of the city, 
 		* at the well of water, 
-			* at even-time, 
+			* at even-time,  <mark style="background: #4DA6EDA6;">//WHEN// </mark>
 			* at the time of the coming out of the women 
 				* who draw water.
 
@@ -208,8 +208,28 @@ She saith also
 ***
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23\|← Genesis 23]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Genesis 25 →]]
 
+# Repeated Words
+
+- Abraham: 11 times
+- Servant: 11 times
+- Isaac: 8 times
+- Rebekah: 7 times
+- Son: 6 times
+- Father: 5 times
+- Kindred: 5 times
+- Land: 5 times
+- Wife: 5 times
+
 
 # Connections
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]
 - [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23\|Gen-23]]
 - [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Gen-25]]
+
+[^1]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] Abraham has obeyed - blessed with old age.
+
+[^2]: [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]] Covenant: Yah will give this land to Abraham's offspring 
+
+[^3]: [[Zunpublished/Seed\|Seed]] Abraham's - part of the [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]] Covenant
+
+[^4]: [[Gate of Wisdom/Idiom\|Idiom]] Meaning: A solemn oath-taking gesture, signifying a binding commitment.

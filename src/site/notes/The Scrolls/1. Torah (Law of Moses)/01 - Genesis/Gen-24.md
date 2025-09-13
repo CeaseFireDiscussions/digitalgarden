@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-24/","tags":["TheScrolls","#TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-24/","tags":["#TheScrolls","#TorahLawofMoses"]}
 ---
 
 
@@ -13,10 +13,10 @@
 # WEB Version
 
 ###### v1 
-Abraham was old, and well advanced in age. Yahweh had blessed Abraham in all things. 
+Abraham was old, and well advanced in age. Yahweh had [^1]blessed Abraham in all things.
 
 ###### v2 
-Abraham said to his servant, the elder of his house, who ruled over all that he had, "Please put your hand under my thigh. 
+Abraham said to his servant, the elder of his house, who ruled over all that he had, "[^5]Please put your hand under my thigh. 
 
 ###### v3 
 I will make you swear by Yahweh, the God of heaven and the God of the earth, that you shall not take a wife for my son of the daughters of the Canaanites, among whom I live.  [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v1\|Gen-12:1]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v2\|Gen-12#v2]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v3\|-3]]
@@ -31,7 +31,7 @@ The servant said to him, "What if the woman isn't willing to follow me to this l
 Abraham said to him, "Beware that you don't bring my son there again. 
 
 ###### v7 
-Yahweh, the God of heaven--who took me from my father's house, and from the land of my birth, who spoke to me, and who swore to me, saying, 'I will give this land to your offspring--he will send his angel before you, and you shall take a wife for my son from there. [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v1\|Gen-12:1]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v2\|Gen-12#v2]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v3\|Gen-12#v3]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v4\|Gen-12#v4]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v5\|Gen-12#v5]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v6\|Gen-12#v6]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v7\|-7]]; 
+Yahweh, the God of heaven--who took me from my father's house, and from the land of my birth, who spoke to me, and who swore to me, saying, [^3]'I will give this land to your [^4]offspring [[Zunpublished/Seed\|Seed]]--he will send his angel before you, and you shall take a wife for my son from there. [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v1\|Gen-12:1]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v2\|Gen-12#v2]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v3\|Gen-12#v3]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v4\|Gen-12#v4]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v5\|Gen-12#v5]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v6\|Gen-12#v6]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v7\|-7]]; 
 
 ###### v8 
 If the woman isn't willing to follow you, then you shall be clear from this oath to me. Only you shall not bring my son there again." 
@@ -115,7 +115,7 @@ Food was set before him to eat, but he said, "I will not eat until I have told m
 He said, "I am Abraham's servant. 
 
 ###### v35 
-Yahweh has blessed my master greatly. He has become great. Yahweh has given him flocks and herds, silver and gold, male servants and female servants, and camels and donkeys. 
+Yahweh has [^2]blessed my master //Abraham// greatly. He has become great. Yahweh has given him flocks and herds, silver and gold, male servants and female servants, and camels and donkeys. 
 
 ###### v36 
 Sarah, my master's wife, bore a son to my master when she was old. He has given all that he has to him. 
@@ -221,3 +221,13 @@ Isaac brought her into his mother Sarah's tent, and took Rebekah, and she became
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]
 - [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23\|Gen-23]]
 - [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Gen-25]]
+
+[^1]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] Abraham has obeyed - blessed with old age.
+
+[^2]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] Abraham has obeyed - blessed with greatness and wealth.
+
+[^3]: [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]] Covenant: Yah will give this land to Abraham's offspring 
+
+[^4]: [[Zunpublished/Seed\|Seed]] Abraham's - part of the [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]] Covenant
+
+[^5]: [[Gate of Wisdom/Idiom\|Idiom]] Meaning: A solemn oath-taking gesture, signifying a binding commitment.
