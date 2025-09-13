@@ -12,7 +12,7 @@
 
 ## ***And when you //disciple// pray*** …
 
-[[Gate of Wisdom/Pray\|Pray]] – the concept to those standing around when Yeshua/Jesus was talking about praying is deeper than what we practice regularly today. In their mind it was the joining together of ones mind and spirit, getting into our deepest thoughts. It was about a very intimate union with YHWH/God. True tefillah ([[Gate of Wisdom/Tefillos\|Tefillos]]/[[Gate of Wisdom/Prayer\|Prayer]] ) involved the heart and the deep love inside. It was nothing like anything we see in modern churches today.
+[[Gate of Wisdom/Pray\|Pray]] – the concept to those standing around when Yeshua/Jesus was talking about praying [^1][[Gate of Wisdom/Right Standing/Righteous\|Righteous]]is deeper than what we practice regularly today. In their mind it was the joining together of ones mind and spirit, getting into our deepest thoughts. It was about a very intimate union with YHWH/God. True tefillah ([[Gate of Wisdom/Tefillos\|Tefillos]]/[[Gate of Wisdom/Prayer\|Prayer]] ) involved the heart and the deep love inside. It was nothing like anything we see in modern churches today.
 
 They believed the "commands/laws" were YHWH/God’s way of connecting with his people. And tefillah/prayer was his people’s way of connecting with him. Keeping this understanding in mind moving forward in this verse can be key to understanding what Jesus was saying to his disciples.
 
@@ -79,3 +79,5 @@ Originally posted on WordPress  https://calltoceasefire.wordpress.com/2024/01/06
 - [[Gate of Wisdom/Pray\|Pray]]
 - [[Gate of Wisdom/Prayer\|Prayer]]
 - 
+
+[^1]: 
