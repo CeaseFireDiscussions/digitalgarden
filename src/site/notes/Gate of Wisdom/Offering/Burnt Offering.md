@@ -11,7 +11,7 @@
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 - [[Zunpublished/Guilt Offering\|Guilt Offering]] or [[Zunpublished/Repartition Offering\|Repartition Offering]]
 - [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]] or Peace Offering
-- [[Zunpublished/Sin Offering\|Sin Offering]] or [[Zunpublished/Repartition Offering\|Repartition Offering]]
+- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]] or [[Zunpublished/Repartition Offering\|Repartition Offering]]
 
 # Additional Info
 - most important - no part of it was consumed by any man - the whole offering belonged to God

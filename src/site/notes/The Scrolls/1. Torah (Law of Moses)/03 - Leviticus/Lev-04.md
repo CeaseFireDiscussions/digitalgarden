@@ -128,7 +128,7 @@ He shall remove all its fat, like the fat of the lamb is removed from the sacrif
 				through *Bishgaga /ignorance 
 				against any of the commands [[The Command\|The Command]] of Jehovah regarding things 
 					which are not to be done, 
-					and hath done [something] against one of these -- [[Zunpublished/Sin Offering\|Sin Offering]]
+					and hath done [something] against one of these -- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]
 
 # Priest Sins 
 If the priest 

@@ -10,6 +10,7 @@ Another name for prayer that is commonly used within Jewish Ashkenazi communitie
    AlephBeta (https://www.alephbeta.org/jewish-prayer/tefillah)
 
 # Connections
-- [[Assets/Clippings/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]]
+- [[Sacred Truces/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]]
 - [[Gate of Wisdom/Pray\|Pray]]
 - [[Gate of Wisdom/Tefillos\|Tefillos]]
+- [[Sacred Truces/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]]
