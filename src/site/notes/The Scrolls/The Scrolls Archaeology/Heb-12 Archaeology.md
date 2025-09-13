@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/heb-12-archaeology/","tags":["TheScrolls","Archaeology"]}
+{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/heb-12-archaeology/","tags":["#TheScrolls","#Archaeology"]}
 ---
 
 
-# Hebrews 12
+# Hebrews 12 [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-12\|Heb-12]]
 
 [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-11\|← Hebrews 11]] | [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Hebrews\|Hebrews]] | [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-13\|Hebrews 13 →]]
 ***
-
-
 
 ###### v1 
 Therefore let's also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let's run with perseverance the race that is set before us, 

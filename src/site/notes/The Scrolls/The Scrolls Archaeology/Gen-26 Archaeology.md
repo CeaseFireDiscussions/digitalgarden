@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/gen-26-archaeology/","tags":["TheScrolls","Archaeology"]}
+{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/gen-26-archaeology/","tags":["#TheScrolls","#Archaeology"]}
 ---
 
 
@@ -41,13 +41,13 @@
 									- In your offspring 
 										- all the nations of the earth 
 											- will be blessed, //[[Gate of Wisdom/Covenant/Isaacic\|Isaacic]] Covenant//
-						- because [^2]Abraham 
+						- because Abraham 
 							- obeyed my voice, 
 							- and kept my requirements, 
 							- my commandments, 
 							- my statutes, 
 							- and my laws."
-					- [^1]Isaac lived in Gerar. 
+					- Isaac lived in Gerar. 
 
 #### BECAUSE Abraham obeyed - Yah/God makes the covenant with Isaac IF Isaac stays in the land of Gerar and does not go down to Egypt [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12\|Gen-12]]; [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17\|Gen-17]]; [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-18\|Gen-18]]; [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22\|Gen-22]]
 
