@@ -10,9 +10,9 @@ Building on the previous blogs [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matth
 
 As tempting as it might be to fly through this because every Christian knows what it says – take time to read through. There are concepts in this prayer we do not naturally know.
 
-## Verse 9-15 [[Matt-6#v9\|Matt-6:9]][[Matt-6#v10\|Matt-6#v10]][[Matt-6#v11\|Matt-6#v11]][[Matt-6#v12\|Matt-6#v12]][[Matt-6#v13\|Matt-6#v13]][[Matt-6#v14\|Matt-6#v14]][[Matt-6#v15\|-15]]
+# Verses 9-15 [[Matt-6#v9\|Matt-6:9]][[Matt-6#v10\|Matt-6#v10]][[Matt-6#v11\|Matt-6#v11]][[Matt-6#v12\|Matt-6#v12]][[Matt-6#v13\|Matt-6#v13]][[Matt-6#v14\|Matt-6#v14]][[Matt-6#v15\|-15]]
 
-***Therefore pray thus: Our Father who is in the heavens, hallowed be your Name*** …
+## ***Therefore pray thus: Our Father who is in the heavens, hallowed be your Name*** …
 
 Heaven – the concept of heaven for the audience at that time is “where God is,” or because he is a god, it was believed he would have to be “above” everything.
 
@@ -32,17 +32,17 @@ If you google ‘God’ = “A being conceived as the perfect, omnipotent, omnis
 
 If you google ‘Yahweh’ = “Deity and national god of the Israelite kingdoms of Israel and Judah.” Like YHWH/God referred to himself, “I Am the god of Israel.’ Worth pondering …
 
-***Your //YHWH// Kingdom come, Your //YHWH// will be done, as in Heaven, also on the earth …***
+## ***Your //YHWH// Kingdom come, Your //YHWH// will be done, as in Heaven, also on the earth …***
 
 Kingdom = the word kingdom here is better thought of as “where Yah/God reigns.” Heaven is where ever Yah is. And earth is where man is. The Kingdom of Heaven is where Yah is and Reigns. 
 
 So to understand more plainly what is being said here, “May your (YHWH) reign come, your ways be done, where man is, as it is where you are.” It is well worth considering what we are saying when we recite this. We are saying we want to give up our own ways for Yah’s ways. We want him to reign in our lives and decide what is good and bad in HIS eyes, not in our own.
 
-***Give us today our appointed bread***
+## ***Give us today our appointed bread***
 
 This is explained by Jesus very well in [John 6:31-59](https://www.biblegateway.com/passage/?search=John%206%3A31-59&version=TLV) – Yah/God gave manna to the Israelites as he brought them out of bondage. Now he gives us the “true bread from heaven,” which is Jesus to bring us out of bondage. Jesus said he is the bread of life. The people who ate manna, died. But whosoever comes and believes in him will never hunger or thirst, and will live forever.
 
-***And forgive us our debts as we also forgive our debtors.***
+## ***And forgive us our debts as we also forgive our debtors.***
 
 [[Gate of Wisdom/Forgive\|Forgive]] us our debts – We do not often see this line connected to the previous, however, it is very connected. The way Yah/God brought us out of bondage was by releasing us from the penalty of sin – death. The Israelites also received this same freedom in that instead of paying the penalty themselves, they had to bring a sacrifice to the [[Zunpublished/Tabernacle\|Tabernacle]] to atone for the penalty of their sin – death. Yah brought us out of the bondage of having to bring a sacrifice to the Tabernacle or Temple and provide for us a once and for all sacrifice of an unblemished [[Zunpublished/Passover\|Passover]] Lamb in sending us Jesus. He provide a way for [[Gate of Wisdom/Good News/Atonement\|Atonement]] forgiveness of sins.
 
@@ -50,7 +50,7 @@ Because Jesus has provided a way for atonement, and he is the bread of life, we 
 
 We also forgive – As he has provided a way to forgiveness, we also should provide a way of forgiveness. Later in verse 15 ([[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v15\|Matt-06:15]], Jesus will say, if we do not forgive, we will not be forgiven. 
 
-***And lead us not into temptation***
+## ***And lead us not into temptation***
 
 This line has sometimes bothered me – why would Yah/God lead us … in to temptation? Was this saying like he was leading Job into temptation? Is that the idea here? Or is this what happened when Jesus was taken to be tempted by the adversary? Let’s dig into this one.
 
@@ -64,19 +64,19 @@ The connection to 1 Corinthians 10 is very intriguing. Here we see how the Israe
 
 There is always a But God moment available, he will always provide a way out, the question is, will we take it? God tried to tell the Israelites, but they didn’t listen. Jesus tried to tell the disciples to stay awake and prayer – but they didn’t listen. So they ended up being **carried into the testing and temptations** and dealing with all the issues that came from those decisions. When Jesus was carried to his testing, he took the way out God provided – so he didn’t have to go through all the testing and temptation which would have come had he not.
 
-***But deliver us from the evil one***
+## ***But deliver us from the evil one***
 
 Deliver us – Yah/God may bring you to a test, but he also gives you the answer key. What we do with that is up to us. Follow his ways, and all goes well, as it did with Jesus. Follow our ways, and we go through the consequences of that choice.
 
 Evil one – this is flashing back to Matthew 4 where Jesus is tested by the “devil”. The words satan and devil do not refer to one specific being. The words are more like a job description or an office held, like our word secretary or administrative assistant. Satan  (not a capital 's') refers to an adversary. In this case, devil refers to a slanderer, a false accuser. Jesus referred to Peter and Judas with these same terms.
 
-***Verse 13-14 For yours is the kingdom and the power and the glory, forever. Amen. ******For if you forgive other people when they sin against you, your heavenly father will also forgive you.***
+## ***Verse 13-14 For yours is the kingdom and the power and the glory, forever. Amen. ******For if you forgive other people when they sin against you, your heavenly father will also forgive you.***
 
 Verse 13: For yours is the kingdom … – This part doesn’t show in any of the earlier versions. And Luke doesn’t include it in his. Most believe it came out of an extrabiblical document called the Didache which was a 2nd Century work of the early church fathers.
 
 Verse 14: For if you forgive … This verse was never in the original text. It was written in the margin as a note in one of the old texts, and over time was added in as a verse. The meaning is conveyed and supported in other scriptures, which is probably why the person wrote it in their margin. The important thing to remember is we don’t get forgiven of our sins BECAUSE we forgive someone else. We get forgiven because of having faith and believing in Jesus.
 
-Verse 15 ***But/And if you do not forgive others their sins, your Father will not forgive your sins.***
+##  ***But/And if you do not forgive others their sins, your Father will not forgive your sins.***
 
 First observation – why was this dropped from “this is how you should pray?” It does seem to have a change from the we/us to the you format. But oh, can you imagine if every time we recited the Lord’s Prayer we had to say something like, “If we do not forgive, our Father will not forgive us.” OUCH!
 

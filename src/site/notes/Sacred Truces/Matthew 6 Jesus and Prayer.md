@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-6-jesus-and-prayer/"}
 ---
 
-## Prayer
+# Prayer
 
 There are all sorts of opinions on prayer: how to, when to, what for, how long, what position, etc. What if we went back and asked Yeshua /Jesus?
 

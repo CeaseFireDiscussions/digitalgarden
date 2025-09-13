@@ -6,9 +6,9 @@
 
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2024/01/1f8ebfb3-d3e2-4249-907b-f798f4ac5f11.webp)
 
-## Verses 5 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v5\|Matt-06:5]]
+# Verses 5 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v5\|Matt-06:5]]
 
-### ***And when you //disciple// pray*** …
+## ***And when you //disciple// pray*** …
 
 [[Gate of Wisdom/Pray\|Pray]] – the concept to those standing around when Yeshua/Jesus was talking about praying is deeper than what we practice regularly today. In their mind it was the joining together of ones mind and spirit, getting into our deepest thoughts. It was about a very intimate union with YHWH/God. True tefillah ([[Gate of Wisdom/Tefillos\|Tefillos]]/[[Gate of Wisdom/Prayer\|Prayer]] ) involved the heart and the deep love inside. It was nothing like anything we see in modern churches today.
 
@@ -20,9 +20,9 @@ The hypocrites – those are the religious leaders of the day. Giving of Alms, P
 
 In Luke 18, Jesus tells a parable about a [[Gate of Wisdom/Pharisee\|Pharisee]] and a Publican (tax collector). Keep in mind a tax collector was believed to be so [[unclean\|unclean]], he was unredeemable, he couldn’t even give a testimony in the courts. Jesus tells how they are going to the temple to pray. In the end, the Publican was justified, not the Pharisee. Ponder on that one for a moment or two.
 
-## Verse 6 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v6\|Matt-06:6]]
+# Verse 6 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v6\|Matt-06:6]]
 
-***BUT/AND you //disciples// when you pray, go into your chamber and shut the door and pray to your Father in secret …***
+## ***BUT/AND you //disciples// when you pray, go into your chamber and shut the door and pray to your Father in secret …***
 
 First he says what not to do – don’t pray out so man can see. Then he says what to do – pray inside where God can see. This may or may not be about a physical location. Just like most of what Jesus teaches, the major idea is about what is inside a person, it’s all about the heart.
 
@@ -32,7 +32,7 @@ It is worth noting, if you look into Jesus’s prayer ([[Gate of Wisdom/Pray\|pr
 
 Personally, just my opinion, it may be because prayer, as it was understood at that time, is different than it is today. When Jesus went to talk to the Father, he hallowed Yah/God, he gave God his undivided attention. He communed with God. It was a personal conversation. When he left those times, he carried that communion with him. He was one with God. He didn’t need to “pray” for someone to be healed as if God wasn’t there already, he simply extended that communion and the person was healed. Just like the disciples shadows healed people as they walked by. But, again, that’s just a thought being processed out loud. What do you think?
 
-***and your Father who is seeing in secret will reward you.***
+## ***and your Father who is seeing in secret will reward you.***
 
 Jesus said getting away and communing with God results in a reward, based on what he said earlier, that reward is most likely not received here on earth – but who knows? It’s possible right? Or is the reward unseen, inside of us, carried forth like it was with Jesus? 
 
@@ -40,9 +40,9 @@ Wonder what we are missing out on as we get caught up in the hustle and bustle o
 
 When all we do is pray in groups, thinking about each word and what others will think are we really communing with God? Do we only pray when we have a request to make, burden to share, food to be blessed? Can we break our concept of prayer and our pray habits and get back to an ability to truly commune with the Father like Jesus did?
 
-## Verse 7 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v7\|Matt-06:7]]
+# Verse 7 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v7\|Matt-06:7]]
 
-***And praying, you //disciples// may not use vain repetition like the nations //people// for they think that in their speaking much they will be heard.***
+## ***And praying, you //disciples// may not use vain repetition like the nations //people// for they think that in their speaking much they will be heard.***
 
 It doesn’t seem to be about the length of the prayer because in [[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-06\|Luke-06]], he records Jesus prayed all night. It also doesn’t seem to be about asking more than once, as Jesus returned again in the Garden. So the repetition concept here can’t be about the length of prayer time nor the number of times.
 
@@ -52,9 +52,9 @@ Again, it seems to be about the connection of the heart. If one is just babbling
 
 Prayer is about participation of the heart, the body, and the mind in connecting with God. Oneness.
 
-## Verse 8 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v8\|Matt-06:8]]
+# Verse 8 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v8\|Matt-06:8]]
 
-***Do not be like them //hypocrites// for your //disciples// Father knows those things that you need before your asking him.***
+## ***Do not be like them //hypocrites// for your //disciples// Father knows those things that you need before your asking him.***
 
 Do not be like them – thinking in speaking much you will be heard.
 
@@ -66,8 +66,7 @@ However, on a general, every day basis, maybe its about the purpose of our praye
 
 Remember, the concept of prayer here is communion – meeting with God. It takes two. He is waiting for you.
 
-Next well break down how Jesus told his disciples to pray …
-
+Next well break down how Jesus told his disciples to pray … [[Sacred Truces/Matthew 6 v9-15 The Lord’s Prayer\|Matthew 6 v9-15 The Lord’s Prayer]]
 
 
 Originally posted on WordPress  https://calltoceasefire.wordpress.com/2024/01/06/matthew-65-8-prayer/
