@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-24/","tags":["#TheScrolls","#TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-24/","tags":["TheScrolls","#TorahLawofMoses"]}
 ---
 
 
@@ -31,7 +31,7 @@ The servant said to him, "What if the woman isn't willing to follow me to this l
 Abraham said to him, "Beware that you don't bring my son there again. 
 
 ###### v7 
-Yahweh, the God of heaven--who took me from my father's house, and from the land of my birth, who spoke to me, and who swore to me, saying, 'I will give this land to your offspring--he will send his angel before you, and you shall take a wife for my son from there. [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v1\|Gen-12:1]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v2\|Gen-12#v2]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v3\|Gen-12#v3]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v4\|Gen-12#v4]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v5\|Gen-12#v5]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v6\|Gen-12#v6]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v7\|-7]]; [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-15#v18\|Gen-15:18]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-15#v19\|Gen-15#v19]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-15#v20\|Gen-15#v20]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-15#v21\|-21]]
+Yahweh, the God of heaven--who took me from my father's house, and from the land of my birth, who spoke to me, and who swore to me, saying, 'I will give this land to your offspring--he will send his angel before you, and you shall take a wife for my son from there. [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v1\|Gen-12:1]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v2\|Gen-12#v2]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v3\|Gen-12#v3]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v4\|Gen-12#v4]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v5\|Gen-12#v5]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v6\|Gen-12#v6]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v7\|-7]]; 
 
 ###### v8 
 If the woman isn't willing to follow you, then you shall be clear from this oath to me. Only you shall not bring my son there again." 
@@ -43,7 +43,7 @@ The servant put his hand under the thigh of Abraham his master, and swore to him
 The servant took ten of his master's camels, and departed, having a variety of good things of his master's with him. He arose, and went to Mesopotamia, to the city of Nahor. 
 
 ###### v11 
-He made the camels kneel down outside the city by the well of water at the time of evening, the time that women go out to draw water. 
+He made the camels kneel down outside the city by the well of water <mark style="background: #4DA6EDA6;">//WHEN// </mark>at the time of evening, the time that women go out to draw water. 
 
 ###### v12 
 He said, "Yahweh, the God of my master Abraham, please give me success today, and show kindness to my master Abraham. 

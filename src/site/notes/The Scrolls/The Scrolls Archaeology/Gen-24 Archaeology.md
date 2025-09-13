@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/gen-24-archaeology/","tags":["TheScrolls","#Archaeology"]}
+{"dg-publish":true,"permalink":"/the-scrolls/the-scrolls-archaeology/gen-24-archaeology/","tags":["#TheScrolls","#Archaeology"]}
 ---
 
 
@@ -11,6 +11,24 @@
 # Making Connections
 
 ![Genesis 24 The Brain Outline.png](/img/user/Assets/attachments/Genesis%2024%20The%20Brain%20Outline.png)
+
+# Setting
+
+### Characters and People Groups
+- **Named Characters**: Abraham, Isaac, Abraham's chief servant (unnamed), Rebekah, Bethuel, Laban, Nahor, Milcah, Sarah.
+- **People Groups**: Canaanites.
+
+### Setting and Main Storyline
+**Setting**: The narrative unfolds in Abraham's dwelling among the Canaanites, followed by a journey to a well outside the town of Nahor in Aram Naharaim, and concludes in the Negev where Isaac resides.  
+**Main Storyline**: Abraham instructs his chief servant to find a wife for Isaac from his relatives, not the local Canaanites. The servant travels to Nahor, prays for divine guidance at a well, and encounters Rebekah, who fulfills his sign request by providing water for him and his camels. He learns of her family ties to Abraham, explains his mission at her home, and secures her consent to marry Isaac with her family's blessing. Rebekah journeys back, meets Isaac, and they marry.
+
+### Where and When
+**When**: During Abraham's old age, after Sarah's death (no specific date given).  
+**Where**: 
+- Canaan (land of the Canaanites; modern-day southern Levant, including Israel and Palestine).
+- Aram Naharaim and town of Nahor (biblical Mesopotamia; modern-day southeastern Turkey/Harran region).
+- Negev (southern Canaan; modern-day southern Israel).
+- Beer Lahai Roi (a well in the Negev; modern-day near Lahav, southern Israel).
 
 # Outlined YLT
 
