@@ -73,6 +73,7 @@ Originally posted on WordPress  https://calltoceasefire.wordpress.com/2024/01/06
 
 # Connections
 - [[Sacred Truces/Matthew 6 v9-15 The Lord’s Prayer\|Matthew 6 v9-15 The Lord’s Prayer]]
+- [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
 - [[Gate of Wisdom/Pray\|Pray]]
 - [[Gate of Wisdom/Prayer\|Prayer]]
 - 
