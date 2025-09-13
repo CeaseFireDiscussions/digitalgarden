@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/45-romans/rom-04/","tags":["#TheScrolls","#GospelsApostles"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/45-romans/rom-04/","tags":["TheScrolls","GospelsApostles"]}
 ---
 
 

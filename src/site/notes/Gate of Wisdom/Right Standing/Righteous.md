@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/righteous/","tags":["#GateWisdom","#RightStanding"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/righteous/","tags":["#GateWisdom","RightStanding"]}
 ---
 
 # Define
