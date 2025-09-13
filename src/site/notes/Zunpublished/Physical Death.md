@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/physical-death/","tags":["#GateWisdom","#SeperationDeath"]}
+{"dg-publish":true,"permalink":"/zunpublished/physical-death/","tags":["#GateWisdom","SeperationDeath"]}
 ---
 
 # Define

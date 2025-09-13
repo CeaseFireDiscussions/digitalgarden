@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/spiritual-death/","tags":["#GateWisdom","#SeperationDeath","#unpublished"]}
+{"dg-publish":true,"permalink":"/zunpublished/spiritual-death/","tags":["#GateWisdom","SeperationDeath","unpublished"]}
 ---
 
 # Define

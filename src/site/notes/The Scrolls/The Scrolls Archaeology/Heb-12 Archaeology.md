@@ -154,11 +154,11 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 ***
 [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-11\|← Hebrews 11]] | [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Hebrews\|Hebrews]] | [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-13\|Hebrews 13 →]]
 
-[^1]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] refusing to listen to God
+[^1]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] refusing to listen to God #unrighteous
 
-[^2]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Short of the grace of God - root of bitterness
+[^2]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Short of the grace of God - root of bitterness #unrighteous 
 
-[^3]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] [[Gate of Wisdom/Ruach/Fruit/Peace\|Peace]]    Peace and Sanctification, without which no man will see the Lord.
+[^3]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] [[Gate of Wisdom/Ruach/Fruit/Peace\|Peace]]    Peace and Sanctification, without which no man will see the Lord. #Righteous
 
 [^4]: [[Zunpublished/Spiritual Death\|Spiritual Death]] without Peace and the sanctification no man will see the Lord
 
@@ -184,7 +184,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 
 [^15]: [[Zunpublished/Restoration\|Restoration]] through the blood of Jesus
 
-[^16]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] from chastening after disobedience [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
+[^16]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] from chastening after disobedience [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]  #Righteous #unrighteous 
 
 [^17]: [[Zunpublished/Precept Pikkubim\|Precept Pikkubim]] instruction for [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] living from [[The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-03\|Prov-03]] v11-12
 
