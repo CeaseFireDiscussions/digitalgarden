@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-12/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-12/","tags":["#TheScrolls","#TorahLawofMoses"]}
 ---
 
 
@@ -17,7 +17,7 @@ Now Yahweh said to Abram, "Leave your country, and your relatives, and your fath
 I will make of you a great nation. I will bless you and make your name great. You will be a blessing. 
 
 ###### v3 
-I will bless those who bless you, and I will curse him who treats you with contempt. All the families of the earth will be blessed through you." 
+I will bless those who bless you, and I will curse him who treats you with contempt. All the families of the earth will be blessed through you." [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27#v29\|Gen-27:29]]
 
 ###### v4 
 So Abram went, as Yahweh had told him. Lot went with him. Abram was seventy-five years old when he departed from Haran. 

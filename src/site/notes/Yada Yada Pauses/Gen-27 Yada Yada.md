@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-27/","tags":["#TheScrolls","#TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/gen-27-yada-yada/","tags":["#TheScrolls","#TorahLawofMoses","#YadaYadaPauses"]}
 ---
 
 # Author and Authorship Date:
@@ -25,6 +25,14 @@
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|← Genesis 26]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Genesis 28 →]]
 ***
 
+<mark style="background: #FFF3A3A6;">Who</mark>
+<mark style="background: #04CD3EA6;">What</mark>
+<mark style="background: #D2B3FFA6;">When</mark>
+<mark style="background: #4DA6EDA6;">Where</mark>
+<mark style="background: #EB9E57A6;">Why Reason</mark>
+<mark style="background: #E6852CA6;">Why Purpose</mark>
+<mark style="background: #FFB86CA6;">How</mark>
+<mark style="background: #CACFD9A6;">Question</mark>
 ###### v1 
 When [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] was old, and his eyes were dim, so that he could not see, he called [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]] his elder son, and said to him, "My son?" He said to him, "Here I am." 
 

@@ -1,0 +1,361 @@
+---
+{"dg-publish":true,"permalink":"/yada-yada-pauses/51-colossians-yada-yada/","tags":["#YadaYadaPauses"]}
+---
+
+[[The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Colossians\|Colossians]]
+## Backdrop:
+
+- The events in [[The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Colossians\|Colossians]] take place approximately 20-30 years after Jesus' ascension.
+- The letter to the Colossians was written about 27-29 years after the ascension.
+- Colossae is approximately 750 miles from Jerusalem, 20 to 40 days travel at that time.
+- Laodicea and Colossae were approximately 11 miles apart, 3-4 hours travel time.
+- Religion in Colossae:
+    - Paganism Majority: Greco-Roman polytheism. Worshiping gods such as: Zeus, Artemis, Cybele, Men (the moon god), and elemental spirits. Temples and cults were common. They had feast days and new moon celebrations. No gods in the region had any kind of "rest day."
+    - Judaism: Significant number. Jewish settlements in nearby Laodicea and Hierapolis. Torah and synagogues.
+    - The Way: a small, growing community following Jesus of Nazareth as the Messiah. Meeting in house churches or small gatherings.
+        - Sabbath vs Meeting:
+            - Scripture shows Sabbath-keeping as a norm for early believers (Acts 13:44, 17:2, 18:4),
+            - Early writers such as Justin and Irenaeus confirm some, especially Jewish Christians or apostolic disciples’ followers, continued to keep the Sabbath into the second century. And that Sunday gathering gained prominence and coexisted with Sabbath observance, particularly among those tied to Jewish roots or early apostolic tradition.
+            - Polycarp of Smyrna, a disciple of John the Apostle, ties himself to Jewish-Christian practices. Irenaeus (c. 180 AD), Polycarp’s disciple, writes: "For he [Polycarp] was taught by apostles, and conversed with many who had seen Christ" (Against Heresies 3.3.4). The Quartodeciman controversy (Easter timing tied to Passover) further hints at his circle’s retention of keeping the appointed times.
+    - Syncretism: Many residents mixed elements of Jewish practices with mysticism, angel worship, and philosophical ideas, which Paul addresses in the letter (Colossians 2:8-18).
+
+## People
+
+- **[[Zunpublished/Paul\|Paul]], author**
+    - apostle of Messiah Yeshua/Jesus
+    - minister of the good news proclaimed in all creation under heaven
+        - according to the stewardship from God to declare his message in full
+            - message - hidden for ages and generations, now revealed to his saints.
+    - rejoices in his sufferings for the saints and faithful brother's sake
+    - doing his share on behalf of the Son's body - the community
+        - Body = community
+            - Greek: ἐκκλησία (ekklēsia); Assemlby, congregation.
+            - Hebrew: קָהָל (qahal); congregation, gathering. Used for Israel as a gathered people which included native born Israelite as well as those of other nations who chose to follow the God of Abraham, Isaac, and Jacob.
+    - Paul and Timothy proclaim the Messiah, warning and teaching everyone in all wisdom
+        - to present every person complete in Messiah
+            - Complete
+                - Greek: τέλειος (teleios) – "complete" or "perfect," meaning mature, whole, or fully developed
+                - Hebrew: תָּמִים (tamim) – "complete" or "blameless," denoting wholeness or readiness
+    - The letter is written in his own hands
+    - Remember his chains
+- **[[Timothy\|Timothy]], is with Paul**
+    - follower of Messiah Yeshua/Jesus
+- **[[Saints\|Saints]] and Faithful Brothers in Colossae**
+    - followers of Messiah Yeshua/Jesus
+    - received Messiah Yeshua/Jesus as Lord
+    - love for all the saints
+    - Paul and Timothy say they have hope laid up for them in the heavens (where God is) as the people had heard in the word of truth - the good news.
+    - Paul and Timothy say they heard and understood the grace of God in truth.
+        - They learned this from Epahras. Epaphras is mentioned in Colossians and Philemon. He is a fellow servant and faithful minister of the Messiah.
+    - Saints:
+        - Greek: ἅγιοι (hagioi); set-apart ones, dedicated to God.
+        - Hebrew: hagios is קָדוֹשׁ (qadosh); separated from the common or profane for God's service. Used to refer to Israel as YHWH/God's covenant people and later in other writings, such as Daniel, to the faithful remnant awaiting the God's Kingdom.
+    - God's message, hidden for ages and generations, has been revealed to his saints
+        - making known this glorious mystery regarding the nations (gentiles)
+            - which is Messiah in you, the hope of glory
+    - circumcised with a circumcision done not by hand
+        - stripped away of the body of the flesh through the circumcision of Messiah
+        - Hyperlink: Deuteronomy 10:16 circumcise therefore the foreskin of your heart; Jeremiah 4:4 circumcise yourself to the Lord
+    - in immersion, buried along with Messiah
+        - raised with him by trusting in the working of God
+        - dead in sins and the uncircumcision of your flesh
+        - made alive when God pardoned "us" all "our" transgressions
+            - wiped out the handwritten record of debts with the decrees against "us", hostile to "us"
+            - nailed the handwritten record of debts with the decrees to the cross
+        - you died with Messiah to the basic principles of the world
+            - do not subject yourselves to the world rules
+        - Hyperlink: Exodus 14;22 Israel passing through the Red Sea; Joshua 3:17 crossing the Jordan
+    - Paul encourages them:
+        - continue to walk in Messiah, Yeshua
+            - rooted and built up in him
+        - established in their faith as they were taught
+            - overflowing with thankfulness
+        - see no one takes them captive through:
+            - philosophy and empty deception
+                - according to the tradition of men
+                - according to the basic principles of the world rather than Messiah
+        - do not let anyone pass judgment on you
+            - in matters by (καὶ "and" ἢ "or")
+                - food (singular) **AND** drink (singular)
+                - respect to a festival (singular) **OR** new moon (singular) **OR** Shabbots (plural)
+                    - Sabbaths/Shabbots
+                        - Greek word σαββάτων in Colossians 2:16 is plural, most scholars lean toward it meaning the entire system of Sabbath observances (weekly and festival Sabbaths).
+                        - 1 Corinthians 5:7-8 (written before Colossians) – Paul connects Christ to Passover and exhorts believers to "keep the feast" spiritually.
+            - These matters are a foreshadowing (singular) of things (plural) to come
+                - reality (singular), however, is found in Messiah
+                    - Reality = σῶμα (sōma) literally means "body" (e.g., a physical body, as in Colossians 1:22, "his body of flesh"). The Greek σῶμα allows "reality" as a valid rendering, given the shadow-substance contrast.
+        - Let no one disqualify you by
+            - insisting on false humility and worship of angels
+                - going into detail about what he has seen
+                - puffed up without cause by his fleshly mind
+                - Hyperlink: Deuteronomy 4:19
+            - he is not holding fast to the Head (Messiah)
+            - you died with Messiah to the basic principles of the world, why subject yourselves to their rules?
+                - don't handle, don't taste, don't touch
+                - these lead to decay with use
+                    - they are man-made commands and teachings
+                    - Hyperlink: Isaiah 29:13
+                - These matters have an appearance of wisdom in self-made religion and humility and self-denial of the body
+                    - none are of any value for stopping indulgence of the flesh
+        - If you have been raised up with the Messiah
+            - keep seeking the things above
+                - where Messiah is sitting at the right hand of God
+            - focus your mind on things above
+                - not on things on the earth
+            - you have died, your life is hidden with Messiah in God
+                - when Messiah, who is your life, is revealed then you also will be revealed with him in glory!
+            - Put to death what is earthly in you
+                - these are idolatry
+                    - sexual immorality
+                    - impurity
+                    - lust
+                    - evil desire
+                    - greed
+                - Because of such things God's wrath is coming upon the sons of disobedience
+                    - at one time you walked in these ways, lived in these ways
+                    - set them all aside
+                        - anger
+                        - rage
+                        - malice
+                        - slander
+                        - foul language
+                        - do not lie to one another
+                - you have put on the new self
+                    - you have taken off the old self with it's practices
+                    - being renewed in knowledge
+                        - according to the image of the One who created him.
+                    - Messiah is all and in all - no longer
+                        - Greek and Jew
+                        - circumcised and uncircumcised
+                        - barbarian
+                        - savage
+                        - slave and free
+            - As God's chose people, holy and dearly loved
+                - clothe yourself in
+                    - tender compassion
+                    - kindness
+                    - humility
+                    - gentleness
+                    - patience
+                - Bear with and forgive each other
+                    - if anyone has a grievance against another
+                    - Just as the Lord pardoned you, pardon others
+                - Above all things put on love - the bond of perfect harmony
+                - Let the Shalom of Messiah rule in your hearts
+                    - to this you were surely called in one body
+                - Be thankful
+                - Let the words of Messiah dwell in your richly
+                    - teaching and admonishing one another with all wisdom
+                        - in psalms
+                        - hymns
+                        - spiritual songs
+                        - singing with gratitude in your hearts to God
+                - Whatever you do in word or deed, do all in the Name of the Lord Yeshua
+                    - giving thanks to God the Father through him.
+                    - Name
+                        - Greek Word: ὄνομα (onoma) signify authority, identity, reputation, or the essence of a person
+                        - Hebrew Word: שֵׁם (shem) authority, reputation, or essence
+        - Relationships
+            - Wives to husbands, as fitting in the Lord
+            - Husbands love your wives, do not become harsh toward them
+            - Children obey your parents in every respect, pleasing to the Lord
+            - Fathers do not provoke your children, so they will not become discouraged.
+            - Slaves or servant (referring to someone in a state of bondage or servitude)
+                - obey your human masters in every respect
+                - not just just in your masters sight as people-pleasers
+                - with sincerity of heart, fearing the Lord
+                - whatever you do, work at it from the soul, as for the Lord and not for people
+                - you know from the Lord you will receive the inheritance as a reward
+                - it is to Lord Messiah you are giving service
+                - the one doing wrong will be paid back for what he did wrong - there is no favoritism
+            - Masters, give your slaves what is just and fair, knowing that you have a Master (God) in heaven.
+        - Devote yourselves to prayer, keeping alert in it with thanksgiving
+            - keep praying for us as well
+                - that God may open up a door for the message
+                    - to proclaim the mystery of Messiah
+                        - for which I am in prison
+                - that I may make the mystery clear, as I ought to speak
+        - Conduct yourselves with wisdom toward outsiders - making the most of the opportunity
+        - Let your speech always be
+            - with grace
+            - seasoned with salt
+            - to know how you ought to answer everyone
+- **Brothers and sisters in [[Laodicea\|Laodicea]]** 
+    - Paul wants their hearts, joined together in love, may be encouraged
+    - Paul wants them to have all the riches of the full assurance of understanding, leading to a true knowledge of the mystery of God - Messiah
+    - Paul sends greetings
+    - Paul wants the letter read to them
+- **Those who have not seen Paul face to face**
+    - Paul wants their hearts, joined together in love, may be encouraged
+    - Paul wants them to have all the riches of the full assurance of understanding, leading to a true knowledge of the mystery of God - Messiah
+- **Brothers among the circumcision - a comfort to Paul**
+    - [[Tychicus\|Tychicus]]
+        - dearly loved brother
+        - trustworthy servant
+        - fellow slave to the Lord
+        - will tell you all the news about Paul
+            - Paul sent him for this very purpose
+            - so you may know about us
+            - he may encourage your hearts
+            - will tell you about everything
+    - [[Onesimus\|Onesimus]]
+        - faithful and dear brother
+        - one of the Colossians
+        - will tell you about everything
+    - [[Aristarchus\|Aristarchus]]
+        - fellow prisoner of Paul's
+        - sends his greetings
+    - [[Zunpublished/Mark\|Zunpublished/Mark]]
+        - cousin of Barnabas
+        - sends his greetings
+        - the Saints and Faithful Brothers in Colossae has received instructions from him earlier
+        - NOTE: this is almost certainly the same John Mark from Acts, Philemon, and 2 Timothy. Also Plausible he is the one who authored Mark.
+    - Yeshua/Justus
+        - sends his greetings
+- **[[Epaphras\|Epaphras]]**
+    - one of the Colossians
+    - a slave of Messiah Yehsua
+    - sends his greetings
+    - laboring in prayer on the Saints and Faithful Brothers in Colossae behalf
+        - so they may stand complete and fully assured about everything that is God's will
+        - he has gone to much trouble for
+            - the Saints and Faithful Brothers in Colossae
+            - Saints and Faithful Brothers in Laodicea
+            - Saints and Faithful Brothers in Hierapolis
+- **[[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke\|Luke]]**
+    - dearly loved physician
+    - sends his greetings
+    - Note: Author of Luke and most likely of Acts
+- **[[Demas\|Demas]]**
+    - sends his greetings
+- **[[Nympha\|Nympha]]**
+    - Paul sends greetings
+    - the community meets in her house
+- **[[Archippus\|Archippus]]**
+    - see to it that you complete the service you have received in the Lord
+        - that you may fulfill it
+- **Deceivers - Those doing the judging** [[Deceivers in Colossians\|Deceivers in Colossians]]
+    - with persuasive-sounding arguments
+    - philosophy and empty deception
+        - according to the tradition of men
+        - according to the basic principles of the world rather than Messiah
+    - insisting on false humility and worship of angels
+        - going into detail about what he has seen
+        - puffed up without cause by his fleshly mind
+        - he is not holding fast to the Head (Messiah)
+        - Rules of the world
+            - don't handle, don't taste, don't touch
+            - these lead to decay with use
+            - they are man-made commands and teachings
+            - These matters have an appearance of wisdom in self-made religion and humility and self-denial of the body
+                - none are of any value for stopping indulgence of the flesh
+
+## [[Good News\|Good News]]
+
+- bearing fruit and growing
+    - Hyperlink: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] 1:28 be fruitful and multiple
+- **The father:**
+    - qualified "us" to share in the inheritance of the Saints in light (ohr).
+        - Us=Paul, Timothy, and the Saints and Faithful Brothers in Colossae
+        - Hyperlink: Numbers 26:53, Joshua 14:2 Inheritance of the land among Israel
+        - Hyperlink: Genesis 1:4 And Elohim saw the light, that it was tov (good); and Elohim divided the ohr (light) from the choshech (darkness).
+    - rescued us from the domain of darkness
+        - Hyperlink: Exodus 6:6 I will deliver you from slavery
+    - transferred us to the kingdom of his beloved son
+    - his good pleasure is for all the fullness to dwell in the beloved son
+    - raised the Messiah from the dead
+    - made //the body// alive when God pardoned all transgressions
+        - wiped out the handwritten record of debts with the decrees against //the body// hostile
+        - nailed the handwritten record of debts with the decrees to the cross
+        - disarming the principalities and powers
+            - made a public spectacle of them
+            - triumphing over them in the cross
+    - Because of idolatry his wrath is coming upon the sons of disobedience
+- **The Beloved Son:**
+    - in him "we" have redemption
+    - in him "we" have forgiveness of sins
+    - is the image of the invisible God
+    - firstborn of all creation
+        - by him all things were created through him and for him
+            - in heaven and earth
+            - visible and invisible
+            - thones, dominions, rulers, authorities
+        - Hyperlink: Genesis 1:1 in the beginning God created the heavens and earth
+    - is before all things
+    - in him all things hold together
+    - head
+        - of the body (community)
+        - over every ruler and authority
+    - the beginning, the first born from the dead
+        - Hyperlink: Psalm 89:27 I will make him the firstborn, the highest of the kings; Exodus 13:2 firstborn consecrated to God
+    - has first place in everything
+    - all the fullness dwells in him
+        - Fullness
+            - Greek: πλήρωμα (plērōma) – "fullness," meaning completeness or the totality of something
+            - Hebrew: מְלֹא (melo’) – "fullness" or "abundance," denoting that which fills or the state of being full, akin to God’s complete essence.
+    - reconciled all things to himself
+        - himself - grammatically it appears to be The Son, how theological though says it is The Father.
+    - made peace through the blood of the cross
+        - Hyperlink: Leviticus 16:15-16 atonement by blood
+    - has reconciled "you" in his body of flesh through death
+        - in order to present you before the father holy and blameless and beyond reproach
+        - IF you continue in the faith
+            - firmly established and steadfast
+            - not moving away from the hope of the good news
+                - the good news proclaimed in all creation under heaven
+        - You = you who were formerly alienated and hostile in mind, engaged in evil deeds
+    - mystery of God - Messiah
+        - glorious mystery regarding the nations (gentiles) which is him, the hope of glory
+    - Paul and Timothy proclaim him, warning and teaching everyone in all wisdom
+    - all the treasures of wisdom and knowledge are hidden in him
+    - all the fullness of deity lives bodily in him
+    - in him "you" have been filled to fullness.
+    - in him you were circumcised with a circumcision done not by hand
+        - stripping away the body of the flesh
+    - buried in immersion, raised by God from the dead
+    - From him the whole body, nourished and held together by its joints and tendons, grows with a godly increase
+    - is sitting at the right hand of God
+    - lives are hidden with him in God
+        - is our life,
+        - will be revealed
+
+## Repeated words
+
+- [[Christ\|Christ]]
+- [[Lord\|Lord]]
+- [[God\|God]] [[YHWH\|YHWH]] 
+- things
+- [[Zunpublished/Jesus\|Jesus]]
+- [[saints\|saints]]
+- [[Zunpublished/Faith\|Faith]]
+- [[Zunpublished/Love\|Love]]
+- [[hope\|hope]]
+- [[gospel\|gospel]]
+- body
+- [[death\|death]]
+- fullness
+- [[Zunpublished/Wisdom\|Wisdom]]
+- [[Gate of Wisdom/Tree/Knowledge\|Gate of Wisdom/Tree/Knowledge]]
+- [[Gate of Wisdom/Offering/Peace\|Gate of Wisdom/Offering/Peace]]
+- [[heart\|heart]]
+- word
+
+## Hyperlinks:
+
+- [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deuteronomy\|Deuteronomy]] 10:16 circumcise therefore the foreskin of your heart; [[Deuteronomy10\|Deuteronomy10]]
+- [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|Jeremiah]] 4:4 circumcise yourself to the Lord [[Jeremiah4\|Jeremiah4]]
+- [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] 14;22 Israel passing through the Red Sea; [[Exodus14\|Exodus14]]
+- [[The Scrolls/2. Nevi'im (Prophets)/06 - Joshua/Joshua\|Joshua]] 3:17 crossing the Jordan [[Joshua3\|Joshua3]]
+- [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deuteronomy\|Deuteronomy]]Deuteronomy 4:19 [[Deuteronomy4\|Deuteronomy4]]
+- [[Isaiah Book of\|Isaiah Book of]] 29:13 [[Isaiah29\|Isaiah29]]
+- [[_My Bible/01 Genesis/Genesis 1\|Genesis 1]]:28 be fruitful and multiple [[Genesis1\|Genesis1]] 
+- [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Numbers\|Numbers]] 26:53, [[Numbers26\|Numbers26]]
+- [[The Scrolls/2. Nevi'im (Prophets)/06 - Joshua/Joshua\|Joshua]] 14:2 Inheritance of the land among Israel [[Joshua14\|Joshua14]]
+- [[_My Bible/01 Genesis/Genesis 1\|Genesis 1]]:4 And Elohim saw the light, that it was tov (good); and Elohim divided the ohr (light) from the choshech (darkness). [[Genesis1\|Genesis1]] 
+- [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] 6:6 I will deliver you from slavery [[Exodus6\|Exodus6]]
+- [[_My Bible/01 Genesis/Genesis 1\|Genesis 1]]:1 in the beginning God created the heavens and earth [[Genesis1\|Genesis1]] 
+- [[The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Psalm\|Psalm]] 89:27 I will make him the firstborn, the highest of the kings; [[Psalm89\|Psalm89]]
+- [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] 13:2 firstborn consecrated to God [[Exodus13\|Exodus13]]
+- [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Leviticus\|Leviticus]] 16:15-16 atonement by blood [[Leviticus16\|Leviticus16]]
+
+> _Yada, the Hebrew word meaning, “**to know**,_

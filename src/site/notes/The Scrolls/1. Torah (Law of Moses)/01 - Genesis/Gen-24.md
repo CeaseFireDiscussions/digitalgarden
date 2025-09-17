@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-24/","tags":["TheScrolls","#TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-24/","tags":["#TheScrolls","#TorahLawofMoses"]}
 ---
 
 
@@ -8,7 +8,7 @@
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23\|← Genesis 23]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Genesis 25 →]]
 ***
 
-# [[The Scrolls/The Scrolls Archaeology/Gen-24 Archaeology\|Gen-24 Archaeology]]
+# [[Yada Yada Pauses/01 Gen-24 Yada Yada\|01 Gen-24 Yada Yada]]
 
 # WEB Version
 
@@ -230,4 +230,4 @@ Isaac brought her into his mother Sarah's tent, and took Rebekah, and she became
 
 [^4]: [[Zunpublished/Seed\|Seed]] Abraham's - part of the [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]] Covenant
 
-[^5]: [[Gate of Wisdom/Idiom\|Idiom]] Meaning: A solemn oath-taking gesture, signifying a binding commitment.
+[^5]: [[Gate of Wisdom/Idiom\|Idiom]] Please put your hand under my thigh = A solemn oath-taking gesture, signifying a binding commitment.

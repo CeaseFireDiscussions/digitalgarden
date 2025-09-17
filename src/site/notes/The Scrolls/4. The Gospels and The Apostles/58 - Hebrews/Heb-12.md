@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/58-hebrews/heb-12/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/58-hebrews/heb-12/","tags":["#TheScrolls","#TorahLawofMoses"]}
 ---
 
 
@@ -138,8 +138,8 @@ for our God is a consuming fire.
 
 [^19]: [[Zunpublished/Evidence\|Evidence]] Trumpet - Words - God's presence
 
-[^20]: [[Gate of Wisdom/Idiom\|Idiom]] Run with perseverance the race ... A common athletic idiom from Greek culture, depicting the Christian life as an endurance race requiring steadfast effort.
+[^20]: [[Gate of Wisdom/Idiom\|Idiom]] Run with perseverance the race = A common athletic idiom from Greek culture, depicting the Christian life as an endurance race requiring steadfast effort.
 
-[^21]: [[Gate of Wisdom/Idiom\|Idiom]] - Right hand of the throne ... A positional idiom signifying authority and honor in God's presence, drawn from royal imagery.
+[^21]: [[Gate of Wisdom/Idiom\|Idiom]] - Right hand of the throne = A positional idiom signifying authority and honor in God's presence, drawn from royal imagery.
 
-[^22]: [[Gate of Wisdom/Idiom\|Idiom]]  - Resisted to the point of shedding your blood ... An idiom for extreme opposition or martyrdom, echoing battle language.
+[^22]: [[Gate of Wisdom/Idiom\|Idiom]]  - Resisted to the point of shedding your blood = An idiom for extreme opposition or martyrdom, echoing battle language.
