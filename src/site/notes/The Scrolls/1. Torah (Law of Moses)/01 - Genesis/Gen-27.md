@@ -59,7 +59,7 @@ You shall bring it to your father, that he may eat, so that he may bless you bef
 Jacob said to Rebekah his mother, "Behold, Esau my brother is a hairy man, and I am a smooth man. 
 
 ###### v12 
-What if my father touches me? I will seem to him as a deceiver, and I would bring a curse on myself, and not a blessing." 
+What if my father touches me? I will seem to him as a deceiver, and I would bring a curse on myself, and not a [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]." 
 
 ###### v13 
 His mother said to him, "[^2]Let your curse be on me, my son. Only obey my voice, and go get them for me." 
@@ -131,13 +131,13 @@ When Esau heard the words of his father, he cried with an exceedingly great and 
 He said, "Your brother came with deceit, and has taken away your blessing." 
 
 ###### v36 
-He said, "Isn't he rightly named Jacob? For he has supplanted me these two times. He took away my birthright. See, now he has taken away my blessing." He said, "Haven't you reserved a blessing for me?" 
+He said, "Isn't he rightly named Jacob? For he has supplanted me these two times. He took away my [[Gate of Wisdom/Birthright\|Birthright]]. See, now he has taken away my  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]." He said, "Haven't you reserved a blessing for me?" 
 
 ###### v37 
 Isaac answered Esau, "Behold, I have made him your lord, and all his brothers I have given to him for servants. I have sustained him with grain and new wine. What then will I do for you, my son?" 
 
 ###### v38 
-Esau said to his father, "Do you have just one blessing, my father? Bless me, even me also, my father." Esau lifted up his voice, and wept. 
+Esau said to his father, "Do you have just one  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]], my father? Bless me, even me also, my father." Esau lifted up his voice, and wept. 
 
 ###### v39 
 Isaac his father answered him, "Behold, your dwelling will be of the fatness of the earth, and of the dew of the sky from above. 

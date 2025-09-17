@@ -170,7 +170,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 
 [^8]: [[Zunpublished/Curse\|Curse]] Esau sold his inheritance and birthright
 
-[^9]: [[Zunpublished/Inheritance\|Inheritance]] through Jesus
+[^9]: [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]] through Jesus
 
 [^10]: [[Zunpublished/Life\|Life]] Obedience to God brings life
 

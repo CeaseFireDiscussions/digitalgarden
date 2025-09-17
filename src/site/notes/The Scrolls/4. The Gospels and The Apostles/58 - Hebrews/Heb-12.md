@@ -114,7 +114,7 @@ for our God is a consuming fire.
 
 [^7]: [[Zunpublished/Curse\|Curse]] Esau sold his inheritance and birthright
 
-[^8]: [[Zunpublished/Inheritance\|Inheritance]] through Jesus
+[^8]: [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]] through Jesus
 
 [^9]: [[Zunpublished/Life\|Life]] Obedience to God brings life
 
