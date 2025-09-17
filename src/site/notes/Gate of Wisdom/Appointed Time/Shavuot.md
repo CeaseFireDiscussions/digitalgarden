@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/shavuot/","tags":["GateWisdom","#AppointedTime"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/shavuot/","tags":["#GateWisdom","#AppointedTime"]}
 ---
 
 

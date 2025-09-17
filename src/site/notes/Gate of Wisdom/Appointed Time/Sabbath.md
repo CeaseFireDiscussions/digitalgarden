@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/sabbath/","tags":["#GateWisdom","#AppointedTime"]}
 ---
 
+The Hebrew word for Sabbath is שַׁבָּת (pronounced "Shabbat"). It comes from the root שׁבת (shavat), meaning "to rest" or "to cease." 
+
+
 # Who Observes?
 
 - Genesis 2 :2-3
@@ -448,3 +451,7 @@ The Sabbath was the only thing created after Man. Sabbath was made for man.
 	- 10:25
 - Revelation
 	- 1:10
+
+# Connections
+- [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest Not for Christians (01-Gen 02)\|The Seventh Day Rest Not for Christians (01-Gen 02)]]

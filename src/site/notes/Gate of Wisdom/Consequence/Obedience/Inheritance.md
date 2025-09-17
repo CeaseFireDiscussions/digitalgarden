@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/obedience/inheritance/","tags":["#GateWisdom","#ConcequenceObedience"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/obedience/inheritance/","tags":["#GateWisdom","ConcequenceObedience"]}
 ---
 
 # Father's Inheritance (Human Father)
