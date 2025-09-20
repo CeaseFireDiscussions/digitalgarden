@@ -11,6 +11,23 @@ Have an open mind and be willing to learn, even if you just can’t bring yourse
 
 Thank you for joining us on these Cease Fire Moments.
 
+# Highlight Legend:
+
+#### My thoughts and observations
+- <mark style="background: #E0CC4BA6;">Who</mark>
+- <mark style="background: #04CD3EA6;">What</mark>
+- <mark style="background: #D2B3FFA6;">When</mark>
+- <mark style="background: #4DA6EDA6;">Where</mark>
+- <mark style="background: #E6852CA6;">Why Purpose</mark>
+- <mark style="background: #EB9E57A6;">Why Reason</mark>
+- <mark style="background: #FFB86CA6;">How</mark>
+- <mark style="background: #CACFD9A6;">Question</mark>
+- <mark style="background: #CD04BBA6;">In line note</mark>
+- <mark style="background: #4DA6EDA6;">General Highlight</mark>
+- <mark style="background: #FFF3A3A6;">General Highlight</mark>
+- <mark style="background: #B1C6E8A6;">Consequence</mark>
+- 
+
 # The [[Sacred Truces/_Sacred Truces\|_Sacred Truces]] Moments
 
 During times of great important to those doing battle, a sacred truce would be called. The Greeks had a time called 'ekecheiria' which means "to hold hands." It allowed the warriors to have a safe time to celebrate, reflect, and participate in something of importance to them. One of the most notable ekecheira times is the Olympic Games. It was a time to be without fear of attack. 
