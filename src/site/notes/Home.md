@@ -37,8 +37,8 @@ Thank you for joining us on these Cease Fire Moments.
 - Why
 	- <mark style="background: #E6852CA6;">Why Purpose</mark>
 	- <mark style="background: #EB9E57A6;">Why Reason</mark>
-	- Conditional IF Then
-- <mark style="background: #FFB86CA6;">How</mark>
+	- <mark style="background: #CFA57FA6;">Conditional IF Then</mark>
+- How
 	- Ruach / Holy Sprit Gift or Fruit
 	- Seed
 - <mark style="background: #CACFD9A6;">Question and Answer</mark>
