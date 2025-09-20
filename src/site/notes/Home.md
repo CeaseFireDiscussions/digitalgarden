@@ -32,8 +32,8 @@ Thank you for joining us on these Cease Fire Moments.
 - <mark style="background: #D2B3FFA6;">When</mark>
 	- <mark style="background: #A284CDA6;">Appointed Time</mark>
 - <mark style="background: #4DA6EDA6;">Where</mark>
-	- Dwelling Place
-	- Tabernacle or Tabernacle Elements
+	- <mark style="background: #397CB2A6;">Dwelling Place</mark>
+	- <mark style="background: #258FE5A6;">Tabernacle or Tabernacle Elements</mark>
 - Why
 	- <mark style="background: #E6852CA6;">Why Purpose</mark>
 	- <mark style="background: #EB9E57A6;">Why Reason</mark>
