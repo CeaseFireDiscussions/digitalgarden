@@ -24,3 +24,21 @@ Isaiah 46
 - **Modern Location**: 
 	- Babylon: Near modern-day Hillah, Babil Governorate, Iraq
 	- Israel/Judah: Modern-day Israel and parts of the West Bank
+
+# The Babylonians
+- [^9][[Gate of Wisdom/Beings/Bel\|Bel]] 
+	- [^3]bows down. 
+	- Nebo //Babylonian god// stoops. 
+	- Their //[[Gate of Wisdom/Beings/Babylonians\|Babylonians]]// [^1]idols are
+		- [^10]carried 
+			- by animals, 
+			- and on the livestock. 
+			- The things that you //Babylonians// carried around are 
+				- heavy loads, 
+				- a burden for the weary. [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-11#v30\|Matt-11:30]]
+	- They stoop and [^5]they bow down 
+		- together. //the Babylonians and their gods//
+		- They could not deliver 
+			- the burden, 
+				- but they //the Babylonian gods// have 
+					- gone into captivity. 
