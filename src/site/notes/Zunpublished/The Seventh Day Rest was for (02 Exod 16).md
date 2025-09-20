@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/the-seventh-day-rest-was-for-02-exod-16/","tags":["#OliveBranch","#Sabbath","#unpublished"]}
+{"dg-publish":true,"permalink":"/zunpublished/the-seventh-day-rest-was-for-02-exod-16/","tags":["#OliveBranch","#Sabbath","unpublished"]}
 ---
 
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 

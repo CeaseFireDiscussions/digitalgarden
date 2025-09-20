@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-46-yada-yada/","tags":["TheScrolls","Neviim","YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-46-yada-yada/","tags":["#TheScrolls","#Neviim","#YadaYadaPauses"]}
 ---
 
 # Author and Authorship Date:
 
-- **Author**: Isaiah.
+- **Author**: <mark style="background: #E0CC4BA6;">Isaiah</mark>.
 - **When Authored**: Approximately 8th century BC (circa 740–700 BC); Addressing the future exile in Babylon (6th century BC).
 - **Audience**: [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]], [[Gate of Wisdom/Beings/House of Jacob\|House of Jacob]], [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]] [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]] 
 	- Particularly the descendants of Jacob, which refers to the nation of Judah (the southern kingdom) and possibly the remnants of the northern kingdom (Israel) after its fall to Assyria (722 BC).
@@ -24,7 +24,7 @@
 	- Babylon: Near modern-day Hillah, Babil Governorate, Iraq
 	- Israel/Judah: Modern-day Israel and parts of the West Bank
 
-# Isaiah 46
+# Isaiah 46 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-46\|Isa-46]]
 
 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
 ***
@@ -48,7 +48,7 @@
 					- gone into captivity. 
 
 # The House of Jacob and House of Israel
-- "Listen to me, [[Gate of Wisdom/Beings/House of Jacob\|House of Jacob]], and all the remnant of the [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]] #3, 
+- "Listen to me, [[Gate of Wisdom/Beings/House of Jacob\|House of Jacob]], and all the remnant of the [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]] <mark style="background: #F309DDA6;">//#3,//</mark> 
 	- that have been carried from their birth, 
 	- that have been carried from the womb. 
 	- Even to old age 

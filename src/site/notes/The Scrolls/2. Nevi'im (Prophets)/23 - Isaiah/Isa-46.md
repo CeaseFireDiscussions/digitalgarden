@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/23-isaiah/isa-46/","tags":["TheScrolls","Neviim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/23-isaiah/isa-46/","tags":["#TheScrolls","#Neviim"]}
 ---
 
 # Author and Authorship Date:
@@ -23,7 +23,7 @@
 	- Babylon: Near modern-day Hillah, Babil Governorate, Iraq
 	- Israel/Judah: Modern-day Israel and parts of the West Bank
 
-# Isaiah 46
+# Isaiah 46 [[Yada Yada Pauses/23 Isa-46 Yada Yada\|23 Isa-46 Yada Yada]]
 
 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
 ***

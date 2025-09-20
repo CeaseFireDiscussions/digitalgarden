@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-27/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-27/","tags":["#TheScrolls","#TorahLawofMoses"]}
 ---
 
 # Author and Authorship Date:
@@ -20,7 +20,7 @@
 - When: During the patriarchal period, approximately 1800–1700 BC, based on biblical chronology.
 
 
-# Genesis 27
+# Genesis 27 [[Yada Yada Pauses/01 Gen-27 Yada Yada\|01 Gen-27 Yada Yada]]
 
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|← Genesis 26]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Genesis 28 →]]
 ***
