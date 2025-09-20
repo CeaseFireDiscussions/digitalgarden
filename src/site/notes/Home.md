@@ -14,19 +14,39 @@ Thank you for joining us on these Cease Fire Moments.
 # Highlight Legend:
 
 #### My thoughts and observations
+- // Inserted thought or note //
+	- <mark style="background: #CD04BBA6;">In line note</mark>
+	- <mark style="background: #4DA6EDA6;">General Highlight</mark>
+	- <mark style="background: #FFF3A3A6;">General Highlight</mark>
 - <mark style="background: #E0CC4BA6;">Who</mark>
+	- Seed
+	- Tree
 - <mark style="background: #04CD3EA6;">What</mark>
+	- <mark style="background: #B1C6E8A6;">Consequence</mark>
+	- Good News
+	- Instructions (law, command)
+	- Offering
+	- Righteous / Unrighteous
+	- Separation from Yah-God, Death
+	- Abomination
 - <mark style="background: #D2B3FFA6;">When</mark>
+	- <mark style="background: #BBFABBA6;">Appointed Time</mark>
 - <mark style="background: #4DA6EDA6;">Where</mark>
-- <mark style="background: #E6852CA6;">Why Purpose</mark>
-- <mark style="background: #EB9E57A6;">Why Reason</mark>
+	- Dwelling Place
+	- Tabernacle or Tabernacle Elements
+- Why
+	- <mark style="background: #E6852CA6;">Why Purpose</mark>
+	- <mark style="background: #EB9E57A6;">Why Reason</mark>
+	- Conditional IF Then
 - <mark style="background: #FFB86CA6;">How</mark>
+	- Ruach / Holy Sprit Gift or Fruit
+	- Seed
 - <mark style="background: #CACFD9A6;">Question and Answer</mark>
-- <mark style="background: #CD04BBA6;">In line note</mark>
-- <mark style="background: #4DA6EDA6;">General Highlight</mark>
-- <mark style="background: #FFF3A3A6;">General Highlight</mark>
-- <mark style="background: #B1C6E8A6;">Consequence</mark>
-- <mark style="background: #BBFABBA6;">Appointed Time</mark>
+- 
+- 
+- 
+- 
+- 
 
 # The [[Sacred Truces/_Sacred Truces\|_Sacred Truces]] Moments
 
