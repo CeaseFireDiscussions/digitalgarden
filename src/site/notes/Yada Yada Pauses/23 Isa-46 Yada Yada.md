@@ -6,7 +6,8 @@
 
 - **Author**: Isaiah.
 - **When Authored**: Approximately 8th century BC (circa 740–700 BC); Addressing the future exile in Babylon (6th century BC).
-- **Audience**: [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] (specifically [[Zunpublished/House of Judah\|House of Judah]], the southern kingdom)
+- **Audience**: [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]], [[Gate of Wisdom/Beings/House of Jacob\|House of Jacob]], [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]] [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]] 
+	- Particularly the descendants of Jacob, which refers to the nation of Judah (the southern kingdom) and possibly the remnants of the northern kingdom (Israel) after its fall to Assyria (722 BC).
 
 # Setting and Main Storyline:
 

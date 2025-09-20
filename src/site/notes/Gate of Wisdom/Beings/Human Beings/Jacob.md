@@ -23,7 +23,7 @@
 - Other Descendants of Note:
 	- Descendants as a group become known as the [[Zunpublished/Israelites\|Israelites]]
 		- The group will eventually split into to Houses
-			- [[Zunpublished/House of Judah\|House of Judah]]
+			- [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
 			- [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
 -  
 

@@ -9,7 +9,7 @@
 
 # Related words
 - [[Gate of Wisdom/Beings/House of Jacob\|House of Jacob]]
-- [[Zunpublished/House of Judah\|House of Judah]]
+- [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
 - [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
 
 # Additional Info
