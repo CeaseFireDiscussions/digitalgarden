@@ -16,8 +16,8 @@ Thank you for joining us on these Cease Fire Moments.
 #### My thoughts and observations
 - // Inserted thought or note //
 	- <mark style="background: #CD04BBA6;">In line note</mark>
-	- <mark style="background: #4DA6EDA6;">General Highlight</mark>
-	- <mark style="background: #FFF3A3A6;">General Highlight</mark>
+	- <mark style="background: #FF9EF6A6;">General Highlight</mark>
+	- <mark style="background: #F309DDA6;">General Highlight</mark>
 - <mark style="background: #E0CC4BA6;">Who</mark>
 	- <mark style="background: #DDCC5EA6;">Seed</mark>
 	- <mark style="background: #BAAC50A6;">Tree</mark>
