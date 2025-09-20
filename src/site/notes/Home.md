@@ -30,7 +30,7 @@ Thank you for joining us on these Cease Fire Moments.
 	- <mark style="background: #4AB867A6;">Separation from Yah-God, Death</mark>
 	- <mark style="background: #2AC052A6;">Abomination</mark>
 - <mark style="background: #D2B3FFA6;">When</mark>
-	- <mark style="background: #BBFABBA6;">Appointed Time</mark>
+	- <mark style="background: #A284CDA6;">Appointed Time</mark>
 - <mark style="background: #4DA6EDA6;">Where</mark>
 	- Dwelling Place
 	- Tabernacle or Tabernacle Elements
