@@ -115,6 +115,11 @@
 - Jeremiah 10:3-5 – Ridicules idols as powerless and unable to move, similar to the burden of idols in Isaiah 46:1-2.
 - Hosea 13:2-4 [[Hosea-13#v2\|Hosea-13:2]][[Hosea-13#v3\|Hosea-13#v3]][[Hosea-13#v4\|-4]] – Condemns idolatry and affirms God as Israel’s only savior, aligning with God’s role in Isaiah 46:4, 13.
 - Zephaniah 3:17 – Depicts God as a saving and sustaining presence for His people, like His promise to carry Israel in Isaiah 46:4.
+- Psalm 96:4-5 YHWH is exalted above all other gods, which are described as "idols" (or "nothing" in some translations), implying they lack real power or existence compared to YHWH, who created the heavens.
+- Exodus 12:12 During the Passover, YHWH’s judgment on Egypt’s firstborn is also described as a judgment against Egypt’s gods, showing His supremacy over their pantheon (e.g., gods like Ra, Osiris, or Anubis, though not named in the text)
+- 1 Kings 18:25-39 This narrative directly pits YHWH against Baal, demonstrating YHWH’s power and Baal’s impotence
+
+
 
 ***
 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
