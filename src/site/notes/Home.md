@@ -19,8 +19,8 @@ Thank you for joining us on these Cease Fire Moments.
 	- <mark style="background: #4DA6EDA6;">General Highlight</mark>
 	- <mark style="background: #FFF3A3A6;">General Highlight</mark>
 - <mark style="background: #E0CC4BA6;">Who</mark>
-	- Seed
-	- Tree
+	- <mark style="background: #DDCC5EA6;">Seed</mark>
+	- <mark style="background: #BAAC50A6;">Tree</mark>
 - <mark style="background: #04CD3EA6;">What</mark>
 	- <mark style="background: #B1C6E8A6;">Consequence</mark>
 	- Good News
