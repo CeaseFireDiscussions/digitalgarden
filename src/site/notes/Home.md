@@ -21,12 +21,12 @@ Thank you for joining us on these Cease Fire Moments.
 - <mark style="background: #E6852CA6;">Why Purpose</mark>
 - <mark style="background: #EB9E57A6;">Why Reason</mark>
 - <mark style="background: #FFB86CA6;">How</mark>
-- <mark style="background: #CACFD9A6;">Question</mark>
+- <mark style="background: #CACFD9A6;">Question and Answer</mark>
 - <mark style="background: #CD04BBA6;">In line note</mark>
 - <mark style="background: #4DA6EDA6;">General Highlight</mark>
 - <mark style="background: #FFF3A3A6;">General Highlight</mark>
 - <mark style="background: #B1C6E8A6;">Consequence</mark>
-- 
+- <mark style="background: #BBFABBA6;">Appointed Time</mark>
 
 # The [[Sacred Truces/_Sacred Truces\|_Sacred Truces]] Moments
 
