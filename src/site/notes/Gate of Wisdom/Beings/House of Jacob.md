@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/house-of-jacob/","tags":["#GateWisdom","#Being"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/house-of-jacob/","tags":["#GateWisdom","Being"]}
 ---
 
 

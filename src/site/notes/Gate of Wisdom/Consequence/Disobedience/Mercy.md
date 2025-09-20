@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/mercy/","tags":["#GateWisdom","#ConsequenceDisobedience"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/mercy/","tags":["#GateWisdom","ConsequenceDisobedience"]}
 ---
 
 rachamim" (רַחֲמִים).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/the-seventh-day-rest-was-for-02-exod-16/","tags":["#OliveBranch","#Sabbath","unpublished"]}
+{"dg-publish":true,"permalink":"/zunpublished/the-seventh-day-rest-was-for-02-exod-16/","tags":["#OliveBranch","#Sabbath","#unpublished"]}
 ---
 
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
@@ -112,7 +112,7 @@ So the people rested on the seventh day.
 ## **Define**: 
 - Congregation: ēḏāh (עֵדָה) refers to a group of people assembled or gathered together, often with a sense of unity or purpose. It can denote a community, assembly, or congregation, particularly in a religious or communal context.
 	- In the New Testament the Greek word is ekklēsia (ἐκκλησία) a gathering or assembly of people, often for a specific purpose, such as a public meeting or community. This word is typically translated as "church."
-- Israel: 
+- [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]: All the people, both Hebrew and foreigners, who came out of Egypt.
 
 ## **Who**:
 -  They - They gathered ... 
