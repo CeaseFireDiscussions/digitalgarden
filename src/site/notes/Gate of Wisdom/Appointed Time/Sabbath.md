@@ -456,4 +456,4 @@ The Sabbath was the only thing created after Man. Sabbath was made for man.
 
 # Connections
 - [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest Was for Yah-God (01-Gen 02)\|The Seventh Day Rest Was for Yah-God (01-Gen 02)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest for Yah-God (01-Gen 02)\|The Seventh Day Rest for Yah-God (01-Gen 02)]]
