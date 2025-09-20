@@ -32,19 +32,19 @@
 # The Babylonians
 - [^9][[Gate of Wisdom/Beings/Bel\|Bel]] 
 	- [^3]bows down. 
-	- Nebo //Babylonian god// stoops. 
-	- Their //[[Gate of Wisdom/Beings/Babylonians\|Babylonians]]// [^1]idols are
+	- Nebo <mark style="background: #CD04BBA6;">//Babylonian god//</mark> stoops. 
+	- Their<mark style="background: #CD04BBA6;"> //</mark>[[Gate of Wisdom/Beings/Babylonians\|Babylonians]]<mark style="background: #CD04BBA6;">//</mark> [^1]idols are
 		- [^10]carried 
 			- by animals, 
 			- and on the livestock. 
-			- The things that you //Babylonians// carried around are 
+			- The things that you <mark style="background: #CD04BBA6;">//Babylonians//</mark> carried around are 
 				- heavy loads, 
 				- a burden for the weary. [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-11#v30\|Matt-11:30]]
 	- They stoop and [^5]they bow down 
-		- together. //the Babylonians and their gods//
+		- together. <mark style="background: #CD04BBA6;">//the Babylonians and their gods//</mark>
 		- They could not deliver 
 			- the burden, 
-				- but they //the Babylonian gods// have 
+				- but they <mark style="background: #CD04BBA6;">//the Babylonian gods//</mark> have 
 					- gone into captivity. 
 
 # The House of Jacob and House of Israel
@@ -66,7 +66,7 @@
 			- and he makes it a god. 
 			- They fall down-- 
 				- yes, they worship. 
-		- They bear it //the idol, god// 
+		- They bear it <mark style="background: #CD04BBA6;">//the idol, god//</mark> 
 			- on their shoulder. 
 			- They carry it, 
 			- and set it in its place, 
@@ -102,7 +102,7 @@
 					- It is not far off, 
 					- and my salvation will not wait. 
 						- I will grant salvation to Zion, 
-							- my glory to Israel //House of Israel//.
+							- my glory to Israel <mark style="background: #CD04BBA6;">//House of Israel//</mark>.
 
 # Repeated Words
 - God (6)
