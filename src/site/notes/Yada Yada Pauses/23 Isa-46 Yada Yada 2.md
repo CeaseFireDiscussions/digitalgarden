@@ -55,5 +55,4 @@ The Babylonians
 			- and I will bear. 
 				- Yes, [^4]I will carry, 
 				- and [^6]will deliver. 
-	- "<mark style="background: #CACFD9A6;">To whom will you 
-		- compare me, and consider my equal, and compare me, as if we were the same?</mark> 
+	
