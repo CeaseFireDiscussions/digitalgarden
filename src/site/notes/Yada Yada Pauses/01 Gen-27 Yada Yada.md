@@ -32,9 +32,9 @@
 	- his elder son, 
 	- and said to him, 
 		- "My son?" 
-			- He //Esau// said to him //Isaac/, 
+			- He <mark style="background: #CD04BBA6;">//Esau//</mark> said to him<mark style="background: #CD04BBA6;"> //Isaac/</mark>, 
 				- "Here I am." 
-	- He //Isaac// said, 
+	- He <mark style="background: #CD04BBA6;">//Isaac//</mark> said, 
 		- "See now, 
 			- <mark style="background: #EB9E57A6;">I am old</mark>. 
 			- I don't know the day of my [^1]death. 
@@ -103,7 +103,7 @@
 #### Jacob doesn't want to do this, he has a dilemma as to whether to listen to his mother or not. 
 
 - His mother said 
-	- to him //Jacob//,
+	- to him <mark style="background: #CD04BBA6;">//Jacob/</mark>/,
 		- "[^2]Let your curse be on me, 
 			- my son. 
 		- Only obey my voice, 
@@ -141,57 +141,57 @@
 
 #### Eden - Yah made clothes for Adam and Eve
 
-- He //Jacob// came 
+- He <mark style="background: #CD04BBA6;">//Jacob//</mark> came 
 	- to his father, 
 	- and said, 
 		- "My father?" 
-	- He //Isaac// said, 
+	- He <mark style="background: #CD04BBA6;">//Isaac//</mark> said, 
 		- "Here I am. 
 		- Who are you, my son?"
 			- Jacob said 
 				- to his father, 
-					- "I am Esau // [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie//
-						- your firstborn.   //[[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie//
-						- I have done what you asked me to do.  //[[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie//
-							- Please arise, sit and eat of my venison, // [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie//
+					- "I am Esau <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #CD04BBA6;">Lie # 1//</mark>
+						- your firstborn.   <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #CD04BBA6;">Lie # 2//</mark>
+						- I have done what you asked me to do.  <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #CD04BBA6;">Lie # 3//</mark>
+							- Please arise, sit and eat of my venison, <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #CD04BBA6;">Lie #4//</mark>
 								- that your soul may bless me." 
 		- Isaac said 
 			- to his son, 
-				- "How is it that you have found it so quickly, my son?" //Suspicion # 1//
+				- "How is it that you have found it so quickly, my son?" <mark style="background: #CD04BBA6;">//Suspicion # 1//</mark>
 					- He //Jacob// said, 
 						- "Because Yahweh 
 							- your God 
-								- gave me success."  // [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie//
+								- gave me success."  <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #CD04BBA6;">Lie # 5//</mark>
 		- Isaac said 
 			- to Jacob, 
 				- "Please come near, 
 					- that I may feel you, 
 						- my son, 
 						- whether you are really my son 
-							- Esau or not." //Suspicion # 2//
+							- Esau or not." <mark style="background: #CD04BBA6;">//Suspicion # 2//</mark>
 				- Jacob went near 
 					- to Isaac 
 						- his father. 
-					- He //Isaac// felt him //Jacob//, 
+					- He <mark style="background: #CD04BBA6;">//Isaac//</mark> felt him <mark style="background: #CD04BBA6;">//Jacob//</mark>, 
 					- and said, 
 						- "The voice is Jacob's voice, 
-							- but the hands are the hands of Esau." //Suspicion # 3//
-							- He //Isaac// didn't recognize him //Jacob//, 
+							- but the hands are the hands of Esau." /<mark style="background: #CD04BBA6;">/Suspicion # 3//</mark>
+							- He <mark style="background: #CD04BBA6;">//Isaac//</mark> didn't recognize him <mark style="background: #CD04BBA6;">//Jacob//</mark>, 
 								- because his //Jacob// hands were hairy, 
 									- like his brother Esau's hands. 
 										- <mark style="background: #4DA6EDA6;">So he //Isaac// blessed him //Jacob//. </mark>
 							- He said, 
-								- "Are you really my son Esau?"  //Suspicion # 4//
+								- "Are you really my son Esau?"  <mark style="background: #CD04BBA6;">//Suspicion # 4//</mark>
 									- He //Jacob// said, 
-										- "I am."  [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie
+										- "I am."   <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #CD04BBA6;">Lie # 6//</mark>
 				- He said, 
 					- "Bring it near to me, 
 					- and I will eat of my son's venison, 
 						- that my soul may bless you." 
-					- He //Jacob// brought it near 
-						- to him //Isaac//, 
+					- He <mark style="background: #CD04BBA6;">//Jacob//</mark> brought it near 
+						- to him <mark style="background: #CD04BBA6;">//Isaac//</mark>, 
 						- and he ate. 
-					- He //Jacob// brought him //Isaac// 
+					- He <mark style="background: #CD04BBA6;">//Jacob//</mark> brought him <mark style="background: #CD04BBA6;">//Isaac//</mark> 
 						- wine, 
 							- and he drank
 				- His father Isaac 
@@ -199,9 +199,9 @@
 						- "Come near now, 
 						- and kiss me, 
 							- my son."
-							- He //Jacob// came near, 
-								- and kissed him //Isaac//. 
-							- He //Isaac// smelled the smell of his clothing, //Suspicion # 5//
+							- He <mark style="background: #CD04BBA6;">//Jacob//</mark> came near, 
+								- and kissed him <mark style="background: #CD04BBA6;">//Isaac//</mark>. 
+							- He //Isaac// smelled the smell of his clothing, <mark style="background: #CD04BBA6;">//Suspicion # 5//</mark>
 							- <mark style="background: #4DA6EDA6;">and blessed him</mark>, 
 								- and said, 
 									- "Behold, the smell of my son is as the smell of a field which Yahweh has blessed. 
@@ -214,9 +214,9 @@
 	- of the fatness 
 		- of the earth, 
 	- and plenty of grain and new wine. 
-- Let peoples //ammim (עַמִּים).//
+- Let peoples <mark style="background: #CD04BBA6;">//ammim (עַמִּים).//</mark>
 	- serve you, 
-- and nations //le’ummim (לְאֻמִּים)//
+- and nations <mark style="background: #CD04BBA6;">//le’ummim (לְאֻמִּים)//</mark>
 	- bow down to you. 
 - Be lord over your brothers. 
 	- Let your mother's sons bow down to you. 
@@ -268,18 +268,18 @@
 		- with an exceedingly great and bitter cry, 
 	- and said to his father, 
 		- "Bless me, even me also, my father." 
-			- He //Isaac// said, 
+			- He <mark style="background: #CD04BBA6;">//Isaac//</mark> said, 
 				- "Your brother came 
 					- with deceit, 
 					- and has taken away 
-						- your [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]."  //Doesn't say your birthright//
-	- He //Esau// said, 
+						- your [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]."  <mark style="background: #CD04BBA6;">//Doesn't say your birthright//</mark>
+	- He <mark style="background: #CD04BBA6;">//Esau//</mark> said, 
 		- "Isn't he rightly named Jacob? 
-			- For he has supplanted me these two times //both the birthright and the blessing//. 
-				- He //Jacob// took away my [[Gate of Wisdom/Birthright\|Birthright]]. 
-				- See, now he //Jacob// has taken away my  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]." 
-					- He //Esau// said, 
-						- "Haven't you //Isaac// reserved a blessing for me?" 
+			- For he has supplanted me these two times <mark style="background: #CD04BBA6;">//both the birthright and the blessing//</mark>. 
+				- He <mark style="background: #CD04BBA6;">//Jacob//</mark> took away my [[Gate of Wisdom/Birthright\|Birthright]]. 
+				- See, now he <mark style="background: #CD04BBA6;">//Jacob//</mark> has taken away my  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]." 
+					- He <mark style="background: #CD04BBA6;">//Esau//</mark> said, 
+						- "Haven't you <mark style="background: #CD04BBA6;">//Isaac//</mark> reserved a blessing for me?" 
 							- Isaac answered Esau, 
 								- "Behold, I have made him your lord, 
 								- and all his brothers I have given to him for servants. 
@@ -321,7 +321,7 @@
 								- obey my voice. 
 									- Arise, flee to Laban, 
 										- my brother, 
-										- in Haran. //northeast from Canaan//
+										- in Haran. <mark style="background: #CD04BBA6;">//northeast from Canaan//</mark>
 										- Stay with him a few days, 
 											- <mark style="background: #D2B3FFA6;">until</mark> your brother's fury turns away-- 
 											- <mark style="background: #D2B3FFA6;">until</mark>  your brother's anger turns away from you, 
