@@ -22,13 +22,13 @@ Thank you for joining us on these Cease Fire Moments.
 	- <mark style="background: #DDCC5EA6;">Seed</mark>
 	- <mark style="background: #BAAC50A6;">Tree</mark>
 - <mark style="background: #04CD3EA6;">What</mark>
-	- <mark style="background: #B1C6E8A6;">Consequence</mark>
-	- Good News
-	- Instructions (law, command)
-	- Offering
-	- Righteous / Unrighteous
-	- Separation from Yah-God, Death
-	- Abomination
+	- <mark style="background: #94DEA9A6;">Consequence</mark>
+	- <mark style="background: #77C58DA6;">Good News</mark>
+	- <mark style="background: #61A273A6;">Instructions (law, command)</mark>
+	- <mark style="background: #67CD83A6;">Offering</mark>
+	- <mark style="background: #4FA466A6;">Righteous / Unrighteous</mark><mark style="background: #94DEA9A6;"></mark>
+	- <mark style="background: #4AB867A6;">Separation from Yah-God, Death</mark>
+	- <mark style="background: #2AC052A6;">Abomination</mark>
 - <mark style="background: #D2B3FFA6;">When</mark>
 	- <mark style="background: #BBFABBA6;">Appointed Time</mark>
 - <mark style="background: #4DA6EDA6;">Where</mark>
