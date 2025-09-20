@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-27-yada-yada/","tags":["TheScrolls","TorahLawofMoses","YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-27-yada-yada/","tags":["#TheScrolls","#TorahLawofMoses","#YadaYadaPauses"]}
 ---
 
 # Author and Authorship Date:
@@ -150,38 +150,38 @@
 		- Who are you, my son?"
 			- Jacob said 
 				- to his father, 
-					- "I am Esau [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie
-						- your firstborn.   [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie
-						- I have done what you asked me to do.  [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie
-							- Please arise, sit and eat of my venison,  [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie
+					- "I am Esau // [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie//
+						- your firstborn.   //[[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie//
+						- I have done what you asked me to do.  //[[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie//
+							- Please arise, sit and eat of my venison, // [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie//
 								- that your soul may bless me." 
 		- Isaac said 
 			- to his son, 
-				- "How is it that you have found it so quickly, my son?" 
+				- "How is it that you have found it so quickly, my son?" //Suspicion # 1//
 					- He //Jacob// said, 
 						- "Because Yahweh 
 							- your God 
-								- gave me success."   [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie
+								- gave me success."  // [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie//
 		- Isaac said 
 			- to Jacob, 
 				- "Please come near, 
 					- that I may feel you, 
 						- my son, 
 						- whether you are really my son 
-							- Esau or not."
+							- Esau or not." //Suspicion # 2//
 				- Jacob went near 
 					- to Isaac 
 						- his father. 
 					- He //Isaac// felt him //Jacob//, 
 					- and said, 
 						- "The voice is Jacob's voice, 
-							- but the hands are the hands of Esau."
+							- but the hands are the hands of Esau." //Suspicion # 3//
 							- He //Isaac// didn't recognize him //Jacob//, 
 								- because his //Jacob// hands were hairy, 
 									- like his brother Esau's hands. 
 										- <mark style="background: #4DA6EDA6;">So he //Isaac// blessed him //Jacob//. </mark>
 							- He said, 
-								- "Are you really my son Esau?" 
+								- "Are you really my son Esau?"  //Suspicion # 4//
 									- He //Jacob// said, 
 										- "I am."  [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Lie
 				- He said, 
@@ -201,10 +201,12 @@
 							- my son."
 							- He //Jacob// came near, 
 								- and kissed him //Isaac//. 
-							- He //Isaac// smelled the smell of his clothing, 
+							- He //Isaac// smelled the smell of his clothing, //Suspicion # 5//
 							- <mark style="background: #4DA6EDA6;">and blessed him</mark>, 
 								- and said, 
 									- "Behold, the smell of my son is as the smell of a field which Yahweh has blessed. 
+#### Wouldn't Isaac have known about what Yah told Rebekah about the older serving the younger? 
+#### Wouldn't Isaac have known about Esau giving his birthright to Jacob?
 ## The Blessing
 - God give you 
 	- of the dew 
@@ -223,75 +225,124 @@
 - [^4]Blessed be everyone 
 	- who blesses you." [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v3\|Gen-12:3]]
 
-As soon as Isaac had finished 
-	blessing Jacob, 
-		and Jacob had just gone out 
-			from the presence of Isaac 
-				his father, 
-		Esau 
-			his brother 
-			came in from his hunting. 
-			He also made 
-				savory food, 
-			and brought it 
-				to his father. 
-			He said 
-				to his father, 
-					"Let my father arise, 
-					and eat of his son's venison, 
-						that your soul may bless me." 
-					Isaac 
-						his father said 
-							to him, 
-								"Who are you?" 
-							He said, 
-								"I am your son, 
-									your firstborn, 
-									Esau." 
+<mark style="background: #D2B3FFA6;">As soon as</mark> Isaac had finished 
+- blessing Jacob,
+- and Jacob had just gone out 
+	- from the presence of Isaac 
+		- his father, 
+- Esau 
+	- his brother 
+	- came in from his hunting. 
+	- He also made 
+		- savory food, 
+	- and brought it 
+		- to his father. 
+	- He said 
+		- to his father, 
+			- "Let my father arise, 
+			- and eat of his son's venison, 
+				- that your soul may bless me." 
+			- Isaac 
+				- his father said 
+					- to him, 
+						- "Who are you?" 
+					- He said, 
+						- "I am your son, 
+							- your firstborn, 
+							- Esau." 
 
-###### v33 
-Isaac trembled violently, and said, "Who, then, is he who has taken venison, and brought it to me, and I have eaten of all before you came, and have blessed him? Yes, he will be blessed." 
+# Deceived
 
-###### v34 
-When Esau heard the words of his father, he cried with an exceedingly great and bitter cry, and said to his father, "Bless me, even me also, my father." 
+- Isaac trembled violently, and said, 
+	- "Who, then, is he who 
+		- has taken venison, 
+		- and brought it to me, 
+		- and I have eaten of all 
+			- before you came, 
+			- and have blessed him? 
+				- Yes, he will be blessed." 
 
-###### v35 
-He said, "Your brother came with deceit, and has taken away your [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]." 
+- <mark style="background: #D2B3FFA6;">When</mark> Esau heard the words 
+	- of his father, 
+	- he cried 
+		- with an exceedingly great and bitter cry, 
+	- and said to his father, 
+		- "Bless me, even me also, my father." 
+			- He //Isaac// said, 
+				- "Your brother came 
+					- with deceit, 
+					- and has taken away 
+						- your [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]."  //Doesn't say your birthright//
+	- He //Esau// said, 
+		- "Isn't he rightly named Jacob? 
+			- For he has supplanted me these two times //both the birthright and the blessing//. 
+				- He //Jacob// took away my [[Gate of Wisdom/Birthright\|Birthright]]. 
+				- See, now he //Jacob// has taken away my  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]." 
+					- He //Esau// said, 
+						- "Haven't you //Isaac// reserved a blessing for me?" 
+							- Isaac answered Esau, 
+								- "Behold, I have made him your lord, 
+								- and all his brothers I have given to him for servants. 
+								- I have sustained him with grain and new wine.
+									 - What then will I do for you, my son?" 
+	- Esau said to his father, 
+		- "Do you have just one  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]], my father? 
+			- Bless me, even me also, my father." 
+		- Esau lifted up his voice, and wept. 
+			- Isaac his father answered him, 
+				- "Behold, your dwelling will be of the fatness of the earth, 
+				- and of the dew of the sky from above. 
+				- You will live by your sword, 
+				- and you will serve your brother. 
+					- It will happen, when 
+						- you will break loose, 
+							- that you will shake his yoke 
+								- from off your neck." 
+	- Esau hated Jacob 
+		- because of the blessing 
+			- with which his father 
+				- blessed him. 
+		- Esau said in his heart, "
+			- [^6]The days of mourning for my father are at hand. 
+				- <mark style="background: #D2B3FFA6;">Then</mark> I will kill my brother Jacob." 
 
-###### v36 
-He said, "Isn't he rightly named Jacob? For he has supplanted me these two times //both the birthright and the blessing//. He took away my [[Gate of Wisdom/Birthright\|Birthright]]. See, now he has taken away my  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]." He said, "Haven't you reserved a blessing for me?" 
+#### In the context of Genesis 27, Isaac’s words to Esau indicate a future where Esau (and his descendants, often associated with Edom in Jewish tradition) will initially be subservient to Jacob (and his descendants, Israel). The "yoke" represents Jacob’s dominance or authority over Esau, likely in a familial or socio-political sense. However, the phrase "when you grow restless" (tarid) suggests that Esau’s submission is not permanent. At some point, through striving or rebellion, Esau will "break loose" and cast off Jacob’s yoke, achieving independence or freedom from this subjugation. The Hebrew wording implies a struggle or effort (rud suggests active resistance or restlessness) rather than a passive release. The imagery of breaking a yoke is vivid in the Hebrew Bible, symbolizing liberation from oppression (e.g., Isaiah 9:4, Jeremiah 28:2). Thus, Isaac’s prophecy foretells a time when Esau’s descendants will assert their autonomy, no longer under Jacob’s control.
+# Sent Away
+- The words of Esau, 
+	- her elder son, 
+	- were told to Rebekah. 
+		- She sent and called Jacob, 
+			- her younger son, 
+			- and said to him, 
+				- "Behold, your brother Esau 
+					- comforts himself about you 
+						- by planning to kill you. 
+							- Now therefore, my son, 
+								- obey my voice. 
+									- Arise, flee to Laban, 
+										- my brother, 
+										- in Haran. //northeast from Canaan//
+										- Stay with him a few days, 
+											- <mark style="background: #D2B3FFA6;">until</mark> your brother's fury turns away-- 
+											- <mark style="background: #D2B3FFA6;">until</mark>  your brother's anger turns away from you, 
+											- and he forgets what you have done to him. 
+												- <mark style="background: #D2B3FFA6;">Then</mark> I will send, 
+												- and get you from there.
+													- Why should I be bereaved of you both in one day?" 
+	- Rebekah said to Isaac, 
+		- "I am weary 
+			- of my life 
+				- because of the daughters 
+					- of Heth. 
+					- If Jacob takes a wife 
+						- of the daughters 
+							- of Heth, 
+							- such as these, of the daughters 
+								- of the land, 
+									- what good will my life do me?"
 
-###### v37 
-Isaac answered Esau, "Behold, I have made him your lord, and all his brothers I have given to him for servants. I have sustained him with grain and new wine. What then will I do for you, my son?" 
-
-###### v38 
-Esau said to his father, "Do you have just one  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]], my father? Bless me, even me also, my father." Esau lifted up his voice, and wept. 
-
-###### v39 
-Isaac his father answered him, "Behold, your dwelling will be of the fatness of the earth, and of the dew of the sky from above. 
-
-###### v40 
-You will live by your sword, and you will serve your brother. It will happen, when you will break loose, that you will shake his yoke from off your neck." 
-
-###### v41 
-Esau hated Jacob because of the blessing with which his father blessed him. Esau said in his heart, "[^6]The days of mourning for my father are at hand. Then I will kill my brother Jacob." 
-
-###### v42 
-The words of Esau, her elder son, were told to Rebekah. She sent and called Jacob, her younger son, and said to him, "Behold, your brother Esau comforts himself about you by planning to kill you. 
-
-###### v43 
-Now therefore, my son, obey my voice. Arise, flee to Laban, my brother, in Haran. 
-
-###### v44 
-Stay with him a few days, until your brother's fury turns away-- 
-
-###### v45 
-until your brother's anger turns away from you, and he forgets what you have done to him. Then I will send, and get you from there. Why should I be bereaved of you both in one day?" 
-
-###### v46 
-Rebekah said to Isaac, "I am weary of my life because of the daughters of Heth. If Jacob takes a wife of the daughters of Heth, such as these, of the daughters of the land, what good will my life do me?"
-
-
+#### Daughters of Heth were the women of the [[Zunpublished/Hittite\|Hittite]] people. Heth is a descendant of Canaan, son of Ham [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-10#v15\|Gen-10:15]]. Abraham bought a burial site from them [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v3\|Gen-23:3]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v4\|Gen-23#v4]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v5\|Gen-23#v5]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v6\|Gen-23#v6]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v7\|Gen-23#v7]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v8\|Gen-23#v8]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v9\|Gen-23#v9]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v10\|Gen-23#v10]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v11\|Gen-23#v11]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v12\|Gen-23#v12]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v13\|Gen-23#v13]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v14\|Gen-23#v14]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v15\|Gen-23#v15]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v16\|Gen-23#v16]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v17\|Gen-23#v17]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v18\|Gen-23#v18]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v19\|Gen-23#v19]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v20\|-20]] Esau had married Hittite women.  [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v34\|Gen-26:34]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v35\|-35]]
+#### Is Rebekah just saying this so she can justify sending Jacob away to Isaac? In the next verse he calls Jacob and sends him away.
 # Repeated words:
 
 - bless (6)
