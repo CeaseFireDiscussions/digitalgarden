@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-46-yada-yada/","tags":["#TheScrolls","#Neviim","#YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-46-yada-yada/","tags":["TheScrolls","Neviim","YadaYadaPauses"]}
 ---
 
 # Author and Authorship Date:
@@ -59,8 +59,8 @@
 			- and I will bear. 
 				- Yes, [^4]I will carry, 
 				- and [^6]will deliver. 
-	- "<mark style="background: #CACFD9A6;">To whom will you 
-		- compare me, and consider my equal, and compare me, as if we were the same?</mark> 
+	- "To whom will you 
+		- compare me, and consider my equal, and compare me, as if we were the same? 
 		- Some pour out gold from the bag, 
 		- and weigh silver in the balance. 
 		- They hire a goldsmith, 
