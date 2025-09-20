@@ -25,7 +25,7 @@
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|← Genesis 26]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Genesis 28 →]]
 ***
 
-###### v1 
+
 <mark style="background: #D2B3FFA6;">When</mark> [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] was old, and his eyes were dim,
 - so that he could not see, 
 - he called [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]] 
@@ -36,7 +36,7 @@
 				- "Here I am." 
 	- He <mark style="background: #CD04BBA6;">//Isaac//</mark> said, 
 		- "See now, 
-			- <mark style="background: #EB9E57A6;">I am old</mark>. 
+			- <mark style="background: #EB9E57A6;">I am old</mark>
 			- I don't know the day of my [^1]death. 
 		- Now therefore, 
 			- please take your weapons,
@@ -69,7 +69,7 @@
 								- that I may eat, 
 								- and [^5]bless you 
 								- <mark style="background: #4DA6EDA6;">before Yahweh</mark> 
-									- before my death.' 
+									- <mark style="background: #D2B3FFA6;">before my death</mark>.' 
 			- Now therefore, 
 				- my son, 
 					- obey my voice 
@@ -150,10 +150,10 @@
 		- Who are you, my son?"
 			- Jacob said 
 				- to his father, 
-					- "I am Esau <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #CD04BBA6;">Lie # 1//</mark>
-						- your firstborn.   <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #CD04BBA6;">Lie # 2//</mark>
-						- I have done what you asked me to do.  <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #CD04BBA6;">Lie # 3//</mark>
-							- Please arise, sit and eat of my venison, <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #CD04BBA6;">Lie #4//</mark>
+					- "I am Esau <mark style="background: #F309DDA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #4FA466A6;">Lie</mark> <mark style="background: #F309DDA6;"># 1//</mark>
+						- your firstborn.   <mark style="background: #F309DDA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #4FA466A6;">Lie</mark> <mark style="background: #F309DDA6;"># 2//</mark>
+						- I have done what you asked me to do.  <mark style="background: #F309DDA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #4FA466A6;">Lie</mark> <mark style="background: #F309DDA6;"># 3//</mark>
+							- Please arise, sit and eat of my venison, <mark style="background: #F309DDA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #4FA466A6;">Lie</mark> <mark style="background: #F309DDA6;"># 4//</mark>
 								- that your soul may bless me." 
 		- Isaac said 
 			- to his son, 
@@ -161,7 +161,7 @@
 					- He //Jacob// said, 
 						- "Because Yahweh 
 							- your God 
-								- gave me success."  <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #CD04BBA6;">Lie # 5//</mark>
+								- gave me success."  <mark style="background: #F309DDA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #4FA466A6;">Lie</mark> <mark style="background: #F309DDA6;"># 5//</mark>
 		- Isaac said 
 			- to Jacob, 
 				- "Please come near, 
@@ -183,7 +183,7 @@
 							- He said, 
 								- "Are you really my son Esau?"  <mark style="background: #CD04BBA6;">//Suspicion # 4//</mark>
 									- He //Jacob// said, 
-										- "I am."   <mark style="background: #CD04BBA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #CD04BBA6;">Lie # 6//</mark>
+										- "I am."   <mark style="background: #F309DDA6;">//</mark> [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] <mark style="background: #4FA466A6;">Lie</mark> <mark style="background: #F309DDA6;"># 7//</mark>
 				- He said, 
 					- "Bring it near to me, 
 					- and I will eat of my son's venison, 
@@ -271,13 +271,13 @@
 			- He <mark style="background: #CD04BBA6;">//Isaac//</mark> said, 
 				- "Your brother came 
 					- with deceit, 
-					- and has taken away 
+					- and <mark style="background: #94DEA9A6;">has taken away</mark> 
 						- your [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]."  <mark style="background: #CD04BBA6;">//Doesn't say your birthright//</mark>
 	- He <mark style="background: #CD04BBA6;">//Esau//</mark> said, 
 		- "Isn't he rightly named Jacob? 
 			- For he has supplanted me these two times <mark style="background: #CD04BBA6;">//both the birthright and the blessing//</mark>. 
-				- He <mark style="background: #CD04BBA6;">//Jacob//</mark> took away my [[Gate of Wisdom/Birthright\|Birthright]]. 
-				- See, now he <mark style="background: #CD04BBA6;">//Jacob//</mark> has taken away my  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]." 
+				- He <mark style="background: #CD04BBA6;">//Jacob//</mark> <mark style="background: #94DEA9A6;">took away</mark> my [[Gate of Wisdom/Birthright\|Birthright]]. 
+				- See, now he <mark style="background: #CD04BBA6;">//Jacob//</mark> has <mark style="background: #94DEA9A6;">taken away</mark> my  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]." 
 					- He <mark style="background: #CD04BBA6;">//Esau//</mark> said, 
 						- "Haven't you <mark style="background: #CD04BBA6;">//Isaac//</mark> reserved a blessing for me?" 
 							- Isaac answered Esau, 
@@ -319,7 +319,7 @@
 						- by planning to kill you. 
 							- Now therefore, my son, 
 								- obey my voice. 
-									- Arise, flee to Laban, 
+									- <mark style="background: #94DEA9A6;">Arise, flee to Laban</mark>, 
 										- my brother, 
 										- in Haran. <mark style="background: #CD04BBA6;">//northeast from Canaan//</mark>
 										- Stay with him a few days, 
