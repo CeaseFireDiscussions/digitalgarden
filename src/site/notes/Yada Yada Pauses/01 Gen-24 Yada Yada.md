@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-24-yada-yada/","tags":["TheScrolls","YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-24-yada-yada/","tags":["#TheScrolls","#YadaYadaPauses"]}
 ---
 
 
@@ -34,9 +34,9 @@
 
 ## [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]
 
-24 And Abraham 
+24 And <mark style="background: #E0CC4BA6;">Abraham</mark> 
 * \[is\] old, 
-* he hath entered into days, 
+* he <mark style="background: #D2B3FFA6;">hath entered into days,</mark> 
 * and Jehovah hath 
 	* [^1]blessed Abraham 
 		* in all \[things\];
@@ -64,7 +64,7 @@
 
 And the servant saith 
 * unto him :{//Abraham//:(style="color:#d000d0ff"):}:, \`
-	* It may be the woman is not willing to come after me 
+	* It may be the <mark style="background: #CACFD9A6;">woman is not willing to come after me</mark> 
 		* unto this land; 
 		* do I at all cause thy son :{//Isaac//:(style="color:#d000d0ff"):}: 
 			* to turn back unto the land 
@@ -89,7 +89,7 @@ And the servant saith
 									* and if the woman be not willing to come after thee, 
 										* then thou hast been acquitted 
 											* from this mine oath: 
-						* only my son thou dost not cause to turn back thither.'
+						* only <mark style="background: #CACFD9A6;">my son thou dost not cause to turn back thither</mark>.'
 * And the servant putteth his hand under the thigh 
 	* of Abraham 
 		* his lord, 
@@ -105,14 +105,14 @@ And the servant
 	* in his hand, 
 * and he riseth, 
 * and goeth 
-	* unto Aram-Naharaim, 
+	* <mark style="background: #4DA6EDA6;">unto Aram-Naharaim</mark>, 
 	* unto the [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]];
 * and he causeth the camels 
 	* to kneel 
 	* at the outside of the city, 
-		* at the well of water, 
-			* at even-time,  <mark style="background: #4DA6EDA6;">//WHEN// </mark>
-			* at the time of the coming out of the women 
+		* <mark style="background: #4DA6EDA6;">at the well of water</mark>, 
+			* <mark style="background: #D2B3FFA6;">at even-time</mark>,  
+			* <mark style="background: #D2B3FFA6;">at the time of the coming out of the women</mark> 
 				* who draw water.
 
 - And he saith, 
