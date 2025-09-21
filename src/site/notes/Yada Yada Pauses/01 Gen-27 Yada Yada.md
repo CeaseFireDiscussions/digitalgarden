@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-27-yada-yada/","tags":["TheScrolls","TorahLawofMoses","YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-27-yada-yada/","tags":["#TheScrolls","#TorahLawofMoses","#YadaYadaPauses"]}
 ---
 
 # Author and Authorship Date:
@@ -306,6 +306,8 @@
 			- [^6]The days of mourning for my father are at hand. 
 				- <mark style="background: #D2B3FFA6;">Then</mark> I will kill my brother Jacob." 
 
+
+#### Esau didn't get "the name." Was that what he wanted the most? Would everyone know he didn't get the blessing? Would Esau feel shame for not getting "the name"?  
 #### In the context of Genesis 27, Isaac’s words to Esau indicate a future where Esau (and his descendants, often associated with Edom in Jewish tradition) will initially be subservient to Jacob (and his descendants, Israel). The "yoke" represents Jacob’s dominance or authority over Esau, likely in a familial or socio-political sense. However, the phrase "when you grow restless" (tarid) suggests that Esau’s submission is not permanent. At some point, through striving or rebellion, Esau will "break loose" and cast off Jacob’s yoke, achieving independence or freedom from this subjugation. The Hebrew wording implies a struggle or effort (rud suggests active resistance or restlessness) rather than a passive release. The imagery of breaking a yoke is vivid in the Hebrew Bible, symbolizing liberation from oppression (e.g., Isaiah 9:4, Jeremiah 28:2). Thus, Isaac’s prophecy foretells a time when Esau’s descendants will assert their autonomy, no longer under Jacob’s control.
 # Sent Away
 - The words of Esau, 
