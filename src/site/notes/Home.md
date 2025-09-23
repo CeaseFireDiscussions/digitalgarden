@@ -24,7 +24,7 @@ Thank you for joining us on these Cease Fire Moments.
 { .block-language-dataview}
 
 # Highlight Legend:
-
+---
 #### My thoughts and observations
 - // Inserted thought or note //
 	- <mark style="background: #CD04BBA6;">In line note</mark>
@@ -59,10 +59,9 @@ Thank you for joining us on these Cease Fire Moments.
 	- <mark style="background: #A8ADB8A6;">Connecting Thought</mark> (something referred to OR refers back to something)
 
 
+
 # Folder Content Descriptions:
-
 ---
-
 # The [[Sacred Truces/_Sacred Truces\|_Sacred Truces]] Moments
 
 During times of great important to those doing battle, a sacred truce would be called. The Greeks had a time called 'ekecheiria' which means "to hold hands." It allowed the warriors to have a safe time to celebrate, reflect, and participate in something of importance to them. One of the most notable ekecheira times is the Olympic Games. It was a time to be without fear of attack. 
