@@ -4,7 +4,7 @@
 
 ![Logo.png](/img/user/Assets/attachments/Logo.png)
 
-![](https://youtu.be/RUI3JXzCgw4)
+![](https://youtu.be/RUI3JXzCgw4?si=AzgNxOeIV2yydBfW)
 
 Welcome to Cease Fire where we explore topics of contentions and study the Bible. Sometimes we are learning in public - right along with you - exploring the facts of a topic. 
 
