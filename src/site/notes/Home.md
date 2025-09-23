@@ -4,7 +4,8 @@
 
 ![Logo.png](/img/user/Assets/attachments/Logo.png)
 
-![](https://youtu.be/RUI3JXzCgw4?si=AzgNxOeIV2yydBfW)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RUI3JXzCgw4?si=LqHOztQ6kyQgdX4z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Welcome to Cease Fire where we explore topics of contentions and study the Bible. Sometimes we are learning in public - right along with you - exploring the facts of a topic. 
 
