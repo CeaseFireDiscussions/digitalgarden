@@ -58,8 +58,8 @@ Thank you for joining us on these Cease Fire Moments.
 
 - <mark style="background: #CACFD9A6;">Question and Answer</mark>
 	- <mark style="background: #A8ADB8A6;">Connecting Thought</mark> (something referred to OR refers back to something)
-
-
+    
+  
 
 # Folder Content Descriptions:
 ---
@@ -120,7 +120,7 @@ In this area you will find:
 
 
 # Like and Follow:
-
+---
 [Youtube](https://www.youtube.com/channel/UClucQfZWQ3dSZFMMoEfg5gA)
 
 [Rumble](https://rumble.com/v223wyt-welcome-to-cease-fire.html)
