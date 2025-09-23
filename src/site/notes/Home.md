@@ -120,3 +120,5 @@ The Scrolls are originally in the World English Bible (WEB) because it is a publ
 [TruthSocial](https://truthsocial.com/@CalltoCeaseFire)
 
 [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/)
+
+![Logo.png](/img/user/Assets/attachments/Logo.png)
