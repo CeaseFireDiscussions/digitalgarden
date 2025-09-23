@@ -11,15 +11,15 @@ Have an open mind and be willing to learn, even if you just can’t bring yourse
 
 Thank you for joining us on these Cease Fire Moments.
 
-| Latest Published                                                                                                                                                  |
+| Latest Drops                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Home\|Home]]                                                                                                                                                 |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]] |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]         |
 | [[The Herald's Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]                                                                     |
 | [[The Herald's Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]                                                       |
 | [[The Herald's Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]                                                             |
 | [[The Herald's Messages/Fascism\|Fascism]]                                                                                                                     |
+| [[Sacred Truces/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]]                                                                               |
 
 { .block-language-dataview}
 
