@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-![Logo.png](/img/user/Assets/attachments/Logo.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RUI3JXzCgw4?si=LqHOztQ6kyQgdX4z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
