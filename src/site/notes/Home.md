@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
+![Logo.png](/img/user/Assets/attachments/Logo.png)
 
 Welcome to Cease Fire where we explore topics of contentions and study the Bible. Sometimes we are learning in public - right along with you - exploring the facts of a topic. 
 
