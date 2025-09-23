@@ -11,13 +11,17 @@ Have an open mind and be willing to learn, even if you just can’t bring yourse
 
 Thank you for joining us on these Cease Fire Moments.
 
-```
-TABLE WITHOUT ID file.link as "Published", file.mtime as "Last Edited"
-FROM ""
-SORT file.mtime DESC
-LIMIT 7
-```
+| Latest Published                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Home\|Home]]                                                                                                                                                 |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]] |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]         |
+| [[The Herald's Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]                                                                     |
+| [[The Herald's Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]                                                       |
+| [[The Herald's Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]                                                             |
+| [[The Herald's Messages/Fascism\|Fascism]]                                                                                                                     |
 
+{ .block-language-dataview}
 
 # Highlight Legend:
 
@@ -53,6 +57,11 @@ LIMIT 7
 
 - <mark style="background: #CACFD9A6;">Question and Answer</mark>
 	- <mark style="background: #A8ADB8A6;">Connecting Thought</mark> (something referred to OR refers back to something)
+
+
+# Folder Content Descriptions:
+
+---
 
 # The [[Sacred Truces/_Sacred Truces\|_Sacred Truces]] Moments
 
