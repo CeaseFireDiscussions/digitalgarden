@@ -11,6 +11,14 @@ Have an open mind and be willing to learn, even if you just can’t bring yourse
 
 Thank you for joining us on these Cease Fire Moments.
 
+```
+TABLE WITHOUT ID file.link as "Published", file.mtime as "Last Edited"
+FROM ""
+SORT file.mtime DESC
+LIMIT 7
+```
+
+
 # Highlight Legend:
 
 #### My thoughts and observations
