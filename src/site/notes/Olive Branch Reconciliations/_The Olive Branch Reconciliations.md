@@ -2,13 +2,14 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-olive-branch-reconciliations/","tags":["#home","#OliveBranch"]}
 ---
 
-| Table of Content                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Olive Branch Reconciliations/_The Olive Branch Reconciliations\|_The Olive Branch Reconciliations]]                                                          |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]] |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]         |
-| [[Olive Branch Reconciliations/The Law in Matthew 5\|The Law in Matthew 5]]                                                                                    |
-| [[Olive Branch Reconciliations/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]                                                                              |
+| Table of Content                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]] |
+| [[Olive Branch Reconciliations/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]                     |
+| [[Olive Branch Reconciliations/_The Olive Branch Reconciliations\|_The Olive Branch Reconciliations]]                                                         |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]        |
+| [[Olive Branch Reconciliations/The Law in Matthew 5\|The Law in Matthew 5]]                                                                                   |
+| [[Olive Branch Reconciliations/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]                                                                             |
 
 { .block-language-dataview}
 
