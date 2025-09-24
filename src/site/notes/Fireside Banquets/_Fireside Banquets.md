@@ -2,7 +2,12 @@
 {"dg-publish":true,"permalink":"/fireside-banquets/fireside-banquets/","tags":["#home","#Fireside"]}
 ---
 
+| Table of Content                                                                            |
+| ------------------------------------------------------------------------------------------- |
+| [[Fireside Banquets/_Fireside Banquets\|_Fireside Banquets]]                             |
+| [[Fireside Banquets/Not the Typical Nativity - Day 1\|Not the Typical Nativity - Day 1]] |
 
+{ .block-language-dataview}
 
 When ancient Mesopotamian or Hittite kings negotiated peace treaties, representatives from opposing sides might gather for banquets. 
 

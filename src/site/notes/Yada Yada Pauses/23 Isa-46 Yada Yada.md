@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-46-yada-yada/","tags":["TheScrolls","Neviim","YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-46-yada-yada/","tags":["#Neviim","#YadaYadaPauses"]}
 ---
 
 # Author and Authorship Date:

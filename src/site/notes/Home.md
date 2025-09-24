@@ -16,13 +16,16 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                                                                                              |
+| [[Yada Yada Pauses/23 Isa-46 Yada Yada\|23 Isa-46 Yada Yada]]                                                                                                  |
+| [[Yada Yada Pauses/01 Gen-27 Yada Yada\|01 Gen-27 Yada Yada]]                                                                                                  |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]] |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]         |
 | [[The Herald's Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]                                                                     |
 | [[The Herald's Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]                                                       |
 | [[The Herald's Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]                                                             |
 | [[The Herald's Messages/Fascism\|Fascism]]                                                                                                                     |
-| [[Sacred Truces/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]]                                                                               |
+| [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]                                                                                       |
 
 { .block-language-dataview}
 
