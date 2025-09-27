@@ -182,11 +182,6 @@ So the people rested on the seventh day.
 
 { .block-language-dataview}
 
-```query
-
-"Seventh Day"
-```
-
 
 
 

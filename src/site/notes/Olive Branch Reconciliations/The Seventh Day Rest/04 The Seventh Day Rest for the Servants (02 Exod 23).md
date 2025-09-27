@@ -98,8 +98,3 @@ but the seventh year you shall let it rest and lie fallow, that the poor of your
 
 { .block-language-dataview}
 
-
-```query
-
-"Seventh Day"
-```

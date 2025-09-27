@@ -100,9 +100,3 @@ God blessed the seventh day, and made it holy, because he rested in it from all 
 - [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 
 { .block-language-dataview}
-
-
-```query
-
-"Seventh Day"
-```

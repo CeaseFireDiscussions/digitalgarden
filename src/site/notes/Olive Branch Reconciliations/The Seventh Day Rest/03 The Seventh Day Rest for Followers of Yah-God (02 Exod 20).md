@@ -122,9 +122,6 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 { .block-language-dataview}
 
 
-```query
 
-"Seventh Day"
-```
 
 

@@ -14,14 +14,3 @@ This is a video covering all the scriptures referring to the Sabbath or Seventh 
 
 Ge 2:2–3; Ex 16:23–30; 20:8–11; 23:12; 31:13–17; 34:21; 35:1–3; Le 19:3, 30; 23:3–39; 25:2–8; 26:2, 34–43; Nu 15:32; 28:25; Dt 5:12–15; Ne 9:14; 10:31–33; 13:15–22; Is 1:13; 56:2–6; 58:13; 66:23; La 2:6; Eze 20:12–24; 22:8, 26; 23:38; 44:24; 46:3; Ho 2:11; Mt 12:1–12; 24:20; 28:1; Mk 1:21; 2:23–28; 3:2–4; 6:2; 15:42; 16:1; Lk 4:16, 31; 6:1–9; 13:10–16; 14:1–5; 23:54–56; Jn 5:9–18; 7:22–23; 9:14–16; 19:31; Ac 13:14, 27–44; 15:21; 16:13; 17:2; 18:4; Col 2:16; Heb 4:4–9
 
-Advertisements
-
-Occasionally, some of your visitors may see an advertisement here,  
-as well as a [Privacy & Cookies banner](https://en.support.wordpress.com/cookie-widget/) at the bottom of the page.  
-You can hide ads completely by upgrading to one of our paid plans.
-
-[Upgrade now](https://wordpress.com/plans/201693089/?feature=no-adverts&utm_campaign=removeadsnotive) [Dismiss message](https://calltoceasefire.wordpress.com/2024/01/17/video-scripture-survey-sabbath-and-seventh-day-rest/#)
-
-![](https://pixel.wp.com/g.gif?blog=201693089&v=wpcom&tz=-4&user=1&user_id=6769813&post=1519&subd=calltoceasefire&host=calltoceasefire.wordpress.com&ref=https%3A%2F%2Fcalltoceasefire.wordpress.com%2F2024%2F01%2F20%2Fmatthew-616-18-jesus-fasting%2F&rand=0.5219695833579358)
-
-Advertisement
