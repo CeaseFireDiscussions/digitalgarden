@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/04-the-seventh-day-rest-for-the-servants-02-exod-23/","tags":["#OliveBranch","#Sabbath"]}
 ---
 
-The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
+The common belief is the Seventh Day Rest (later known as [Sabbath](https://ceasefiremoments.netlify.app/gate-of-wisdom/appointed-time/sabbath/), or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now.
 
-Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
+Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation.
+
 # Scripture: Exodus 23:10-12
 
 
@@ -39,39 +40,47 @@ but the seventh year you shall let it rest and lie fallow, that the poor of your
 </div></div>
 
 
-## **Define**: 
+## **Define**:
+
 - Alien, Foreigner, Stranger, Sojourner - ger (גֵּר) someone who is not a native Israelite but lives among the people of Israel, often temporarily or without full citizenship status.
 
 ## **Who**:
--  Congregation/Ekklesia = Congregation: ēḏāh (עֵדָה) refers to a group of people assembled or gathered together, often with a sense of unity or purpose. It can denote a community, assembly, or congregation, particularly in a religious or communal context.
+
+- Congregation/Ekklesia = Congregation: ēḏāh (עֵדָה) refers to a group of people assembled or gathered together, often with a sense of unity or purpose. It can denote a community, assembly, or congregation, particularly in a religious or communal context.
 	- In the New Testament the Greek word is ekklēsia (ἐκκλησία) a gathering or assembly of people, often for a specific purpose, such as a public meeting or community. This word is typically translated as "church."
-- [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]: All the people, both Hebrew and foreigners, who came out of Egypt.
+- [Israel](https://ceasefiremoments.netlify.app/gate-of-wisdom/beings/human-beings/israel/): All the people, both Hebrew and foreigners, who came out of Egypt.
 - Ox and donkey
 - Son of the Servant (handmaid, bondwoman, workers), Foreigner (Alien, Stranger, Sojourner)
 
-## **What**: 
+## **What**:
+
 - Six days work, Seventh Day Rest
+
 ## **When**:
+
 - Rest on the Seventh Day
 
-## **Why**: 
+## **Why**:
+
 - So the animals can rest.
 - So the servants can be refreshed.
 
 # Findings
 
 ## The Sabbath is not for a "Christian":
+
 - Christians do not exist yet.
-## It is a Jewish thing: 
--  Jews do not exist yet.
+
+## It is a Jewish thing:
+
+- Jews do not exist yet.
+
 ## Jesus replaced the Sabbath:
+
 - There isn't anything stating this.
 
 ## Other Notes:
+
 - All followers of Yah-God, their animals, and their servants are to rest.
 
 # Connections
-- 
-
-
-
