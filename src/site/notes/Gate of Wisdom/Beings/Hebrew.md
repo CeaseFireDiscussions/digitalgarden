@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/hebrew/","tags":["#GateWisdom","#Being"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/hebrew/","tags":["#GateWisdom","Being"]}
 ---
 
 

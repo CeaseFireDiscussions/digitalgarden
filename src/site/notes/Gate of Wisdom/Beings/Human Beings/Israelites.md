@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/israelites/","tags":["#GateWisdom","#HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/israelites/","tags":["#GateWisdom","HumanBeing"]}
 ---
 
 # Define
