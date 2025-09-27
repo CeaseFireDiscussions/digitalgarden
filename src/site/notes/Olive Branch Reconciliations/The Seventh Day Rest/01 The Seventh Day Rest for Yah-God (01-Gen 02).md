@@ -88,7 +88,8 @@ God blessed the seventh day, and made it holy, because he rested in it from all 
 - Humans were to bear the image of Yah, would it be reasonable to assume they would have rested on the Seventh Day as they saw Yah rest?
 
 # Connections
-- 
+- [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
 
 
 

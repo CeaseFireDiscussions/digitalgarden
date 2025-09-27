@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-27-yada-yada/","tags":["#TorahLawofMoses","#YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-27-yada-yada/","tags":["TorahLawofMoses","YadaYadaPauses"]}
 ---
 
 # Author and Authorship Date:
 
 - **Author**: Traditionally [[Zunpublished/Moses\|Moses]], as per biblical tradition.
 - **When Authored**: Approximately 1440–1400 BC, during or after the Exodus, as Moses led the Israelites.
-- **Audience**: The [[Zunpublished/Israelites\|Israelites]], particularly during the time of Moses, to understand their covenantal history and God’s promises.
+- **Audience**: The [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]], particularly during the time of Moses, to understand their covenantal history and God’s promises.
 
 # Setting and Main Storyline:
 

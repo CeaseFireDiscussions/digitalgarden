@@ -21,7 +21,7 @@
 	- Story:
 	- Children:
 - Other Descendants of Note:
-	- Descendants as a group become known as the [[Zunpublished/Israelites\|Israelites]]
+	- Descendants as a group become known as the [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]
 		- The group will eventually split into to Houses
 			- [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
 			- [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]

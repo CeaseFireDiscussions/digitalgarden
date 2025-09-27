@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-65-yada-yada/","tags":["#YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-65-yada-yada/","tags":["YadaYadaPauses"]}
 ---
 
 
@@ -83,7 +83,7 @@
 				- that I may not destroy them all. 
 	- I will bring offspring //[[Zunpublished/Seed\|Seed]]// 
 		- out of [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]], 
-			- and out of [[Judah\|Judah]]
+			- and out of [[Gate of Wisdom/Beings/Judah\|Judah]]
 				- an inheritor of my mountains. 
 				- My chosen will inherit it //mountains//, 
 					- and my servants will dwell there. 

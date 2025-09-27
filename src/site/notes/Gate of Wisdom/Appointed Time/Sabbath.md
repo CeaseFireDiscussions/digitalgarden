@@ -369,9 +369,9 @@ The Sabbath was the only thing created after Man. Sabbath was made for man.
 
 # List of Scriptures:
 
-- Genesis 2 :2–3 [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
-- Exodus 16 :23–30 [[Olive Branch Reconciliations/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
-- Exodus 20 :8–11
+- Genesis 2 :2–3 [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
+- Exodus 16 :23–30 [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
+- Exodus 20 :8–11 [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
 - Exodus 23 :12
 - Exodus 31 :13–17
 - Exodus 34 :21
@@ -456,4 +456,4 @@ The Sabbath was the only thing created after Man. Sabbath was made for man.
 
 # Connections
 - [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]

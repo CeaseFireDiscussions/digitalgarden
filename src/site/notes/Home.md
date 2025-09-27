@@ -14,19 +14,18 @@ Have an open mind and be willing to learn, even if you just can’t bring yourse
 
 Thank you for joining us on these Cease Fire Moments.
 
-| Latest Drops                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Olive Branch Reconciliations/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]] |
-| [[Olive Branch Reconciliations/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]                     |
-| [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                                                                                             |
-| [[Yada Yada Pauses/23 Isa-46 Yada Yada\|23 Isa-46 Yada Yada]]                                                                                                 |
-| [[Yada Yada Pauses/01 Gen-27 Yada Yada\|01 Gen-27 Yada Yada]]                                                                                                 |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]        |
-| [[The Herald's Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]                                                                    |
-| [[The Herald's Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]                                                      |
-| [[The Herald's Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]                                                            |
-| [[The Herald's Messages/Fascism\|Fascism]]                                                                                                                    |
-| [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]                                                                                      |
+| Latest Drops                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]                     |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]                             |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]] |
+| [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                                                                                                                  |
+| [[Yada Yada Pauses/23 Isa-46 Yada Yada\|23 Isa-46 Yada Yada]]                                                                                                                      |
+| [[Yada Yada Pauses/01 Gen-27 Yada Yada\|01 Gen-27 Yada Yada]]                                                                                                                      |
+| [[The Herald's Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]                                                                                         |
+| [[The Herald's Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]                                                                           |
+| [[The Herald's Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]                                                                                 |
+| [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]                                                                                                           |
 
 { .block-language-dataview}
 
