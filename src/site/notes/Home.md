@@ -16,17 +16,18 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]                                                                                                   |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]                 |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]] |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]                     |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]                             |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]] |
+| [[The Herald's Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]                                                                           |
+| [[Sacred Truces/Fascism\|Fascism]]                                                                                                                                                 |
 | [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                                                                                                                  |
 | [[Yada Yada Pauses/23 Isa-46 Yada Yada\|23 Isa-46 Yada Yada]]                                                                                                                      |
 | [[Yada Yada Pauses/01 Gen-27 Yada Yada\|01 Gen-27 Yada Yada]]                                                                                                                      |
 | [[The Herald's Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]                                                                                         |
-| [[The Herald's Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]                                                                           |
-| [[The Herald's Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]                                                                                 |
-| [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]                                                                                                           |
+| [[Sacred Truces/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]                                                                                         |
 
 { .block-language-dataview}
 
@@ -74,14 +75,6 @@ Thank you for joining us on these Cease Fire Moments.
 During times of great important to those doing battle, a sacred truce would be called. The Greeks had a time called 'ekecheiria' which means "to hold hands." It allowed the warriors to have a safe time to celebrate, reflect, and participate in something of importance to them. One of the most notable ekecheira times is the Olympic Games. It was a time to be without fear of attack. 
 
 The Ceasefire Moments are meant to be a time of learning about new concepts or ideas which may not be previously known. Its a time to lay down the weapons and the shields and take time to listen, not to agree, but to understand.
-
-## The [[The Herald's Messages/_Herald's Message\|_Herald's Message]] Moments
-
-During ancient times, the Heralds would announce truces or deliver messages during ceasefires. 
-
-These Ceasefire Moments are messages meant to spark consideration. Inspire further investigation into the topic. Starting Points for digging in for more information. 
-
-When you hear the Herald's Message, don't respond with an immediate need to prove your original position. Take time to consider what is being offered. What can you learn from it even if you still do not agree in the end?
 
 ## The [[Yada Yada Pauses/_Yada Yada Pauses\|_Yada Yada Pauses]]
 

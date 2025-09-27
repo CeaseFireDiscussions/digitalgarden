@@ -4,7 +4,11 @@
 
 The Hebrew word for Sabbath is שַׁבָּת (pronounced "Shabbat"). It comes from the root שׁבת (shavat), meaning "to rest" or "to cease." 
 
-Check out our youtube looking at every single occurrence:  https://youtu.be/-6fYhyNBjNU
+Check out our youtube looking at every single occurrence:  
+
+[](https://youtu.be/-6fYhyNBjNU)
+
+See [[Gate of Wisdom/Seventh Day\|Seventh Day]]
 
 
 # Who Observes?

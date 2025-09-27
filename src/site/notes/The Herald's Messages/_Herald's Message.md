@@ -2,22 +2,14 @@
 {"dg-publish":true,"permalink":"/the-herald-s-messages/herald-s-message/","tags":["#home","#TheHeraldsMessages"]}
 ---
 
-| Table of Content                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| [[The Herald's Messages/_Herald's Message\|_Herald's Message]]                                                         |
-| [[The Herald's Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]                             |
-| [[The Herald's Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]               |
-| [[The Herald's Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]                     |
-| [[The Herald's Messages/Fascism\|Fascism]]                                                                             |
-| [[The Herald's Messages/New Covenant\|New Covenant]]                                                                   |
-| [[The Herald's Messages/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]                         |
-| [[The Herald's Messages/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]] |
-| [[The Herald's Messages/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]                               |
-| [[The Herald's Messages/New Heart and New Spirit\|New Heart and New Spirit]]                                           |
-| [[The Herald's Messages/Who May Dwell With God\|Who May Dwell With God]]                                               |
-| [[The Herald's Messages/When The Kingdom of God Comes ...\|When The Kingdom of God Comes ...]]                         |
-| [[The Herald's Messages/Traditional Teaching vs Scripture - Isaiah 66\|Traditional Teaching vs Scripture - Isaiah 66]] |
-| [[The Herald's Messages/Know the Children of God How\|Know the Children of God How]]                                   |
+| Table of Content                                                                                            |
+| ----------------------------------------------------------------------------------------------------------- |
+| [[The Herald's Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]] |
+| [[The Herald's Messages/_Herald's Message\|_Herald's Message]]                                           |
+| [[The Herald's Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]               |
+| [[Sacred Truces/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]               |
+| [[The Herald's Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]       |
+| [[The Herald's Messages/Fascism\|Fascism]]                                                               |
 
 { .block-language-dataview}
 

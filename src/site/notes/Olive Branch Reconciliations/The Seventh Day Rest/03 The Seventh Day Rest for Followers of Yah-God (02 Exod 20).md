@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/03-the-seventh-day-rest-for-followers-of-yah-god-02-exod-20/","tags":["#OliveBranch","#Sabbath"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/03-the-seventh-day-rest-for-followers-of-yah-god-02-exod-20/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest"]}
 ---
 
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
@@ -109,7 +109,21 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 - Even the cattle was to keep it.
 
 # Connections
-- 
 
+- [[Assets/Clippings/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
+- [[Assets/_templates/The Seventh Day Rest Was for Template\|The Seventh Day Rest Was for Template]]
+- [[Gate of Wisdom/Seventh Day\|Seventh Day]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
+- [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
+
+{ .block-language-dataview}
+
+```query
+
+"Seventh Day"
+```
 
 

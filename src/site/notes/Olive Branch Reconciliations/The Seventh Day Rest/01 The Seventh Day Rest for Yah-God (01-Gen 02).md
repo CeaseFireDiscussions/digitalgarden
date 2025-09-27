@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/01-the-seventh-day-rest-for-yah-god-01-gen-02/","tags":["#OliveBranch","#Sabbath"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/01-the-seventh-day-rest-for-yah-god-01-gen-02/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest"]}
 ---
 
 **The** common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
@@ -88,8 +88,19 @@ God blessed the seventh day, and made it holy, because he rested in it from all 
 - Humans were to bear the image of Yah, would it be reasonable to assume they would have rested on the Seventh Day as they saw Yah rest?
 
 # Connections
-- [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
+
+- [[Assets/Clippings/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
+- [[Assets/_templates/The Seventh Day Rest Was for Template\|The Seventh Day Rest Was for Template]]
+- [[Gate of Wisdom/Seventh Day\|Seventh Day]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
+- [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 
+{ .block-language-dataview}
 
+```query
 
+"Seventh Day"
+```

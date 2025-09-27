@@ -21,7 +21,7 @@ In the New Testament, Pentecost marks the outpouring of the Holy Spirit. This ev
 The connection is implicit: just as Shavuot celebrated the covenant through the Torah, Pentecost in Acts represents the new covenant through the Spirit, fulfilling prophecies like [[The Scrolls/2. Nevi'im (Prophets)/29 - Joel/Joel-02#v28\|Joel-02:28]][[The Scrolls/2. Nevi'im (Prophets)/29 - Joel/Joel-02#v29\|Joel-02#v29]][[The Scrolls/2. Nevi'im (Prophets)/29 - Joel/Joel-02#v30\|Joel-02#v30]][[The Scrolls/2. Nevi'im (Prophets)/29 - Joel/Joel-02#v31\|Joel-02#v31]][[The Scrolls/2. Nevi'im (Prophets)/29 - Joel/Joel-02#v32\|-32]] (quoted in [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-02#v17\|Acts-02:17]][[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-02#v18\|Acts-02#v18]][[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-02#v19\|Acts-02#v19]][[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-02#v20\|Acts-02#v20]][[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-02#v21\|-21]]), where God promises to pour out His Spirit on all people.
 
 
-[[The Herald's Messages/New Covenant\|New Covenant]]
+[[Sacred Truces/New Covenant\|New Covenant]]
 
 # Connected Notes
 
