@@ -106,7 +106,7 @@ the land of the Kenites, the Kenizzites, the Kadmonites,
 		- The Way - Foreigner or Sojourner, Anyone who chose to follow YHWH (Torah) and Accepted Jesus (Messiah) [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-02\|Ephes-02]]
 		- Hebrew / Israelite - Who chose to follow YHWH (Torah) and Accepted Jesus (Messiah) [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-06\|Acts-06]] [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-09\|Rom-09]]
 	- Other's
-		- Gentile - Nations of people not following Judaism, Nations of people not following Yeshua
+		- [[Gate of Wisdom/Gentile\|Gentile]] - Nations of people not following Judaism, Nations of people not following Yeshua
 		- Pagans - Follower of other gods
 		- Lost - Those who have not heard the Gospel of the Kingdom, Have not accepted Yeshua, The lawless (no Torah)
 
