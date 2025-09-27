@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/sabbath/","tags":["#GateWisdom","#AppointedTime"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/sabbath/","tags":["#GateWisdom","#AppointedTime","#Sabbath"]}
 ---
 
 The Hebrew word for Sabbath is שַׁבָּת (pronounced "Shabbat"). It comes from the root שׁבת (shavat), meaning "to rest" or "to cease." 
