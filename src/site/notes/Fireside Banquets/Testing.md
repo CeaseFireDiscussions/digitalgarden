@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fireside-banquets/testing/","tags":["Fireside"]}
+{"dg-publish":true,"permalink":"/fireside-banquets/testing/","tags":["#Fireside"]}
 ---
 
 
