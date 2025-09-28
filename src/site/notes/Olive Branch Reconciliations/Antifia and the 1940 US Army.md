@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/antifia-and-the-1940-us-army/","tags":["OliveBranch"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/antifia-and-the-1940-us-army/","tags":["#OliveBranch"]}
 ---
 
 ![Antifia and the 1940 US Army.png](/img/user/Assets/attachments/Antifia%20and%20the%201940%20US%20Army.png)
 
-The Meme above is being circulated at a pretty high level So let's explore it, do some critical thinking about its message and see where we might land afterward. 
+The Meme above is being circulated at a pretty high level so let's explore it, do some critical thinking about its message, and see where we might land afterward. 
 
 # Summary
 
@@ -14,7 +14,7 @@ For those who just want to be told a summary and just want to be spoon fed, here
 - a formal, state-controlled military institution under the direction of a duly elected President by 55% of the country
 - driven by national and world interests with no ideological alignment to socialism communism, or anarchism
 - was a symbol of national unity and had broad support
-- operated under a hierarchy and government oversight.
+- operated under a hierarchy and government oversight
 - domestic deployments aimed to restore order
 - it engaged in military tactics against another formal, state-controlled military institution
 
@@ -24,11 +24,12 @@ For those who just want to be told a summary and just want to be spoon fed, here
 - operates outside legal frameworks
 - methods typically include illegal, destructive activities harming people and businesses who are not participating in oppositional activities
 - lacks broad societal support and operates as a fringe movement
-- The 1940s anti-fascist groups share ideological ties to Antifa but were far less destructive
+- the 1940s anti-fascist groups share ideological ties to modern day Antifa but were far less destructive
+- instigates violence against non-violent opposition
 
 # Setting the Stage in the 1940 US
 
-Franklin D. Roosevelt (Democrat), serving his third term (1933-1945), elected to his third term by 55% of the country. The Democrats held the Senate by 38 seats and the House by 105.
+Franklin D. Roosevelt (Democrat), was serving his third term (1933-1945), elected to his third term by 55% of the country. The Democrats held the Senate by 38 seats and the House by 105.
 
 A gallon of milk cost $0.52 delivered, gas was $0.18 per gallon, and a new family car cost between $700-$1500. 
 
@@ -42,8 +43,8 @@ In 1943 there was a riot in Detroit triggered by racial tensions over jobs/housi
 
 Followed shortly by a riot in Harlem triggered by police shooting a black teen, 6 people were killed and there was widespread property damage. 
 
-"Antifa" didn't exist, but there were those among the "left-leaning" groups who shared in their ideology opposing what was happening in Nazi Germany and Fascist Italy. They were driven by a mix of socialist, communist, anarchist, and liberal anti-fascist ideologies. Although, they had a more formalize structure and organization than modern Antifia. 
-- Communist Party USA (CPUSA), an explicitly anti-Nazi: Their tactics included public demonstrations and occasional street confrontations. Their communist ideology was criticized by American conservatives as a threat.
+"Antifa" didn't exist, but there were those who shared in their ideology opposing what was happening in Nazi Germany and Fascist Italy. They were driven by a mix of socialist, communist, anarchist, and liberal anti-fascist ideologies. They had a formalize structure and organization. 
+- Communist Party USA (CPUSA), an explicitly anti-Nazi group: Their tactics included public demonstrations and occasional street confrontations. Their communist ideology was criticized by American conservatives as a threat.
 - Socialist Party and Labor Unions who were against capitalism and authoritarianism.
 - Jewish and Immigrant Defense Groups who directly opposed pro-Nazi groups through protests, boycotts, and public campaigns, sometimes resulting in physical altercations. 
 
@@ -53,18 +54,61 @@ During the confrontations with these groups, there were scuffles and minor prope
 
 Donald J Trump, former Democrat turned Republican is serving his second non-consecutive term, elected to his second term by 49.8% of the country. The Republicans hold the Senate by 8 seats and the House by 7.
 
-A gallon of milk cost $4.17 delivered, gas was $3.20 per gallon, and a new family car cost between $48-48.8k. 
+A gallon of milk cost $4.17 delivered, gas is $3.20 per gallon, and a new family car cost between $48-48.8k. 
 
 The Minimum wage is $7.25/hour and the top profession is  a doctor making $403k per year. A shampooer makes $30k per year. 
 
-It takes a half of work at minimum wage to buy 1 gallon of milk. In 1940 it took an hour and a half. 
+It takes a half an hour of work at minimum wage to buy 1 gallon of milk. In 1940 it took an hour and a half. 
 
-The top crime was property, larceny, and theft. The homicide rate was 5/100k. Same as in 1940.
+The top crime is  property, larceny, and theft. The homicide rate is 5/100k. Same as in 1940.
 
-In 2025:
-- In the Los Angeles Riots. President Trump Federalized and deployed 2000 California National Guard troops and 700 US Marines were deployed. The court ruled this was a violation of the Posse Comitatus Act. 
-- In the Portland Riots, Federal troops were deployed against anti-ICE protestors who have burned buildings. 
-- President Trump deployed approximately 800 National Guard troops from DC and Six Republican led states sent 1200 troops to Washington DC addressing crime and unrest.
+In the Los Angeles Riots, President Trump Federalized and deployed 2000 California National Guard troops and 700 US Marines were deployed. The court ruled this was a violation of the Posse Comitatus Act. Back in 1943, President Roosevelt sent 6000 troops to Detroit. Detroit would cover only about 30% of LA's area. 
+
+President Trump deployed approximately 800 National Guard troops from DC and Six Republican led states sent 1200 troops to Washington DC addressing crime and unrest. D.C. would cover approximately half of Detroit's area
+
+# Roosevelt and Modern Day Fascism
+
+President Roosevelt was a vocal opponent of fascism and his policies were driven by democratic ideals and crisis management. However, given today's definition of Fascism, he said and took many actions which could have very easily gotten him labeled as a Fascist. And would have most certainly met with Antifa opposition.
+
+Roosevelt use "fireside chats," on the radio to bypass traditional newspaper gatekeepers and speak directly to Americans. He was often critical of the print media, particularly newspaper publishers, whom he viewed as largely conservative and aligned with business interests opposed to his policies. He believed many newspapers distorted facts or pushed biased narratives. A 1938 Gallup poll showed that 60% of newspaper editorials opposed his policies. In a 1936 speech, he accused some newspapers of "deliberate misrepresentation" and urged the public to question media motives. However, he maintained a friendly rapport with reports. He once remarked that the press was "90% friendly" but could be "100% wrong" in its interpretations. 
+
+In a 1933 press conference, he said, “The primary duty of maintaining order lies with the states, and the federal government steps in only when states cannot or will not act”. In 1941, he sent federal troops to take control of the North American Aviation plant in California after a strike disrupted aircraft production, stating, “The government cannot allow interference with the war effort”. He placed coal mines under federal control in 1943 to prevent strikes from halting fuel production, justified by national security. 
+
+After Pearl Harbor, he supported military oversight of the internment of approximately 120,000 Japanese-Americans.
+
+During WWII, Roosevelt's administration implemented censorship through the Office of Censorship to monitored media and communications to prevent leaks of military information. 
+
+His Office of War also produced propaganda to boost morale and support war efforts, sometimes exaggerating or controlling narratives.
+
+He expanded the FBI’s role under J. Edgar Hoover to monitor domestic groups, including the Communist Party USA, socialist organizations, and even some labor unions, due to fears of subversion. This included wiretapping and informant networks, often without clear evidence of criminal activity. The 1940 Smith Act, signed by him, targeted subversive groups, including communists, though it was sparingly used.
+
+He proposed the Judicial Procedures Reform Bill of 1937, which would have allowed him to appoint additional justices to shift the court’s balance. 
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Setting the Stage in the 1940 World
 
