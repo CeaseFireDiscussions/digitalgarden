@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/antifia-and-the-1940-us-army/","tags":["OliveBranch"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/antifia-and-the-1940-us-army/","tags":["#OliveBranch"]}
 ---
 
 ![Antifia and the 1940 US Army.png](/img/user/Assets/attachments/Antifia%20and%20the%201940%20US%20Army.png)
@@ -27,9 +27,11 @@ For those who just want to be told a summary and just want to be spoon fed, here
 - the 1940s anti-fascist groups share ideological ties to modern day Antifa but were far less destructive
 - instigates violence against non-violent opposition
 
+Other than the "non-citizen" issue, it almost seems like the Original Antifa would be protecting communities from Modern Day Antifa more so than the government?
+
 # Setting the Stage in the 1940 US
 
-Franklin D. Roosevelt (Democrat), was serving his third term (1933-1945), elected to his third term by 55% of the country. The Democrats held the Senate by 38 seats and the House by 105.
+President Franklin D. Roosevelt (Democrat), was serving his third term (1933-1945), elected to his third term by 55% of the country. The Democrats held the Senate by 38 seats and the House by 105.
 
 A gallon of milk cost $0.52 delivered, gas was $0.18 per gallon, and a new family car cost between $700-$1500. 
 
@@ -52,7 +54,7 @@ During the confrontations with these groups, there were scuffles and minor prope
 
 # Setting the Stage in the 2025 US
 
-Donald J Trump, former Democrat turned Republican is serving his second non-consecutive term, elected to his second term by 49.8% of the country. The Republicans hold the Senate by 8 seats and the House by 7.
+President Donald J Trump, former Democrat turned Republican is serving his second non-consecutive term, elected to his second term by 49.8% of the country. The Republicans hold the Senate by 8 seats and the House by 7.
 
 A gallon of milk cost $4.17 delivered, gas is $3.20 per gallon, and a new family car cost between $48-48.8k. 
 
@@ -64,19 +66,19 @@ The top crime is  property, larceny, and theft. The homicide rate is 5/100k. Sam
 
 In the Los Angeles Riots, President Trump Federalized and deployed 2000 California National Guard troops and 700 US Marines were deployed. The court ruled this was a violation of the Posse Comitatus Act. Back in 1943, President Roosevelt sent 6000 troops to Detroit. Detroit would cover only about 30% of LA's area. 
 
-President Trump deployed approximately 800 National Guard troops from DC and Six Republican led states sent 1200 troops to Washington DC addressing crime and unrest. D.C. would cover approximately half of Detroit's area
+President Trump deployed approximately 800 National Guard troops from DC and Six Republican led states sent 1200 troops to Washington DC addressing crime and unrest. DC would cover approximately half of Detroit's area.
 
-# Roosevelt and Modern Day Fascism
+# President Roosevelt and Modern Day Fascism
 
 President Roosevelt was a vocal opponent of fascism and his policies were driven by democratic ideals and crisis management. However, given today's definition of Fascism, he said and took many actions which could have very easily gotten him labeled as a Fascist. And would have most certainly met with Antifa opposition.
 
-Roosevelt use "fireside chats," on the radio to bypass traditional newspaper gatekeepers and speak directly to Americans. He was often critical of the print media, particularly newspaper publishers, whom he viewed as largely conservative and aligned with business interests opposed to his policies. He believed many newspapers distorted facts or pushed biased narratives. A 1938 Gallup poll showed that 60% of newspaper editorials opposed his policies. In a 1936 speech, he accused some newspapers of "deliberate misrepresentation" and urged the public to question media motives. However, he maintained a friendly rapport with reports. He once remarked that the press was "90% friendly" but could be "100% wrong" in its interpretations. 
+President Roosevelt use "fireside chats," on the radio to bypass traditional newspaper gatekeepers and speak directly to Americans. He was often critical of the print media, particularly newspaper publishers, whom he viewed as largely conservative and aligned with business interests opposed to his policies. He believed many newspapers distorted facts or pushed biased narratives. A 1938 Gallup poll showed that 60% of newspaper editorials opposed his policies. In a 1936 speech, he accused some newspapers of "deliberate misrepresentation" and urged the public to question media motives. However, he maintained a friendly rapport with reports. He once remarked that the press was "90% friendly" but could be "100% wrong" in its interpretations. 
 
 In a 1933, press conference, he said, “The primary duty of maintaining order lies with the states, and the federal government steps in only when states cannot or will not act”. In 1941, he sent federal troops to take control of the North American Aviation plant in California after a strike disrupted aircraft production, stating, “The government cannot allow interference with the war effort”. He placed coal mines under federal control in 1943, to prevent strikes from halting fuel production, justified by national security. 
 
 After Pearl Harbor, he supported military oversight of the internment of approximately 120,000 Japanese-Americans.
 
-During WWII, Roosevelt's administration implemented censorship through the Office of Censorship to monitored media and communications to prevent leaks of military information. 
+During WWII, President Roosevelt's administration implemented censorship through the Office of Censorship to monitored media and communications to prevent leaks of military information. 
 
 His Office of War also produced propaganda to boost morale and support war efforts, sometimes exaggerating or controlling narratives.
 
@@ -109,7 +111,7 @@ The bombing of British cities began and the Axis Power was formed by Germany, It
 # "Antifa"
 
 The first major Antifaschistische Aktion (Antifa) activity was in 1932 in Berlin, by the Communist Party of Germany (KPD) whose goal was to unite the communists and socialists against the rising Nazi threat. They utilized direct confrontation, street actions, self-defense networks, and protecting communities from Nazi Germany actions which included: 
-- Controlling communities and seizing property, forcing removal of individuals or families from their homes. Often targeting political opponents, the communist and socialists. 
+- Controlling communities and seizing property, and forcing removal of individuals or families from their homes. Often targeting political opponents, the communist and socialists. 
 - Using physical attacks, street brawls, and targeted assaults against political rivals, Non-Germans, and other perceived enemies.
 - Targeting Jewish businesses and individuals with vandalism, beatings, and intimidation.
 - Assassinating or injuring prominent leftist leaders and activists.
@@ -123,13 +125,13 @@ Up until 1940, the US Army was a small peacetime force. They were on stand by fo
 
 However, due to the world events, the US sought to strength it beginning by instituting the Selective Training and Service Act. The Army began training for joint operations with their Allies. 
 
-The US remained neutral under the Neutrality Acts, providing indirect aid to Allies until after Peral Harbor in 1941. 
+The US remained neutral under the Neutrality Acts, providing indirect aid to Allies until after Pearl Harbor in 1941. 
 
 The first major US ground offensive against Nazi German was in 1942 in Morocco and Algeria. 
 
 The US Army played a pivotal role in the Allied success against the Axis powers.  
 
-# Trump and 1940 Fascism
+# President Trump and 1940 Fascism
 
 President Trump although very critical and hyperbolical regarding his opposition parties, has not banned them. 
 
@@ -139,15 +141,15 @@ He has not taken control of the media, although is very critical toward them, ec
 
 He is disbanding the US Department of Education, moving some aspects to different departments and retuning other aspects to the control of the states. This would be in direct opposition to what the Nazi's did in 1940.  
 
-The Judiciary systems has been oppositional to Trumps Administration. Trump has in turn been very aggressive in his public attacks. There have been over 186 lawsuits and more than 50 nationwide injunctions issued. Many related to Immigration, Citizenship, and Firing of Federal Employees. The Supreme court has found in his favor in 60% of the cases which have come before them. President Roosevelt faced over 100 lawsuits with 10-20 injunctions. Its difficult to get an exact number as records focus on landmark outcomes rather than every filing. The Supreme court found in his favor in 53% of the cases which came before them. He served three terms starting out as a Conservative majority and transition to a Liberal majority in his third term.
+The Judiciary systems has been oppositional to President Trump's Administration. President Trump has in turn been very aggressive in his public attacks. There have been over 186 lawsuits and more than 50 nationwide injunctions issued. Many related to Immigration, Citizenship, and Firing of Federal Employees. The Supreme court has found in his favor in 60% of the cases which have come before them. President Roosevelt faced over 100 lawsuits with 10-20 injunctions. Its difficult to get an exact number as records focus on landmark outcomes rather than every filing. The Supreme court found in his favor in 53% of the cases which came before them. He served three terms with the Supreme court starting out as a Conservative majority and transition to a Liberal majority in his third term.
 
-Chancellor Hitler enacted the Nuremberg laws defining a citizen. Many equate Trumps stance on the Birthright Citizenship stance to this. However, the focus of this is whether babies born in the US where neither of the parents have US Citizenship should be granted Citizenship because they were born in the US. This is mainly related to those who are temporary visitors and illegal aliens who come to the US pregnant and give birth. Unlike Hitler, he isn't taking Citizenship from people who previously held said Citizenship but have three or more non-American grandparents. There have been no moves to prohibit marriages and sexual relations between American's and non-Americans.
+Chancellor Hitler enacted the Nuremberg laws defining a citizen. Many equate President Trump's stance on the Birthright Citizenship to this. However, the focus of this is whether babies born in the US where neither of the parents have US Citizenship should be granted Citizenship. This is mainly related to those who are temporary visitors and illegal aliens who come to the US pregnant and give birth. Unlike Adolf Hitler, he isn't taking Citizenship from people who previously held said Citizenship because they have three or more non-American grandparents. There have been no moves to prohibit marriages and sexual relations between American's and non-Americans. He himself is married to a legal immigrant. 
 
-Trump has not made any invasions into any other countries in order to expand the United States. He has however, made comments regarding Mexico, Canada, and Greenland becoming states.
+President Trump has not made any invasions into any other countries in order to expand the United States. He has however, made comments regarding Mexico, Canada, and Greenland becoming states. In fact, he has facilitated 6-7 peace agreements or ceasefires. 
 
-The Make America Great Again (MAGA) movement has informally portrayed him as an infallible leader and heroic figure as Prime Minister Mussolini's propaganda wing did. However, these are not being produced by his party but of his voters. 
+There have been no moves in regard to paramilitary training nor school curriculum other than moves toward returning the right of the States to drive curriculum at a state level.
 
-There have been no moves in regard to paramilitary training nor school curriculum other than returning the right of the States to drive curriculum at a state level.
+The Make America Great Again (MAGA) movement has informally portrayed him as an infallible leader and heroic figure as Prime Minister Mussolini's propaganda wing did. However, these are not being produced by his party but by his voters. 
 
 Massive rallies and celebrations have been organized and centered around "the MAGA movement" creating an American Pride. It should be noted the base of this movement has a natural affinity to American Pride which existed long before the MAGA movement. 
 
@@ -155,15 +157,18 @@ No General Population American Citizens are purposefully being targeted and forc
 
 # 2025 "Antifa"
 
-The first modern day "Antifia" movement is typically pin pointed to a left-wing group of self identified anarchists and communists against the neo-Nazi skinheads recruiting at a punk rock concert back in 1987-1988. The used tactics like doxxing, street confrontations, and disrupting rallies.
+The first modern day "Antifia" movement is typically pin pointed to a left-wing group of self identified anarchists and communists against the neo-Nazi skinheads recruiting at a punk rock concert back in 1987-1988. They used tactics like doxxing, street confrontations, and disrupting rallies.
 
 The first official group was the Rose City Antifa originating in Portland, OR in 2007. 
 
-The modern day prominence of Antifa sparked during the Charlottesville Unite the Right rally in 2017. 
+The modern day prominence of Antifa sparked during the Charlottesville Unite the Right rally in 2017.
+- The Protest was organized primarily to protest the city's decision to remove a statue of Confederate General Robert E. Lee.
+
+
 - August 11, Torchlight March: Hundreds of people carried tiki torches through the University of Virginia chanting slogans like “Jews will not replace us” and “Blood and soil.” They were confronted and minor  altercations occurred. 
 - August 12, Unite the Right Rally
-	- Groups like the Proud Boys, National Socialist Movement, and Ku Klux Klan affiliates, gathered with shields, flags, and weapons.
-	- A diverse coalition of counter-protesters assembled, including Antifa, Black Lives Matter activists, clergy, and local residents. The counter-protesters engaged in physical confrontations with rallygoers, using fists, sticks, and pepper spray. 
+	- Groups like the Alt-Right - the core organizers, Neo-Nazis (National Socialist Movement), Vanguard America, and Ku Klux Klan (Loyal White Knights), Rise Above Movement (RAM), White Lives Matter, gathered with shields, flags, and weapons.
+	- A diverse coalition of counter-protesters assembled, including Antifa, Black Lives Matter, Charlottesville Clergy Collective, NAACP, Showing Up for Racial Justice (SURJ), other local civil right activists and local residents. The counter-protesters engaged in physical confrontations with rallygoers, using fists, sticks, and pepper spray. 
 	- James Alex Fields Jr., drove his car into a crowd of counter-protesters, killing 1 and injuring 35 others.
 		- Fields used platforms like Facebook and 8chan to post neo-Nazi symbols, memes, and content praising Adolf Hitler and Nazi policies,
 		- At the Unite the Right rally, Fields marched with Vanguard America, a neo-Nazi group, carrying their shield and chanted slogans like "Blood and Soil"
@@ -173,7 +178,7 @@ The modern day prominence of Antifa sparked during the Charlottesville Unite the
 
 In 2025, Antifa involvement is often self-identified or alleged by authorities, with activities centered on anti-ICE protests amid mass deportation policies.
 
-The mass deportation policies are primarily a response to perceived border security threats, a surge in unauthorized migration during the prior administration, and national security concerns. The stated goal is to deport 1–2 million people annually, targeting illegal aliens, those with temporary protections, and individuals with criminal records.
+The mass deportation policies are stated as primarily a response to perceived border security threats, a surge in unauthorized migration during the prior administration, and national security concerns. The stated goal is to deport 1–2 million people annually, targeting illegal aliens, those with temporary protections, and individuals with criminal records.
 
 Antifa activities include:
 - Widespread riots
@@ -182,7 +187,7 @@ Antifa activities include:
 - Vandalism.
 - Shattering windows.
 - Destroying businesses.
-- Torching a police vehicles.
+- Torching police vehicles.
 - Graffiti.
 - Damaging infrastructure.
 - Nightly assaults on the ICE detention center using fireworks.
@@ -194,6 +199,68 @@ Antifa activities include:
 - Firebombing.
 - Using improvised weapons like pipes, bats, or pepper spray.
 - Employing guns, edged weapons, or gasoline jars.
+
+## Immigration and Protest Numbers
+- Bill Clinton (1st term: 1993-1997): 
+	- ~6.1 million deportations
+	- ~5.7 million unauthorized
+	- ~4.8 million legal admitted
+	- 0 Antifa protests
+	- General protests with no violent clashes
+	- Expanded deportation in 1996
+- Bill Clinton (2nd term: 1997-2001): 
+	- ~6.2 million deportations
+	- ~8.5 million unauthorized
+	- ~5.9 million legal admitted
+	- 0 Antifa protests
+	- Isolated migrant protests with no violent clashes
+- George W. Bush (1st term: 2001-2005): 
+	- ~5.2 million deportations
+	- ~10.3 million unauthorized
+	- ~5.2 million legal admitted
+	- 0 Antifa protests - Antifa mostly focused on anti-war efforts.
+	- Post 9/11 enforcement ramped up 
+	- ICE formed in 2003
+- George W. Bush (2nd term: 2005-2009): 
+	- ~5.1 million deportations
+	- ~11.1 million unauthorized
+	- ~4.9 million legal admitted
+	- 0 Antifa protests
+- Barack Obama (1st term: 2009-2013): 
+	- ~3.2 million deportations
+	- ~11.3 million unauthorized
+	- ~5.8 million legal admitted
+	- Labeled "Deporter-in-Chief"
+	- 0 Antifa protests
+	- Protests by immigrant advocates
+- Barack Obama (2nd term: 2013-2017): 
+	- ~2.9 million deportations
+	- ~10.7 million unauthorized
+	- ~4.0 million legal admitted
+	- "Cages" built as temporary holding dividers
+	- 2 Antifa protests - minor clashes at detention centers, attempted arson 
+- Donald Trump (1st term: 2017-2021): 
+	- ~2.1 million deportations
+	- ~10.2 million unauthorized
+	- ~2.8 million legal admitted
+	- 20 Antifa protests
+	- Key ICE incidents, doxing, firebombing killing 1 attacker
+	- Nationwide riots with assaults on agents
+- Joe Biden (term: 2021-2025): 
+	- ~4.7 million deportations
+	- ~14.0 million unauthorized
+	- ~3.9 million legal admitted
+	- 5 Antifa protests - shifting to general unrest
+	- Isolated ICE attacks, pip bomb threat, doxing
+- Donald Trump (2nd term: 2025-present, first 9 months): 
+	- ~0.3 million  deportations (projected annual ~400,000 based on pace)
+	- ~12.5 million unauthorized mid-2025 estimate
+	- ~0.5 million legal admitted
+	- 15 Antifa protests - riots, molotovs, shootings, officer shot, assaults, firebombing of buses, sieges
+	- 1000% rise in ICE assaults.
+
+If Antifa is really about Immigration they should have Protest Clinton - because he has the most deportations overall. 
+
 
 # Original Antifa vs Modern Antifa
 
