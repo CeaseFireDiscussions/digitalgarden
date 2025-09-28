@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/wicked-turning-back-vs-righteous-turning-back/","tags":["#Righteousness","#Wickedness","#Ezekiel18","#SacredTruces"]}
+{"dg-publish":true,"permalink":"/sacred-truces/wicked-turning-back-vs-righteous-turning-back/","tags":["#Righteousness","#Wickedness","#Ezekiel18","SacredTruces"]}
 ---
 
 

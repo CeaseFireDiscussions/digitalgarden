@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/know-the-children-of-god-how/","tags":["#1John5","#Torah","#Law","#LoveGod","#LoveNeighbor","#JesusFollowers","#Writer/John","#Social","#SacredTruces"]}
+{"dg-publish":true,"permalink":"/sacred-truces/know-the-children-of-god-how/","tags":["#1John5","#Torah","#Law","#LoveGod","#LoveNeighbor","#JesusFollowers","#Writer/John","#Social","SacredTruces"]}
 ---
 
 

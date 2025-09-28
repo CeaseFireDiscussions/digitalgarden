@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/fascism/","tags":["#SacredTruces"]}
+{"dg-publish":true,"permalink":"/sacred-truces/fascism/","tags":["SacredTruces"]}
 ---
 
 *During ancient times, the Heralds would announce truces or deliver messages during ceasefires.*

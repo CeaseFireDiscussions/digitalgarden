@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/new-covenant/","tags":["#Jeremiah31","#Matthew5","#SnipJeremiah31_30-33","#SnipMatthew5_17-20","#NewCovenant","#Writer/Jeremiah","#Writer/Matthew","#Torah","#Law","#Prophets","#KingdomofHeaven","#Righteousness","#Scribes","#Pharisees","#SermonontheMount","#JesusTeaching","#JesusFollowers","#WriteonHeart","#Social","#SacredTruces"]}
+{"dg-publish":true,"permalink":"/sacred-truces/new-covenant/","tags":["#Jeremiah31","#Matthew5","#SnipJeremiah31_30-33","#SnipMatthew5_17-20","#NewCovenant","#Writer/Jeremiah","#Writer/Matthew","#Torah","#Law","#Prophets","#KingdomofHeaven","#Righteousness","#Scribes","#Pharisees","#SermonontheMount","#JesusTeaching","#JesusFollowers","#WriteonHeart","#Social","SacredTruces"]}
 ---
 
 [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31\|Jer-31]]
