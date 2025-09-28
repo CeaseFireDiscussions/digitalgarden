@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/antifia-and-the-1940-us-army/","tags":["#OliveBranch"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/antifia-and-the-1940-us-army/","tags":["OliveBranch"]}
 ---
 
 ![Antifia and the 1940 US Army.png](/img/user/Assets/attachments/Antifia%20and%20the%201940%20US%20Army.png)
@@ -72,7 +72,7 @@ President Roosevelt was a vocal opponent of fascism and his policies were driven
 
 Roosevelt use "fireside chats," on the radio to bypass traditional newspaper gatekeepers and speak directly to Americans. He was often critical of the print media, particularly newspaper publishers, whom he viewed as largely conservative and aligned with business interests opposed to his policies. He believed many newspapers distorted facts or pushed biased narratives. A 1938 Gallup poll showed that 60% of newspaper editorials opposed his policies. In a 1936 speech, he accused some newspapers of "deliberate misrepresentation" and urged the public to question media motives. However, he maintained a friendly rapport with reports. He once remarked that the press was "90% friendly" but could be "100% wrong" in its interpretations. 
 
-In a 1933 press conference, he said, “The primary duty of maintaining order lies with the states, and the federal government steps in only when states cannot or will not act”. In 1941, he sent federal troops to take control of the North American Aviation plant in California after a strike disrupted aircraft production, stating, “The government cannot allow interference with the war effort”. He placed coal mines under federal control in 1943 to prevent strikes from halting fuel production, justified by national security. 
+In a 1933, press conference, he said, “The primary duty of maintaining order lies with the states, and the federal government steps in only when states cannot or will not act”. In 1941, he sent federal troops to take control of the North American Aviation plant in California after a strike disrupted aircraft production, stating, “The government cannot allow interference with the war effort”. He placed coal mines under federal control in 1943, to prevent strikes from halting fuel production, justified by national security. 
 
 After Pearl Harbor, he supported military oversight of the internment of approximately 120,000 Japanese-Americans.
 
@@ -84,45 +84,19 @@ He expanded the FBI’s role under J. Edgar Hoover to monitor domestic groups, i
 
 He proposed the Judicial Procedures Reform Bill of 1937, which would have allowed him to appoint additional justices to shift the court’s balance. 
 
-
-
-
-
-.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Setting the Stage in the 1940 World
 
-German Reich led by Adolf Hitler seized control of Germany in 1933. Chancellor Hitler banned opposition parties, dissolved trade unions, took control of the media, education, and the judiciary systems.
+The German Reich led by Adolf Hitler seized control of Germany in 1933. Chancellor Hitler banned opposition parties, dissolved trade unions, took control of the media, education, and the judiciary systems.
 
-In 1935, Chancellor Hitler enacted the Nuremberg Laws defining a citizen as a person of "German or related blood," e.g., three or more non-German grandparents.  It did not matter if someone was born in German or not. The Law for the Protection of German Blood and German Honor also prohibited marriages and sexual relations between Germans and Non-Germans. This significantly impacted groups of Jewish (~505,000) and Roma (Sinti and Romani) ((~25,000)) descent. 
+In 1935, Chancellor Hitler enacted the Nuremberg Laws defining a citizen as a person of "German or related blood," e.g., three or more non-German grandparents.  It did not matter if someone was born in Germany or not. The Law for the Protection of German Blood and German Honor also prohibited marriages and sexual relations between Germans and Non-Germans. This significantly impacted groups of Jewish (~505,000) and Roma (Sinti and Romani) (~25,000) descent. 
 
 Internationally, the German Reich became known as the National Socialist German Workers' Party (Nazi). Thus the reference to Nazi Germany.
 
-In 1940, Nazi Germany launched the Blitzkrieg, invading Denmark and Norway (April), followed by Belgium, the Netherlands, Luxembourg, and France.
+In 1940, Nazi Germany launched the Blitzkrieg, invading Denmark and Norway, followed by Belgium, the Netherlands, Luxembourg, and France.
 
 They expanded the Ghettos (segregation areas) and forced Non-German labor. Aggressively enforcing the Nuremberg Laws, stripping any non-German of citizenship and rights.
 
-Prime Minister Benito Mussolini suppressed the political opposition, censored media, and Socialist and Communist activities were aggressively suppressed. . Through the National Fascist Party propaganda through posters, statues, and media:
+Prime Minister Benito Mussolini suppressed the political opposition, censored media, and Socialist and Communist activities were aggressively suppressed. The National Fascist Party produced  propaganda through posters, statues, and media.
 - They portrayed him as the infallible leader, heroic figure, and emphasized his role as a warrior-leader. 
 - Mandatory paramilitary training and school curriculum was instituted. 
 - Massive rallies and celebrations where organized aimed at creating a collective Italian pride.
@@ -134,12 +108,12 @@ The bombing of British cities began and the Axis Power was formed by Germany, It
 
 # "Antifa"
 
-The first major Antifaschistische Aktion (Antifa) activity was in 1932 in Berlin, by the Communist Party of Germany (KPD) whose goal was to unite the communists and socialists against the rising Nazi threat. They utilized direct confrontation, street actions, self-defense networks, and protecting communities from Nazi Germany actions: 
-- To control communities and seize property forced removal of individuals or families from their homes were carried out. Often targeting political opponents, the communist and socialists. 
-- They used physical attacks, street brawls, and targeted assaults against political rivals, Non-Germans, and other perceived enemies.
-- They targeted Jewish businesses and individuals with vandalism, beatings, and intimidation.
-- They assassinated or injured prominent leftist leaders and activists.
-- They used violence to disrupting rival political events. 
+The first major Antifaschistische Aktion (Antifa) activity was in 1932 in Berlin, by the Communist Party of Germany (KPD) whose goal was to unite the communists and socialists against the rising Nazi threat. They utilized direct confrontation, street actions, self-defense networks, and protecting communities from Nazi Germany actions which included: 
+- Controlling communities and seizing property, forcing removal of individuals or families from their homes. Often targeting political opponents, the communist and socialists. 
+- Using physical attacks, street brawls, and targeted assaults against political rivals, Non-Germans, and other perceived enemies.
+- Targeting Jewish businesses and individuals with vandalism, beatings, and intimidation.
+- Assassinating or injuring prominent leftist leaders and activists.
+- Using violence to disrupting rival political events. 
 
 # 1940s "Antifa"
 
@@ -154,6 +128,31 @@ The US remained neutral under the Neutrality Acts, providing indirect aid to All
 The first major US ground offensive against Nazi German was in 1942 in Morocco and Algeria. 
 
 The US Army played a pivotal role in the Allied success against the Axis powers.  
+
+# Trump and 1940 Fascism
+
+President Trump although very critical and hyperbolical regarding his opposition parties, has not banned them. 
+
+He has the rank and file union member support at 40-50% but lacks the union leadership support. He won about 44% of union household voters. He has made no moves to dissolve them. 
+
+He has not taken control of the media, although is very critical toward them, echoing much of President Roosevelts sentiments. 
+
+He is disbanding the US Department of Education, moving some aspects to different departments and retuning other aspects to the control of the states. This would be in direct opposition to what the Nazi's did in 1940.  
+
+The Judiciary systems has been oppositional to Trumps Administration. Trump has in turn been very aggressive in his public attacks. There have been over 186 lawsuits and more than 50 nationwide injunctions issued. Many related to Immigration, Citizenship, and Firing of Federal Employees. The Supreme court has found in his favor in 60% of the cases which have come before them. President Roosevelt faced over 100 lawsuits with 10-20 injunctions. Its difficult to get an exact number as records focus on landmark outcomes rather than every filing. The Supreme court found in his favor in 53% of the cases which came before them. He served three terms starting out as a Conservative majority and transition to a Liberal majority in his third term.
+
+Chancellor Hitler enacted the Nuremberg laws defining a citizen. Many equate Trumps stance on the Birthright Citizenship stance to this. However, the focus of this is whether babies born in the US where neither of the parents have US Citizenship should be granted Citizenship because they were born in the US. This is mainly related to those who are temporary visitors and illegal aliens who come to the US pregnant and give birth. Unlike Hitler, he isn't taking Citizenship from people who previously held said Citizenship but have three or more non-American grandparents. There have been no moves to prohibit marriages and sexual relations between American's and non-Americans.
+
+Trump has not made any invasions into any other countries in order to expand the United States. He has however, made comments regarding Mexico, Canada, and Greenland becoming states.
+
+The Make America Great Again (MAGA) movement has informally portrayed him as an infallible leader and heroic figure as Prime Minister Mussolini's propaganda wing did. However, these are not being produced by his party but of his voters. 
+
+There have been no moves in regard to paramilitary training nor school curriculum other than returning the right of the States to drive curriculum at a state level.
+
+Massive rallies and celebrations have been organized and centered around "the MAGA movement" creating an American Pride. It should be noted the base of this movement has a natural affinity to American Pride which existed long before the MAGA movement. 
+
+No General Population American Citizens are purposefully being targeted and forcefully removed from their homes and property seized. US Immigration and Customs Enforcement (ICE) are conduction swept to locate illegal aliens, those with temporary protections, and individuals with criminal records. 
+
 # 2025 "Antifa"
 
 The first modern day "Antifia" movement is typically pin pointed to a left-wing group of self identified anarchists and communists against the neo-Nazi skinheads recruiting at a punk rock concert back in 1987-1988. The used tactics like doxxing, street confrontations, and disrupting rallies.
@@ -195,4 +194,15 @@ Antifa activities include:
 - Firebombing.
 - Using improvised weapons like pipes, bats, or pepper spray.
 - Employing guns, edged weapons, or gasoline jars.
+
+# Original Antifa vs Modern Antifa
+
+The 1932 Antifa organized to PROTECT communities FROM actions which included: 
+
+- physical attacks, street brawls, and targeted assaults against political rivals, Non-Germans, and other perceived enemies
+- targeting of businesses and individuals with vandalism, beatings, and intimidation
+- assassination or injuring prominent leaders and activists.
+- use of violence to disrupting political events
+
+Other than the "non-citizen" issue, it almost seems like the Original Antifa would be protecting communities from Modern Day Antifa more so than the government?
 
