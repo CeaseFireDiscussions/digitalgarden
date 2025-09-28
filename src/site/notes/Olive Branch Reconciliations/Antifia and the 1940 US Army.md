@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/antifia-and-the-1940-us-army/","tags":["#OliveBranch"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/antifia-and-the-1940-us-army/","tags":["OliveBranch"]}
 ---
 
 ![Antifia and the 1940 US Army.png](/img/user/Assets/attachments/Antifia%20and%20the%201940%20US%20Army.png)
@@ -68,7 +68,7 @@ In the Los Angeles Riots, President Trump Federalized and deployed 2000 Californ
 
 President Trump deployed approximately 800 National Guard troops from DC and Six Republican led states sent 1200 troops to Washington DC addressing crime and unrest. DC would cover approximately half of Detroit's area.
 
-# President Roosevelt and Modern Day Fascism
+# President Roosevelt and Modern Day [[Sacred Truces/Fascism\|Fascism]]
 
 President Roosevelt was a vocal opponent of fascism and his policies were driven by democratic ideals and crisis management. However, given today's definition of Fascism, he said and took many actions which could have very easily gotten him labeled as a Fascist. And would have most certainly met with Antifa opposition.
 
