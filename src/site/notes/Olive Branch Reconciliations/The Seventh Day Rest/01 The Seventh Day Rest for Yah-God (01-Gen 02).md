@@ -7,26 +7,9 @@
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
 # Scripture: Genesis 2:2-3 (WEB)
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+On <mark style="background: #D2B3FFA6;">the seventh day</mark> <mark style="background: #E0CC4BA6;">God</mark> finished <mark style="background: #E0CC4BA6;">his</mark> work which <mark style="background: #E0CC4BA6;">he</mark> had done; and <mark style="background: #E0CC4BA6;">he</mark> <mark style="background: #04CD3EA6;">rested</mark> <mark style="background: #D2B3FFA6;">on the seventh day</mark> from all <mark style="background: #E0CC4BA6;">his</mark> work which <mark style="background: #E0CC4BA6;">he</mark> had done.
 
-
-
-###### v2
-On the seventh day God finished his work which he had done; and he rested on the seventh day from all his work which he had done.
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v3
-God blessed the seventh day, and made it holy, because he rested in it from all his work of creation which he had done.
-
-
-</div></div>
-
+<mark style="background: #E0CC4BA6;">God</mark> <mark style="background: #04CD3EA6;">blessed the seventh day</mark>, and <mark style="background: #04CD3EA6;">made it holy</mark>, <mark style="background: #EB9E57A6;">because</mark> <mark style="background: #E0CC4BA6;">he</mark> <mark style="background: #EB9E57A6;">rested</mark> in it from all <mark style="background: #E0CC4BA6;">his</mark> work of creation which <mark style="background: #E0CC4BA6;">he</mark> had done.
 
 ## **Define**: 
 - This is the very first mention of Seventh Day Rest - it is not yet referred to as the Sabbath Day, Just as Day 7.
@@ -94,9 +77,9 @@ God blessed the seventh day, and made it holy, because he rested in it from all 
 - [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 

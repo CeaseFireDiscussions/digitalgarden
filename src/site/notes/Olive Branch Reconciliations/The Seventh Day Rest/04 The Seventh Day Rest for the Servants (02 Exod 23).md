@@ -8,37 +8,9 @@ Let's see what scripture says about that starting at the very beginning and then
 
 # Scripture: Exodus 23:10-12
 
+"For six years you shall sow your land, and shall gather in its increase, but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave the animal of the field shall eat. In the same way, you shall deal with your vineyard and with your olive grove. 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-scrolls/1-torah-law-of-moses/02-exodus/exod-23/#v10" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-###### v10 
-"For six years you shall sow your land, and shall gather in its increase, 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-scrolls/1-torah-law-of-moses/02-exodus/exod-23/#v11" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-###### v11 
-but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave the animal of the field shall eat. In the same way, you shall deal with your vineyard and with your olive grove. 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-scrolls/1-torah-law-of-moses/02-exodus/exod-23/#v12" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-###### v12 
-"Six days you shall do your work, and on the seventh day you shall rest, that your ox and your donkey may have rest, and the son of your servant, and the alien may be refreshed. 
-
-
-</div></div>
-
+"<mark style="background: #D2B3FFA6;">Six days</mark> <mark style="background: #E0CC4BA6;">you</mark> shall do <mark style="background: #E0CC4BA6;">your</mark> <mark style="background: #04CD3EA6;">work</mark>, and <mark style="background: #D2B3FFA6;">on the seventh day</mark> <mark style="background: #E0CC4BA6;">you</mark> shall <mark style="background: #04CD3EA6;">rest</mark>, <mark style="background: #EB9E57A6;">that your ox and your donkey may have rest</mark>, and <mark style="background: #EB9E57A6;">the son of your servant, and the alien may be refreshed</mark>. 
 
 ## **Define**:
 
@@ -82,6 +54,7 @@ but the seventh year you shall let it rest and lie fallow, that the poor of your
 ## Other Notes:
 
 - All followers of Yah-God, their animals, and their servants are to rest.
+- This is given outside the [[Gate of Wisdom/Ten Words\|Ten Words]].
 
 # Connections
 
@@ -91,9 +64,9 @@ but the seventh year you shall let it rest and lie fallow, that the poor of your
 - [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 

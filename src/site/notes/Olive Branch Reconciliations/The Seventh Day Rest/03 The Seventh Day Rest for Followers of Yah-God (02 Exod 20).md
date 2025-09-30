@@ -7,49 +7,12 @@ The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appoi
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
 # Scripture: Exodus 20:8-11
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-scrolls/1-torah-law-of-moses/02-exodus/exod-20/#v8" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+"<mark style="background: #04CD3EA6;">Remember the Sabbath day</mark>, <mark style="background: #04CD3EA6;">to keep it holy</mark>. 
 
-
-
-###### v8 
-"Remember the Sabbath day, to keep it holy. 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-scrolls/1-torah-law-of-moses/02-exodus/exod-20/#v9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-###### v9 
-You shall labor six days, and do all your work, 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-scrolls/1-torah-law-of-moses/02-exodus/exod-20/#v10" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-###### v10 
-but the seventh day is a Sabbath to Yahweh your God. You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates; 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-scrolls/1-torah-law-of-moses/02-exodus/exod-20/#v11" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-###### v11 
-for in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore Yahweh blessed the Sabbath day, and made it holy. 
-
-
-</div></div>
-
-
+<mark style="background: #E0CC4BA6;">You</mark> shall <mark style="background: #04CD3EA6;">labor</mark> <mark style="background: #D2B3FFA6;">six days</mark>, and do all <mark style="background: #E0CC4BA6;">your</mark> <mark style="background: #04CD3EA6;">work</mark>, but <mark style="background: #D2B3FFA6;">the seventh day</mark> <mark style="background: #04CD3EA6;">is a Sabbath</mark> <mark style="background: #A4A089A6;">to Yahweh</mark> <mark style="background: #E0CC4BA6;">your</mark> <mark style="background: #A4A089A6;">God</mark>. <mark style="background: #E0CC4BA6;">You</mark> shall <mark style="background: #04CD3EA6;">not do any work</mark> <mark style="background: #D2B3FFA6;">in it</mark>, <mark style="background: #E0CC4BA6;">you</mark>, nor <mark style="background: #B2A23AA6;">your son</mark>, nor <mark style="background: #B2A23AA6;">your daughter</mark>, <mark style="background: #E0CC4BA6;">your male servant</mark>, nor <mark style="background: #B2A23AA6;">your female servant</mark>, nor <mark style="background: #E0CC4BA6;">your livestock</mark>, nor <mark style="background: #E0CC4BA6;">your stranger</mark> who is <mark style="background: #4DA6EDA6;">within your gates</mark>; for <mark style="background: #D2B3FFA6;">in six days</mark> <mark style="background: #A4A089A6;">Yahweh</mark> <mark style="background: #04CD3EA6;">made heaven and earth, the sea, and all that is in them</mark>, and <mark style="background: #04CD3EA6;">rested</mark> <mark style="background: #D2B3FFA6;">the seventh day</mark>; therefore <mark style="background: #A4A089A6;">Yahweh</mark> <mark style="background: #04CD3EA6;">blessed</mark> <mark style="background: #D2B3FFA6;">the Sabbath day</mark>, and <mark style="background: #04CD3EA6;">made it holy</mark>. 
 
 ## **Define**: 
+- Remember zakhor (זָכוֹר )  - to remember," "to recall," or "to keep in mind." It carries the sense of actively bearing in mind or observing with intentionality, emphasizing both remembrance and action. The imperative form in this verse is a command, urging consciously remember and uphold the sanctity.
 - [[Gate of Wisdom/Holy\|Holy]] - kadosh (קָדוֹשׁ), which means "set apart," "separate," or "consecrated" for a special purpose. 
 	- In Scriptures, it signifies something that is distinct from the common or profane, dedicated to God's service, or possessing a unique sanctity. 
 	- The concept of kadosh applies to Yah, people, places, things, and time, distinguishing them as unique and separate from ordinary things. 
@@ -75,7 +38,7 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 
 ## **What**: 
 - Yah-God is giving the Words-Things-Matters, ALL the people witnessed this. The words have not been written down yet.
-	- The Words are known today as the "Ten Commandments". The Hebrew word is Devarim - meaning "words," "things," or "matters." 
+	- The Words are known today as the "[[Gate of Wisdom/Ten Commandments\|Ten Commandments]]". The Hebrew word is Devarim - meaning "words," "things," or "matters." 
 	- In Exodus:19:5 ([[Gate of Wisdom/Torah Teaching/Exod-19#v5\|Exod-19#v5]]), Yah-God calls this his covenant (berit (בְּרִית) - refers to a binding agreement, treaty, or covenant)
 - Be mindful to keep the Seventh Day set-apart to serving Yah-God. (Remember = zakhor (זָכוֹר), to actively recall, commemorate, or be mindful of something.)
 - Work six days.
@@ -83,8 +46,8 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 	- blessed=barakh (בֵּרַךְ) conveys the act of bestowing divine favor, prosperity, or consecration. He set it apart, endowing it with special significance and sanctity as a day of rest.
 
 ## **When**:
-- In the third month after the Hebrews and others were brought out of the land of Egypt by Yah-God.
-- After Moses has gone up and down the mountain three times
+- In the third month after the Hebrews and others were brought out of the land of [[Zunpublished/Egypt\|Egypt]] by Yah-God.
+- After [[Zunpublished/Moses\|Moses]] has gone up and down the mountain three times
 	- 1st time down, the people agreed to listen closely to God's voice and keep his covenant.
 	- 2nd time down, he told the people to consecrate themselves because God was going to draw near.
 	- 3rd time down, God warned them not to cross the boundaries set.
@@ -114,9 +77,9 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 - [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 

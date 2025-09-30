@@ -376,12 +376,12 @@ The Sabbath was the only thing created after Man. Sabbath was made for man.
 - Genesis 2 :2–3 [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
 - Exodus 16 :23–30 [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
 - Exodus 20 :8–11 [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
-- Exodus 23 :12
-- Exodus 31 :13–17
-- Exodus 34 :21
-- Exodus 35 :1–3
+- Exodus 23 :12 [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
+- Exodus 31 :13–17 [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]
+- Exodus 34 :21 [[Zunpublished/06 The Seventh Day Rest is for God's People (02-Exod 34)\|06 The Seventh Day Rest is for God's People (02-Exod 34)]]
+- Exodus 35 :1–3 [[Zunpublished/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]
 	- 40:2 FIRST DAY
-- Leviticus 19 :3, 30
+- Leviticus 19 :3, 30 [[Zunpublished/08 The Seventh Day Rest is for ___ (03-Lev 19)\|08 The Seventh Day Rest is for ___ (03-Lev 19)]]
 - Leviticus 23 :3–39
 - Leviticus 24 :5-9
 - Leviticus 25 :2–8

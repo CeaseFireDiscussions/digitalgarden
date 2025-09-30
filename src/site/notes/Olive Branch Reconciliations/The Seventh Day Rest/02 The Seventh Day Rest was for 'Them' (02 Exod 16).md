@@ -7,107 +7,25 @@ The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appoi
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
 # Scripture: Exodus 16:21-30 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<mark style="background: #E0CC4BA6;">They</mark> gathered it <mark style="background: #D2B3FFA6;">morning by morning</mark>, <mark style="background: #E0CC4BA6;">everyone</mark> according to <mark style="background: #E0CC4BA6;">his</mark> eating. <mark style="background: #D2B3FFA6;">When the sun grew hot</mark>, it melted.
 
+<mark style="background: #D2B3FFA6;">On the sixth day</mark>, <mark style="background: #E0CC4BA6;">they</mark> gathered twice as much bread, two omers for <mark style="background: #E0CC4BA6;">each one</mark>; and all the <mark style="background: #B2A23AA6;">rulers of the congregation</mark> came and told <mark style="background: #A4A089A6;">Moses</mark>. 
 
+<mark style="background: #A4A089A6;">He</mark> said to <mark style="background: #B2A23AA6;">them</mark>, "This is that which <mark style="background: #A4A089A6;">Yahweh</mark> has spoken, '<mark style="background: #D2B3FFA6;">Tomorrow</mark> is <mark style="background: #04CD3EA6;">a solemn rest</mark>, <mark style="background: #04CD3EA6;">a holy Sabbath to </mark><mark style="background: #A4A089A6;">Yahweh</mark>. Bake that which <mark style="background: #E0CC4BA6;">you</mark> want to <mark style="background: #04CD3EA6;">bake</mark>, and boil that which <mark style="background: #E0CC4BA6;">you</mark> want to <mark style="background: #04CD3EA6;">boil</mark>; and all that <mark style="background: #04CD3EA6;">remains over lay up</mark> for <mark style="background: #E0CC4BA6;">yourselves</mark> to be kept until the morning.'" 
 
-###### v21 
-They gathered it morning by morning, everyone according to his eating. When the sun grew hot, it melted. 
+<mark style="background: #E0CC4BA6;">They</mark> <mark style="background: #04CD3EA6;">laid it up</mark> <mark style="background: #D2B3FFA6;">until the morning</mark>, as <mark style="background: #A4A089A6;">Moses</mark> ordered, and it didn't become foul, and there were no worms in it. 
 
+<mark style="background: #A4A089A6;">Moses</mark> said, "<mark style="background: #04CD3EA6;">Eat</mark> that <mark style="background: #D2B3FFA6;">today</mark>, for <mark style="background: #04CD3EA6;">today is a Sabbath</mark> <mark style="background: #A4A089A6;">to Yahweh</mark>. <mark style="background: #D2B3FFA6;">Today</mark> <mark style="background: #E0CC4BA6;">you</mark> shall not find it in the field. 
 
-</div></div>
+<mark style="background: #D2B3FFA6;">Six days</mark> <mark style="background: #E0CC4BA6;">you</mark> shall <mark style="background: #04CD3EA6;">gather</mark> it, but <mark style="background: #D2B3FFA6;">on the seventh day </mark><mark style="background: #04CD3EA6;">is the Sabbath</mark>. In it <mark style="background: #04CD3EA6;">there shall be none</mark>." 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<mark style="background: #D2B3FFA6;">On the seventh day</mark>, <mark style="background: #E0CC4BA6;">some of the people</mark> <mark style="background: #04CD3EA6;">went out to gather</mark>, and <mark style="background: #E0CC4BA6;">they</mark> found none. 
 
+<mark style="background: #A4A089A6;">Yahweh</mark> said to <mark style="background: #A4A089A6;">Moses</mark>, "How long do <mark style="background: #E0CC4BA6;">you</mark> <mark style="background: #04CD3EA6;">refuse to keep</mark> <mark style="background: #A4A089A6;">my</mark> <mark style="background: #04CD3EA6;">commandments</mark> and <mark style="background: #A4A089A6;">my</mark> <mark style="background: #04CD3EA6;">laws</mark>? 
 
+Behold, <mark style="background: #EB9E57A6;">because</mark> <mark style="background: #A4A089A6;">Yahweh</mark> <mark style="background: #EB9E57A6;">has given you the Sabbath</mark>, therefore <mark style="background: #A4A089A6;">he</mark> <mark style="background: #04CD3EA6;">gives</mark> <mark style="background: #E0CC4BA6;">you</mark> on <mark style="background: #04CD3EA6;">the sixth day the bread of two days</mark>. <mark style="background: #E0CC4BA6;">Everyone</mark> <mark style="background: #04CD3EA6;">stay</mark> in <mark style="background: #E0CC4BA6;">his</mark> place. Let <mark style="background: #E0CC4BA6;">no one</mark> go out of <mark style="background: #E0CC4BA6;">his</mark> place <mark style="background: #D2B3FFA6;">on the seventh day</mark>." 
 
-###### v22 
-On the sixth day, they gathered twice as much bread, two omers for each one; and all the rulers of the congregation came and told Moses. 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v23 
-He said to them, "This is that which Yahweh has spoken, 'Tomorrow is a solemn rest, a holy Sabbath to Yahweh. Bake that which you want to bake, and boil that which you want to boil; and all that remains over lay up for yourselves to be kept until the morning.'" 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v24 
-They laid it up until the morning, as Moses ordered, and it didn't become foul, and there were no worms in it. 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v25 
-Moses said, "Eat that today, for today is a Sabbath to Yahweh. Today you shall not find it in the field. 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v26 
-Six days you shall gather it, but on the seventh day is the Sabbath. In it there shall be none." 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v27 
-On the seventh day, some of the people went out to gather, and they found none. 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v28 
-Yahweh said to Moses, "How long do you refuse to keep my commandments and my laws? 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v29 
-Behold, because Yahweh has given you the Sabbath, therefore he gives you on the sixth day the bread of two days. Everyone stay in his place. Let no one go out of his place on the seventh day." 
-
-
-</div></div>
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v30 
-So the people rested on the seventh day. 
-
-
-</div></div>
-
-
+So the <mark style="background: #E0CC4BA6;">people</mark> <mark style="background: #04CD3EA6;">rested</mark> <mark style="background: #D2B3FFA6;">on the seventh day</mark>. 
 
 ## **Define**: 
 - Congregation: ēḏāh (עֵדָה) refers to a group of people assembled or gathered together, often with a sense of unity or purpose. It can denote a community, assembly, or congregation, particularly in a religious or communal context.
@@ -165,6 +83,7 @@ So the people rested on the seventh day.
 
 ## Other Notes:
 - The seventh day is a "Shabbat" TO Yah - So God must have been resting every seventh day since the first seventh day rest back in Genesis?
+- God equated not resting on the Seventh Day to breaking HIS laws and commandments.
 - Later in this chapter we see God commands them to keep a full omer of manna so that they may see the bread with which he fed them in the wilderness, when he brought them out from the land of Egypt. This would have also been a reminder of the Shabbat God had given them. 
 
 # Connections
@@ -175,9 +94,9 @@ So the people rested on the seventh day.
 - [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 

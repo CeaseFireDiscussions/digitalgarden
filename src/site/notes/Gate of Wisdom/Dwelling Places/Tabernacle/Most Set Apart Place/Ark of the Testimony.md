@@ -19,7 +19,7 @@ Eli the priest later foolishly sent the ark of the covenant out to battle, and i
 - Contained:
 	- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Aarons Staff\|Aarons Staff]]
 	- [[Zunpublished/Manna\|Manna]]
-	- [[Zunpublished/Tablets of Testimony\|Tablets of Testimony]]
+	- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]
 
 ###### Tags
 - 
