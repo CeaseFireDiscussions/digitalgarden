@@ -180,5 +180,5 @@ Source: Almond House Fellowship]
 - [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
 - [[Zunpublished/Tabernacles\|Tabernacles]]
 - [[Zunpublished/Trumpets\|Trumpets]]
-- [[Gate of Wisdom/Appointed Time/Yom Kippur\|Yom Kippur]]
+- [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]
 
