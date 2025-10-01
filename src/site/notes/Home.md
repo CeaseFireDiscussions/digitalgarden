@@ -16,6 +16,7 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/06 The Seventh Day Rest is for God's People (02-Exod 34)\|06 The Seventh Day Rest is for God's People (02-Exod 34)]]             |
 | [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]                     |
 | [[Sacred Truces/Day of Atonement for Christians\|Day of Atonement for Christians]]                                                                                                   |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]] |
@@ -26,7 +27,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Olive Branch Reconciliations/Antifa and the 1940 US Army\|Antifa and the 1940 US Army]]                                                                                            |
 | [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]                                                                                     |
 | [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]                                                                                                     |
-| [[The Herald's Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]                                                                             |
 | [[Sacred Truces/Fascism\|Fascism]]                                                                                                                                                   |
 
 { .block-language-dataview}

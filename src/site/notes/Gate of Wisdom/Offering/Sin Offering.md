@@ -39,7 +39,7 @@ Josephus wrote during Moses’s time ...  “But as the sacrifices lay upon the 
 	- There were different requirements based on whether the person was a common, a leader, or a priest.:
 	- This offering was expensive, the law breaker had to bring an animal based on what they could afford and it had to be unblemished. 
 	- When this offering was brought, the  sinner had to confess the sin, put their hands on the head of the sacrifice and push down, transferring his sin onto the animal and then slaughter it.
-	- Once the animal was slaughter, the blood was sprinkled as directed throughout the [[Zunpublished/Tabernacle\|Tabernacle]]. 
+	- Once the animal was slaughter, the blood was sprinkled as directed throughout the [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]. 
 	- These sins are mainly committed against God in our spirit. There may be outward signs, but sometimes there are not.* 
 
 # Connections
