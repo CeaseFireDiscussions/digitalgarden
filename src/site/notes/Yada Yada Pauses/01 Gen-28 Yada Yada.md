@@ -227,6 +227,12 @@
 ***
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|← Genesis 27]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29\|Genesis 29 →]]
 
+# Connections
+
+- [[Yada Yada Pauses/01 Gen-24 Yada Yada#Setting\|01 Gen-24 Yada Yada#Setting]]
+
+# Key Concepts
+
 [^1]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] Yah says in Jacob and his offspring all the families of the earth will be blessed.
 
 [^2]: [[Zunpublished/Favor\|Favor]] Yah-God will keep Jacob and bring him into the land again.
