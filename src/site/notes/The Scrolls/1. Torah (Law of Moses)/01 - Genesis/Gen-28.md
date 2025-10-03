@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-28/","tags":["#TheScrolls","#TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-28/","tags":["TheScrolls","TorahLawofMoses"]}
 ---
 
 # Author and Date: 
@@ -121,6 +121,8 @@ then [^9]this stone, which I have set up for a pillar, will be God's house. Of a
 ***
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|← Genesis 27]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29\|Genesis 29 →]]
 
+# Key Concepts
+
 [^1]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] Yah says in Jacob and his offspring all the families of the earth will be blessed.
 
 [^2]: [[Zunpublished/Favor\|Favor]] Yah-God will keep Jacob and bring him into the land again.
@@ -138,3 +140,5 @@ then [^9]this stone, which I have set up for a pillar, will be God's house. Of a
 [^8]: [[Gate of Wisdom/Idiom\|Idiom]] The phrases “house of God” and “gate of heaven” are idiomatic, signifying a sacred place of divine encounter.
 
 [^9]: [[Gate of Wisdom/Idiom\|Idiom]]  - Setting up a pillar was a cultural practice but also idiomatically represented a memorial or commitment to God, symbolizing a covenantal agreement.
+
+
