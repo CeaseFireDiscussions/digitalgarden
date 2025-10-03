@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/canaan/","tags":["GateWisdom","RealmofHumans"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/canaan/","tags":["#GateWisdom","#RealmofHumans"]}
 ---
 
 # Location: 
@@ -16,7 +16,7 @@
 - **Major Events**:
 
 # People
-- 
+- [[Zunpublished/Canaanites\|Canaanites]]
 
 Map: ![Abraham's Journey.png](/img/user/Assets/attachments/Abraham's%20Journey.png)
 

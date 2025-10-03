@@ -50,7 +50,7 @@
 			 - an old man, and
 			 - full of years, 
 			 - and was gathered to his people. 
-		 - Isaac and [[Ishmael\|Ishmael]], 
+		 - Isaac and [[Zunpublished/Ishmael\|Ishmael]], 
 			 - his sons, 
 			 - buried him in the cave of Machpelah, [[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs\|Cave of the Patriarchs]]
 				 - in the field of Ephron, 
