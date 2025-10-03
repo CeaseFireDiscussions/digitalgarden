@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/jacobiac/","tags":["#GateWisdom","#Covenant"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/jacobiac/","tags":["#GateWisdom","Covenant"]}
 ---
 
 # Define
