@@ -61,11 +61,8 @@ Acts 24 :17
 - Future Offerings
 	- Offerings being restored at some point in the future Ezekiel 44 - Ezekiel 45 . Specifically mentions burnt offerings, fellowship offerings, gain offerings, freewill offerings.  In Verses 19-20 guilt and sin offerings as well. https://www.biblegateway.com/passage/?search=Ezekiel%2044-45&version=TLV (https://www.biblegateway.com/passage/?search=Ezekiel%2044-45&version=TLV)
 
-# Connections
-- Specific Offerings
-
 # Offerings
-### Burnt Offering - Olah 
+### [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] - Olah 
 - Offering Type: Sacrifice (wholly burnt)
 - Offered by: <mark style="background: #E0CC4BA6;">Individual, priest, or community leader</mark>
 - Offering for: <mark style="background: #E6852CA6;">Atonement for general sin, voluntary worship, or dedication to God</mark>
@@ -84,7 +81,7 @@ Acts 24 :17
 * Example: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v2\|Gen-22:2]] – Abraham is told to offer Isaac as an olah.
 * [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-06#v13\|Num-06:13]] and [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-21#v26\|Acts-21:26]] - Paul provided offering 
 
-### Grain Offering - Minchah (מִנְחָה)
+### [[Gate of Wisdom/grain offering\|grain offering]] - Minchah (מִנְחָה)
 - Offering Type: Non-blood offering (grain-based)
 - Offered by: <mark style="background: #E0CC4BA6;">Individual or priest</mark>
 - Offering for: <mark style="background: #EB9E57A6;">Thanksgiving, dedication, or acknowledgment of God’s provision</mark>
@@ -101,7 +98,7 @@ Acts 24 :17
 	* Portion burned on the altar; remainder eaten by priests.
 	* No leaven or honey allowed; salt required as a symbol of covenant.
 * Example: Leviticus 2:1 – “When anyone offers a grain offering (minchah) to the Lord.”<br>
-### Peace / Fellowship Offering  Shelem (שֶׁלֶם)
+### Peace / [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]  Shelem (שֶׁלֶם) 
 - Offering Type: Sacrifice (partially burnt, partially eaten)
 - Offered by: <mark style="background: #E0CC4BA6;">Individual or community</mark>
 - Offering for: <mark style="background: #E6852CA6;">Thanksgiving, vow fulfillment, or freewill offering</mark>
@@ -119,7 +116,7 @@ Acts 24 :17
 	* Includes communal meal, emphasizing fellowship with God and others.
 	* Three subtypes: thanksgiving, votive, and freewill offerings.
 * Example: [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-07#v11\|Lev-07:11]] – “This is the law of the sacrifice of peace offerings (shelem).”<br>
-### Sin Offering - Chatat (חַטָּאת)
+### [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]] - Chatat (חַטָּאת)
 - Offering Type: Sacrifice (expiatory)
 - Offered by: <mark style="background: #E0CC4BA6;">Individual, priest, or community</mark>
 - Offering for: <mark style="background: #EB9E57A6;">Atonement for not to be done unintentional sins</mark>   **NOTE: NOT TO DO - UNINTENTIONAL SINS**
@@ -136,7 +133,7 @@ Acts 24 :17
 	* Blood sprinkled or smeared; some portions burned, others eaten or disposed of ([[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]).
 	* Focuses on cleansing from sin and restoring relationship with God.
 	* Example: Leviticus 4:3 – “He shall bring a young bull as a sin offering (chattat).”<br>
-### Trespass / Guilt Offering - Asham (אָשָׁם)
+### Trespass / [[Zunpublished/Guilt Offering\|Guilt Offering]] - Asham (אָשָׁם)
 - Offering Type: Sacrifice (expiatory)
 - Offered by: <mark style="background: #E0CC4BA6;">Individual</mark>
 - Offering for: <mark style="background: #E6852CA6;">Atonement for DELIBERATE specific sins requiring repayment and UNINTENTIONALLY violating set-apart things or ritual impurity.  </mark>
@@ -160,7 +157,7 @@ Acts 24 :17
 	* Closely related to sin offering but emphasizes compensation.
 * Example: Leviticus 5:15 – “He shall bring his guilt offering (asham) to the Lord.”
 
-### Wave Offering - Tenufah
+### [[Zunpublished/Wave Offering\|Wave Offering]] - Tenufah
 - Offering Type: Sacrifice or grain offering (presented by waving)
 - Offered by: <mark style="background: #E0CC4BA6;">Priests or individual (with priestly assistance)</mark>
 - Offering for: <mark style="background: #04CD3EA6;">Dedication, consecration, or part of other offerings (e.g., peace offering)</mark>
@@ -170,7 +167,7 @@ Acts 24 :17
 	- Numbers 6:20 (WEB): "The priest shall wave them for a wave offering before Yahweh. This is holy for the priest, together with the breast that is waved and the thigh that is offered. After that the Nazirite may drink wine."
 - Details: The Tenufah involves waving portions (e.g., breast of peace offering, sheaves of grain) before God, often as part of other rituals (e.g., Nazirite vow).
 
-### Heave Offering - Terumah (תְּרוּמָה)
+### [[Zunpublished/Heave Offering\|Heave Offering]] - Terumah (תְּרוּמָה)
 * Offering Type: Portion of sacrifice or gift
 - Offered by: <mark style="background: #E0CC4BA6;">Priests or individual (via priests)</mark>
 - Offering for: <mark style="background: #E6852CA6;">Dedication to God, often for priestly sustenance</mark>
@@ -194,7 +191,7 @@ Acts 24 :17
 	* matanah - While both words can be translated as "gift," "matanah" has a broader, more general meaning, while "terumah" carries a more specialized and religious connotation, particularly within the context of Jewish tradition and the Torah
 		* 1 Corinthians 16 [[The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-16\|1 Cor-16]]
 		* 2 Corinthians 8 [[The Scrolls/4. The Gospels and The Apostles/47 - 2 Corinthians/2 Cor-08\|2 Cor-08]]
-### First Fruits Offering - Bikkurim
+### [[Zunpublished/First Fruits\|First Fruits]] Offering - Bikkurim
 - Offering Type: Grain or produce offering
 - Offered by: <mark style="background: #E0CC4BA6;">Individual or community</mark>
 - Offering for: <mark style="background: #E6852CA6;">Thanksgiving for harvest, acknowledgment of God’s provision</mark>
@@ -204,7 +201,7 @@ Acts 24 :17
 	- Deuteronomy 26:2 (WEB): "You shall take some of the first of all the fruit of the ground, which you shall bring in from your land that Yahweh your God gives you. You shall put it in a basket, and shall go to the place which Yahweh your God shall choose to cause his name to dwell there."
 - Details: The Bikkurim involves presenting the first produce of the harvest, often waved before God as a sign of gratitude.
 
-### Drink Offering - Nesek (נֶסֶךְ)
+### [[Gate of Wisdom/drink offering\|drink offering]] - Nesek (נֶסֶךְ)
 - Offering Type: Liquid offering (wine or strong drink)
 - Offered by: <mark style="background: #E0CC4BA6;">Priests or individual (with other offerings)</mark>
 - Offering for: <mark style="background: #E6852CA6;">Accompaniment to burnt or peace offerings, worship</mark>
@@ -217,7 +214,7 @@ Acts 24 :17
 * Context: Often accompanies other sacrifices (e.g., [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-15#v5\|Num-15:5]]).
 * Example: [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-28#v7\|Num-28:7]] – “Its drink offering (nesek) shall be one-fourth of a hin.”
 
-### Passover Offering - Korban Pesach
+### [[Zunpublished/Passover\|Passover]] Offering - Korban Pesach
 - Offering Type: Sacrifice
 - Offered by: <mark style="background: #E0CC4BA6;">Household or individual</mark>
 - Offering for: <mark style="background: #EB9E57A6;">Commemoration of the Exodus, atonement</mark>
