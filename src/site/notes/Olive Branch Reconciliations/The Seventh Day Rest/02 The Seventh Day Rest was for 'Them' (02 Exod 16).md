@@ -63,7 +63,7 @@ So the <mark style="background: #E0CC4BA6;">people</mark> <mark style="backgroun
 		- Every man stay in his place
 		- Let no man go out
 		- The people rested
-	- This is considered part of God's commandments and laws because God equates them not resting as them refusing to keep his [[Zunpublished/Commandments\|Commandments]]/[[Gate of Wisdom/Mitzvot\|Mitzvot]] and [[Zunpublished/Law\|Law]]/[[Zunpublished/Torah\|Torah]].
+	- This is considered part of God's commandments and laws because God equates them not resting as them refusing to keep his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]/[[Gate of Wisdom/Mitzvot\|Mitzvot]] and [[Zunpublished/Law\|Law]]/[[Zunpublished/Torah\|Torah]].
 ## **When**:
 - Sixth day: gather twice as much
 - Seventh day: rest

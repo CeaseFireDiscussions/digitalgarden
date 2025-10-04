@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/commands-mitzvot/","tags":["#GateWisdom","RightStanding"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/commands-mitzvot/","tags":["#GateWisdom","#RightStanding"]}
 ---
 
 # Define
@@ -9,7 +9,7 @@
 
 # Related words
 
-- [[Zunpublished/Commandments\|Commandments]]
+- [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 # List of Commandments (Mitzvot) in Deuteronomy
 
 #### 1. Scripture Reference: Deuteronomy 4:2 [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-04#v2\|Deut-04#v2]]
