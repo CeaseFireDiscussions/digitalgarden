@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/rachel/","tags":["#GateWisdom","#Being"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/rachel/","tags":["#GateWisdom","Being"]}
 ---
 
 # Birth and Ancestors

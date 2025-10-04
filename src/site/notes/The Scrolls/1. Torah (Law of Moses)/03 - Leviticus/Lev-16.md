@@ -17,7 +17,7 @@ Yahweh spoke to Moses after the death of the two sons of Aaron, when they came n
 and Yahweh said to Moses, "Tell Aaron your brother not to come at just any time into the Most Holy Place within the veil, before the mercy seat which is on the ark; lest he die; for I will appear in the cloud on the mercy seat. 
 
 ###### v3 
-"Aaron shall come into the sanctuary with a young bull for a sin offering, and a ram for a burnt offering. 
+"Aaron shall come into the sanctuary with a young bull for a [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]], and a ram for a [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]. 
 
 ###### v4 
 He shall put on the holy linen tunic. He shall have the linen trousers on his body, and shall put on the linen sash, and he shall be clothed with the linen turban. They are the holy garments. He shall bathe his body in water, and put them on. 

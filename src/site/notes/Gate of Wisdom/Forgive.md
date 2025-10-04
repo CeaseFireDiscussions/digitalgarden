@@ -15,3 +15,5 @@ God’s power and holiness allow Him to remove the sin without being affected by
 
 However, human-to-human forgiveness in Hebrew culture is less frequently described with nasa. When it occurs, the focus is on releasing the offender from the weight of their wrong, not on the forgiver retaining the burden. The act of lifting implies setting the matter aside to restore communal harmony (shalom).
 
+
+Leviticus 19:17-18
