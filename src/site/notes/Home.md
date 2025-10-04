@@ -16,6 +16,7 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]     |
 | [[Yada Yada Pauses/01 Gen-29 Yada Yada\|01 Gen-29 Yada Yada]]                                                                                                                        |
 | [[Yada Yada Pauses/01 Gen-28 Yada Yada\|01 Gen-28 Yada Yada]]                                                                                                                        |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/06 The Seventh Day Rest is for God's People (02-Exod 34)\|06 The Seventh Day Rest is for God's People (02-Exod 34)]]             |
@@ -27,7 +28,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Olive Branch Reconciliations/Antifa and the 1940 US Army\|Antifa and the 1940 US Army]]                                                                                            |
 | [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]                                                                                     |
 | [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]                                                                                                     |
-| [[Sacred Truces/Fascism\|Fascism]]                                                                                                                                                   |
 
 { .block-language-dataview}
 
