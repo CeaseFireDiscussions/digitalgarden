@@ -1,17 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/offerings/","tags":["#GateWisdom","Offering"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/offerings/","tags":["#GateWisdom","#Offering"]}
 ---
 
 # Define
 - In the Hebrew Bible, the primary word for "sacrifice" is קָרְבָּן (pronounced korban). It comes from the root קרב (karav), meaning "to draw near" or "to approach." The term korban reflects the idea of bringing an offering to draw closer to God, emphasizing the relational aspect of the act rather than just the act of killing or giving up something.
 - Korban is used for various types of offerings in the Torah, including animal sacrifices, grain offerings, and other gifts brought to the sanctuary (e.g., Leviticus 1–7). It encompasses burnt offerings (olah ), sin offerings (chatat), peace offerings (shelamim), and more.
 - In Hebrew thought, a korban is about approaching God or restoring harmony (shalom) with Him, often through a physical gift that symbolizes devotion, atonement, or gratitude. It’s less about "sacrifice" in the sense of loss and more about an act of connection.
+- While korban is the most general term for sacrifice/offering, other Hebrew words are used for specific types or aspects of sacrificial acts. In the Hebrew Bible, several Hebrew words are translated as "sacrifice" in English, each with distinct nuances and contexts. 
+	- Korban (קָרְבָּן) Meaning: Derived from the root karav ("to draw near"), it denotes an offering brought near to God, encompassing both animal and non-animal offerings (e.g., grain). It’s a general term for any sacrificial gift.
+	  Context: Used broadly in Leviticus and Numbers for various offerings, such as burnt offerings , sin offerings, or grain offerings  (e.g., Leviticus 1:2).
+Example: Numbers 7 :13 – “His offering (korban) was one silver plate.”
+Acts 24 :17
+- In Greek, dōron means "gift," "offering," or "present."
 
 # Related words
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
-- While korban is the most general term for sacrifice/offering, other Hebrew words are used for specific types or aspects of sacrificial acts. In the Hebrew Bible, several Hebrew words are translated as "sacrifice" in English, each with distinct nuances and contexts. 
-  
-  In Greek, dōron means "gift," "offering," or "present."
 
 # Classes of Offerings
 
@@ -19,6 +22,8 @@
 - is a lower class of offering because it could be shared with the offerer
 - the worshipper OUTSIDE of the Tabernacle, the priests INSIDE the Tabernacle
 - Peace Offering or Fellowship Offering (Zevah  Shelamim) and the Thanksgiving offering (Zevah Todah)
+- Zevach (זֶבַח) Meaning: Refers to a sacrificial offering, often involving the slaughter of an animal, typically for a communal or celebratory meal (e.g., peace offerings ). It emphasizes the act of offering something to God, often with a sense of fellowship.
+  Context: Used for offerings like the peace offering (leviticus 3) or general sacrifices (e.g., Exodus 20:24 :24). Example: Psalm 4 :5 – “Offer the sacrifices of righteousness (zivchei tzedek).”
 
 ‘Olah   
 - only the priests were permitted to use or benefit from any part of the sacrificial offering. the priests could keep the animal skin
@@ -28,21 +33,8 @@ Minchah
 - the priests could keep the bulk of the grain offering as their own personal food
 - they were required to eat that food within the courtyard of the Tabernacle, for it was considered a sacred meal.
 
-
 Kodesh Kodashim class……the MOST holy
 Kodesh Kallim class….or, the offerings of lesser sanctity
-## Zevach (זֶבַח)
-
-Meaning: Refers to a sacrificial offering, often involving the slaughter of an animal, typically for a communal or celebratory meal (e.g., peace offerings ). It emphasizes the act of offering something to God, often with a sense of fellowship.
-Context: Used for offerings like the peace offering (leviticus 3) or general sacrifices (e.g., Exodus 20:24 :24).
-Example: Psalm 4 :5 – “Offer the sacrifices of righteousness (zivchei tzedek).”
-
-## Korban (קָרְבָּן)
-
-Meaning: Derived from the root karav ("to draw near"), it denotes an offering brought near to God, encompassing both animal and non-animal offerings (e.g., grain). It’s a general term for any sacrificial gift.
-Context: Used broadly in Leviticus and Numbers for various offerings, such as burnt offerings , sin offerings, or grain offerings  (e.g., Leviticus 1:2).
-Example: Numbers 7 :13 – “His offering (korban) was one silver plate.”
-Acts 24 :17
 
 # Additional Info
 
@@ -163,10 +155,10 @@ Acts 24 :17
 ### Trespass / [[Zunpublished/Guilt Offering\|Guilt Offering]] - Asham (אָשָׁם)
 - Offering Type: Sacrifice (expiatory)
 - Offered by: <mark style="background: #E0CC4BA6;">Individual</mark>
-- Offering for: <mark style="background: #E6852CA6;">Atonement for DELIBERATE specific sins requiring repayment and UNINTENTIONALLY violating set-apart things or ritual impurity.  </mark>
+- Offering for: <mark style="background: #E6852CA6;">Atonement for unintentional faithless acts in regard to any of the Lord's holy/set apart things. Atonement for what is not to be done against another, brought with restitution.</mark>
 	- Unintentional violating things which have been made holy and set-apart to God's service.
-	- A deliberate or negligent act against another person requiring both atonement and repayment
-	- In regard to the deliberate. The Trespass/Guilt Offering is for deliberate acts, such as theft, extortion, lying about lost property, or swearing falsely, an act that harm another person. Intentional violations of trust or property necessitating both atonement (via the sacrifice) and restitution (returning the value plus a penalty). Example Leviticus 6:1–7. 
+	- A act against another person requiring both atonement and repayment.
+	- The Trespass/Guilt Offering is for deliberate acts, such as theft, extortion, lying about lost property, or swearing falsely, an act that harms another person. Intentional violations of trust or property necessitating both atonement (via the sacrifice) and restitution (returning the value plus a penalty). Example Leviticus 7:1–7. 
 	- Brings context to "forgive our trespasses as we forgive those who trespass against us." [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v9\|Matt-06#v9]]
 - Offered where: <mark style="background: #4DA6EDA6;">Altar in the Tabernacle courtyard</mark>
 - Scripture References:
