@@ -169,8 +169,7 @@ Acts 24 :17
 - Isaiah 53:10 Yet it pleased Adonai to bruise Him. He caused Him to suffer. If He makes His soul a <mark style="background: #E6852CA6;">guilt offering</mark>, He will see His offspring, He will prolong His days, and the will of Adonai will succeed by His hand.
 - 1 Peter 2:23-24 When He was abused, He did not return the abuse. While suffering, He made no threats. Instead, He kept entrusting Himself to the One who judges righteously. 24 He Himself bore our sins in His body on the tree, so that we, removed from sins, might live for righteousness. “By His wounds you were healed.” (TLV)
 - 1 John 1:5-7 5 Now this is the message we have heard from Him and announce to you—that God is light and in Him there is no darkness at all. 6 If we say we have fellowship with Him and keep walking in the darkness, we are lying and do not practice the truth. 7 But if we walk in the light as He Himself is in the light, we have fellowship with one another and the blood of His Son Yeshua purifies us from all sin. (TLV)
-
-
+- Ephesians 5:1-3 Therefore be imitators of God, as dearly loved children; 2 and walk in love, just as Messiah also loved us[a] and gave Himself up for us as an offering and sacrifice to God for a fragrant aroma. 3 But sexual immorality and any impurity or greed—don’t even let these be mentioned among you, as is proper for kedoshim. (TLV)
 
 ### [[Zunpublished/Wave Offering\|Wave Offering]] - Tenufah
 - Offering Type: Sacrifice or grain offering (presented by waving)
@@ -215,6 +214,8 @@ Acts 24 :17
 	- Leviticus 23:10-11 (WEB): "Speak to the children of Israel, and tell them, ‘When you have come into the land which I give to you, and shall reap its harvest, then you shall bring the sheaf of the first fruits of your harvest to the priest. He shall wave the sheaf before Yahweh, to be accepted for you. On the next day after the Sabbath the priest shall wave it.’"
 	- Deuteronomy 26:2 (WEB): "You shall take some of the first of all the fruit of the ground, which you shall bring in from your land that Yahweh your God gives you. You shall put it in a basket, and shall go to the place which Yahweh your God shall choose to cause his name to dwell there."
 - Details: The Bikkurim involves presenting the first produce of the harvest, often waved before God as a sign of gratitude.
+### Yeshua/Jesus under the renewed covenant became a guilt offering. 
+1 Corinthians 15:20-24 But now Messiah has been raised from the dead, the firstfruits of those who have fallen asleep. 21 For since death came through a man, the resurrection of the dead also has come through a Man. 22 For as in Adam all die, so also in Messiah will all be made alive. 23 But each in its own order: Messiah the firstfruits; then, at His coming, those who belong to Messiah; 24 then the end, when He hands over the kingdom to God the Father after He has destroyed all rule and all authority and power. (TLV)
 
 ### [[Gate of Wisdom/drink offering\|drink offering]] - Nesek (נֶסֶךְ)
 - Offering Type: Liquid offering (wine or strong drink)
