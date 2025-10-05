@@ -15,7 +15,7 @@
 - Heiser, Michael S.. [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]: Recovering the Supernatural Worldview of the Bible. Lexham Press. Kindle Edition.  
 	- The tablets not only contained the covenant terms but were a reminder of the event as it occurred, with the divine council present on Sinai.
 - When Jesus was asked which of the laws was the greatest, he said they all could be summed up by these two things. Love Others as Yourself and Love God.
-- If you are not sinning against yourself, others, and God, then you have no need to bring any [[Zunpublished/Guilt Offering\|Guilt Offering]]  or [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]] . 
+- If you are not sinning against yourself, others, and God, then you have no need to bring any [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]  or [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]] . 
 
 # Connections
 - 

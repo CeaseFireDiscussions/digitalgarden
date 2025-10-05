@@ -13,6 +13,19 @@ Example: Numbers 7 :13 – “His offering (korban) was one silver plate.”
 Acts 24 :17
 - In Greek, dōron means "gift," "offering," or "present."
 
+# Individual Offerings
+Scroll down for brief overview of each. Follow the link for an indepth look.
+- [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] - Olah 
+- [[Gate of Wisdom/Grain Offering\|Grain Offering]] - Minchah (מִנְחָה)
+- Peace / [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]  Shelem (שֶׁלֶם) 
+-  [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]] - Chatat (חַטָּאת)
+- Trespass / [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]] - Asham (אָשָׁם)
+-  [[Zunpublished/Wave Offering\|Wave Offering]] - Tenufah
+- [[Zunpublished/Heave Offering\|Heave Offering]] - Terumah (תְּרוּמָה)
+*  [[Zunpublished/First Fruits\|First Fruits]] Offering - Bikkurim
+* [[Gate of Wisdom/drink offering\|drink offering]] - Nesek (נֶסֶךְ)
+*  [[Gate of Wisdom/Passover Offering\|Passover Offering]] - Korban Pesach
+* [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 # Related words
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 
@@ -74,7 +87,7 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 
 # Offerings
 ### [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] - Olah 
-- Offering Type: Sacrifice (wholly burnt)
+- Offering Type: Sacrifice (wholly burnt) - It's a type of offering, which indicates the entire animal is burnt vs an offering where parts of the animal are not burnt.
 - Offered by: <mark style="background: #E0CC4BA6;">Individual, priest, or community leader</mark>
 - Offering for: <mark style="background: #E6852CA6;">Atonement for general sin, voluntary worship, or dedication to God</mark>
 - Offered where: <mark style="background: #4DA6EDA6;">Altar of burnt offering in the Tabernacle courtyard</mark>
@@ -130,14 +143,14 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 ### [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]] - Chatat (חַטָּאת)
 - Offering Type: Sacrifice (expiatory)
 - Offered by: <mark style="background: #E0CC4BA6;">Individual, priest, or community</mark>
-- Offering for: <mark style="background: #EB9E57A6;">Atonement for not to be done unintentional sins</mark>   **NOTE: NOT TO DO - UNINTENTIONAL SINS**
+- Offering for: <mark style="background: #EB9E57A6;">Atonement for Unintentional sins against the commandments of God which are not to be done.</mark> Primarily those that defile the sinner or the sanctuary requiring purification. emphasis on purification from defilement. <mark style="background: #CD04BBA6;">NOTE: NOT TO DO - UNINTENTIONAL SINS</mark>
 - Offered where: <mark style="background: #4DA6EDA6;">Altar in the Tabernacle courtyard or outside the camp (for certain cases)</mark>
 - Scripture References:
 	- Leviticus 4:2-3 (WEB): "Speak to the children of Israel, saying, ‘If anyone sins unintentionally, in any of the things which Yahweh has commanded not to be done, and does any one of them, if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin which he has sinned a young bull without defect to Yahweh for a sin offering.’"
 	- Leviticus 4:27-28 (WEB): "If anyone of the common people sins unintentionally, in doing any of the things which Yahweh has commanded not to be done, and is guilty, when his sin which he has sinned is known, then he shall bring for his offering a goat, a female without defect, for his sin which he has sinned."
 - Details: The Chattat atones for unintentional sins, varying by the offeror’s status (e.g., bull for priests, goat for individuals). Blood is applied to the altar, and parts may be burned outside the camp.
 * Meaning: From the root for sin or purification offering, used to atone ([[Gate of Wisdom/Ransom\|Ransom]]) for unintentional sins or ritual impurities. It's about being cleansed, [[Zunpublished/Clean\|Clean]] vs [[Zunpublished/Unclean\|Unclean]].
-* Context: Specific to atonement rituals (e.g., [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v1\|Lev-04:1]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v2\|Lev-04#v2]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v3\|Lev-04#v3]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v4\|Lev-04#v4]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v5\|Lev-04#v5]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v6\|Lev-04#v6]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v7\|Lev-04#v7]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v8\|Lev-04#v8]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v9\|Lev-04#v9]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v10\|Lev-04#v10]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v11\|Lev-04#v11]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v12\|Lev-04#v12]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v13\|Lev-04#v13]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v14\|Lev-04#v14]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v15\|Lev-04#v15]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v16\|Lev-04#v16]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v17\|Lev-04#v17]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v18\|Lev-04#v18]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v19\|Lev-04#v19]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v20\|Lev-04#v20]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v21\|Lev-04#v21]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v22\|Lev-04#v22]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v23\|Lev-04#v23]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v24\|Lev-04#v24]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v25\|Lev-04#v25]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v26\|Lev-04#v26]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v27\|Lev-04#v27]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v28\|Lev-04#v28]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v29\|Lev-04#v29]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v30\|Lev-04#v30]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v31\|Lev-04#v31]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v32\|Lev-04#v32]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v33\|Lev-04#v33]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v34\|Lev-04#v34]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v35\|-35]]).
+* Context: Specific to atonement rituals (e.g., Leviticus 4:1-35 ([[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v1\|Lev-04#v1]])
 * Key Points:
 	* Required for unintentional sins or ritual impurities by individuals, priests, or the community. 
 	* Animal type (bull, goat, lamb, or birds) varies by status of the offeror.
@@ -152,13 +165,16 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 - Hebrews 9:11–14 But when Messiah appeared as Kohen Gadol of the good things that have now come, passing through the greater and more perfect Tent not made with hands (that is to say not of this creation), 12 He entered into the Holies once for all—not by the blood of goats and calves but by His own blood, having obtained eternal redemption. 13 For if the blood of goats and bulls and the ashes of a heifer sprinkling those who have been defiled sanctify for the cleansing of the flesh, 14 how much more will the blood of Messiah—who through the eternal Spirit offered Himself without blemish to God—cleanse our conscience from dead works to serve the living God? (TLV)
 
 
-### Trespass / [[Zunpublished/Guilt Offering\|Guilt Offering]] - Asham (אָשָׁם)
+### Trespass / [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]] - Asham (אָשָׁם)
 - Offering Type: Sacrifice (expiatory)
 - Offered by: <mark style="background: #E0CC4BA6;">Individual</mark>
-- Offering for: <mark style="background: #E6852CA6;">Atonement for unintentional faithless acts in regard to any of the Lord's holy/set apart things. Atonement for what is not to be done against another, brought with restitution.</mark>
-	- Unintentional violating things which have been made holy and set-apart to God's service.
-	- A act against another person requiring both atonement and repayment.
-	- The Trespass/Guilt Offering is for deliberate acts, such as theft, extortion, lying about lost property, or swearing falsely, an act that harms another person. Intentional violations of trust or property necessitating both atonement (via the sacrifice) and restitution (returning the value plus a penalty). Example Leviticus 7:1–7. 
+- Offering for: Emphasis on restitution or resolving guilt.
+	- <mark style="background: #E6852CA6;">Unintentional violations of holy/set apart things</mark> <mark style="background: #CD04BBA6;">NOTE: UNINTENTIONAL</mark>
+		- Examples: Leviticus 22:14, Leviticus 27:9-10, 28-29, Numbers 18:28–32, Numbers 4:18–20, Exodus 20:8–10, Exodus 31:14–15
+	- <mark style="background: #E6852CA6;">Unintentional sins against specific commandments of God which are not to be done</mark>. <mark style="background: #CD04BBA6;">NOTE: NOT TO DO - UNINTENTIONAL</mark>
+		- Examples: Leviticus 23:29–30, Leviticus 11:43–44, 
+	- <mark style="background: #E6852CA6;">Intentional sins involving deceit</mark> such as theft, extortion, lying about lost property, or swearing falsely, violations of trust or property, an act that harm another person.
+		-  Example Leviticus 6:1-7 
 	- Brings context to "forgive our trespasses as we forgive those who trespass against us." [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v9\|Matt-06#v9]]
 - Offered where: <mark style="background: #4DA6EDA6;">Altar in the Tabernacle courtyard</mark>
 - Scripture References:
@@ -241,7 +257,7 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 * Context: Often accompanies other sacrifices (e.g., [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-15#v5\|Num-15:5]]).
 * Example: [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-28#v7\|Num-28:7]] – “Its drink offering (nesek) shall be one-fourth of a hin.”
 
-### [[Zunpublished/Passover\|Passover]] Offering - Korban Pesach
+### [[Gate of Wisdom/Passover Offering\|Passover Offering]] - Korban Pesach
 - Offering Type: Sacrifice
 - Offered by: <mark style="background: #E0CC4BA6;">Household or individual</mark>
 - Offering for: <mark style="background: #EB9E57A6;">Commemoration of the Exodus, atonement</mark>

@@ -1,0 +1,38 @@
+---
+{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/guilt-offering/","tags":["#GateWisdom","#Offering"]}
+---
+
+- Offering Type: Sacrifice (expiatory)
+- Offered by: <mark style="background: #E0CC4BA6;">Individual</mark>
+- Offering for: Emphasis on restitution or resolving guilt.
+	- <mark style="background: #E6852CA6;">Unintentional violations of holy/set apart things</mark> <mark style="background: #CD04BBA6;">NOTE: UNINTENTIONAL</mark>
+		- Examples: Leviticus 22:14, Leviticus 27:9-10, 28-29, Numbers 18:28–32, Numbers 4:18–20, Exodus 20:8–10, Exodus 31:14–15
+	- <mark style="background: #E6852CA6;">Unintentional sins against specific commandments of God which are not to be done</mark>. <mark style="background: #CD04BBA6;">NOTE: NOT TO DO - UNINTENTIONAL</mark>
+		- Examples: Leviticus 23:29–30, Leviticus 11:43–44, 
+	- <mark style="background: #E6852CA6;">Intentional sins involving deceit</mark> such as theft, extortion, lying about lost property, or swearing falsely, violations of trust or property, an act that harm another person.
+		-  Example Leviticus 6:1-7 
+	- Brings context to "forgive our trespasses as we forgive those who trespass against us." [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v9\|Matt-06#v9]]
+- Offered where: <mark style="background: #4DA6EDA6;">Altar in the Tabernacle courtyard</mark>
+- Scripture References:
+	- Leviticus 5:6 (WEB): "He shall bring his trespass offering to Yahweh for his sin which he has sinned: a female from the flock, a lamb or a goat, for a sin offering; and the priest shall make atonement for him concerning his sin."
+	- Leviticus 6:1-7 (WEB): Yahweh spoke to Moses, saying, 2 “If anyone sins, and commits a trespass against Yahweh, and deals falsely with his neighbor in a matter of deposit, or of bargain, or of robbery, or has oppressed his neighbor, 3 or has found that which was lost, and lied about it, and swearing to a lie—in any of these things that a man sins in his actions— 4 then it shall be, if he has sinned, and is guilty, he shall restore that which he took by robbery, or the thing which he has gotten by oppression, or the deposit which was committed to him, or the lost thing which he found, 5 or any thing about which he has sworn falsely: he shall restore it in full, and shall add a fifth part more to it. He shall return it to him to whom it belongs in the day of his being found guilty. 6 He shall bring his trespass offering to Yahweh: a ram without defect from the flock, according to your estimation, for a trespass offering, to the priest. 7 The priest shall make atonement for him before Yahweh, and he will be forgiven concerning whatever he does to become guilty.”
+	- Leviticus 7:1-2 (WEB): "This is the law of the trespass offering. It is most holy. In the place where they kill the burnt offering, he shall kill the trespass offering; and its blood he shall sprinkle around on the altar."
+	- Numbers 15:30–31 states, “But the person who does anything with a high hand, whether he is native or a sojourner, reviles the Lord, and that person shall be cut off from among his people. Because he has despised the word of the Lord and has broken his commandment, that person shall be utterly cut off; his iniquity shall be on him.” 
+- Details: The Asham addresses specific offenses, often requiring restitution (e.g., Leviticus 5:16). A ram is typically offered, and it is considered “most holy.” 
+* Meaning: A guilt or reparation offering, often linked to restitution for specific wrongs, such as violating sacred things or unintentional sins requiring compensation.
+* Context: Used in cases requiring reparative action (e.g., [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v6\|Lev-05:6]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v7\|Lev-05#v7]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v8\|Lev-05#v8]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v9\|Lev-05#v9]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v10\|Lev-05#v10]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v11\|Lev-05#v11]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v12\|Lev-05#v12]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v13\|Lev-05#v13]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v14\|Lev-05#v14]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v15\|Lev-05#v15]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v16\|Lev-05#v16]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v17\|Lev-05#v17]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v18\|Lev-05#v18]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v19\|-19]]).
+* Key Points:
+	* Required for specific sins, like misusing holy things or wronging others, often with restitution.
+	* Typically a ram or equivalent value; includes blood and burning rituals.
+	* Focuses on making amends, both to God and affected parties.
+	* Closely related to sin offering but emphasizes compensation.
+* Example: Leviticus 5:15 – “He shall bring his guilt offering (asham) to the Lord.”
+### Yeshua/Jesus under the renewed covenant became a guilt offering. 
+- Isaiah 53:10 Yet it pleased Adonai to bruise Him. He caused Him to suffer. If He makes His soul a <mark style="background: #E6852CA6;">guilt offering</mark>, He will see His offspring, He will prolong His days, and the will of Adonai will succeed by His hand.
+- 1 Peter 2:23-24 When He was abused, He did not return the abuse. While suffering, He made no threats. Instead, He kept entrusting Himself to the One who judges righteously. 24 He Himself bore our sins in His body on the tree, so that we, removed from sins, might live for righteousness. “By His wounds you were healed.” (TLV)
+- 1 John 1:5-10 Now this is the message we have heard from Him and announce to you—that God is light and in Him there is no darkness at all. 6 If we say we have fellowship with Him and keep walking in the darkness, we are lying and do not practice the truth. 7 But if we walk in the light as He Himself is in the light, we have fellowship with one another and the blood of His Son Yeshua purifies us from all sin. 8 If we say we have no sin, we are deceiving ourselves and the truth is not in us. 9 If we confess our sins, He is faithful and righteous to forgive our sins and purify us from all unrighteousness.  10 If we say we have not sinned, we make Him a liar and His word is not in us. (TLV)
+- Ephesians 5:1-3 Therefore be imitators of God, as dearly loved children; 2 and walk in love, just as Messiah also loved us[a] and gave Himself up for us as an offering and sacrifice to God for a fragrant aroma. 3 But sexual immorality and any impurity or greed—don’t even let these be mentioned among you, as is proper for kedoshim. (TLV)
+- Hebrew 10:12, 26-29  But on the other hand, when this One offered for all time a single sacrifice for sins, He sat down at the right hand of God—  ... 26 For if we keep on sinning willfully after we have received the knowledge of the truth, there no longer remains a sacrifice for sins, 27 but only a terrifying expectation of judgment and a fury of fire about to devour the enemies of God. Anyone who rejected the Torah of Moses dies without compassion on the word of two or three witnesses. 29 How much more severe do you think the punishment will be for the one who has trampled Ben-Elohim underfoot, and has regarded as unholy the blood of the covenant by which he was made holy, and has insulted the Spirit of grace? (TLV)- 
+
+# Related words
+- [[Zunpublished/Repartition Offering\|Repartition Offering]]
