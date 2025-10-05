@@ -8,6 +8,7 @@
 - In Hebrew thought, a korban is about approaching God or restoring harmony (shalom) with Him, often through a physical gift that symbolizes devotion, atonement, or gratitude. It’s less about "sacrifice" in the sense of loss and more about an act of connection.
 
 # Related words
+- [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 - While korban is the most general term for sacrifice/offering, other Hebrew words are used for specific types or aspects of sacrificial acts. In the Hebrew Bible, several Hebrew words are translated as "sacrifice" in English, each with distinct nuances and contexts. 
   
   In Greek, dōron means "gift," "offering," or "present."
@@ -81,7 +82,7 @@ Acts 24 :17
 * Example: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v2\|Gen-22:2]] – Abraham is told to offer Isaac as an olah.
 * [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-06#v13\|Num-06:13]] and [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-21#v26\|Acts-21:26]] - Paul provided offering 
 
-### [[Gate of Wisdom/grain offering\|grain offering]] - Minchah (מִנְחָה)
+### [[Gate of Wisdom/Grain Offering\|Grain Offering]] - Minchah (מִנְחָה)
 - Offering Type: Non-blood offering (grain-based)
 - Offered by: <mark style="background: #E0CC4BA6;">Individual or priest</mark>
 - Offering for: <mark style="background: #EB9E57A6;">Thanksgiving, dedication, or acknowledgment of God’s provision</mark>
@@ -133,6 +134,14 @@ Acts 24 :17
 	* Blood sprinkled or smeared; some portions burned, others eaten or disposed of ([[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]).
 	* Focuses on cleansing from sin and restoring relationship with God.
 	* Example: Leviticus 4:3 – “He shall bring a young bull as a sin offering (chattat).”<br>
+### Yeshua/Jesus under the renewed covenant became a sin offering. 
+- 2 Corinthians 5:21 He made the One who knew no sin to <mark style="background: #E6852CA6;">become a sin offering</mark> on our behalf, so that in Him we might become the righteousness of God.
+- Romans 8:3 For what was impossible for the Torah—since it was weakened on account of the flesh—God has done. Sending His own Son in the likeness of sinful flesh and <mark style="background: #E6852CA6;">as a sin offering</mark>, He condemned sin in the flesh— (TLV)
+- Hebrew 10:12, 26-29  But on the other hand, when this One offered for all time a single sacrifice for sins, He sat down at the right hand of God—  ... 26 For if we keep on sinning willfully after we have received the knowledge of the truth, there no longer remains a sacrifice for sins, 27 but only a terrifying expectation of judgment and a fury of fire about to devour the enemies of God. Anyone who rejected the Torah of Moses dies without compassion on the word of two or three witnesses. 29 How much more severe do you think the punishment will be for the one who has trampled Ben-Elohim underfoot, and has regarded as unholy the blood of the covenant by which he was made holy, and has insulted the Spirit of grace? (TLV)
+- 1 John 2:1-2 My children, I am writing these things to you so that you will not sin. But if anyone does sin, we have an Intercessor with the Father—the righteous Messiah Yeshua. 2 He is the atonement for our sins, and not only for our sins but also for the whole world. (TLV)
+- Hebrews 9:11–14 But when Messiah appeared as Kohen Gadol of the good things that have now come, passing through the greater and more perfect Tent not made with hands (that is to say not of this creation), 12 He entered into the Holies once for all—not by the blood of goats and calves but by His own blood, having obtained eternal redemption. 13 For if the blood of goats and bulls and the ashes of a heifer sprinkling those who have been defiled sanctify for the cleansing of the flesh, 14 how much more will the blood of Messiah—who through the eternal Spirit offered Himself without blemish to God—cleanse our conscience from dead works to serve the living God? (TLV)
+
+
 ### Trespass / [[Zunpublished/Guilt Offering\|Guilt Offering]] - Asham (אָשָׁם)
 - Offering Type: Sacrifice (expiatory)
 - Offered by: <mark style="background: #E0CC4BA6;">Individual</mark>
@@ -156,6 +165,12 @@ Acts 24 :17
 	* Focuses on making amends, both to God and affected parties.
 	* Closely related to sin offering but emphasizes compensation.
 * Example: Leviticus 5:15 – “He shall bring his guilt offering (asham) to the Lord.”
+### Yeshua/Jesus under the renewed covenant became a guilt offering. 
+- Isaiah 53:10 Yet it pleased Adonai to bruise Him. He caused Him to suffer. If He makes His soul a <mark style="background: #E6852CA6;">guilt offering</mark>, He will see His offspring, He will prolong His days, and the will of Adonai will succeed by His hand.
+- 1 Peter 2:23-24 When He was abused, He did not return the abuse. While suffering, He made no threats. Instead, He kept entrusting Himself to the One who judges righteously. 24 He Himself bore our sins in His body on the tree, so that we, removed from sins, might live for righteousness. “By His wounds you were healed.” (TLV)
+- 1 John 1:5-7 5 Now this is the message we have heard from Him and announce to you—that God is light and in Him there is no darkness at all. 6 If we say we have fellowship with Him and keep walking in the darkness, we are lying and do not practice the truth. 7 But if we walk in the light as He Himself is in the light, we have fellowship with one another and the blood of His Son Yeshua purifies us from all sin. (TLV)
+
+
 
 ### [[Zunpublished/Wave Offering\|Wave Offering]] - Tenufah
 - Offering Type: Sacrifice or grain offering (presented by waving)
@@ -223,6 +238,11 @@ Acts 24 :17
 	- Exodus 12:3-5 (WEB): "Speak to all the congregation of Israel, saying, ‘On the tenth day of this month, they shall take to them every man a lamb, according to their fathers’ houses, a lamb for a household... Your lamb shall be without defect, a male a year old. You shall take it from the sheep or from the goats.’"
 	- Deuteronomy 16:2 (WEB): "You shall sacrifice the Passover to Yahweh your God, of the flock and the herd, in the place which Yahweh shall choose to cause his name to dwell there."
 - Details: The Korban Pesach is a lamb or goat sacrificed to commemorate the Exodus, eaten with unleavened bread and bitter herbs.
+### Yeshua/Jesus under the renewed covenant became the Passover offering. 
+- 1 Corinthians 5:7 Get rid of the old hametz, so you may be a new batch, just as you are unleavened—for Messiah, our Passover Lamb, has been sacrificed. (TLV)
+- John 1:29 The next day, John sees Yeshua coming to him and says, “Behold, the Lamb of God who takes away the sin of the world! (TLV)
+
+
 
 ### Red Heifer Offering - Parah Adumah
 - Offering Type: Sacrifice (purification)

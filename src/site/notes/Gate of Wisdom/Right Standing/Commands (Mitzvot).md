@@ -10,6 +10,7 @@
 # Related words
 
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
+- [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 # List of Commandments (Mitzvot) in Deuteronomy
 
 ## 1. Scripture Reference: Deuteronomy 4:2 [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-04#v2\|Deut-04#v2]]
