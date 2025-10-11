@@ -30,17 +30,17 @@ Deuteronomy is structured as a covenant document, modeled after ancient Near Eas
 
 ## Blessings
 Deuteronomy 28:1-14 outlines the blessings that apply broadly to keeping “all his commandments,” serving as a general reward for covenant faithfulness,
-	Deuteronomy 28:1-14 [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v1\|Deut-28#v1]] “It shall happen, if you shall listen diligently to Yahweh your God’s voice, to observe to do all his commandments which I command you today, that Yahweh your God will set you high above all the nations of the earth. All these blessings will come upon you, and overtake you, if you listen to Yahweh your God’s voice.”
-		Physical/Environmental: Abundant crops, livestock, and rain (28:4, 11-12).
-		Social/National: Supremacy over nations, protection from enemies (28:7, 10).
-		Economic: Prosperity in work, storehouses, and trade (28:5, 8, 12).
-		Spiritual: Being established as a holy people to Yahweh (28:9).
+	- Deuteronomy 28:1-14 [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v1\|Deut-28#v1]] “It shall happen, if you shall listen diligently to Yahweh your God’s voice, to observe to do all his commandments which I command you today, that Yahweh your God will set you high above all the nations of the earth. All these blessings will come upon you, and overtake you, if you listen to Yahweh your God’s voice.”
+		- Physical/Environmental: Abundant crops, livestock, and rain (28:4, 11-12).
+		- Social/National: Supremacy over nations, protection from enemies (28:7, 10).
+		- Economic: Prosperity in work, storehouses, and trade (28:5, 8, 12).
+		- Spiritual: Being established as a holy people to Yahweh (28:9).
 ## Penalties/Consequence: 
 Many commands lack specific penalties in Deuteronomy, with consequences often tied to the general curses of Deut. 28:15-68 or specific punishments like death (e.g., for idolatry, adultery, murder) or curses (Deut. 27). Some penalties are drawn from related Torah passages (e.g., Exodus, Leviticus).
-	Deuteronomy 28:15-68 ([[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v15\|Deut-28#v15]]) “But it shall come to pass, if you will not listen to Yahweh your God’s voice, to observe to do all his commandments and his statutes which I command you today, that all these curses will come on you and overtake you.”
-		Physical: Disease, famine, drought (28:21-24).
-		Social: Defeat by enemies, oppression (28:25-33).
-		Economic: Loss of crops, livestock, wealth (28:38-42).
+	- Deuteronomy 28:15-68 ([[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v15\|Deut-28#v15]]) “But it shall come to pass, if you will not listen to Yahweh your God’s voice, to observe to do all his commandments and his statutes which I command you today, that all these curses will come on you and overtake you.”
+		- Physical: Disease, famine, drought (28:21-24).
+		- Social: Defeat by enemies, oppression (28:25-33).
+		- Economic: Loss of crops, livestock, wealth (28:38-42).
 		Spiritual/National: Exile, scattering among nations (28:64-68).
 [[Gate of Wisdom/Ransom\|Ransom]]: Atonement is rarely specified in Deuteronomy, except for cases like the heifer ritual (Deut. 21:1-9) or purification processes (e.g., Deut. 23:11, Lev. 14:1-32 for leprosy). Most violations lack explicit atonement instructions in Deuteronomy, often implying repentance or adherence to general sacrificial laws in Leviticus.
 [[Gate of Wisdom/Offering/Offerings\|Offerings]]
