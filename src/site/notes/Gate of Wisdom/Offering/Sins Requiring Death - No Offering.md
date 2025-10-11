@@ -54,7 +54,9 @@
 
 **False Witness in Capital Cases**:
     - **Deuteronomy 19:16–19**: A false witness in a case involving a death penalty is to receive the punishment intended for the accused, implying death if the false testimony was meant to cause it.
-## Jesus Conquered Death
+
+#### It seems initially the Passover Lamb of the [[Gate of Wisdom/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
+## Jesus vs Death
 
  - **1 Corinthians 15:54–57**: “When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: ‘Death is swallowed up in victory.’ ‘O death, where is your victory? O death, where is your sting?’ The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ.”
  - **Hebrews 2:14–15**:  “Since therefore the children share in flesh and blood, he himself likewise partook of the same things, that through death he might destroy the one who has the power of death, that is, the devil, and deliver all those who through fear of death were subject to lifelong slavery.”
@@ -63,3 +65,13 @@
  - **Revelation 1:17–18**: “When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, ‘Fear not, I am the first and the last, and the living one. I died, and behold I am alive forevermore, and I have the keys of Death and Hades.’”
  - **Acts 2:24**: “God raised him up, loosing the pangs of death, because it was not possible for him to be held by it.”
  - **2 Timothy 1:10**: “And which now has been manifested through the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the gospel.”
+
+## Jesus as an Offering
+
+- **Hebrews 10:26** For if we sin willfully after we have received the knowledge of the truth, there remains no more a sacrifice for sins, 27 but a certain fearful expectation of judgment, and a fierceness of fire which will devour the adversaries. 28 A man who disregards Moses’ law dies without compassion on the word of two or three witnesses. 29 How much worse punishment do you think he will be judged worthy of who has trodden under foot the Son of God, and has counted the blood of the covenant with which he was sanctified an unholy thing, and has insulted the Spirit of grace? 30 For we know him who said, “Vengeance belongs to me. I will repay,” says the Lord. Again, “The Lord will judge his people.” 31 It is a fearful thing to fall into the hands of the living God.
+
+- **John 14:15**: "If you love me, you will keep my commandments (mitzvah)."
+- **John 14:21**: "Whoever has my commandments (mitzvah) and keeps them, he it is who loves me. And he who loves me will be loved by my Father, and I will love him and manifest myself to him."
+- **John 15:10**: "If you keep my commandments (mitzvah), you will abide in my love, just as I have kept my Father’s commandments (mitzvah) and abide in his love."
+- **1 John 5:2-3**: "By this we know that we love the children of God, when we love God and obey his commandments (entolē). For this is the love of God, that we keep his commandments (mitzvah). And his commandments (entolē) are not burdensome."
+

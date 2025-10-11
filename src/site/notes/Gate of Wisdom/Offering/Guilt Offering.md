@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/guilt-offering/","tags":["#GateWisdom","#Offering"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/guilt-offering/","tags":["#GateWisdom","Offering"]}
 ---
 
 - Offering Type: Sacrifice (expiatory)
