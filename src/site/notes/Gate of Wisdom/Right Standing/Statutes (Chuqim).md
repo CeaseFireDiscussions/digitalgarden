@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/statutes-chuqim/","tags":["#GateWisdom","#RightStanding"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/statutes-chuqim/","tags":["#GateWisdom","RightStanding"]}
 ---
 
 # Define
@@ -7,16 +7,6 @@
 - Fixed ordinances, often permanent and non-negotiable (e.g., Sabbath laws).
 - The Hebrew term chuqim appears in Deuteronomy in contexts where God’s statutes are emphasized, often alongside mishpatim (judgments) and mitzvot (commandments).
 
-
-
-## Jesus as an Offering
-
-- **Hebrews 10:26** **For if we sin willfully after we have received the knowledge of the truth, there remains no more a sacrifice for sins**, 27 but a certain fearful expectation of judgment, and a fierceness of fire which will devour the adversaries. 28 A man who disregards Moses’ law dies without compassion on the word of two or three witnesses. 29 **How much worse punishment do you think he will be judged worthy of who has trodden under foot the Son of God**, and has counted the blood of the covenant with which he was sanctified an unholy thing, and has insulted the Spirit of grace? 30 For we know him who said, “Vengeance belongs to me. I will repay,” says the Lord. Again, “The Lord will judge his people.” 31 **It is a fearful thing to fall into the hands of the living God**.
-
-- **John 14:15**: "If you love me, you will keep my commandments (mitzvah)."
-- **John 14:21**: "Whoever has my commandments (mitzvah) and keeps them, he it is who loves me. And he who loves me will be loved by my Father, and I will love him and manifest myself to him."
-- **John 15:10**: "If you keep my commandments (mitzvah), you will abide in my love, just as I have kept my Father’s commandments (mitzvah) and abide in his love."
-- **1 John 5:2-3**: "By this we know that we love the children of God, when we love God and obey his commandments (entolē). For this is the love of God, that we keep his commandments (mitzvah). And his commandments (entolē) are not burdensome."
 # Related words
 
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
@@ -26,6 +16,14 @@
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 
 #### It seems initially the Passover Lamb of the [[Gate of Wisdom/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
+
+## Jesus as an Offering
+
+- **Hebrews 10:26** **For if we sin willfully after we have received the knowledge of the truth, there remains no more a sacrifice for sins**, 27 but a certain fearful expectation of judgment, and a fierceness of fire which will devour the adversaries. 28 A man who disregards Moses’ law dies without compassion on the word of two or three witnesses. 29 **How much worse punishment do you think he will be judged worthy of who has trodden under foot the Son of God**, and has counted the blood of the covenant with which he was sanctified an unholy thing, and has insulted the Spirit of grace? 30 For we know him who said, “Vengeance belongs to me. I will repay,” says the Lord. Again, “The Lord will judge his people.” 31 **It is a fearful thing to fall into the hands of the living God**
+- **John 14:15**: "If you love me, you will keep my commandments (mitzvah)."
+- **John 14:21**: "Whoever has my commandments (mitzvah) and keeps them, he it is who loves me. And he who loves me will be loved by my Father, and I will love him and manifest myself to him."
+- **John 15:10**: "If you keep my commandments (mitzvah), you will abide in my love, just as I have kept my Father’s commandments (mitzvah) and abide in his love."
+- **1 John 5:2-3**: "By this we know that we love the children of God, when we love God and obey his commandments (entolē). For this is the love of God, that we keep his commandments (mitzvah). And his commandments (entolē) are not burdensome."
 # List of Statutes (Chuqim) in Deuteronomy
 
 ## 1. Scripture Reference: Deuteronomy 4:1–2 (General command to keep statutes)
