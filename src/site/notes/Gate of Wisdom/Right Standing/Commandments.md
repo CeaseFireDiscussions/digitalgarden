@@ -22,7 +22,7 @@ These terms, rooted in Hebrew, reflect different aspects of divine law, though t
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]: Civil or judicial laws with clear rationales, governing social interactions (e.g., laws on property, justice).
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]: Duties or observances, often related to guarding or keeping specific practices (e.g., priestly duties).
 - [[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]: Specific instructions or principles, often detailed (e.g., specific offerings).
-- [[Zunpublished/Charge (Tsavah)\|Charge (Tsavah)]]: Direct orders or responsibilities, often tied to leadership or covenantal duties (e.g., Moses’ charge to the people).
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]: Direct orders or responsibilities, often tied to leadership or covenantal duties (e.g., Moses’ charge to the people).
 
 # Blessings and Curses
 
