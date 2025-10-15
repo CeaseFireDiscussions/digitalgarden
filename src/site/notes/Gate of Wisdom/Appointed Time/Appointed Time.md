@@ -8,16 +8,16 @@
 
 # Summary
 
-Exodus 31  - Shabbatot
+Exodus 31  - Shabbatot [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
 - Weekly
 	- Seventh Day Rest/Shabbat   Exodus 16 , Exodus 20 , Exodus 31,   Leviticus 23 , Numbers 28 -29)-29
 		- convocation     Leviticus 23
 		- no servile work    Exodus 16 , Exodus 20 , Exodus 31,  Leviticus 23 , 
 - First Seasonal Group - First Month      Leviticus 23 , Numbers 28 -29)-29,  Ezekiel 45
-	- Passover /Pesach  - 14th day of month   Exodus 12 , Leviticus 23 , Numbers 28 -29)-29,  Ezekiel 45
+	- [[Zunpublished/Passover\|Passover]] / Pesach  - 14th day of month   Exodus 12 , Leviticus 23 , Numbers 28 -29)-29,  Ezekiel 45
 		- Spring Deuteronomy 16 
 		 Eat no hametz  Exodus 12 ,  Exodus 13 ,  Deuteronomy 16 
-	- Unleavened Bread /Festival of Matzot - 15th day of month       Exodus 23 , Leviticus 23 , Numbers 28 -29)-29,  Deuteronomy 16 , Ezekiel 45 , 2 Chronicles 8
+	- Unleavened Bread /Festival of Matzot [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]- 15th day of month       Exodus 23 , Leviticus 23 , Numbers 28 -29)-29,  Deuteronomy 16 , Ezekiel 45 , 2 Chronicles 8
 		- Spring  Exodus 13 , Exodus 23 
 		- Seven days - eat unleavened bread    Exodus 12 , Exodus 13 ,  Exodus 23 , Leviticus 23 ,  Numbers 28 -29)-29,   Deuteronomy 16 , Ezekiel 45
 			- First day        Exodus 12 , Leviticus 23 , Numbers 28 -29)-29
@@ -30,13 +30,13 @@ Exodus 31  - Shabbatot
 				- convocation        Exodus 12 , Leviticus 23 , Numbers 28 -29)-29,  Deuteronomy 16
 				- no servile work        Exodus 12 , Leviticus 23 , Numbers 28 -29)-29,  Deuteronomy 16  
 - Second Seasonal Group - Harvest Time    Numbers 28 -29)-29
-	- First Fruits /Feast of Harvest   Exodus 23  ,   Numbers 28 -29)-29, Nehemiah 10
+	- [[Zunpublished/First Fruits\|First Fruits]] /Feast of Harvest   Exodus 23  ,   Numbers 28 -29)-29, Nehemiah 10
 		- On the morrow after the Shabbat after reaping    Leviticus 23
 			- On the morrow after the Shabbat = 1st day of week
 		- convocation    Numbers 28 -29)-29
 		- no servile work   Numbers 28 -29)-29
 		- Eat no bread, roasted grain, or fresh grain until the the day of the offering    Leviticus 23 
-	- Feast of Weeks /Shavuot /Pentecost     Numbers 28 -29)-29, 2 Chronicles 8 ,  Deuteronomy 16
+	- Feast of Weeks /[[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]] /[[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]]     Numbers 28 -29)-29, 2 Chronicles 8 ,  Deuteronomy 16
 		- Count from the morrrow after the Shabbat from the day of the offering    Leviticus 23
 			- Seven complete Shabbatot (SabbathS/weeks)    Leviticus 23 ,  Deuteronomy 16
 			- Until the morrow after the seventh Shabbat - count fifty days    Leviticus 23 ,
@@ -47,7 +47,7 @@ Exodus 31  - Shabbatot
 		- Do not sow fields or prune vineyard Leviticus 25
 		- Do not reap what grows by itsself Leviticus 25 
 - Third Seasonal Group - Seventh Month     Leviticus 23 ,   Numbers 28 -29)-29, Ezra 3 , Nehemiah 8 
-	- Feast of Trumpets /Yom Teruah  - 1st day of month       Leviticus 23 , Numbers 28 -29)-29, Ezra 3 
+	- [[Zunpublished/Feast of Trumpets\|Feast of Trumpets]] /Yom Teruah  - 1st day of month       Leviticus 23 , Numbers 28 -29)-29, Ezra 3 
 		- convocation      Leviticus 23 , Numbers 28 -29)-29
 		- no servile work     Leviticus 23 ,  Numbers 28 -29)-29
 	- Day of Atonement /Yom Kippur  - 10th day of month     Leviticus 16 ,   Leviticus 23 , Numbers 28 -29)-29
@@ -59,7 +59,7 @@ Exodus 31  - Shabbatot
 		- Jubilee  year - Count off seven Sabbaths of years - seven times seven - 49 years Leviticus 25 
 			- 10th Day of the month in the 50th year Leviticus 25 
 			- sound a shofar blast Leviticus 25 
-	- Feast of Tabernacles /Ingathering /Sukkot  - 15th day of month      Exodus 23 ,  Leviticus 23 , Numbers 28 -29)-29, Ezra 3 , 2 Chronicles 8 ,  Deuteronomy 16 ,  Nehemiah 8 
+	- [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]] /Ingathering /[[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]  - 15th day of month      Exodus 23 ,  Leviticus 23 , Numbers 28 -29)-29, Ezra 3 , 2 Chronicles 8 ,  Deuteronomy 16 ,  Nehemiah 8 
 		- After gathiner in the produce from your threshing floor and winepress   Exodus 23 , Deuteronomy 16  
 		- Seven days       Leviticus 23 , Numbers 28 -29)-29,  Deuteronomy 16  
 			- Feast for seven days       Leviticus 23 , Numbers 28 -29)-29,  Deuteronomy 16 

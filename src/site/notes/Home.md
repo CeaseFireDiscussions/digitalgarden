@@ -14,13 +14,10 @@ Have an open mind and be willing to learn, even if you just can’t bring yourse
 
 Thank you for joining us on these Cease Fire Moments.
 
-| Latest Drops                                                                                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]] |
-| [[Yada Yada Pauses/01 Gen-29 Yada Yada\|01 Gen-29 Yada Yada]]                                                                                                                                |
-| [[Yada Yada Pauses/01 Gen-28 Yada Yada\|01 Gen-28 Yada Yada]]                                                                                                                                |
-| [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]                             |
-| [[Sacred Truces/Day of Atonement for Christians\|Day of Atonement for Christians]]                                                                                                           |
+| Latest Drops                                                     |
+| ---------------------------------------------------------------- |
+| [[Yada Yada Pauses/01 Gen-29 Yada Yada\|01 Gen-29 Yada Yada]] |
+| [[Yada Yada Pauses/01 Gen-28 Yada Yada\|01 Gen-28 Yada Yada]] |
 
 { .block-language-dataview}
 
