@@ -12,7 +12,7 @@
 - Feast of Booths
 - Feast of Tents
 - The Ingathering
-- ((Feast of Tabernacles))
+- [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 
 # Scriptures
 
