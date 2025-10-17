@@ -84,6 +84,7 @@ On <mark style="background: #D2B3FFA6;">the seventh day</mark> <mark style="back
 - [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 
