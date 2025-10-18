@@ -78,34 +78,36 @@
 										- and the Christ shall shine upon thee.'
 ##### Reproving section sounds just like Colossians 3 [[The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Col-03\|Col-03]] Bringing order to chaos.
 ##### Isaiah 26:19 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-26#v19\|Isa-26:19]] part of a song of trust in God’s salvation, emphasizing hope and restoration. It speaks prophetically of resurrection, where the dead will live again, rising from the dust in a manner likened to dew bringing life. Speaks of a future resurrection of God’s people. 
-##### Isaiah 60:1: [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60#v1\|Isa-60:1]] speaks about a light has come and darkness covering the earth, but nations will come to your light
-								See, then //because Christ shines upon thee//, how exactly ye walk, 
-									not as unwise, 
-										but as wise,
-									redeeming the time, 
-										because the days are evil;
-											because of this //because the days are evil// become not fools, 
-												but -- understanding what [is] the will of the Lord,
-									and be not [[drunk\|drunk]] with wine, 
-										in which is dissoluteness, 
-										but be filled in the Spirit,
-											speaking to yourselves in //speaking to yourself in your heart to the Lord//
-												psalms 
-												and hymns 
-												and spiritual songs, 
-												singing 
-												and making melody 
-													in your heart to the Lord,,
-											giving thanks always 
-												for all things, 
-													in the name of our Lord Jesus Christ, 
-														to the God and Father;
-											[[Zunpublished/Subjecting\|Subjecting]] yourselves 
-												to one another 
-													in the fear of God.
+##### Isaiah 60:1: [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60#v1\|Isa-60:1]] speaks about a light has come and darkness covering the earth, but nations will come to your light.
+.
+								- See, then //because Christ shines upon thee//, how exactly ye walk, 
+									- not as unwise, 
+										- but as wise,
+									- redeeming the time, 
+										- because the days are evil;
+											- because of this //because the days are evil// become not fools, 
+												- but -- understanding what [is] the will of the Lord,
+									- and be not [[drunk\|drunk]] with wine, 
+										- in which is dissoluteness, 
+										- but be filled in the Spirit,
+											- speaking to yourselves in //speaking to yourself in your heart to the Lord//
+												- psalms 
+												- and hymns 
+												- and spiritual songs, 
+												- singing 
+												- and making melody 
+													- in your heart to the Lord,,
+											- giving thanks always 
+												- for all things, 
+													- in the name of our Lord Jesus Christ, 
+														- to the God and Father;
+											- [[Zunpublished/Subjecting\|Subjecting]] yourselves 
+												- to one another 
+													- in the fear of God.
 
 ##### [[Zunpublished/Subjecting\|Subjecting]]
 ##### Having no fellowship with the darkness rather convict it, because all things reproved by the light are manifested - submit to one another for reproving. Isaiah 8:19-20 to the law and to the testimony, if they do not speak according to this word, it is because there is no light in them.
+.
 												- The wives! 
 													- to your own husbands 
 														- Subjecting  yourselves, 
@@ -117,7 +119,7 @@
 ##### Genesis 3:16, Colossians 3 :18, 1 Peter 3 :1-7 about wives being subject to their husbands is in context of the community, teaching and admonishing one another with all wisdom - Bringing order to chaos. 
 ##### A husband can nullify a wive’s vows and then bear the guilt [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-30\|Num-30]]
 ##### 1 Timothy 2:8-15 A woman receive training in a quiet demanor with complete respect for order. Paul does not allow a woman to train or dictate to a man because Adam was formed first, and Adam was not deceived but the woman.
-
+.
 													- because the husband 
 														- is head 
 															- of the wife, 
