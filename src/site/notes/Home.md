@@ -16,6 +16,7 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/11 The Seventh YEAR Rest is for the Land (03-Lev 25)\|11 The Seventh YEAR Rest is for the Land (03-Lev 25)]]                             |
 | [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                                                                                                                            |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]                       |
 | [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]                                                                                                                                             |
@@ -28,6 +29,13 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]                                                                                                                                 |
 | [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]                                                                                                             |
 | [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                                                                                     |
+| [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]                                                                                           |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)\|08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)]]       |
+| [[Gate of Wisdom/Passover Offering\|Passover Offering]]                                                                                                                                      |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]             |
+| [[Gate of Wisdom/Beings/Rachel\|Rachel]]                                                                                                                                                     |
+| [[Yada Yada Pauses/01 Gen-29 Yada Yada\|01 Gen-29 Yada Yada]]                                                                                                                                |
+| [[Yada Yada Pauses/01 Gen-28 Yada Yada\|01 Gen-28 Yada Yada]]                                                                                                                                |
 
 { .block-language-dataview}
 
