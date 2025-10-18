@@ -16,18 +16,18 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                                                                                                                            |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]                       |
+| [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]                                                                                                                                             |
+| [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]                                                                                                                 |
+| [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]                                                                                                                           |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]] |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)\|08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)]]       |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]             |
-| [[Yada Yada Pauses/01 Gen-29 Yada Yada\|01 Gen-29 Yada Yada]]                                                                                                                                |
-| [[Yada Yada Pauses/01 Gen-28 Yada Yada\|01 Gen-28 Yada Yada]]                                                                                                                                |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/06 The Seventh Day Rest is for God's People (02-Exod 34)\|06 The Seventh Day Rest is for God's People (02-Exod 34)]]                     |
-| [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]                             |
-| [[Sacred Truces/Day of Atonement for Christians\|Day of Atonement for Christians]]                                                                                                           |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]         |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]                           |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]           |
+| [[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]                                                                                                                   |
+| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                                                                                               |
+| [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]                                                                                                                       |
+| [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]                                                                                                                                 |
+| [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]                                                                                                             |
+| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                                                                                     |
 
 { .block-language-dataview}
 
