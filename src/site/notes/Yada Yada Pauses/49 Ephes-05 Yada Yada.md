@@ -112,13 +112,6 @@
 
 ##### [[Zunpublished/Subjecting\|Subjecting]]
 ##### Having no fellowship with the darkness rather convict it, because all things reproved by the light are manifested - submit to one another for reproving. Isaiah 8:19-20 to the law and to the testimony, if they do not speak according to this word, it is because there is no light in them.
-
-##### Literal translation: The wives to their own husbands - for reproving
-
-##### [[1 Cor-4#v32\|1 Cor-4:32]][[1 Cor-4#v33\|1 Cor-4#v33]][[1 Cor-4#v34\|1 Cor-4#v34]][[1 Cor-4#v35\|1 Cor-4#v35]][[1 Cor-4#v36\|-36]] - No explicit command in the Torah to women remaining silent in a community, the closest reference would be [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-03#v16\|Gen-03:16]] about a husband ruling over his wife. Chaos requires order. 
-##### Genesis 3:16, Colossians 3 :18, 1 Peter 3 :1-7 about wives being subject to their husbands is in context of the community, teaching and admonishing one another with all wisdom - Bringing order to chaos. 
-##### A husband can nullify a wive’s vows and then bear the guilt [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-30\|Num-30]]
-##### 1 Timothy 2:8-15 A woman receive training in a quiet demanor with complete respect for order. Paul does not allow a woman to train or dictate to a man because Adam was formed first, and Adam was not deceived but the woman.
 - The wives! 
 	- to your own husbands 
 		- Subjecting  yourselves, 
@@ -135,6 +128,14 @@
 				- so also [are] the wives 
 					- to their own husbands 
 						- in everything.
+
+##### Literal translation: The wives to their own husbands - for reproving
+
+##### [[1 Cor-4#v32\|1 Cor-4:32]][[1 Cor-4#v33\|1 Cor-4#v33]][[1 Cor-4#v34\|1 Cor-4#v34]][[1 Cor-4#v35\|1 Cor-4#v35]][[1 Cor-4#v36\|-36]] - No explicit command in the Torah to women remaining silent in a community, the closest reference would be [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-03#v16\|Gen-03:16]] about a husband ruling over his wife. Chaos requires order. 
+##### Genesis 3:16, Colossians 3 :18, 1 Peter 3 :1-7 about wives being subject to their husbands is in context of the community, teaching and admonishing one another with all wisdom - Bringing order to chaos. 
+##### A husband can nullify a wive’s vows and then bear the guilt [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-30\|Num-30]]
+##### 1 Timothy 2:8-15 A woman receive training in a quiet demanor with complete respect for order. Paul does not allow a woman to train or dictate to a man because Adam was formed first, and Adam was not deceived but the woman.
+
 - The husbands! 
 	- love your own wives, 
 		- as also the Christ 
