@@ -80,13 +80,13 @@
 ##### Isaiah 26:19 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-26#v19\|Isa-26:19]] part of a song of trust in God’s salvation, emphasizing hope and restoration. It speaks prophetically of resurrection, where the dead will live again, rising from the dust in a manner likened to dew bringing life. Speaks of a future resurrection of God’s people. 
 ##### Isaiah 60:1: [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60#v1\|Isa-60:1]] speaks about a light has come and darkness covering the earth, but nations will come to your light.
 .
-								See, then //because Christ shines upon thee//, how exactly ye walk, 
-									not as unwise, 
-										but as wise,
-									redeeming the time, 
-										because the days are evil;
-											because of this //because the days are evil// become not fools, 
-												but -- understanding what [is] the will of the Lord,
+								- See, then //because Christ shines upon thee//, how exactly ye walk, 
+									- not as unwise, 
+										- but as wise,
+									 - redeeming the time, 
+									- 	because the days are evil;
+										- 	because of this //because the days are evil// become not fools, 
+											- but -- understanding what [is] the will of the Lord,
 									and be not [[drunk\|drunk]] with wine, 
 										in which is dissoluteness, 
 										but be filled in the Spirit,
