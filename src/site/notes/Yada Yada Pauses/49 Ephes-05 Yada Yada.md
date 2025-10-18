@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/49-ephes-05-yada-yada/","tags":["YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/49-ephes-05-yada-yada/","tags":["#YadaYadaPauses"]}
 ---
 
 [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-05\|Ephes-05]]
@@ -185,7 +185,7 @@
 															- and the wife 
 																- -- that she may reverence the husband.
 ## Members of Darkness
-
+.
 	- become not, then, partakers with them, //members of darkness//
 		- let it not even be named among you, 
 			- and whoredom, 
