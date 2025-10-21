@@ -44,7 +44,7 @@ You shall not do any work. It is a statute forever throughout your generations i
 	- Those who do will be destroyed from among the people
 - solemn rest
 - holy (set apart) convocation
-- offer an offering made by fire, [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] w/ [[Gate of Wisdom/Grain Offering\|Grain Offering]] and [[Gate of Wisdom/drink offering\|drink offering]]
+- offer an offering made by fire, [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] w/ [[Gate of Wisdom/Grain Offering\|Grain Offering]] and [[Gate of Wisdom/Drink Offering\|Drink Offering]]
 	- **Grain offerings were ate by the priests**
 - on 50th year - Jubilee year
 	- sound the trumpet

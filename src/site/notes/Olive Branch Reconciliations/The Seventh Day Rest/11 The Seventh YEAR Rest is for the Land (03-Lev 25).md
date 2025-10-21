@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/11-the-seventh-year-rest-is-for-the-land-03-lev-25/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/11-the-seventh-year-rest-is-for-the-land-03-lev-25/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
 ---
 
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
@@ -9,14 +9,12 @@ Let's see what scripture says about that starting at the very beginning and then
 
 <mark style="background: #A4A089A6;">Yahweh</mark> said to <mark style="background: #E0CC4BA6;">Moses</mark> on <mark style="background: #4DA6EDA6;">Mount Sinai</mark>, "Speak to the <mark style="background: #B2A23AA6;">children of Israel</mark>, and tell <mark style="background: #B2A23AA6;">them</mark>, 'When <mark style="background: #B2A23AA6;">you</mark> come <mark style="background: #4DA6EDA6;">into the land</mark> which <mark style="background: #A4A089A6;">I </mark>give <mark style="background: #B2A23AA6;">you</mark>, <mark style="background: #D2B3FFA6;">then</mark> <mark style="background: #E0CC4BA6;">the land</mark> <mark style="background: #04CD3EA6;">shall keep a Sabbath to</mark> <mark style="background: #A4A089A6;">Yahweh</mark>. <mark style="background: #B2A23AA6;">You</mark> shall <mark style="background: #04CD3EA6;">sow your field</mark> <mark style="background: #D2B3FFA6;">six years</mark>, and <mark style="background: #B2A23AA6;">you</mark> shall <mark style="background: #04CD3EA6;">prune your vineyard</mark> <mark style="background: #D2B3FFA6;">six years</mark>, and <mark style="background: #04CD3EA6;">gather in its fruits</mark>; but <mark style="background: #D2B3FFA6;">in the seventh year</mark> there <mark style="background: #04CD3EA6;">shall be a Sabbath of solemn rest</mark> <mark style="background: #E0CC4BA6;">for the land</mark>, <mark style="background: #04CD3EA6;">a Sabbath to</mark> <mark style="background: #A4A089A6;">Yahweh</mark>. <mark style="background: #B2A23AA6;">You</mark> <mark style="background: #04CD3EA6;">shall not sow your field</mark> or <mark style="background: #04CD3EA6;">prune your vineyard</mark>. <mark style="background: #04CD3EA6;">What grows of itself in your harvest you shall not reap</mark>, and <mark style="background: #04CD3EA6;">you shall not gather the grapes of your undressed vine</mark>. <mark style="background: #E6852CA6;">It shall be a year of solemn rest</mark> <mark style="background: #E0CC4BA6;">for the land</mark>. <mark style="background: #04CD3EA6;">The Sabbath of the land</mark> <mark style="background: #E6852CA6;">shall be for food</mark> for <mark style="background: #B2A23AA6;">you</mark>; <mark style="background: #B2A23AA6;">for yourself</mark>, <mark style="background: #B2A23AA6;">for your servant</mark>, <mark style="background: #B2A23AA6;">for your maid</mark>, <mark style="background: #B2A23AA6;">for your hired servant</mark>, and <mark style="background: #B2A23AA6;">for your stranger, who lives as a foreigner with you</mark>. For <mark style="background: #B2A23AA6;">your livestock</mark> also, and <mark style="background: #B2A23AA6;">for the animals</mark> that are <mark style="background: #4DA6EDA6;">in your land</mark>, <mark style="background: #E6852CA6;">shall all its increase be for food</mark>. 
 
-
 ## **Define**: 
 - Reap = Qatsar a formal harvesting, like gathering crops systematically for storage or sale.
 - Food for = Lekhem implies the produce is for eating, not for commercial harvest or stockpiling. Immediate consumption for all who dwell on the land, not just the owner, and it’s to be used as needed, not gathered for profit or surplus.
 
 ## **Who**:
--  Children Of = Congregation/Ekklesia = Congregation: ēḏāh (עֵדָה) refers to a group of people assembled or gathered together, often with a sense of unity or purpose. It can denote a community, assembly, or congregation, particularly in a religious or communal context.
-	- In the New Testament the Greek word is ekklēsia (ἐκκλησία) a gathering or assembly of people, often for a specific purpose, such as a public meeting or community. This word is typically translated as "church."
+- [[Gate of Wisdom/Assembly\|Assembly]]: Congregation ēḏāh (עֵדָה); Church ekklesia (ἐκκλησία)
 - [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]: All the people, both Hebrew and foreigners, who came out of Egypt.
 - The land - the land is somewhat treated as a who in this passage. 
 - The maid
@@ -259,15 +257,16 @@ But I will for their sake remember the covenant of their ancestors, whom I broug
 - [[Gate of Wisdom/Seventh Day\|Seventh Day]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/06 The Seventh Day Rest is for God's People (02-Exod 34)\|06 The Seventh Day Rest is for God's People (02-Exod 34)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)\|08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/06 The Seventh Day Rest is for God's People (02-Exod 34)\|06 The Seventh Day Rest is for God's People (02-Exod 34)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 

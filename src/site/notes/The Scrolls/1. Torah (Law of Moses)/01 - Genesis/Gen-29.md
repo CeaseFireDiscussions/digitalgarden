@@ -155,11 +155,11 @@ She conceived again, and bore a son. She said, "This time I will praise Yahweh."
   - wife (5)
   - years (6)
 - **Numbers Mentioned**:
-	  - [[03\|03]]: Genesis 29:2 – “And he looked, and behold a well in the field, and, lo, there were three flocks of sheep lying by it.”
-	  - [[Zunpublished/07\|07]]: Genesis 29:18 – “And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter.”
-	  - [[Zunpublished/07\|07]]: Genesis 29:20 – “And Jacob served seven years for Rachel; and they seemed unto him but a few days.”
-	  - [[Zunpublished/07\|07]]: Genesis 29:27 – “Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years.”
-	  - [[Zunpublished/07\|07]]: Genesis 29:30 – “And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years.”
+	  - [[Gate of Wisdom/Numbers/03\|03]]: Genesis 29:2 – “And he looked, and behold a well in the field, and, lo, there were three flocks of sheep lying by it.”
+	  - [[Gate of Wisdom/Numbers/07\|07]]: Genesis 29:18 – “And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter.”
+	  - [[Gate of Wisdom/Numbers/07\|07]]: Genesis 29:20 – “And Jacob served seven years for Rachel; and they seemed unto him but a few days.”
+	  - [[Gate of Wisdom/Numbers/07\|07]]: Genesis 29:27 – “Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years.”
+	  - [[Gate of Wisdom/Numbers/07\|07]]: Genesis 29:30 – “And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years.”
 - **Other Related Scriptures**:
   - [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Gen-28]]8: Jacob’s journey to Haran begins, and he receives God’s covenant promise.
   - [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|Gen-30]]: Continuation of Jacob’s family and dealings with Laban.

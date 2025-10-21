@@ -22,7 +22,7 @@ Acts 24 :17
 - **John 14:21**: "Whoever has my commandments (mitzvah) and keeps them, he it is who loves me. And he who loves me will be loved by my Father, and I will love him and manifest myself to him."
 - **John 15:10**: "If you keep my commandments (mitzvah), you will abide in my love, just as I have kept my Father’s commandments (mitzvah) and abide in his love."
 - **1 John 5:2-3**: "By this we know that we love the children of God, when we love God and obey his commandments (entolē). For this is the love of God, that we keep his commandments (mitzvah). And his commandments (entolē) are not burdensome."
-# Individual Offerings
+# Offerings
 Scroll down for brief overview of each. Follow the link for an indepth look.
 - [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] - Olah 
 - [[Gate of Wisdom/Grain Offering\|Grain Offering]] - Minchah (מִנְחָה)
@@ -32,7 +32,7 @@ Scroll down for brief overview of each. Follow the link for an indepth look.
 -  [[Zunpublished/Wave Offering\|Wave Offering]] - Tenufah
 - [[Zunpublished/Heave Offering\|Heave Offering]] - Terumah (תְּרוּמָה)
 *  [[Zunpublished/First Fruits\|First Fruits]] Offering - Bikkurim
-* [[Gate of Wisdom/drink offering\|drink offering]] - Nesek (נֶסֶךְ)
+* [[Gate of Wisdom/Drink Offering\|Drink Offering]] - Nesek (נֶסֶךְ)
 *  [[Gate of Wisdom/Passover Offering\|Passover Offering]] - Korban Pesach
 * [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]] - Sin offering made for national sins.
 * [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
@@ -254,7 +254,7 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 ### Yeshua/Jesus under the renewed covenant became a guilt offering. 
 1 Corinthians 15:20-24 But now Messiah has been raised from the dead, the firstfruits of those who have fallen asleep. 21 For since death came through a man, the resurrection of the dead also has come through a Man. 22 For as in Adam all die, so also in Messiah will all be made alive. 23 But each in its own order: Messiah the firstfruits; then, at His coming, those who belong to Messiah; 24 then the end, when He hands over the kingdom to God the Father after He has destroyed all rule and all authority and power. (TLV)
 
-### [[Gate of Wisdom/drink offering\|drink offering]] - Nesek (נֶסֶךְ)
+### [[Gate of Wisdom/Drink Offering\|Drink Offering]] - Nesek (נֶסֶךְ)
 - Offering Type: Liquid offering (wine or strong drink)
 - Offered by: <mark style="background: #E0CC4BA6;">Priests or individual (with other offerings)</mark>
 - Offering for: <mark style="background: #E6852CA6;">Accompaniment to burnt or peace offerings, worship</mark>

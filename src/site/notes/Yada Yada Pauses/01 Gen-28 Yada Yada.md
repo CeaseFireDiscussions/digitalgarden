@@ -199,7 +199,7 @@
 				- which I have set up for a pillar, 
 				- will be <mark style="background: #4DA6EDA6;">God's house</mark>. 
 			- Of all that <mark style="background: #67A9B7A6;">you</mark> will give <mark style="background: #B2A23AA6;">me</mark> 
-				- <mark style="background: #B2A23AA6;">I </mark><mark style="background: #04CD3EA6;">will surely [^7]give a tenth</mark> [[Zunpublished/10\|10]]
+				- <mark style="background: #B2A23AA6;">I </mark><mark style="background: #04CD3EA6;">will surely [^7]give a tenth</mark> [[Gate of Wisdom/Numbers/10\|10]]
 					- to <mark style="background: #67A9B7A6;">you</mark>." 
 #### The earliest biblical example of pouring oil. It foreshadows a practice of anointing objects to dedicate them to God, seen later in the Bible (e.g., Exodus 30:25-29, where oil is used to consecrate tabernacle items). Pouring oil on the stone signifies setting it apart as [[Gate of Wisdom/Holy\|Holy]].
 

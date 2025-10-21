@@ -559,6 +559,3 @@ Below is a list of every occurrence of the Hebrew word צַדִּיק (tsaddiq) 
 167. Habakkuk 1:13  
     Your eyes are too pure to look on evil, and you cannot look at wrong. Why do you idly look at traitors and remain silent when the wicked swallows up...
 
-
-###### Tags
-- 
