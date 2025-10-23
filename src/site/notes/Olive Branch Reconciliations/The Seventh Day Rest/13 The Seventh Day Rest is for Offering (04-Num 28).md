@@ -11,10 +11,11 @@ Let's see what scripture says about that starting at the very beginning and then
 
 ## **Define**: 
 - Ephah: (אֵיפָה) A unit of dry measure, roughly equivalent to about 22-35 liters (approximately 20-30 quarts) or around 40-50 pounds of grain
-- Meal Offering: [[Gate of Wisdom/Grain Offering\|Grain Offering]]
-- [[Gate of Wisdom/Drink Offering\|Drink Offering]]
-- [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
-- [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]
+- Meal Offering: 
+	- [[Gate of Wisdom/Grain Offering\|Grain Offering]]
+	- [[Gate of Wisdom/Drink Offering\|Drink Offering]]
+	- [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
+	- [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]
 ## **Who**:
 -  Children Of = Congregation/Ekklesia = Congregation: ēḏāh (עֵדָה) refers to a group of people assembled or gathered together, often with a sense of unity or purpose. It can denote a community, assembly, or congregation, particularly in a religious or communal context.
 	- In the New Testament the Greek word is ekklēsia (ἐκκλησία) a gathering or assembly of people, often for a specific purpose, such as a public meeting or community. This word is typically translated as "church."
@@ -61,6 +62,7 @@ Let's see what scripture says about that starting at the very beginning and then
 - [[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28)\|13 The Seventh Day Rest is for Offering (04-Num 28)]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 
