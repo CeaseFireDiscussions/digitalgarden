@@ -25,7 +25,7 @@
 - [[Gate of Wisdom/Covenant/Isaacic\|Isaacic]] Covenant
 
 # Additional Info
-
+- [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]] God tells Jacob to return to the land he will be with him.
 
 # Connections
 

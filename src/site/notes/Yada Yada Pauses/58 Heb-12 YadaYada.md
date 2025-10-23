@@ -162,7 +162,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 
 [^4]: [[Zunpublished/Spiritual Death\|Spiritual Death]] without Peace and the sanctification no man will see the Lord
 
-[^5]: [[Zunpublished/Punishment\|Punishment]] for disobedience. God punishes those he loves.
+[^5]: [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] for disobedience. God punishes those he loves.
 
 [^6]: [[Zunpublished/Redemption\|Redemption]]  [[Gate of Wisdom/Good News/Redemption\|Redemption]]  for disobedience through the blood of Jesus
 

@@ -5,7 +5,7 @@
 
 # Jeremiah 31
 
-[[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-30\|← Jeremiah 30]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-32\|Jeremiah 32 →]]
+[[Zunpublished/Jer-30\|← Jeremiah 30]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-32\|Jeremiah 32 →]]
 ***
 
 
@@ -131,4 +131,4 @@ The measuring line will go out further straight onward to the hill Gareb, and wi
 The whole valley of the dead bodies and of the ashes, and all the fields to the brook Kidron, to the corner of the horse gate toward the east, will be holy to Yahweh. It will not be plucked up or thrown down any more forever."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-30\|← Jeremiah 30]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-32\|Jeremiah 32 →]]
+[[Zunpublished/Jer-30\|← Jeremiah 30]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-32\|Jeremiah 32 →]]

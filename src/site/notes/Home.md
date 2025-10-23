@@ -16,6 +16,7 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/messengers\|messengers]]                                                                                                                                                    |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]         |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]] |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)\|08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)]]       |
@@ -35,7 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Gate of Wisdom/Numbers/02\|02]]                                                                                                                                                            |
 | [[Gate of Wisdom/Numbers/01\|01]]                                                                                                                                                            |
 | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|Gen-30]]                                                                                                                          |
-| [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                                                                                                                            |
 
 { .block-language-dataview}
 

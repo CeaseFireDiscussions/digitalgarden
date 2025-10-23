@@ -128,7 +128,7 @@
 			- and <mark style="background: #04CD3EA6;">saw</mark> 
 				- a stairway set upon the [[Zunpublished/Earth\|Earth]], 
 				- and its top reached to [[Gate of Wisdom/Heaven\|Heaven]]. 
-				- Behold, the angels <mark style="background: #CD04BBA6;">//</mark>[[Zunpublished/messengers\|messengers]]<mark style="background: #CD04BBA6;">//</mark> of <mark style="background: #67A9B7A6;">God</mark> 
+				- Behold, the angels <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/messengers\|messengers]]<mark style="background: #CD04BBA6;">//</mark> of <mark style="background: #67A9B7A6;">God</mark> 
 					- were ascending 
 					- and descending on it. 
 				- Behold, <mark style="background: #67A9B7A6;">Yahweh</mark> stood above it, 

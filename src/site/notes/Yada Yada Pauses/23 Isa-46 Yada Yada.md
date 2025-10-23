@@ -132,7 +132,7 @@
 
 [^4]: [[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]] Even though they are disobedient, God promises to carry, sustain, and rescue Israel, showing His mercy despite their failures.
 
-[^5]: [[Zunpublished/Punishment\|Punishment]] Those who are not followers of Yah/God do not receive Mercy when they are disobedient.
+[^5]: [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] Those who are not followers of Yah/God do not receive Mercy when they are disobedient.
 
 [^6]: [[Zunpublished/Redemption\|Redemption]] Yah promises to deliver them.
 

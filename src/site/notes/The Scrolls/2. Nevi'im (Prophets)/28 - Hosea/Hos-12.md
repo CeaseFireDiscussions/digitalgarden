@@ -112,4 +112,4 @@ Ephraim has bitterly provoked anger. Therefore his blood will be left on him, an
 
 [^9]: [[Gate of Wisdom/Idiom\|Idiom]] Dishonest scales” – Deceitful trade practices, symbolizing injustice
 
-[^10]: [[Zunpublished/Punishment\|Punishment]] for [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
+[^10]: [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] for [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]

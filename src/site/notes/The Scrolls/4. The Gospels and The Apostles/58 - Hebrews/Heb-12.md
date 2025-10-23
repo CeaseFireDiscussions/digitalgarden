@@ -106,7 +106,7 @@ for our God is a consuming fire.
 
 [^3]: [^3]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] [[Gate of Wisdom/Ruach/Fruit/Peace\|Peace]]    Peace and Sanctification, without which no man will see the Lord.
 
-[^4]: [[Zunpublished/Punishment\|Punishment]] for disobedience. God punishes those he loves.
+[^4]: [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] for disobedience. God punishes those he loves.
 
 [^5]: [[Zunpublished/Redemption\|Redemption]]  [[Gate of Wisdom/Good News/Redemption\|Redemption]]  for disobedience through the blood of Jesus
 
