@@ -98,9 +98,9 @@ Ephraim has bitterly provoked anger. Therefore his blood will be left on him, an
 
 [^2]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] Return to your God; maintain love and justice, and wait for your God always.”
 
-[^3]: [[Zunpublished/Grace\|Grace]]: Implied YHWH’s provision
+[^3]: [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]]: Implied YHWH’s provision
 
-[^4]: [[Zunpublished/Chaos\|Chaos]]: v. 11 (false worship leads to disorder)
+[^4]: [[Gate of Wisdom/Consequence/Disobedience/Chaos\|Chaos]]: v. 11 (false worship leads to disorder)
 
 [^5]: [[Separation from YHWH\|Separation from YHWH]]: v. 1 (alliances with Assyria, Egypt).
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/58-heb-12-yada-yada/","tags":["YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/58-heb-12-yada-yada/","tags":["#YadaYadaPauses","#unrighteous","#Righteous"]}
 ---
 
 
@@ -164,11 +164,11 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 
 [^5]: [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] for disobedience. God punishes those he loves.
 
-[^6]: [[Zunpublished/Redemption\|Redemption]]  [[Gate of Wisdom/Good News/Redemption\|Redemption]]  for disobedience through the blood of Jesus
+[^6]: [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]  [[Gate of Wisdom/Good News/Redemption\|Redemption]]  for disobedience through the blood of Jesus
 
-[^7]: [[Zunpublished/Grace\|Grace]] Given even though we were still unrighteous and disobedient
+[^7]: [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]] Given even though we were still unrighteous and disobedient
 
-[^8]: [[Zunpublished/Curse\|Curse]] Esau sold his inheritance and birthright
+[^8]: [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]] Esau sold his inheritance and birthright
 
 [^9]: [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]] through Jesus
 
@@ -176,9 +176,9 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 
 [^11]: [[Zunpublished/Messianic\|Messianic]] Covenant through the mediator - Jesus
 
-[^12]: [[Zunpublished/Mountain\|Mountain]] Mount Zion - city of the living God, Heavenly Jerusalem
+[^12]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Mountain\|Mountain]] Mount Zion - city of the living God, Heavenly Jerusalem
 
-[^13]: [[Zunpublished/Mountain\|Mountain]] Mt. Sinai - giving of the covenant to the Hebrews under Moses
+[^13]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Mountain\|Mountain]] Mt. Sinai - giving of the covenant to the Hebrews under Moses
 
 [^14]: [[Zunpublished/Mosaic\|Mosaic]] Covenant given at Mt Sinai
 

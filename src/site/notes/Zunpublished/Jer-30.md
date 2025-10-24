@@ -1,21 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/jer-30/","tags":["TheScrolls","Neviim"]}
+{"dg-publish":true,"permalink":"/zunpublished/jer-30/","tags":["#TheScrolls","#Neviim"]}
 ---
-
-
-
-
-
-
 
 
 # Jeremiah 30
 
 [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-29\|← Jeremiah 29]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31\|Jeremiah 31 →]]
 ***
-
-
-
 ###### v1 
 The word that came to Jeremiah from Yahweh, saying, 
 
@@ -90,3 +81,40 @@ The fierce anger of Yahweh will not return until he has accomplished, and until 
 
 ***
 [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-29\|← Jeremiah 29]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31\|Jeremiah 31 →]]
+
+
+# Fulfillments
+
+v9 - "they shall serve the LORD their God, and David their king, whom I will raise up" 
+- Not fulfilled in Zerubbabel or Joshua (post-exile). 
+- Points to Messianic reign ([[The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-37#v24\|Ezek-37#v24]]; [[The Scrolls/2. Nevi'im (Prophets)/28 - Hosea/Hos-03#v5\|Hos-03#v5]]; [[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-01#v32\|Luke-01#v32]]-33).
+
+v10 - Israel/Jacob saved "from afar," seed from captivity, return to rest, no fear
+- Partial: Return from Babylon ([[The Scrolls/3. Ketuvim (Writings)/15 - Ezra/Ezr-01#v1\|Ezr-01#v1]]–[[The Scrolls/3. Ketuvim (Writings)/15 - Ezra/Ezr-02#v1\|Ezr-02#v1]]; [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-07#v1\|Neh-07#v1]]). 
+- Incomplete: Post-exile Israel faced Persia, Greece, Rome, and later dispersions ([[Luke -1#v24\|Luke -1#v24]] – "Jerusalem trodden down of the Gentiles until..."). 
+- No permanent "rest and quiet" (cf. [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-04#v8\|Heb-04#v8]]-9).
+- [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-11#v25\|Rom-11#v25]]-29: Israel’s "blindness in part" until "fullness of Gentiles," then "all Israel shall be saved" (quoting [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-59#v20\|Isa-59#v20]]). Implies Jer 30:10-11 not yet complete
+- [[The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-21#v1\|Rev-21#v1]]-4: Final "no more sorrow" (cf. Jer 30:10 "rest and quiet") in new heaven/earth.
+
+v11 - God with Israel, full end of nations that scattered them, Israel corrected but not consumed
+- Nations judged: Babylon (Jer 50–51; fulfilled 539 BC, [[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Dan-05\|Dan-05]]). 
+- Ongoing: Medo-Persia, Greece, Rome not fully ended ([[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Dan-02#v31\|Dan-02#v31]]-45; 7:1-12 – fourth kingdom endures). 
+- Israel repeatedly scattered ([[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v64\|Deut-28#v64]]; [[The Scrolls/2. Nevi'im (Prophets)/28 - Hosea/Hos-09#v17\|Hos-09#v17]]; [[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-21#v24\|Luke-21#v24]]).
+- [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-11#v25\|Rom-11#v25]]-29: Israel’s "blindness in part" until "fullness of Gentiles," then "all Israel shall be saved" (quoting [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-59#v20\|Isa-59#v20]]). Implies Jer 30:10-11 not yet complete
+
+v12-15 - Incurable wound, no healer, lovers forget, chastisement for sin
+- Fulfilled in type: Babylonian siege (Lam 1:1-2; 2:15 – "is this the city...?"; cf. Jer 8:22 – "no balm in Gilead"). 
+- Pattern repeats: AD 70 (Josephus, Wars via Luke 19:41-44; 21:20-24).
+
+v16 - Devourers devoured, adversaries captive, spoilers spoiled
+- Babylon: Conquered by Cyrus (Isa 13:17-22; Jer 51:56). 
+- Incomplete: Israel’s enemies persist (Ps 83; Ezek 38–39; Zech 12–14). 
+- Final form in [[The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-20#v8\|Rev-20#v8]]-9 (Gog/Magog devoured by fire).
+
+Heb 8:8-12: Quotes Jer 31:31-34 (same context) as future new covenant, not fully realized in OT return.
+
+
+
+
+
+

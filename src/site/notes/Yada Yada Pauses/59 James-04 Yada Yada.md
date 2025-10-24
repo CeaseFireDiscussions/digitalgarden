@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/59-james/james-04/","tags":["#TheScrolls","#GospelsApostles"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/59-james-04-yada-yada/","tags":["#TheScrolls","#GospelsApostles","#YadaYadaPauses"]}
 ---
 
 # Setting
@@ -36,43 +36,52 @@
 	- (Traditional author: James, brother of Jesus, traditionally martyred AD 62; epistle is early, pre-Jerusalem Council [Acts 15, AD 49–50]; no mention of Gentile controversy).
 - Date takes place: Not specified
 
-# James 4
+# James 4 [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-04\|James-04]]
 
 [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-03\|← James 03]] | [[The Scrolls/4. The Gospels and The Apostles/59 - James/James\|James]] | [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-05\|James 05 →]]
 ***
 
-###### v1 
-Where do wars and fightings[^3] among you come from? Don't they come from your pleasures that war in your members? 
-
-###### v2 
-You lust[^8], and don't have. You murder and covet, and can't obtain. You fight and make war. You don't have, because you don't ask. 
-
-###### v3 
-You ask, and don't receive, because you ask with wrong motives, so that you may spend it on your pleasures. 
-
-###### v4 
-You adulterers and adulteresses[^7], don't you know that friendship with the world is hostility toward God? Whoever therefore wants to be a friend of the world makes himself an enemy of God. 
-
-###### v5 
-Or do you think that the Scripture says in vain, "The Spirit who lives in us yearns jealously"?[^2] 
-
-###### v6 
-But he gives more grace[^4]. Therefore it says, "God resists the proud, but gives grace to the humble." 
-
-###### v7 
-Be subject therefore to God. Resist the devil <mark style="background: #CD04BBA6;">//Accuser, slanderer (one who attacks with false or malicious charges)//</mark>, and he will flee from you. 
-
-###### v8 
-Draw near to God, and he will draw near to you. Cleanse your hands, you sinners. Purify your hearts, you double-minded. [^1]
-
-###### v9 
-Lament, mourn, and weep. Let your laughter be turned to mourning, and your joy to gloom. 
-
-###### v10 
-Humble yourselves in the sight of the Lord, and he will exalt you. 
-
-###### v11 
-Don't speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law, but a judge. 
+- Where do wars and fightings[^3] among you come from? 
+	- Don't they come from your pleasures that war in your members? 
+		- You lust[^8], 
+			- and don't have. 
+		- You murder and covet, 
+			- and can't obtain. 
+		- You fight and make war. 
+		- You don't have, 
+			- because you don't ask. 
+			- You ask, 
+				- and don't receive, 
+					- because you ask with wrong motives, 
+						- so that you may spend it on your pleasures. 
+- You adulterers and adulteresses[^7], 
+	- don't you know that friendship with the world 
+		- is hostility toward God? 
+			- Whoever therefore wants to be a friend of the world 
+				- makes himself an enemy of God. 
+		- Or do you think that the Scripture says in vain, 
+			- "The Spirit who lives in us 
+				- yearns jealously"?[^2] 
+			- But he gives more [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]][^4]. 
+				- Therefore it says, "God resists the proud, 
+					- but gives grace to the humble." 
+			- Be subject therefore to God. 
+				- Resist the devil <mark style="background: #CD04BBA6;">//Accuser, slanderer (one who attacks with false or malicious charges)//</mark>, 
+					- and he will flee from you. 
+				- Draw near to God, 
+					- and he will draw near to you. 
+				- Cleanse your hands, 
+					- you sinners. 
+				- Purify your hearts, 
+					- you double-minded. [^1]
+				- Lament, mourn, and weep. 
+					- Let your laughter be turned to mourning, 
+					- and your joy to gloom. 
+				- Humble yourselves in the sight of the Lord, 
+			- and he will exalt you. 
+				- Don't speak against one another, 
+					- brothers. 
+					- He who speaks against a brother and [[Gate of Wisdom/Judge\|Judge]] his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law, but a judge. 
 
 ###### v12 
 Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another? 

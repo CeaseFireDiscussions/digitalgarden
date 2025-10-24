@@ -235,9 +235,9 @@ Early in the morning, Laban rose up, and kissed his sons and his daughters, and 
 
 [^6]: [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] Jacob vowed a vow to YHWH
 
-[^7]: [[Zunpublished/Mountain\|Mountain]] Mountain of Gilead
+[^7]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Mountain\|Mountain]] Mountain of Gilead
 
-[^8]: [[Zunpublished/Mountain\|Mountain]] [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]pitched his tent in the mountain
+[^8]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Mountain\|Mountain]] [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]pitched his tent in the mountain
 
 [^10]: [[Gate of Wisdom/Idiom\|Idiom]] "countenance…not toward him as before” – facial expression changed, showing disfavor
 

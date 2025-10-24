@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/23-isaiah/isa-46/","tags":["TheScrolls","Neviim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/23-isaiah/isa-46/","tags":["#TheScrolls","#Neviim"]}
 ---
 
 # Author and Authorship Date:
@@ -84,7 +84,7 @@ Listen to me, you [^2]stubborn-hearted, who are far from righteousness!
 
 [^5]: [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] Those who are not followers of Yah/God do not receive Mercy when they are disobedient.
 
-[^6]: [[Zunpublished/Redemption\|Redemption]] Yah promises to deliver them.
+[^6]: [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]] Yah promises to deliver them.
 
 [^7]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] God brings his righteousness near, it is not far off and his salvation will not wait. 
 

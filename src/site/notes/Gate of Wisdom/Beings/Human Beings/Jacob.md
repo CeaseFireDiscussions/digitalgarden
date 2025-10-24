@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/jacob/","tags":["#GateWisdom","HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/jacob/","tags":["#GateWisdom","#HumanBeing"]}
 ---
 
 
@@ -75,6 +75,7 @@
 - Wrestled with God (or an angel) and received the name Israel, showing perseverance in seeking God’s blessing (Genesis 32:24–30).
 - Built altars to worship God at Shechem and Bethel (Genesis 33:20; 35:7).
 - Blessed his sons with prophetic words, aligning with God’s covenant (Genesis 49:1–28).
+- Kept oath made with Leban (Genesis 31)
 
 ## Unrighteousness
 - Deceived his father, Isaac, to steal Esau’s blessing (Genesis 27:18–29).

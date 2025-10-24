@@ -16,6 +16,14 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/Judge\|Judge]]                                                                                                                                                              |
+| [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]                                                                                                                            |
+| [[Zunpublished/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]]                                                                                                                      |
+| [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                                                                                                       |
+| [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                                                                                       |
+| [[Zunpublished/Adversary\|Adversary]]                                                                                                                                                        |
+| [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]                                                                                                                                |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]                                                                                                                            |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28)\|13 The Seventh Day Rest is for Offering (04-Num 28)]]                               |
 | [[Gate of Wisdom/messengers\|messengers]]                                                                                                                                                    |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]         |
@@ -28,14 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]                                                                                                                                   |
 | [[Gate of Wisdom/Numbers/03\|03]]                                                                                                                                                            |
 | [[Gate of Wisdom/Numbers/10\|10]]                                                                                                                                                            |
-| [[Gate of Wisdom/Numbers/09\|09]]                                                                                                                                                            |
-| [[Gate of Wisdom/Numbers/08\|08]]                                                                                                                                                            |
-| [[Gate of Wisdom/Numbers/07\|07]]                                                                                                                                                            |
-| [[Gate of Wisdom/Numbers/06\|06]]                                                                                                                                                            |
-| [[Gate of Wisdom/Numbers/05\|05]]                                                                                                                                                            |
-| [[Gate of Wisdom/Numbers/04\|04]]                                                                                                                                                            |
-| [[Gate of Wisdom/Numbers/02\|02]]                                                                                                                                                            |
-| [[Gate of Wisdom/Numbers/01\|01]]                                                                                                                                                            |
 
 { .block-language-dataview}
 

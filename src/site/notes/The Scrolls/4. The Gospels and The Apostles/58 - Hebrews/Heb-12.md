@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/58-hebrews/heb-12/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/58-hebrews/heb-12/","tags":["#TheScrolls","#TorahLawofMoses"]}
 ---
 
 
@@ -108,11 +108,11 @@ for our God is a consuming fire.
 
 [^4]: [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] for disobedience. God punishes those he loves.
 
-[^5]: [[Zunpublished/Redemption\|Redemption]]  [[Gate of Wisdom/Good News/Redemption\|Redemption]]  for disobedience through the blood of Jesus
+[^5]: [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]  [[Gate of Wisdom/Good News/Redemption\|Redemption]]  for disobedience through the blood of Jesus
 
-[^6]: [[Zunpublished/Grace\|Grace]] Given even though we were still unrighteous and disobedient
+[^6]: [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]] Given even though we were still unrighteous and disobedient
 
-[^7]: [[Zunpublished/Curse\|Curse]] Esau sold his inheritance and birthright
+[^7]: [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]] Esau sold his inheritance and birthright
 
 [^8]: [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]] through Jesus
 
@@ -120,9 +120,9 @@ for our God is a consuming fire.
 
 [^10]: [[Zunpublished/Messianic\|Messianic]] Covenant through the mediator - Jesus
 
-[^11]: [[Zunpublished/Mountain\|Mountain]] Mount Zion - city of the living God, Heavenly Jerusalem
+[^11]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Mountain\|Mountain]] Mount Zion - city of the living God, Heavenly Jerusalem
 
-[^12]: [[Zunpublished/Mountain\|Mountain]] Mt. Sinai - giving of the covenant to the Hebrews under Moses
+[^12]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Mountain\|Mountain]] Mt. Sinai - giving of the covenant to the Hebrews under Moses
 
 [^13]: [[Zunpublished/Mosaic\|Mosaic]] Covenant given at Mt Sinai
 

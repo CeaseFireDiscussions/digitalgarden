@@ -182,9 +182,9 @@ Rebekah said to Isaac, "I am weary of my life because of the daughters of Heth. 
 
 [^1]: [[Zunpublished/Physical Death\|Physical Death]] Isaac is anticipating his death
 
-[^2]: [[Zunpublished/Curse\|Curse]] [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]] willing to take the curse of being a deceiver from [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
+[^2]: [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]] [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]] willing to take the curse of being a deceiver from [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
 
-[^3]: [[Zunpublished/Curse\|Curse]] given from [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] to [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] who he thinks is [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]] - during his blessing, he curses everyone who curses Jacob.
+[^3]: [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]] given from [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] to [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] who he thinks is [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]] - during his blessing, he curses everyone who curses Jacob.
 
 [^4]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]given from [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] to [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] who he thinks is [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]] - during his blessing, he blesses everyone who blesses Jacob.
 

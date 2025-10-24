@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-46-yada-yada/","tags":["Neviim","YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-46-yada-yada/","tags":["#Neviim","#YadaYadaPauses"]}
 ---
 
 # Author and Authorship Date:
@@ -134,7 +134,7 @@
 
 [^5]: [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] Those who are not followers of Yah/God do not receive Mercy when they are disobedient.
 
-[^6]: [[Zunpublished/Redemption\|Redemption]] Yah promises to deliver them.
+[^6]: [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]] Yah promises to deliver them.
 
 [^7]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] God brings his righteousness near, it is not far off and his salvation will not wait. 
 

@@ -171,6 +171,6 @@ She conceived again, and bore a son. She said, "This time I will praise Yahweh."
 
 [^2]: [[Gate of Wisdom/Idiom\|Idiom]] “Leah’s eyes were delicate” – Likely means weak or unattractive eyes, possibly implying physical or emotional frailty.
 
-[^3]: [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] YHWH’s involvement in opening Leah’s womb, implying covenantal care for Jacob’s line. Birth of children (Reuben, Simeon, Levi, Judah)  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] [[Zunpublished/Grace\|Grace]] [[Zunpublished/Life\|Life]]
+[^3]: [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] YHWH’s involvement in opening Leah’s womb, implying covenantal care for Jacob’s line. Birth of children (Reuben, Simeon, Levi, Judah)  [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]] [[Zunpublished/Life\|Life]]
 
 [^4]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Laban’s deception of Jacob by giving Leah instead of Rachel

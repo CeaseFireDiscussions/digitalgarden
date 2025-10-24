@@ -11,14 +11,15 @@
 | [[Yada Yada Pauses/01 Gen-25 Yada Yada\|01 Gen-25 Yada Yada]]         |
 | [[Yada Yada Pauses/01 Gen-26 Yada Yada\|01 Gen-26 Yada Yada]]         |
 | [[Yada Yada Pauses/01 Gen-27 Yada Yada\|01 Gen-27 Yada Yada]]         |
-| [[Yada Yada Pauses/23 Isa-46 Yada Yada\|23 Isa-46 Yada Yada]]         |
 | [[Yada Yada Pauses/23 Isa-65 Yada Yada\|23 Isa-65 Yada Yada]]         |
 | [[Yada Yada Pauses/23 Isa-66 Yada Yada\|23 Isa-66 Yada Yada]]         |
-| [[Yada Yada Pauses/58 Heb-12 YadaYada\|58 Heb-12 YadaYada]]           |
 | [[Yada Yada Pauses/_Yada Yada Pauses\|_Yada Yada Pauses]]             |
 | [[Yada Yada Pauses/01 Gen-28 Yada Yada\|01 Gen-28 Yada Yada]]         |
 | [[Yada Yada Pauses/01 Gen-29 Yada Yada\|01 Gen-29 Yada Yada]]         |
 | [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]     |
+| [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]         |
+| [[Yada Yada Pauses/23 Isa-46 Yada Yada\|23 Isa-46 Yada Yada]]         |
+| [[Yada Yada Pauses/58 Heb-12 YadaYada\|58 Heb-12 YadaYada]]           |
 
 { .block-language-dataview}
 
