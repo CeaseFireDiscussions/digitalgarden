@@ -4,6 +4,7 @@
 
 | Table of Content                                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28)\|13 The Seventh Day Rest is for Offering (04-Num 28)]]                               |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]         |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]] |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)\|08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)]]       |
