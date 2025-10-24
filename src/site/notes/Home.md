@@ -16,7 +16,6 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[excalibrain\|excalibrain]]                                                                                                                                                                 |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28)\|13 The Seventh Day Rest is for Offering (04-Num 28)]]                               |
 | [[Gate of Wisdom/messengers\|messengers]]                                                                                                                                                    |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]         |
@@ -36,6 +35,7 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Gate of Wisdom/Numbers/05\|05]]                                                                                                                                                            |
 | [[Gate of Wisdom/Numbers/04\|04]]                                                                                                                                                            |
 | [[Gate of Wisdom/Numbers/02\|02]]                                                                                                                                                            |
+| [[Gate of Wisdom/Numbers/01\|01]]                                                                                                                                                            |
 
 { .block-language-dataview}
 
@@ -74,8 +74,7 @@ Thank you for joining us on these Cease Fire Moments.
 - <mark style="background: #CACFD9A6;">Question and Answer</mark>
 	- <mark style="background: #A8ADB8A6;">Connecting Thought</mark> (something referred to OR refers back to something)
     
-  
-[[excalibrain\|excalibrain]]
+
 
 # Folder Content Descriptions:
 ---
