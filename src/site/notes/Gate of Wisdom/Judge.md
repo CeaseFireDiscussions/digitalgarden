@@ -20,5 +20,5 @@
 - 
 
 # Notes
-its not "don’t judge" — it’s "do not usurp YHWH’s role" by slandering, gossiping, or condemning a brother. True judgment (mishpāṭ) belongs to YHWH; humans are called to reprove in love (yākaḥ), not 
+its not "don’t judge" — it’s "do not usurp YHWH’s role" by slandering, gossiping, or condemning a brother. True judgment (mishpāṭ) belongs to YHWH; humans are called to reprove in love (yākaḥ), not condemn in pride.
 
