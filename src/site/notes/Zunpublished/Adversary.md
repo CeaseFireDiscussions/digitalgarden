@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/adversary/","tags":["#GateWisdom","#Being","#unpublished"]}
+{"dg-publish":true,"permalink":"/zunpublished/adversary/","tags":["#GateWisdom","Being","#unpublished"]}
 ---
 
 # Define

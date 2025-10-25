@@ -54,7 +54,7 @@ You ask, and don't receive, because you ask with wrong motives, so that you may 
 You adulterers and adulteresses[^7], don't you know that friendship with the world is hostility toward God? Whoever therefore wants to be a friend of the world makes himself an enemy of God. 
 
 ###### v5 
-Or do you think that the Scripture says in vain, "The Spirit who lives in us yearns jealously"?[^2] 
+Or do you think that the Scripture says in vain, "The Spirit who lives in us[^10] yearns jealously"?[^2] 
 
 ###### v6 
 But he gives more grace[^4]. Therefore it says, "God resists the proud, but gives grace to the humble." 
@@ -69,7 +69,7 @@ Draw near to God, and he will draw near to you. Cleanse your hands, you sinners.
 Lament, mourn, and weep. Let your laughter be turned to mourning, and your joy to gloom. 
 
 ###### v10 
-Humble yourselves in the sight of the Lord, and he will exalt you. 
+Humble yourselves in the sight of the Lord, and he will exalt you[^9]. 
 
 ###### v11 
 Don't speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law, but a judge. 
@@ -132,3 +132,7 @@ To him therefore who knows to do good, and doesn't do it, to him it is sin.[^5]
 [^7]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.
 
 [^8]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.
+
+[^9]: [[Gate of Wisdom/Good News/Restoration\|Restoration]]  [[Gate of Wisdom/Good News/Gospel\|Gospel]] [[Gate of Wisdom/Good News/Good News\|Good News]] Humble yourselves… and he shall lift you up.”
+
+[^10]: [[Gate of Wisdom/Good News/Indwelling\|Indwelling]] The spirit that dwelleth in us lusteth to envy.”

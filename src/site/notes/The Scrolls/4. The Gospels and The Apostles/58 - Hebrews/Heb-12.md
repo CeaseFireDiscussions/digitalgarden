@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/58-hebrews/heb-12/","tags":["#TheScrolls","#TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/58-hebrews/heb-12/","tags":["TheScrolls","TorahLawofMoses"]}
 ---
 
 
@@ -128,7 +128,7 @@ for our God is a consuming fire.
 
 [^14]: 
 
-[^15]: [[Zunpublished/Restoration\|Restoration]] through the blood of Jesus
+[^15]: [[Gate of Wisdom/Good News/Restoration\|Restoration]] through the blood of Jesus
 
 [^16]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] from chastening after disobedience [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
 

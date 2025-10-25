@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/58-heb-12-yada-yada/","tags":["#YadaYadaPauses","#unrighteous","#Righteous"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/58-heb-12-yada-yada/","tags":["YadaYadaPauses"]}
 ---
 
 
@@ -182,7 +182,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 
 [^14]: [[Zunpublished/Mosaic\|Mosaic]] Covenant given at Mt Sinai
 
-[^15]: [[Zunpublished/Restoration\|Restoration]] through the blood of Jesus
+[^15]: [[Gate of Wisdom/Good News/Restoration\|Restoration]] through the blood of Jesus
 
 [^16]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] from chastening after disobedience [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]  #Righteous #unrighteous 
 

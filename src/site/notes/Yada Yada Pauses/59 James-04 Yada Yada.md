@@ -65,21 +65,21 @@
 			- But he gives more [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]][^4]. 
 				- Therefore it says, "God resists the proud, 
 					- but gives grace to the humble." 
-			- Be subject therefore to God. 
-				- Resist the [[Gate of Wisdom/Beings/Devil\|Devil]] <mark style="background: #CD04BBA6;">//Accuser, slanderer (one who attacks with false or malicious charges)//</mark>, 
+			- Be subject therefore to God. [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] 
+				- Resist the [[Gate of Wisdom/Beings/Devil\|Devil]] <mark style="background: #CD04BBA6;">//Accuser, slanderer (one who attacks with false or malicious charges)//</mark>,  [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 					- and he will flee from you. 
 				- Draw near to God, 
 					- and he will draw near to you. 
 				- Cleanse your hands, 
 					- you sinners. 
-				- Purify your hearts, 
+				- Purify your hearts, [^10]
 					- you double-minded. [^1]
 				- Lament, mourn, and weep. 
 					- Let your laughter be turned to mourning, 
 					- and your joy to gloom. 
-				- Humble yourselves in the sight of the Lord, 
+				- Humble yourselves in the sight of the Lord[^9], 
 			- and he will exalt you. 
-				- Don't speak against one another, 
+				- Don't speak against one another, [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 					- brothers. 
 					- He who speaks against a brother and [[Gate of Wisdom/Judge\|Judge]] his brother,
 						- speaks against the law \\[[Zunpublished/Torah\|Torah]] \\ and judges the law. 
@@ -95,7 +95,11 @@
 #### Notice what it says ... The Set-Apart Breath of YHWH (aka Holy Spirit) is INSIDE but there is a war INSIDE. The Holy Spirit WANTS you to listen, yearns for it. Just as YHWH yearned for the love of Israel in the Old Testament. Yah was a jealous god, and now His Set Apart Spirit is a jealous spirit because we follow our OWN pleasures.
 
 #### The Devil - the slander - in this case is our own pleasures, our own desires. 
-#### Speak against the law ... Slandering or condemning a brother violates this command → you speak against the law by disobeying it. [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]
+#### Don't speak against one another - take a stand, bear record against: [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-19#v15\|Deut-19#v15]]-19 One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-18#v15\|Matt-18#v15]]-20. 
+
+![Matt-1815-20 and Deut-1915-19.png](/img/user/Assets/attachments/Matt-1815-20%20and%20Deut-1915-19.png)
+#### Speak against the law ... Slandering or condemning a brother violates this command → you speak against the law by disobeying it. [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]  The law = Thou shalt love thy neighbour as thyself” (James 2:8; Leviticus 19:18).  
+
 #### Judge the law ... By condemning your brother, you sit in judgment over him as if you are above the law.  This usurps God’s role as the only Lawgiver and Judge (James 4:12: “There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?”).  You judge the law by acting as if it’s invalid or insufficient — you set yourself above it.
 #### Not a doer… but a judge”  Doer = one who obeys the law (James 1:22–25).  Judge = one who critiques or overrides the law.  You cannot obey a law you’ve dethroned.
 
@@ -110,7 +114,7 @@
 		- For you are a vapor that appears 
 			- for a little time, 
 			- and then vanishes away. 
-	- For you ought to say, 
+	- For you ought to say, [^11]
 		- "If the Lord wills, 
 			- we will both live,
 			- and do this or that." 
@@ -163,3 +167,9 @@
 [^7]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.
 
 [^8]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.
+
+[^9]: [[Zunpublished/Gentleness\|Gentleness]] Humble yourselves
+
+[^10]: [[Zunpublished/Self Control\|Self Control]] Cleanse your hands… purify your hearts
+
+[^11]: [[Zunpublished/Wisdom\|Wisdom]] Ye ought to say, If the Lord will…

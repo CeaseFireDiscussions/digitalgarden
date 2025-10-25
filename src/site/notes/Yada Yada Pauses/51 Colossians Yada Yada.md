@@ -250,7 +250,7 @@
             - These matters have an appearance of wisdom in self-made religion and humility and self-denial of the body
                 - none are of any value for stopping indulgence of the flesh
 
-## [[Good News\|Good News]]
+## [[Gate of Wisdom/Good News/Good News\|Good News]]
 
 - bearing fruit and growing
     - Hyperlink: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] 1:28 be fruitful and multiple
@@ -330,7 +330,7 @@
 - [[Zunpublished/Faith\|Faith]]
 - [[Zunpublished/Love\|Love]]
 - [[hope\|hope]]
-- [[gospel\|gospel]]
+- [[Gate of Wisdom/Good News/Gospel\|Gospel]]
 - body
 - [[death\|death]]
 - fullness

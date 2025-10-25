@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/forgiveness/","tags":["#GateWisdom","#ConsequenceDisobedience"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/forgiveness/","tags":["#GateWisdom","ConsequenceDisobedience"]}
 ---
 
 # Define

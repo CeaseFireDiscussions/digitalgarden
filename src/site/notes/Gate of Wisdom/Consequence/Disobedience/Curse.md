@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/curse/","tags":["#GateWisdom","#ConsequenceDisobedience"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/curse/","tags":["#GateWisdom","ConsequenceDisobedience"]}
 ---
 
 # Define

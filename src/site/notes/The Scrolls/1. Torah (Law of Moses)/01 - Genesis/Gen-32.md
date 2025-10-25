@@ -11,7 +11,7 @@
 
 
 ###### v1 
-Jacob went on his way, and the angels of God met him. 
+Jacob went on his way, and the angels [[Gate of Wisdom/messengers\|messengers]] of God met him. 
 
 ###### v2 
 When he saw them, Jacob said, "This is God's army." He called the name of that place Mahanaim. 

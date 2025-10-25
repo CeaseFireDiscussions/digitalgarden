@@ -16,8 +16,12 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[The Scrolls/Torah Portions/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]]                                                                                                        |
 | [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]                                                                                                                            |
+| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                                                                                               |
+| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                                                                                     |
+| [[Gate of Wisdom/Good News/Gospel\|Gospel]]                                                                                                                                                  |
+| [[Gate of Wisdom/Good News/Good News\|Good News]]                                                                                                                                            |
+| [[The Scrolls/Torah Portions/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]]                                                                                                        |
 | [[Gate of Wisdom/Judge\|Judge]]                                                                                                                                                              |
 | [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                                                                                                       |
 | [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                                                                                       |
@@ -32,10 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]             |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]                           |
 | [[Gate of Wisdom/Assembly\|Assembly]]                                                                                                                                                        |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/11 The Seventh YEAR Rest is for the Land (03-Lev 25)\|11 The Seventh YEAR Rest is for the Land (03-Lev 25)]]                             |
-| [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]                                                                                                                                   |
-| [[Gate of Wisdom/Numbers/03\|03]]                                                                                                                                                            |
-| [[Gate of Wisdom/Numbers/10\|10]]                                                                                                                                                            |
 
 { .block-language-dataview}
 

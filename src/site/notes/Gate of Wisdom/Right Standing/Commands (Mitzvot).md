@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/commands-mitzvot/","tags":["#GateWisdom","RightStanding"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/commands-mitzvot/","tags":["#GateWisdom","#RightStanding"]}
 ---
 
 # Define
@@ -40,15 +40,30 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-## 3. Do Not Worship Other Gods
-- **Scripture Reference**: Deuteronomy 6:14
-- **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not</mark> go after other gods, of the gods of the peoples who are around you.”
+## Fear YHWH and Serve Him
+### **Scripture Reference**: [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v13\|Deut-06#v13]]
+- **Scripture Text (WEB)**: 13 You shall fear Yahweh your God; and you shall serve him, and shall swear by his name. 
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
 - **Penalty or Consequence**: Yahweh’s jealousy and anger, potential destruction (Deuteronomy 6:15).
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
+### **Scripture Reference**: [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]]
+- **Scripture Text (WEB):** "Be subject therefore to God. 
 
+## Do Not Worship Other Gods
+### **Scripture Reference**: [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v14\|Deut-06#v14]]
+- **Scripture Text (WEB)**: 14 You shall not go after other gods, of the gods of the peoples who are around you,
+- **Blessing**: General blessings (Deuteronomy 28:1-14).
+- **Penalty or Consequence**: Yahweh’s jealousy and anger, potential destruction (Deuteronomy 6:15).
+- **Offering or Ransom?**: 
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
+### **Scripture Reference**: [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v3\|Exod-20#v3]]
+- **Scripture Text (WEB):** You shall have no other gods before me.
+### **Scripture Reference**: [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]]
+- **Scripture Text (WEB):** Resist the devil, and he will flee from you."
+- **Blessing**:  James says, the adversary will flee
 ## 4. Love Yahweh Your God
 - **Scripture Reference**: Deuteronomy 6:5
 - **Scripture Text (WEB)**: “You shall love Yahweh your God with all your heart, with all your soul, and with all your might.”

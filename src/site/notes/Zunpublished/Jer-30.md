@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/jer-30/","tags":["#TheScrolls","#Neviim"]}
+{"dg-publish":true,"permalink":"/zunpublished/jer-30/","tags":["TheScrolls","Neviim"]}
 ---
 
 
