@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-31-yada-yada/","tags":["TorahLawofMoses","YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-31-yada-yada/","tags":["#TorahLawofMoses","#YadaYadaPauses"]}
 ---
 
 For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]]
@@ -209,6 +209,8 @@ For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\
 			- Now, you want to be gone, 
 				- because you greatly longed for your father's house, 
 					- <mark style="background: #CACFD9A6;">but why have you stolen my gods?"</mark> 
+#### Pitched his tent by a mountain - image of Moses coming down after the calf incident and pitching his tent outside the camp comes to mind.
+- 
 	- Jacob answered 
 		- Laban, 
 			- "<mark style="background: #CACFD9A6;">Because I was afraid</mark>, for I said, 
