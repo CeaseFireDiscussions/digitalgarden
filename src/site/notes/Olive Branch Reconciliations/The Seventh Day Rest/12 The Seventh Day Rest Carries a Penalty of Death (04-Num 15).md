@@ -17,7 +17,7 @@ Let's see what scripture says about that starting at the very beginning and then
 - Some of the children (congregation) of Israel found a man.
 - A man gathering sticks
 - [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]
-- [[Zunpublished/Aaron\|Aaron]]
+- [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]]
 - [[Gate of Wisdom/Assembly\|Assembly]]: Congregation ēḏāh (עֵדָה); Church ekklesia (ἐκκλησία)
 - [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]: All the people, both Hebrew and foreigners, who came out of Egypt.
 

@@ -7,7 +7,7 @@ The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appoi
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
 # Scripture: Leviticus 24:8-9
 
-<mark style="background: #D2B3FFA6;">Every Sabbath day</mark> <mark style="background: #B2A23AA6;">he</mark> //[[Zunpublished/Aaron\|Aaron]]// shall set it in order <mark style="background: #4DA6EDA6;">before Yahweh</mark> <mark style="background: #D2B3FFA6;">continually</mark>. It is <mark style="background: #04CD3EA6;">an everlasting covenant on the behalf of </mark><mark style="background: #E0CC4BA6;">the children of Israel</mark>. 
+<mark style="background: #D2B3FFA6;">Every Sabbath day</mark> <mark style="background: #B2A23AA6;">he</mark> //[[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]]// shall set it in order <mark style="background: #4DA6EDA6;">before Yahweh</mark> <mark style="background: #D2B3FFA6;">continually</mark>. It is <mark style="background: #04CD3EA6;">an everlasting covenant on the behalf of </mark><mark style="background: #E0CC4BA6;">the children of Israel</mark>. 
 It shall be <mark style="background: #B2A23AA6;">for Aaron and his sons</mark>. <mark style="background: #B2A23AA6;">They</mark> shall eat it in a holy place; for <mark style="background: #04CD3EA6;">it is most holy </mark>to <mark style="background: #B2A23AA6;">him</mark> of the <mark style="background: #04CD3EA6;">offerings of Yahweh made by fire</mark> by a <mark style="background: #D2B3FFA6;">perpetual</mark> <mark style="background: #04CD3EA6;">statute</mark>." 
 
 

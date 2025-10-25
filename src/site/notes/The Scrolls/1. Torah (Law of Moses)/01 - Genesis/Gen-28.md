@@ -125,7 +125,7 @@ then [^9]this stone, which I have set up for a pillar, will be God's house. Of a
 
 [^1]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] Yah says in Jacob and his offspring all the families of the earth will be blessed.
 
-[^2]: [[Zunpublished/Favor\|Favor]] Yah-God will keep Jacob and bring him into the land again.
+[^2]: [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]] Yah-God will keep Jacob and bring him into the land again.
 
 [^3]: [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]] Yah reiterates the inheritance of the land and offspring.
 

@@ -16,6 +16,7 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                             |
 | ---------------------------------------------------------------------------------------- |
+| [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]                         |
 | [[Yada Yada Pauses/33 Micah-07 Yada Yada\|33 Micah-07 Yada Yada]]                     |
 | [[Gate of Wisdom/Beings/Human Beings/Micah\|Micah]]                                   |
 | [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                     |
@@ -25,7 +26,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Gate of Wisdom/Beings/Human Beings/Balaam\|Balaam]]                                 |
 | [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                 |
 | [[Gate of Wisdom/Beings/Human Beings/Balak\|Balak]]                                   |
-| [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]                         |
 | [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]                     |
 | [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]        |
 | [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]              |

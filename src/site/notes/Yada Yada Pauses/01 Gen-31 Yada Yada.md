@@ -234,7 +234,7 @@ For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\
 						- and sat on them. 
 			- Laban felt around all the tent, 
 				- but didn't find them. 
-			- She //Rachel// said 
+			- She <mark style="background: #CD04BBA6;">//Rachel// </mark>said 
 				- to her father, 
 					- "Don't let my lord be angry 
 						- that I can't rise up before you; 
@@ -402,7 +402,7 @@ For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\
 
 [^4]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] was given livestock
 
-[^5]: [[Zunpublished/Favor\|Favor]] YHWH saw [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] affliction and the labor of his hands, and rebuked Laban
+[^5]: [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]] YHWH saw [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] affliction and the labor of his hands, and rebuked Laban
 
 [^6]: [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] Jacob vowed a vow to YHWH
 

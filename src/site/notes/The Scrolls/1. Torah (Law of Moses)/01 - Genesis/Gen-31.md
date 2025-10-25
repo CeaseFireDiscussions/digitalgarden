@@ -231,7 +231,7 @@ Early in the morning, Laban rose up, and kissed his sons and his daughters, and 
 
 [^4]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] was given livestock
 
-[^5]: [[Zunpublished/Favor\|Favor]] YHWH saw [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] affliction and the labor of his hands, and rebuked Laban
+[^5]: [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]] YHWH saw [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] affliction and the labor of his hands, and rebuked Laban
 
 [^6]: [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] Jacob vowed a vow to YHWH
 

@@ -68,7 +68,7 @@ Listen <mark style="background: #CD04BBA6;">//mountains and hills// </mark>now t
 		For I 
 			brought you up out of the land of Egypt, 
 			and redeemed you out of the house of bondage[^10]. 
-			I sent before you [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]], [[Zunpublished/Aaron\|Aaron]], and Miriam. 
+			I sent before you [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]], [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]], and Miriam. 
 My people, 
 	<mark style="background: #04CD3EA6;">remember</mark> now what [[Gate of Wisdom/Beings/Human Beings/Balak\|Balak]] 
 		king of Moab 
