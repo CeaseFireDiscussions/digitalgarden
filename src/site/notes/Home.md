@@ -14,28 +14,28 @@ Have an open mind and be willing to learn, even if you just can’t bring yourse
 
 Thank you for joining us on these Cease Fire Moments.
 
-| Latest Drops                                                                                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]                                                                                                                            |
-| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                                                                                               |
-| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                                                                                     |
-| [[Gate of Wisdom/Good News/Gospel\|Gospel]]                                                                                                                                                  |
-| [[Gate of Wisdom/Good News/Good News\|Good News]]                                                                                                                                            |
-| [[The Scrolls/Torah Portions/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]]                                                                                                        |
-| [[Gate of Wisdom/Judge\|Judge]]                                                                                                                                                              |
-| [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                                                                                                       |
-| [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                                                                                       |
-| [[Zunpublished/Adversary\|Adversary]]                                                                                                                                                        |
-| [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]                                                                                                                                |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]                                                                                                                            |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28)\|13 The Seventh Day Rest is for Offering (04-Num 28)]]                               |
-| [[Gate of Wisdom/messengers\|messengers]]                                                                                                                                                    |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]         |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]] |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)\|08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)]]       |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]             |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]                           |
-| [[Gate of Wisdom/Assembly\|Assembly]]                                                                                                                                                        |
+| Latest Drops                                                                             |
+| ---------------------------------------------------------------------------------------- |
+| [[Yada Yada Pauses/33 Micah-07 Yada Yada\|33 Micah-07 Yada Yada]]                     |
+| [[Gate of Wisdom/Beings/Human Beings/Micah\|Micah]]                                   |
+| [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                     |
+| [[The Scrolls/Torah Portions/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]] |
+| [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]                                     |
+| [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]                                     |
+| [[Gate of Wisdom/Beings/Human Beings/Balaam\|Balaam]]                                 |
+| [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                 |
+| [[Gate of Wisdom/Beings/Human Beings/Balak\|Balak]]                                   |
+| [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]                         |
+| [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]                     |
+| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]        |
+| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]              |
+| [[Gate of Wisdom/Good News/Gospel\|Gospel]]                                           |
+| [[Gate of Wisdom/Good News/Good News\|Good News]]                                     |
+| [[Gate of Wisdom/Judge\|Judge]]                                                       |
+| [[Gate of Wisdom/Beings/Devil\|Devil]]                                                |
+| [[Gate of Wisdom/Beings/Satan\|Satan]]                                                |
+| [[Zunpublished/Adversary\|Adversary]]                                                 |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]                     |
 
 { .block-language-dataview}
 

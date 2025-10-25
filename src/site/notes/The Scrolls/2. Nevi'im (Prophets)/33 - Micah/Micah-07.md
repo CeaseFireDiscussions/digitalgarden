@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/33-micah/micah-07/","tags":["TheScrolls","Neviim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/33-micah/micah-07/","tags":["#TheScrolls","#Neviim"]}
 ---
 
+More in-depth look: [[Yada Yada Pauses/33 Micah-07 Yada Yada\|33 Micah-07 Yada Yada]]
 # Setting
 ## Who:
 - **Author**: Micah
@@ -39,7 +40,7 @@
 
 # Micah 7
 
-[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|← Micah 06]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|Micah]]
+[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|← Micah 06]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]]
 ***
 
 ###### v1 
@@ -103,7 +104,7 @@ He will again have compassion on us. He will tread our iniquities under foot; an
 You will give truth to Jacob, and mercy to Abraham, as you have sworn to our fathers from the days of old.[^10]
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|← Micah 06]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|Micah]]
+[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|← Micah 06]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]]
 
 
 

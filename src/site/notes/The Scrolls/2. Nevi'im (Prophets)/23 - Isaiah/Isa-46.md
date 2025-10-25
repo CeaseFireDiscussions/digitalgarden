@@ -29,13 +29,13 @@
 ***
 
 ###### v1 
-[^9][[Gate of Wisdom/Beings/Bel\|Bel]] [^3]bows down. Nebo stoops. Their [[Gate of Wisdom/Beings/Babylonians\|Babylonians]] [^1]idols are [^10]carried by animals, and on the livestock. The things that you carried around are heavy loads, a burden for the weary. 
+[^9][[Gate of Wisdom/Beings/Heavenly Beings/Bel\|Bel]] [^3]bows down. Nebo stoops. Their [[Gate of Wisdom/Beings/Human Beings/Babylonians\|Babylonians]] [^1]idols are [^10]carried by animals, and on the livestock. The things that you carried around are heavy loads, a burden for the weary. 
 
 ###### v2 
 They stoop and [^5]they bow down together. They could not deliver the burden, but they have gone into captivity. 
 
 ###### v3 
-"Listen to me, [[Gate of Wisdom/Beings/House of Jacob\|House of Jacob]], and all the remnant of the [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]], that have been carried from their birth, that have been carried from the womb. 
+"Listen to me, [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]], and all the remnant of the [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]], that have been carried from their birth, that have been carried from the womb. 
 
 ###### v4 
 Even to old age I am he, and even to gray hairs I will carry you. I have made, and I will bear. Yes, [^4]I will carry, and [^6]will deliver. 

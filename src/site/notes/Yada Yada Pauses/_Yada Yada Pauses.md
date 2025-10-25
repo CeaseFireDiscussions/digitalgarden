@@ -16,10 +16,10 @@
 | [[Yada Yada Pauses/01 Gen-28 Yada Yada\|01 Gen-28 Yada Yada]]         |
 | [[Yada Yada Pauses/01 Gen-29 Yada Yada\|01 Gen-29 Yada Yada]]         |
 | [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]     |
-| [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]         |
 | [[Yada Yada Pauses/23 Isa-46 Yada Yada\|23 Isa-46 Yada Yada]]         |
 | [[Yada Yada Pauses/58 Heb-12 YadaYada\|58 Heb-12 YadaYada]]           |
 | [[Yada Yada Pauses/51 Colossians Yada Yada\|51 Colossians Yada Yada]] |
+| [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]         |
 
 { .block-language-dataview}
 

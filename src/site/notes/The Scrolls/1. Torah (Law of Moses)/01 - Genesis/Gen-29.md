@@ -9,14 +9,14 @@
 - **Characters and People Groups**:
   - [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
   - Laban
-  - [[Gate of Wisdom/Beings/Rachel\|Rachel]]
+  - [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]
   - Leah
   - Bilhah
   - Zilpah
   - Reuben
   - Simeon
   - [[Zunpublished/Levi\|Levi]]
-  - [[Gate of Wisdom/Beings/Judah\|Judah]]
+  - [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]
   - Haran people
 - **Symbolic Roles**:
   - **Deceiver**: Laban

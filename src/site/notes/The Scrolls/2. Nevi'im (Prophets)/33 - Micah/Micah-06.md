@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/33-micah/micah-06/","tags":["TheScrolls","Neviim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/33-micah/micah-06/","tags":["#TheScrolls","#Neviim"]}
 ---
 
 # Setting
@@ -15,7 +15,7 @@
 		- YHWH (the LORD)
 		- Micah
 		- My people ([[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]/[[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]])
-		- [[Gate of Wisdom/Beings/House of Jacob\|House of Jacob]]
+		- [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]
 		- heads of Jacob
 		- rulers of the house of Israel
 		- Jacob (as people group)
@@ -40,7 +40,7 @@
 
 # Micah 6
 
-[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|Micah]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
 ***
 ###### v1 
 Listen now to what Yahweh says: "Arise, plead your case before the mountains, and let the hills hear what you have to say. 
@@ -91,7 +91,7 @@ You will sow, but won't reap. You will tread the olives, but won't anoint yourse
 For the statutes of Omri are kept, and all the works of Ahab's house[^2]. You walk in their counsels, that I may make you a ruin, and her inhabitants a hissing; And you will bear the reproach of my people."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|Micah]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
 
 #  Connections
 ## Repeated Words: 

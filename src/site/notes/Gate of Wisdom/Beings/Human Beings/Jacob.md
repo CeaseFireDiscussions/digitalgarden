@@ -24,8 +24,8 @@
 # Marriage and Descendants
 - **Spouse #1**: Leah
   - **Story**: Jacob was tricked by Laban into marrying Leah, his older daughter, before marrying Rachel, whom Jacob loved. He worked seven years for Laban to marry Leah (Genesis 29:15–27).
-  - **Children**: Reuben, Simeon, [[Zunpublished/Levi\|Levi]], [[Gate of Wisdom/Beings/Judah\|Judah]], Issachar, Zebulun, and Dinah (Genesis 29:32–35; 30:17–21).
-- **Spouse #2**: [[Gate of Wisdom/Beings/Rachel\|Rachel]]
+  - **Children**: Reuben, Simeon, [[Zunpublished/Levi\|Levi]], [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]], Issachar, Zebulun, and Dinah (Genesis 29:32–35; 30:17–21).
+- **Spouse #2**: [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]
   - **Story**: Jacob loved Rachel and worked seven years to marry her, but was deceived into marrying Leah first. He then worked another seven years for Rachel (Genesis 29:20–28).
   - **Children**: [[Zunpublished/Joseph\|Joseph]] and Benjamin (Genesis 30:22–24; 35:16–18).
 - **Other Descendants of Note**:

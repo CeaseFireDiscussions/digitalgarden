@@ -6,7 +6,7 @@
 
 - **Author**: <mark style="background: #E0CC4BA6;">Isaiah</mark>.
 - **When Authored**: Approximately 8th century BC (circa 740–700 BC); Addressing the future exile in Babylon (6th century BC).
-- **Audience**: [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]], [[Gate of Wisdom/Beings/House of Jacob\|House of Jacob]], [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]] [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]] 
+- **Audience**: [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]], [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]], [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]] [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]] 
 	- Particularly the descendants of Jacob, which refers to the nation of Judah (the southern kingdom) and possibly the remnants of the northern kingdom (Israel) after its fall to Assyria (722 BC).
 
 # Setting and Main Storyline:
@@ -30,10 +30,10 @@
 ***
 
 # The Babylonians
-- [^9][[Gate of Wisdom/Beings/Bel\|Bel]] 
+- [^9][[Gate of Wisdom/Beings/Heavenly Beings/Bel\|Bel]] 
 	- [^3]bows down. 
 	- Nebo <mark style="background: #CD04BBA6;">//Babylonian god//</mark> stoops. 
-	- Their<mark style="background: #CD04BBA6;"> //</mark>[[Gate of Wisdom/Beings/Babylonians\|Babylonians]]<mark style="background: #CD04BBA6;">//</mark> [^1]idols are
+	- Their<mark style="background: #CD04BBA6;"> //</mark>[[Gate of Wisdom/Beings/Human Beings/Babylonians\|Babylonians]]<mark style="background: #CD04BBA6;">//</mark> [^1]idols are
 		- [^10]carried 
 			- by animals, 
 			- and on the livestock. 
@@ -48,7 +48,7 @@
 					- gone into captivity. 
 
 # The House of Jacob and House of Israel
-- "Listen to me, [[Gate of Wisdom/Beings/House of Jacob\|House of Jacob]], and all the remnant of the [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]] <mark style="background: #F309DDA6;">//#3,//</mark> 
+- "Listen to me, [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]], and all the remnant of the [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]] <mark style="background: #F309DDA6;">//#3,//</mark> 
 	- that have been carried from their birth, 
 	- that have been carried from the womb. 
 	- Even to old age 

@@ -6,7 +6,7 @@
 
 Jew is a shorten form, kind of like a nick name for a group of people. It can refer to different groups depending on who and when it's being referenced. This word is not used in Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.
 
-- [[Gate of Wisdom/Beings/Judah\|Judah]] - Son of [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]/Israel, [[Gate of Wisdom/Beings/Hebrew\|Hebrew]]/[[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]] by descent
+- [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]] - Son of [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]/Israel, [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]/[[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]] by descent
 - [[Zunpublished/Sons of Judah\|Sons of Judah]]
 	- ancestors of Judah, son of [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] / Israel
 	- native born and foreigners who became followers of Yah, the god of Abraham, Isaac, and Jacob and were a part of the Tribe of Judah and the congregation of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]].
@@ -112,14 +112,14 @@ the land of the Kenites, the Kenizzites, the Kadmonites,
 
 
 # Related words
-- [[Gate of Wisdom/Beings/Judah\|Judah]]
+- [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]
 - [[Zunpublished/Sons of Judah\|Sons of Judah]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
 - [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
 - [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]
-- [[Gate of Wisdom/Beings/House of Jacob\|House of Jacob]]
+- [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
-- [[Gate of Wisdom/Beings/Hebrew\|Hebrew]]
+- [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]
 
 # Hebrew, Israelite, Jew
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/59-james/james-04/","tags":["#TheScrolls","#GospelsApostles"]}
 ---
 
+More in-depth look: [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]
 # Setting
 ## Who:
 - **Author**: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-31/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-31/","tags":["#TheScrolls","#TorahLawofMoses"]}
 ---
 
 For more in-depth look [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]
@@ -12,7 +12,7 @@ For more in-depth look [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Ya
 	- [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
 	- Laban
 	- Leah
-	- [[Gate of Wisdom/Beings/Rachel\|Rachel]]
+	- [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]
 	- sons of Laban
 	- children (of Jacob)
 - Symbolic Roles: 
@@ -225,7 +225,7 @@ Early in the morning, Laban rose up, and kissed his sons and his daughters, and 
 
 [^1]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Laban deceived [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] 
 
-[^2]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] [[Gate of Wisdom/Beings/Rachel\|Rachel]] stole from her father
+[^2]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]] stole from her father
 
 [^3]: [[Gate of Wisdom/Idiom\|Idiom]]  deceived - tricked - literal meaning: “stole the heart/mind of Laban” Idiomatic Hebrew for deceiving someone by concealing intentions
 

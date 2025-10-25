@@ -12,7 +12,7 @@ For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\
 	- [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
 	- Laban
 	- Leah
-	- [[Gate of Wisdom/Beings/Rachel\|Rachel]]
+	- [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]
 	- sons of Laban
 	- children (of Jacob)
 - Symbolic Roles: 
@@ -396,7 +396,7 @@ For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\
 
 [^1]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Laban deceived [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] 
 
-[^2]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] [[Gate of Wisdom/Beings/Rachel\|Rachel]] stole from her father
+[^2]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]] stole from her father
 
 [^3]: [[Gate of Wisdom/Idiom\|Idiom]]  deceived - tricked - literal meaning: “stole the heart/mind of Laban” Idiomatic Hebrew for deceiving someone by concealing intentions
 

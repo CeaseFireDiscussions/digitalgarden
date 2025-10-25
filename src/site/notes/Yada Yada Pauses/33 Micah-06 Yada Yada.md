@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/33-micah-06-yada-yada/","tags":["#TheScrolls","#Neviim","#YadaYadaPauses"]}
 ---
 
+For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|Micah-06]]
 # Setting
 - ## Who:
-	- **Author**: Micah
+	- **Author**: [[Gate of Wisdom/Beings/Human Beings/Micah\|Micah]]
 	- **Audience**: [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] 
 		- the people of Jacob, 
 		- the remnant of Israel, 
@@ -40,7 +41,7 @@
 
 # Micah 6
 
-[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|Micah]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
 ***
 
 Listen <mark style="background: #CD04BBA6;">//mountains and hills// </mark>now to what <mark style="background: #D7CD91A6;">Yahweh</mark> says: 
@@ -133,6 +134,7 @@ My people,
 			- You will tread the olives, but won't anoint yourself with oil; 
 			- and crush grapes, but won't drink the wine. 
 #### Sounds similar to what James said [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-04\|James-04]]
+#### Fulfillment: Aligns with the historical exile of Judah to Babylon, which the Bible records as a consequence of covenant unfaithfulness. [[The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-25\|2 Kings-25]] [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-07\|Jer-07]]. The Babylonian exile fulfills the desolation described in Micah 6:13-16.
 
 - For <mark style="background: #CD04BBA6;">//the wickedness comes from// </mark>the 
 	- statutes of [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]] are kept, 
@@ -147,7 +149,7 @@ My people,
 #### Ahab more evil than Omri, was husband of Jezebel, worshiped [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]] [[The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-16\|1 Kings-16]], Corrupt legal system [[The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-21\|1 Kings-21]]
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|Micah]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
 
 #  Connections
 ## Repeated Words: 

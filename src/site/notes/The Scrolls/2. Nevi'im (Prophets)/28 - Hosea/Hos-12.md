@@ -9,7 +9,7 @@
 - **Characters and People Groups**:
   - Hosea
   - Ephraim (Northern Kingdom of Israel)
-  - [[Gate of Wisdom/Beings/Judah\|Judah]]
+  - [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]
   - [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
   - [[Zunpublished/Canaanites\|Canaanites]]
 - **Symbolic Roles**:

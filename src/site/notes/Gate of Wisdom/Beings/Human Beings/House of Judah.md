@@ -10,12 +10,12 @@
 - Eventually, the term "[[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]" diminishes in reference to the northern kingdom as a distinct entity. The term "[[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]," derived from "Judah," becomes more prominent.  
 
 # Related words
-- [[Gate of Wisdom/Beings/Judah\|Judah]]
+- [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]
 - [[Zunpublished/Sons of Judah\|Sons of Judah]]
 - [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]
 - [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
 - [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]
-- [[Gate of Wisdom/Beings/House of Jacob\|House of Jacob]]
+- [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
 
 # Hebrew, Israelite, Jew

@@ -18,7 +18,7 @@
     - Symbolic judgment as "Mystery Babylon" in Revelation 17-18.
 
 # People
-- [[Gate of Wisdom/Beings/Babylonians\|Babylonians]]
+- [[Gate of Wisdom/Beings/Human Beings/Babylonians\|Babylonians]]
 
 
 
