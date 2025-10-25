@@ -7,8 +7,8 @@
 | [[The Herald's Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]] |
 | [[The Herald's Messages/_Herald's Message\|_Herald's Message]]                                           |
 | [[The Herald's Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]               |
-| [[The Herald's Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]       |
 | [[Sacred Truces/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]               |
+| [[The Herald's Messages/Forgive and Forget for the Forgiver\|Forgive and Forget for the Forgiver]]       |
 | [[The Herald's Messages/Fascism\|Fascism]]                                                               |
 
 { .block-language-dataview}
