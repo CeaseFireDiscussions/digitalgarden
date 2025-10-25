@@ -6,7 +6,7 @@
 
 [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]], [[Zunpublished/Lawlessness\|Lawlessness]], [[Unrighteousness\|Unrighteousness]] is defined in the Old Testament. 
 
-The [[Zunpublished/Law\|Law]], [[Zunpublished/Torah\|Torah]], is found in the Old Testament because the New Testament didn't exist at the time of these writings.
+The [[Zunpublished/Law\|Law]], [[Gate of Wisdom/Torah\|Torah]], is found in the Old Testament because the New Testament didn't exist at the time of these writings.
 
 ![Marked Hebrews 10_26-31.png](/img/user/Assets/attachments/Marked%20Hebrews%2010_26-31.png)
 
