@@ -66,7 +66,7 @@
 				- Therefore it says, "God resists the proud, 
 					- but gives grace to the humble." 
 			- Be subject therefore to God. 
-				- Resist the devil <mark style="background: #CD04BBA6;">//Accuser, slanderer (one who attacks with false or malicious charges)//</mark>, 
+				- Resist the [[Gate of Wisdom/Beings/Devil\|Devil]] <mark style="background: #CD04BBA6;">//Accuser, slanderer (one who attacks with false or malicious charges)//</mark>, 
 					- and he will flee from you. 
 				- Draw near to God, 
 					- and he will draw near to you. 
@@ -81,29 +81,51 @@
 			- and he will exalt you. 
 				- Don't speak against one another, 
 					- brothers. 
-					- He who speaks against a brother and [[Gate of Wisdom/Judge\|Judge]] his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law, but a judge. 
+					- He who speaks against a brother and [[Gate of Wisdom/Judge\|Judge]] his brother,
+						- speaks against the law \\[[Zunpublished/Torah\|Torah]] \\ and judges the law. 
+							- But if you judge the law, 
+								- you are not a doer of the law, 
+									- but a judge. 
+			- Only one is the lawgiver, 
+				- who is able to 
+					- save 
+					- and to destroy.
+						- But who are you to judge another? 
 
-###### v12 
-Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another? 
+#### Notice what it says ... The Set-Apart Breath of YHWH (aka Holy Spirit) is INSIDE but there is a war INSIDE. The Holy Spirit WANTS you to listen, yearns for it. Just as YHWH yearned for the love of Israel in the Old Testament. Yah was a jealous god, and now His Set Apart Spirit is a jealous spirit because we follow our OWN pleasures.
 
-###### v13 
-Come now, you who say, "Today or tomorrow let's go into this city, and spend a year there, trade, and make a profit." 
+#### The Devil - the slander - in this case is our own pleasures, our own desires. 
+#### Speak against the law ... Slandering or condemning a brother violates this command → you speak against the law by disobeying it. [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]
+#### Judge the law ... By condemning your brother, you sit in judgment over him as if you are above the law.  This usurps God’s role as the only Lawgiver and Judge (James 4:12: “There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?”).  You judge the law by acting as if it’s invalid or insufficient — you set yourself above it.
+#### Not a doer… but a judge”  Doer = one who obeys the law (James 1:22–25).  Judge = one who critiques or overrides the law.  You cannot obey a law you’ve dethroned.
 
-###### v14 
-Whereas you don't know what your life will be like tomorrow. For what is your life? For you are a vapor that appears for a little time, and then vanishes away. 
-
-###### v15 
-For you ought to say, "If the Lord wills, we will both live, and do this or that." 
-
-###### v16 
-But now you glory in your boasting[^6]. All such boasting is evil. 
-
-###### v17 
-To him therefore who knows to do good, and doesn't do it, to him it is sin.[^5]
+- Come now, you who say, 
+	- "Today or tomorrow 
+		- let's go into this city, 
+		- and spend a year there, 
+			- trade, 
+			- and make a profit." 
+	- Whereas you don't know what your life will be like tomorrow. 
+		- For what is your life? 
+		- For you are a vapor that appears 
+			- for a little time, 
+			- and then vanishes away. 
+	- For you ought to say, 
+		- "If the Lord wills, 
+			- we will both live,
+			- and do this or that." 
+	- But now you glory 
+		- in your boasting[^6]. 
+			- All such boasting is evil. 
+		- To him therefore who knows to do good, 
+			- and doesn't do it, 
+				- to him it is sin.[^5]
 
 ***
 [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-03\|← James 03]] | [[The Scrolls/4. The Gospels and The Apostles/59 - James/James\|James]] | [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-05\|James 05 →]]
 
+
+![James-04.png](/img/user/Assets/attachments/James-04.png)
 
 # Connections
 - [[The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-03#v34\|Prov-03#v34]]

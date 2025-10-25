@@ -17,8 +17,8 @@ Thank you for joining us on these Cease Fire Moments.
 | Latest Drops                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[The Scrolls/Torah Portions/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]]                                                                                                        |
-| [[Gate of Wisdom/Judge\|Judge]]                                                                                                                                                              |
 | [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]                                                                                                                            |
+| [[Gate of Wisdom/Judge\|Judge]]                                                                                                                                                              |
 | [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                                                                                                       |
 | [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                                                                                       |
 | [[Zunpublished/Adversary\|Adversary]]                                                                                                                                                        |
