@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-31-yada-yada/","tags":["TorahLawofMoses","YadaYadaPauses"]}
 ---
 
-
+For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]]
 # Setting
 ## Who:
 
@@ -148,7 +148,8 @@
 		and set his face 
 			toward the <mark style="background: #4DA6EDA6;">mountain of Gilead</mark>. 
 
-#### Husband could relocate wife/children without consent if bride-price paid
+#### Husband could relocate wife/children without consent if bride-price paid. 
+#### deceived - tricked - literal meaning: “stole the heart/mind of Laban” Idiomatic Hebrew for deceiving someone by concealing intentions. Laban never directly accuses Jacob of deception — only of leaving secretly (Gen 31:27).
 
 - <mark style="background: #E0CC4BA6;">Laban</mark> was told 
 	- <mark style="background: #D2B3FFA6;">on the third day</mark> [^13]
@@ -395,7 +396,7 @@
 
 [^2]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] [[Gate of Wisdom/Beings/Rachel\|Rachel]] stole from her father
 
-[^3]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] deceived Laban by running away
+[^3]: [[Gate of Wisdom/Idiom\|Idiom]]  deceived - tricked - literal meaning: “stole the heart/mind of Laban” Idiomatic Hebrew for deceiving someone by concealing intentions
 
 [^4]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] was given livestock
 
