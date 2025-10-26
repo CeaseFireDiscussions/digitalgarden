@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/mitzvot/","tags":["#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/mitzvot/","tags":["#GateWisdom","#M"]}
 ---
 
 commandment, mitzva מצווה – Hebrew conjugation tables](https://www.pealim.com/dict/3764-mitzva/)

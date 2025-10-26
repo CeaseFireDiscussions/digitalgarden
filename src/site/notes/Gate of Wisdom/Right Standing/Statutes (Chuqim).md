@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/statutes-chuqim/","tags":["#GateWisdom","RightStanding"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/statutes-chuqim/","tags":["#GateWisdom","#RightStanding","#S","#C"]}
 ---
 
 # Define

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/name/","tags":["#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/name/","tags":["#GateWisdom","#N"]}
 ---
 
 # Define
@@ -8,7 +8,7 @@
 - Reputation.
 
 # Related words
-- 
+- [[Gate of Wisdom/Shem\|Shem]]
 
 # Additional Info
 

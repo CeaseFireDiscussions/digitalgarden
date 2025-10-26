@@ -14,28 +14,28 @@ Have an open mind and be willing to learn, even if you just can’t bring yourse
 
 Thank you for joining us on these Cease Fire Moments.
 
-| Latest Drops                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]]                                                                                         |
-| [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]                                                                                                         |
-| [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                                                                                                      |
-| [[The Scrolls/Torah Portions/2025.08.23 Shabbat Reading\|2025.08.23 Shabbat Reading]]                                                                                  |
-| [[The Scrolls/Torah Portions/2025.10.17 Shabbat Reading\|2025.10.17 Shabbat Reading]]                                                                                  |
-| [[The Scrolls/Torah Portions/2025.10.10 Shabbat Reading\|2025.10.10 Shabbat Reading]]                                                                                  |
-| [[The Scrolls/Torah Portions/2025.09.26.25 Shabbat Reading\|2025.09.26.25 Shabbat Reading]]                                                                            |
-| [[The Scrolls/Torah Portions/2025.09.19 Shabbat Reading\|2025.09.19 Shabbat Reading]]                                                                                  |
-| [[The Scrolls/Torah Portions/2025.09.13 Shabbat Reading\|2025.09.13 Shabbat Reading]]                                                                                  |
-| [[The Scrolls/Torah Portions/2025.09.06 Shabbat Reading\|2025.09.06 Shabbat Reading]]                                                                                  |
-| [[The Scrolls/Torah Portions/2025 Sukkot Day 1\|2025 Sukkot Day 1]]                                                                                                    |
-| [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]                                                                                                          |
-| [[The Scrolls/Torah Portions/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]]                                                                                  |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/14 The Seventh Day Rest is for Remembering (05-Deut 05)\|14 The Seventh Day Rest is for Remembering (05-Deut 05)]] |
-| [[Yada Yada Pauses/33 Micah-07 Yada Yada\|33 Micah-07 Yada Yada]]                                                                                                      |
-| [[Gate of Wisdom/Beings/Human Beings/Micah\|Micah]]                                                                                                                    |
-| [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]                                                                                                                      |
-| [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]                                                                                                                      |
-| [[Gate of Wisdom/Beings/Human Beings/Balaam\|Balaam]]                                                                                                                  |
-| [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                                                                                                  |
+| Latest Drops                                                                                          |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]                                 |
+| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                           |
+| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                     |
+| [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]                   |
+| [[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]                         |
+| [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]                             |
+| [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]                                         |
+| [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]] |
+| [[Gate of Wisdom/Numbers/02\|02]]                                                                  |
+| [[Gate of Wisdom/Numbers/03\|03]]                                                                  |
+| [[Gate of Wisdom/Numbers/04\|04]]                                                                  |
+| [[Gate of Wisdom/Numbers/05\|05]]                                                                  |
+| [[Gate of Wisdom/Numbers/06\|06]]                                                                  |
+| [[Gate of Wisdom/Numbers/08\|08]]                                                                  |
+| [[Gate of Wisdom/Numbers/09\|09]]                                                                  |
+| [[Gate of Wisdom/Numbers/10\|10]]                                                                  |
+| [[Zunpublished/Gospel\|Gospel]]                                                                    |
+| [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]                                     |
+| [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]]                     |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]                                  |
 
 { .block-language-dataview}
 # Highlight Legend:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/tables-of-stone/","tags":["#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/tables-of-stone/","tags":["#GateWisdom","#T","#S"]}
 ---
 
 # Define

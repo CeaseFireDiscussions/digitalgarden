@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/canaan/","tags":["GateWisdom","RealmofHumans"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/canaan/","tags":["#GateWisdom","#RealmofHumans","#C"]}
 ---
 
 # Location: 

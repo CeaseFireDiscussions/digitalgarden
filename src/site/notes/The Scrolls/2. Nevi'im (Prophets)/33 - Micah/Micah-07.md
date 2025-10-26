@@ -122,9 +122,9 @@ You will give truth to Jacob, and mercy to Abraham, as you have sworn to our fat
 
 [^7]: [[Gate of Wisdom/Idiom\|Idiom]] Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: there is no cluster to eat: my soul desired the firstripe fruit – meaning: complete desolation and lack of any good thing
 
-[^8]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Mountain\|Mountain]] In that day… he shall come even to thee… from mountain to mountain
+[^8]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] In that day… he shall come even to thee… from mountain to mountain
 
-[^9]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Mountain\|Mountain]] According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things
+[^9]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things
 
 [^10]: [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]] [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] Covenants: Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old
 

@@ -17,7 +17,7 @@ It shall be <mark style="background: #B2A23AA6;">for Aaron and his sons</mark>. 
 -  Aaron, the [[Zunpublished/High Priest\|High Priest]], and his sons, the [[Zunpublished/Priest\|Priest]] on behalf of the congregation of Israel. 
 
 ## **What**: 
-- This is giving instructions to Aaron and his sons on maintaining the [[Zunpublished/Lampstand\|Lampstand]], [[Zunpublished/Table of Showbread\|Table of Showbread]], and [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]. They are to refresh the bread on the Table of Showbread every Sabbath and eat what they take off. 
+- This is giving instructions to Aaron and his sons on maintaining the [[Zunpublished/Lampstand\|Lampstand]], [[Zunpublished/Table of Showbread\|Table of Showbread]], and [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]. They are to refresh the bread on the Table of Showbread every Sabbath and eat what they take off. 
 ## **When**:
 - Every Sabbath.
 - [[Gate of Wisdom/Covenant/Perpetural\|Perpetural]]

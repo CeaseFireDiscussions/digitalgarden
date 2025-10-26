@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/grain-offering/","tags":["#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/grain-offering/","tags":["#GateWisdom","#G","#O"]}
 ---
 
 # Basic Meaning: 

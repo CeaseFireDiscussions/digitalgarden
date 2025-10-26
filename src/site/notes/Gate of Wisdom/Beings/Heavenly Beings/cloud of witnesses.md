@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/cloud-of-witnesses/","tags":["#GateWisdom","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/cloud-of-witnesses/","tags":["#GateWisdom","#HeavenlyBeing","#C","#W"]}
 ---
 
 # Define

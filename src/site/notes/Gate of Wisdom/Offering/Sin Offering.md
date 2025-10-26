@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/sin-offering/","tags":["#GateWisdom","Offering"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/sin-offering/","tags":["#GateWisdom","#Offering","#S","#O"]}
 ---
 
  - Offering Type: Sacrifice (expiatory)

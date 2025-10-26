@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/yom-ha-kippurim/","tags":["#GateWisdom","#AppointedTime"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/yom-ha-kippurim/","tags":["#GateWisdom","#AppointedTime","#Y","#K"]}
 ---
 
 # Define

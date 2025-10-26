@@ -134,6 +134,6 @@ To him therefore who knows to do good, and doesn't do it, to him it is sin.[^5]
 
 [^8]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.
 
-[^9]: [[Gate of Wisdom/Good News/Restoration\|Restoration]]  [[Gate of Wisdom/Good News/Gospel\|Gospel]] [[Gate of Wisdom/Good News/Good News\|Good News]] Humble yourselves… and he shall lift you up.”
+[^9]: [[Zunpublished/Restoration\|Restoration]]  [[Zunpublished/Gospel\|Gospel]] [[Zunpublished/Good News\|Good News]] Humble yourselves… and he shall lift you up.”
 
-[^10]: [[Gate of Wisdom/Good News/Indwelling\|Indwelling]] The spirit that dwelleth in us lusteth to envy.”
+[^10]: [[Zunpublished/Indwelling\|Indwelling]] The spirit that dwelleth in us lusteth to envy.”

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/pharisee/","tags":["#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/pharisee/","tags":["#GateWisdom","#P"]}
 ---
 
 - Saul/Paul’s parents were Pharisees.

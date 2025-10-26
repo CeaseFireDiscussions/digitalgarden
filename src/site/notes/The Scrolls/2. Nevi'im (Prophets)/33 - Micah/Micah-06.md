@@ -124,7 +124,7 @@ For the statutes of Omri are kept, and all the works of Ahab's house[^2]. You wa
 
 [^8]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]] [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] "burnt offerings... calves a year old" (implied altar)
 
-[^9]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Mountain\|Mountain]] "mountains... strong foundations of the earth" (witness seat)
+[^9]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] "mountains... strong foundations of the earth" (witness seat)
 
 [^10]: [[Zunpublished/Mosaic\|Mosaic]] "redeemed... from house of bondage... that you may know the righteous acts of YHWH" (recalls exodus covenant)
 

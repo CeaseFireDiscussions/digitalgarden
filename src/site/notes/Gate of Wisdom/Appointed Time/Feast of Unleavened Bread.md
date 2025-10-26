@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/feast-of-unleavened-bread/","tags":["#GateWisdom","AppointedTime"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/feast-of-unleavened-bread/","tags":["#GateWisdom","#AppointedTime","#F","#U"]}
 ---
 
 According to the Dead Sea Scrolls: Unleavened Bread is a week long festival occurring from Wednesday, Nisan 15 through Tuesday, Nisan 21.

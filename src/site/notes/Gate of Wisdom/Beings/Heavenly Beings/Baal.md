@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/baal/","tags":["#GateWisdom","Being","HeavenlyBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/baal/","tags":["#GateWisdom","#Being","#HeavenlyBeing","#B"]}
 ---
 
 # EISER, MICHAEL S.. [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]. 

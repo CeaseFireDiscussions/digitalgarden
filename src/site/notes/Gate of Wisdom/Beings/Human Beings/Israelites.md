@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/israelites/","tags":["#GateWisdom","HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/israelites/","tags":["#GateWisdom","#HumanBeing","#I"]}
 ---
 
 # Define
@@ -8,6 +8,9 @@
 # Related words
 - [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
 - [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]
+- [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
+- [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
+- [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
 
 # Hebrew, Israelite, Jew
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-yah/heaven/","tags":["GateWisdom","#RealmofYah"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-yah/heaven/","tags":["#GateWisdom","#RealmofYah","#H"]}
 ---
 
 HaShomayim
@@ -16,7 +16,7 @@ HaShomayim
 # Related Words
 - [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]
 - [[Gate of Wisdom/Good News/Kingdom of Heaven\|Kingdom of Heaven]]
-- [[Gate of Wisdom/Good News/Kingdom on Earth\|Kingdom on Earth]]
+- [[Zunpublished/Kingdom on Earth\|Kingdom on Earth]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]]
 # People
 - 

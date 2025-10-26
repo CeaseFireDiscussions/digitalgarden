@@ -4,6 +4,8 @@
 
 | Table of Content                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]                                                                                      |
+| [[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]                                                                    |
 | [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]] |
 | [[Sacred Truces/Day of Atonement for Christians\|Day of Atonement for Christians]]                                                                               |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]   |
@@ -14,8 +16,6 @@
 | [[Sacred Truces/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]                                                                                 |
 | [[Sacred Truces/Who May Dwell With God\|Who May Dwell With God]]                                                                                                 |
 | [[Sacred Truces/When The Kingdom of God Comes ...\|When The Kingdom of God Comes ...]]                                                                           |
-| [[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]                                                                    |
-| [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]                                                                                      |
 | [[Sacred Truces/New Covenant\|New Covenant]]                                                                                                                     |
 | [[Sacred Truces/Know the Children of God How\|Know the Children of God How]]                                                                                     |
 | [[Sacred Truces/Fascism\|Fascism]]                                                                                                                               |

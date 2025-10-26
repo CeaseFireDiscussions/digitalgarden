@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/aaron/","tags":["#GateWisdom","#HumanBeing","Being"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/aaron/","tags":["#GateWisdom","#HumanBeing","#Being","#A"]}
 ---
 
 

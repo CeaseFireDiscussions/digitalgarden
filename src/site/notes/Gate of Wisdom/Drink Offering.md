@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/drink-offering/","tags":["#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/drink-offering/","tags":["#GateWisdom","#D","#O"]}
 ---
 
 - Poured Out, Not Drunk

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/ark-of-the-testimony/","tags":["#GateWisdom","Tabernacle","MostSetApartPlace"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/ark-of-the-testimony/","tags":["#GateWisdom","#Tabernacle","#MostSetApartPlace","#A","#C","#T"]}
 ---
 
 # Define

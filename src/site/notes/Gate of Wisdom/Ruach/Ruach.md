@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/ruach/","tags":["#GateWisdom","#Ruach"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/ruach/","tags":["#GateWisdom","#Ruach","#R"]}
 ---
 
 # Define
 - 
 
 # Related words
-- [[Gate of Wisdom/Holy Spirit\|Holy Spirit]]
+- [[Gate of Wisdom/Ruach/Holy Spirit\|Holy Spirit]]
 
 # Additional Info
 - The Hebrew word translated as "wind" is רוּחַ (ruach). This term is versatile in Hebrew, meaning "wind," "breath," "spirit," or even "mind," depending on context. 

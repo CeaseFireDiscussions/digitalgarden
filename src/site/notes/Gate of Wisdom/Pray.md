@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/pray/","tags":["#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/pray/","tags":["#GateWisdom","#P"]}
 ---
 
 # proseuchomai G4336

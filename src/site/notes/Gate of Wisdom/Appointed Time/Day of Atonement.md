@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/day-of-atonement/","tags":["#GateWisdom","#AppointedTime"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/day-of-atonement/","tags":["#GateWisdom","#AppointedTime","#D","#A"]}
 ---
 
 # Define

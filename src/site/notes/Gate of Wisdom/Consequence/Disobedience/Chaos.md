@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/chaos/","tags":["#GateWisdom","ConsequenceDisobedience"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/chaos/","tags":["#GateWisdom","#ConsequenceDisobedience","#C"]}
 ---
 
 # Define

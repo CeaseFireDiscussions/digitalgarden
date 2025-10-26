@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/return-of-the-gods/","tags":["#GateWisdom","#source"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/return-of-the-gods/","tags":["#GateWisdom","#source","#R","#C","#G"]}
 ---
 
 # Author: Jonathan Cahn

@@ -153,7 +153,7 @@ If the priest
 			and the priest hath dipped his finger in the blood, 
 			and sprinkled of the blood seven times before Jehovah, 
 				at the front of the vail of the sanctuary; //Most Set\-Apart Place Veil [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Veil\|Veil]]//
-				and the priest hath put of the blood on the horns of the altar of spice-perfume //Golden Alter of Incense [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]//
+				and the priest hath put of the blood on the horns of the altar of spice-perfume //Golden Alter of Incense [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]//
 					before Jehovah, 
 					which \[is\] in the tent of meeting, 
 				and all theblood of the bullock he doth pour out at the foundation of the altar of the burnt-offering, //Bronze Altar [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]//

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/obedience/favor/","tags":["#GateWisdom","ConcequenceObedience"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/obedience/favor/","tags":["#GateWisdom","#ConcequenceObedience","#F"]}
 ---
 
 # Define

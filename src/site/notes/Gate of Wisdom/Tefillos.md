@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/tefillos/","tags":["#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/tefillos/","tags":["#GateWisdom","#T"]}
 ---
 
 Tefillah

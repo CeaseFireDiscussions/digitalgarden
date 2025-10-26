@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/righteousness/","tags":["#GateWisdom","#Righteousness"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/righteousness/","tags":["#GateWisdom","#Righteousness","#R"]}
 ---
 
 # Define

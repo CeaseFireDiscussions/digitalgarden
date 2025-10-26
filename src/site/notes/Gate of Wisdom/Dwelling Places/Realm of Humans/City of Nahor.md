@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/city-of-nahor/","tags":["#GateWisdom","#RealmofHumans"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/city-of-nahor/","tags":["#GateWisdom","#RealmofHumans","#N"]}
 ---
 
 located in Aram-naharaim which is a biblical name for Mesopotamia or Syria of the two rivers, the area between the Tigris and Euphrates rivers

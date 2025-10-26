@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/tabernacle/","tags":["#GateWisdom","#Tabernacle"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/tabernacle/","tags":["#GateWisdom","#Tabernacle","#T"]}
 ---
 
 # Define
@@ -70,14 +70,13 @@ If you are not sinning against yourself, others, and God, then you have no need 
 
 # Connections
 
-- [[Gate of Wisdom/Dwelling Places/Tabernacle/Mountain\|Mountain]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]
-- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]
-- [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
-- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]
-- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]
+- [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Aarons Staff\|Aarons Staff]]
+- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]
+- [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]
+- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]
 
 { .block-language-dataview}
 

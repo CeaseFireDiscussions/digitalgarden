@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/feast-of-tabernacles/","tags":["#GateWisdom","AppointedTime"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/feast-of-tabernacles/","tags":["#GateWisdom","#AppointedTime","#F","#T"]}
 ---
 
 
