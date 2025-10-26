@@ -44,16 +44,16 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|Mi
 [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
 ***
 
-Listen <mark style="background: #CD04BBA6;">//mountains and hills// </mark>now to what <mark style="background: #D7CD91A6;">Yahweh</mark> says: 
-	"Arise, plead your <mark style="background: #CD04BBA6;">//people of Israel// </mark>case 
-		before the <mark style="background: #B2A23AA6;">mountains</mark>, 
-		and let the <mark style="background: #B2A23AA6;">hills</mark> hear 
-			what you <mark style="background: #CD04BBA6;">//people of Israel// </mark> have to say.
-	Hear, you mountains[^9], 
-		Yahweh's indictment, 
-	and you enduring foundations of the earth[^7]; 
-		for Yahweh has a case against his people[^11], 
-		and he will contend with Israel. 
+- Listen <mark style="background: #CD04BBA6;">//mountains and hills// </mark>now to what <mark style="background: #D7CD91A6;">Yahweh</mark> says: 
+	- "Arise, plead your <mark style="background: #CD04BBA6;">//people of Israel// </mark>case 
+		- before the <mark style="background: #B2A23AA6;">mountains</mark>, 
+		- and let the <mark style="background: #B2A23AA6;">hills</mark> hear 
+			- what you <mark style="background: #CD04BBA6;">//people of Israel// </mark> have to say.
+	- Hear, you mountains[^9], 
+		- Yahweh's indictment, 
+	- and you enduring foundations of the earth[^7]; 
+		- for Yahweh has a case against his people[^11], 
+		- and he will contend with Israel. 
 #### Deuteronomy 4:26 "I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live."
 #### Deuteronomy 30:19 "I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live."
 
@@ -61,23 +61,23 @@ Listen <mark style="background: #CD04BBA6;">//mountains and hills// </mark>now t
 
 #### Deuteronomy 32:1 "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth."
 
-<mark style="background: #D7CD91A6;">My</mark> people [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]], [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]], [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]], 
-	what have I done to you? 
-	How have I burdened you? 
-	Answer me! 
-		For I 
-			brought you up out of the land of Egypt, 
-			and redeemed you out of the house of bondage[^10]. 
-			I sent before you [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]], [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]], and Miriam. 
-My people, 
-	<mark style="background: #04CD3EA6;">remember</mark> now what [[Gate of Wisdom/Beings/Human Beings/Balak\|Balak]] 
-		king of Moab 
-		devised, ([[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-22#v5\|Num-22#v5]]–6, 11, 17; 23:7; [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-24#v10\|Num-24#v10]])
-	and what [[Gate of Wisdom/Beings/Human Beings/Balaam\|Balaam]] 
-		the son of Beor 
-		answered him 
-			from Shittim to Gilgal, 
-	<mark style="background: #E6852CA6;">that you may know the righteous acts of Yahweh</mark>." 
+- <mark style="background: #D7CD91A6;">My</mark> people [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]], [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]], [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]], 
+	- what have I done to you? 
+	- How have I burdened you? 
+	- Answer me! 
+		- For I 
+			- brought you up out of the land of Egypt, 
+			- and redeemed you out of the house of bondage[^10]. 
+			- I sent before you [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]], [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]], and Miriam. 
+- My people, 
+	- <mark style="background: #04CD3EA6;">remember</mark> now what [[Gate of Wisdom/Beings/Human Beings/Balak\|Balak]] 
+		- king of Moab 
+		- devised, ([[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-22#v5\|Num-22#v5]]–6, 11, 17; 23:7; [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-24#v10\|Num-24#v10]])
+	- and what [[Gate of Wisdom/Beings/Human Beings/Balaam\|Balaam]] 
+		- the son of Beor 
+		- answered him 
+			- from Shittim to Gilgal, 
+	- <mark style="background: #E6852CA6;">that you may know the righteous acts of Yahweh</mark>." 
 - How shall I <mark style="background: #CD04BBA6;">//people of Israel//</mark>
 	- come before and bow myself
 		- Yahweh, 
@@ -146,6 +146,8 @@ My people,
 			- will bear the reproach 
 				- of my people."
 #### Omri did more evil than any other king before him. Idolatry [[The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-16\|1 Kings-16]]  Black limestone obelisk from Nimrud refers to Israel as the "House of Omri." Assyrian kings (e.g., Tiglath-Pileser III, ca. 734 BCE) repeatedly call Israel "House of Omri" 
+- Source: British Museum: https://www.britishmuseum.org/collection/object/W_1848-1104-1
+- ![Israel as the House of Omri.png](/img/user/Assets/attachments/Israel%20as%20the%20House%20of%20Omri.png)
 #### Ahab more evil than Omri, was husband of Jezebel, worshiped [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]] [[The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-16\|1 Kings-16]], Corrupt legal system [[The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-21\|1 Kings-21]]
 
 ***

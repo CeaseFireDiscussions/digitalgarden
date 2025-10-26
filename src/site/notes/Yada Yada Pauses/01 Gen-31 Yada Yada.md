@@ -137,16 +137,16 @@ For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\
 
 #### Possession of household gods (ilu/teraphim) could legitimize a secondary heir’s claim to estate if the primary heir was absent or disputed.
 
-<mark style="background: #E0CC4BA6;">Jacob</mark> [^3]<mark style="background: #04CD3EA6;">deceived</mark> 
-	Laban 
-		the Syrian, 
-		<mark style="background: #EB9E57A6;">in that he didn't tell him</mark> 
-			that he was running away. 
-		So he fled 
-			with all that he had. 
-		He rose up, passed over the River, 
-		and set his face 
-			toward the <mark style="background: #4DA6EDA6;">mountain of Gilead</mark>. 
+- <mark style="background: #E0CC4BA6;">Jacob</mark> [^3]<mark style="background: #04CD3EA6;">deceived</mark> 
+	- Laban 
+		- the Syrian, 
+		- <mark style="background: #EB9E57A6;">in that he didn't tell him</mark> 
+			- that he was running away. 
+		- So he fled 
+			- with all that he had. 
+		- He rose up, passed over the River, 
+		- and set his face 
+			- toward the <mark style="background: #4DA6EDA6;">mountain of Gilead</mark>. 
 
 #### Husband could relocate wife/children without consent if bride-price paid. 
 #### deceived - tricked - literal meaning: “stole the heart/mind of Laban” Idiomatic Hebrew for deceiving someone by concealing intentions. Laban never directly accuses Jacob of deception — only of leaving secretly (Gen 31:27).

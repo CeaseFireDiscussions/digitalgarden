@@ -16,26 +16,26 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/14 The Seventh Day Rest is for Remembering (05-Deut 05)\|14 The Seventh Day Rest is for Remembering (05-Deut 05)]] |
-| [[The Scrolls/Torah Portions/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]]                                                                                  |
+| [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                                                                                                      |
+| [[The Scrolls/Torah Portions/2025.08.23 Shabbat Reading\|2025.08.23 Shabbat Reading]]                                                                                  |
+| [[The Scrolls/Torah Portions/2025.10.17 Shabbat Reading\|2025.10.17 Shabbat Reading]]                                                                                  |
+| [[The Scrolls/Torah Portions/2025.10.10 Shabbat Reading\|2025.10.10 Shabbat Reading]]                                                                                  |
+| [[The Scrolls/Torah Portions/2025.09.26.25 Shabbat Reading\|2025.09.26.25 Shabbat Reading]]                                                                            |
+| [[The Scrolls/Torah Portions/2025.09.19 Shabbat Reading\|2025.09.19 Shabbat Reading]]                                                                                  |
+| [[The Scrolls/Torah Portions/2025.09.13 Shabbat Reading\|2025.09.13 Shabbat Reading]]                                                                                  |
+| [[The Scrolls/Torah Portions/2025.09.06 Shabbat Reading\|2025.09.06 Shabbat Reading]]                                                                                  |
+| [[The Scrolls/Torah Portions/2025 Sukkot Day 1\|2025 Sukkot Day 1]]                                                                                                    |
 | [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]                                                                                                          |
+| [[The Scrolls/Torah Portions/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]]                                                                                  |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/14 The Seventh Day Rest is for Remembering (05-Deut 05)\|14 The Seventh Day Rest is for Remembering (05-Deut 05)]] |
 | [[Yada Yada Pauses/33 Micah-07 Yada Yada\|33 Micah-07 Yada Yada]]                                                                                                      |
 | [[Gate of Wisdom/Beings/Human Beings/Micah\|Micah]]                                                                                                                    |
-| [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                                                                                                      |
 | [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]                                                                                                                      |
 | [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]                                                                                                                      |
 | [[Gate of Wisdom/Beings/Human Beings/Balaam\|Balaam]]                                                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Balak\|Balak]]                                                                                                                    |
 | [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]                                                                                                      |
-| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                                                                                         |
-| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                                                                               |
-| [[Gate of Wisdom/Good News/Gospel\|Gospel]]                                                                                                                            |
-| [[Gate of Wisdom/Good News/Good News\|Good News]]                                                                                                                      |
-| [[Gate of Wisdom/Judge\|Judge]]                                                                                                                                        |
-| [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                                                                                 |
-| [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                                                                 |
-| [[Zunpublished/Adversary\|Adversary]]                                                                                                                                  |
 
 { .block-language-dataview}
 
