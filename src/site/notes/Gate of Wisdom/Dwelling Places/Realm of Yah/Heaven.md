@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-yah/heaven/","tags":["#GateWisdom","#RealmofYah"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-yah/heaven/","tags":["GateWisdom","#RealmofYah"]}
 ---
 
 HaShomayim

@@ -38,7 +38,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                                                                                                  |
 
 { .block-language-dataview}
-
 # Highlight Legend:
 ---
 #### My thoughts and observations

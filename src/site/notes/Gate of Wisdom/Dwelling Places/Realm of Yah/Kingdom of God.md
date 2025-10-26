@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-yah/kingdom-of-god/","tags":["#GateWisdom","#RealmofYah"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-yah/kingdom-of-god/","tags":["GateWisdom","RealmofYah"]}
 ---
 
 malkhut hashamayim (mal-KHOOT ha-sha-MAH-yeem)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/torah-portions/2025-sukkot-day-1/","tags":["#TheScrolls","#TorahPortions"]}
+{"dg-publish":true,"permalink":"/the-scrolls/torah-portions/2025-sukkot-day-1/","tags":["TheScrolls","TorahPortions"]}
 ---
 
 # Sukkot 2025
