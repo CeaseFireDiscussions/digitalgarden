@@ -16,6 +16,8 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]]                                                                                         |
+| [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]                                                                                                         |
 | [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                                                                                                      |
 | [[The Scrolls/Torah Portions/2025.08.23 Shabbat Reading\|2025.08.23 Shabbat Reading]]                                                                                  |
 | [[The Scrolls/Torah Portions/2025.10.17 Shabbat Reading\|2025.10.17 Shabbat Reading]]                                                                                  |
@@ -34,8 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]                                                                                                                      |
 | [[Gate of Wisdom/Beings/Human Beings/Balaam\|Balaam]]                                                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                                                                                                  |
-| [[Gate of Wisdom/Beings/Human Beings/Balak\|Balak]]                                                                                                                    |
-| [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]                                                                                                      |
 
 { .block-language-dataview}
 

@@ -6,8 +6,9 @@
 - Where Yah/God reigns
 
 # Related words
-- [[Gate of Wisdom/Kingdom of Heaven\|Kingdom of Heaven]]
-- Kingdom of God
+- [[Gate of Wisdom/Good News/Kingdom of Heaven\|Kingdom of Heaven]]
+- [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]]
+- [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]
 
 # Additional Info
 - John the Baptist  and Jesus’s message were: "Repent, for the kingdom of heaven is at hand." 

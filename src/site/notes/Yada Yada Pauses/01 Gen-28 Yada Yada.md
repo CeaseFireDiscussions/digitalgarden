@@ -127,7 +127,7 @@
 			- <mark style="background: #04CD3EA6;">dreamed</mark> 
 			- and <mark style="background: #04CD3EA6;">saw</mark> 
 				- a stairway set upon the [[Zunpublished/Earth\|Earth]], 
-				- and its top reached to [[Gate of Wisdom/Heaven\|Heaven]]. 
+				- and its top reached to [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]. 
 				- Behold, the angels <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/messengers\|messengers]]<mark style="background: #CD04BBA6;">//</mark> of <mark style="background: #67A9B7A6;">God</mark> 
 					- were ascending 
 					- and descending on it. 
@@ -170,7 +170,7 @@
 				- and <mark style="background: #B2A23AA6;">I </mark>didn't know it." 
 			- <mark style="background: #B2A23AA6;">He</mark> <mark style="background: #04CD3EA6;">was afraid</mark>, and said, 
 				- "How awesome this place is! 
-				- This is none other than [^8]<mark style="background: #4DA6EDA6;">God's house</mark>, //[[Gate of Wisdom/Heaven\|Heaven]]// 
+				- This is none other than [^8]<mark style="background: #4DA6EDA6;">God's house</mark>, //[[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]// 
 				- and this is the <mark style="background: #4DA6EDA6;">gate of heaven</mark>." 
 
 - <mark style="background: #B2A23AA6;">Jacob</mark> <mark style="background: #04CD3EA6;">rose up</mark> 
