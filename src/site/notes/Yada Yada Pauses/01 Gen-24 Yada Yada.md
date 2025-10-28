@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-24-yada-yada/","tags":["YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-24-yada-yada/","tags":["YadaYadaPauses","G"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/antifa-and-the-1940-us-army/","tags":["OliveBranch"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/antifa-and-the-1940-us-army/","tags":["OliveBranch","A"]}
 ---
 
 ![Antifia and the 1940 US Army.png](/img/user/Assets/attachments/Antifia%20and%20the%201940%20US%20Army.png)

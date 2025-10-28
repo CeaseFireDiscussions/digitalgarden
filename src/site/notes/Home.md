@@ -14,28 +14,28 @@ Have an open mind and be willing to learn, even if you just can’t bring yourse
 
 Thank you for joining us on these Cease Fire Moments.
 
-| Latest Drops                                                                                          |
-| ----------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]                                 |
-| [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                           |
-| [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]                     |
-| [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]                   |
-| [[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]                         |
-| [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]                             |
-| [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]                                         |
-| [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]] |
-| [[Gate of Wisdom/Numbers/02\|02]]                                                                  |
-| [[Gate of Wisdom/Numbers/03\|03]]                                                                  |
-| [[Gate of Wisdom/Numbers/04\|04]]                                                                  |
-| [[Gate of Wisdom/Numbers/05\|05]]                                                                  |
-| [[Gate of Wisdom/Numbers/06\|06]]                                                                  |
-| [[Gate of Wisdom/Numbers/08\|08]]                                                                  |
-| [[Gate of Wisdom/Numbers/09\|09]]                                                                  |
-| [[Gate of Wisdom/Numbers/10\|10]]                                                                  |
-| [[Zunpublished/Gospel\|Gospel]]                                                                    |
-| [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]                                     |
-| [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]]                     |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]                                  |
+| Latest Drops                                                                             |
+| ---------------------------------------------------------------------------------------- |
+| [[The Scrolls/Torah Portions/2025.11.01 Shabbat Reading\|2025.11.01 Shabbat Reading]] |
+| [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]                       |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                            |
+| [[Gate of Wisdom/Beings/Human Beings/Ambassador\|Ambassador]]                         |
+| [[Gate of Wisdom/Beings/Messenger\|Messenger]]                                        |
+| [[Yada Yada Pauses/31 Obad-01 Yada Yada\|31 Obad-01 Yada Yada]]                       |
+| [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]                               |
+| [[Gate of Wisdom/Beings/Saviors\|Saviors]]                                            |
+| [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]                                 |
+| [[Gate of Wisdom/Edom\|Edom]]                                                         |
+| [[Gate of Wisdom/Dwelling Places/The Camp/Camp\|Camp]]                                |
+| [[Gate of Wisdom/Angel\|Angel]]                                                       |
+| [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]                         |
+| [[Yada Yada Pauses/01 Gen-28 Yada Yada\|01 Gen-28 Yada Yada]]                         |
+| [[The Scrolls/Torah Portions/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]] |
+| [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]                     |
+| [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                     |
+| [[Yada Yada Pauses/33 Micah-07 Yada Yada\|33 Micah-07 Yada Yada]]                     |
+| [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                     |
+| [[Yada Yada Pauses/01 Gen-29 Yada Yada\|01 Gen-29 Yada Yada]]                         |
 
 { .block-language-dataview}
 # Highlight Legend:

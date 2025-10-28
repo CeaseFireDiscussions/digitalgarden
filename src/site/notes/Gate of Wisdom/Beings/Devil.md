@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/devil/","tags":["#GateWisdom","#Being","#D"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/devil/","tags":["#GateWisdom","Being","D"]}
 ---
 
 # Define

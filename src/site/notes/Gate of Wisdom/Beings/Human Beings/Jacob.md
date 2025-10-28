@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/jacob/","tags":["#GateWisdom","#HumanBeing","#J"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/jacob/","tags":["#GateWisdom","HumanBeing","J"]}
 ---
 
 

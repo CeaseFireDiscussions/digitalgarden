@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-26-yada-yada/","tags":["YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-26-yada-yada/","tags":["YadaYadaPauses","G"]}
 ---
 
 
@@ -19,7 +19,7 @@
 			- of [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]].  [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v10\|Gen-12:10]]
 	- [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] went to 
 		- [[Gate of Wisdom/Beings/Human Beings/Abimelech\|Abimelech]] 
-			- king of the [[Philistines\|Philistines]], to Gerar. 
+			- king of the [[Zunpublished/Philistines\|Philistines]], to Gerar. 
 		- Yahweh appeared 
 			- to him <mark style="background: #CD04BBA6;">//Isaac//</mark>, and said, 
 				- "Don't go down into Egypt. 

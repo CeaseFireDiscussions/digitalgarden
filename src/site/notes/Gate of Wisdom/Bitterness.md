@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/bitterness/","tags":["#GateWisdom","#B"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/bitterness/","tags":["#GateWisdom","B"]}
 ---
 
 # Define

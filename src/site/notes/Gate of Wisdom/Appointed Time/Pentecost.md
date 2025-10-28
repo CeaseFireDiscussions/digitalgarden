@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/pentecost/","tags":["#GateWisdom","#AppointedTime","#P"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/pentecost/","tags":["#GateWisdom","#AppointedTime","P"]}
 ---
 
 # Define

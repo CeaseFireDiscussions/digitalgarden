@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ten-words/","tags":["#GateWisdom","#T","#W"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ten-words/","tags":["#GateWisdom","T","W"]}
 ---
 
 # Define

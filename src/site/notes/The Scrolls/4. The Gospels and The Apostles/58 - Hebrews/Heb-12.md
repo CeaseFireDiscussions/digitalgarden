@@ -108,7 +108,7 @@ for our God is a consuming fire.
 
 [^4]: [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] for disobedience. God punishes those he loves.
 
-[^5]: [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]  [[Gate of Wisdom/Good News/Redemption\|Redemption]]  for disobedience through the blood of Jesus
+[^5]: [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]  [[Zunpublished/Redemption\|Redemption]]  for disobedience through the blood of Jesus
 
 [^6]: [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]] Given even though we were still unrighteous and disobedient
 
@@ -120,15 +120,15 @@ for our God is a consuming fire.
 
 [^10]: [[Zunpublished/Messianic\|Messianic]] Covenant through the mediator - Jesus
 
-[^11]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Mountain\|Mountain]] Mount Zion - city of the living God, Heavenly Jerusalem
+[^11]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] Mount Zion - city of the living God, Heavenly Jerusalem
 
-[^12]: [[Gate of Wisdom/Dwelling Places/Tabernacle/Mountain\|Mountain]] Mt. Sinai - giving of the covenant to the Hebrews under Moses
+[^12]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] Mt. Sinai - giving of the covenant to the Hebrews under Moses
 
 [^13]: [[Zunpublished/Mosaic\|Mosaic]] Covenant given at Mt Sinai
 
 [^14]: 
 
-[^15]: [[Gate of Wisdom/Good News/Restoration\|Restoration]] through the blood of Jesus
+[^15]: [[Zunpublished/Restoration\|Restoration]] through the blood of Jesus
 
 [^16]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] from chastening after disobedience [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
 

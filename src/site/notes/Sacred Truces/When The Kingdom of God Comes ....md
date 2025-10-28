@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/when-the-kingdom-of-god-comes/","tags":["#Luke17","#Revelation14","#Deuteronomy16","#KingdomofGod","#Social","#DaysofSonofMan","#Righteousness","SacredTruces"]}
+{"dg-publish":true,"permalink":"/sacred-truces/when-the-kingdom-of-god-comes/","tags":["#Luke17","#Revelation14","#Deuteronomy16","#KingdomofGod","#Social","#DaysofSonofMan","#Righteousness","SacredTruces","K"]}
 ---
 
 It's interesting what you see when you set aside preconceived ideas and things you've been told without investigating yourself.

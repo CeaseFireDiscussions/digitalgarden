@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-01-yada-yada/","tags":["#Isaiah","#YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/23-isa-01-yada-yada/","tags":["#Isaiah","#YadaYadaPauses","I"]}
 ---
 
 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-01\|Isa-01]]

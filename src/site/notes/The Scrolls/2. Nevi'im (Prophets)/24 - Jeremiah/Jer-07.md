@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/24-jeremiah/jer-07/","tags":["TheScrolls","Neviim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/24-jeremiah/jer-07/","tags":["#TheScrolls","#Neviim"]}
 ---
 
 
 # Jeremiah 7
 
-[[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-06\|← Jeremiah 06]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-08\|Jeremiah 08 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-06\|← Jeremiah 06]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-08\|Jeremiah 08 →]]
 ***
 
 
@@ -113,4 +113,4 @@ The dead bodies of this people will be food for the birds of the sky, and for th
 Then I will cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride; for the land will become a waste."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-06\|← Jeremiah 06]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-08\|Jeremiah 08 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-06\|← Jeremiah 06]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-08\|Jeremiah 08 →]]

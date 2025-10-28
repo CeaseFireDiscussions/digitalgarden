@@ -106,7 +106,7 @@ Ephraim has bitterly provoked anger. Therefore his blood will be left on him, an
 
 [^6]: [[Zunpublished/Mosaic\|Mosaic]] Covenant v. 9: “I am the Lord your God from the land of Egypt.”
 
-[^7]: [[Zunpublished/Camp\|Camp]] : v. 9 (tents, recalling wilderness).
+[^7]: [[Gate of Wisdom/Dwelling Places/The Camp/Camp\|Camp]] : v. 9 (tents, recalling wilderness).
 
 [^8]: [[Gate of Wisdom/Idiom\|Idiom]] “Ephraim feeds on the wind” – Pursuing worthless alliances or idols, leading to emptiness.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/abimelech/","tags":["#GateWisdom","#Being","#HumanBeing","#A"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/abimelech/","tags":["#GateWisdom","Being","HumanBeing","A"]}
 ---
 
 Philistine King

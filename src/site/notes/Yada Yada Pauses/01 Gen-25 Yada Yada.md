@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-25-yada-yada/","tags":["YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-25-yada-yada/","tags":["YadaYadaPauses","G"]}
 ---
 
 
@@ -123,7 +123,7 @@
 				- She said, "If it is like this, why do I live?" 
 					- She went to inquire of Yahweh. 
 						- Yahweh said to her, 
-							- "Two nations //[[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]] and [[Zunpublished/Edomites\|Edomites]]// are in your womb. 
+							- "Two nations //[[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]] and [[Gate of Wisdom/Beings/Human Beings/Edomites\|Edomites]]// are in your womb. 
 							- Two peoples will be separated from your body. 
 							- The one people will be stronger than the other people. 
 							- The elder //[[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]// will serve the younger //[[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]//." 

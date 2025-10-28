@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/omri/","tags":["#GateWisdom","#Being","#HumanBeing","#O"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/omri/","tags":["#GateWisdom","Being","HumanBeing","O"]}
 ---
 
 
