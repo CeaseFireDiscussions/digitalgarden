@@ -17,5 +17,6 @@
 - [[Gate of Wisdom/Numbers/01\|01]]
 - [[Gate of Wisdom/Name\|Name]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]
+- [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]
 
 { .block-language-dataview}

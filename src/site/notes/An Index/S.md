@@ -39,5 +39,8 @@
 - [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]
 - [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
 - [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
+- [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]
+- [[Gate of Wisdom/Beings/Saviors\|Saviors]]
+- [[The Scrolls/Torah Portions/2025.11.01 Shabbat Reading\|2025.11.01 Shabbat Reading]]
 
 { .block-language-dataview}

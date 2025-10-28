@@ -21,5 +21,6 @@
 - [[Yada Yada Pauses/01 Gen-29 Yada Yada\|01 Gen-29 Yada Yada]]
 - [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]
 - [[Zunpublished/Gospel\|Gospel]]
+- [[Yada Yada Pauses/01 Gen-32 Yada Yada\|01 Gen-32 Yada Yada]]
 
 { .block-language-dataview}

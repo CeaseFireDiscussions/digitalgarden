@@ -16,5 +16,7 @@
 - [[Gate of Wisdom/Drink Offering\|Drink Offering]]
 - [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]]
 - [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
+- [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]
+- [[Yada Yada Pauses/31 Obad-01 Yada Yada\|31 Obad-01 Yada Yada]]
 
 { .block-language-dataview}

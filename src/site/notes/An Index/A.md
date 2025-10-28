@@ -23,5 +23,6 @@
 - [[Gate of Wisdom/Angel\|Angel]]
 - [[Gate of Wisdom/Abomination\|Abomination]]
 - [[Gate of Wisdom/Abomination/Abomination of the Desolation\|Abomination of the Desolation]]
+- [[Gate of Wisdom/Beings/Human Beings/Ambassador\|Ambassador]]
 
 { .block-language-dataview}

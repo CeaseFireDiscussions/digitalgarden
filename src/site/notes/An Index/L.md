@@ -9,5 +9,6 @@
 - [[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]
 - [[Gate of Wisdom/Lord’s Prayer\|Lord’s Prayer]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
+- [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]
 
 { .block-language-dataview}
