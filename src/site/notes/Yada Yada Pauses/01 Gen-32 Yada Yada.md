@@ -37,13 +37,13 @@
 
 - Jacob 
 	- went on his way, 
-	- and the angels <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/Beings/Messenger\|Messenger]]<mark style="background: #CD04BBA6;">//  //plural//</mark>
+	- and the angels <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/Beings/Messenger\|Messenger]]<mark style="background: #CD04BBA6;"> (spiritual)//  //plural//</mark>
 		- of God 
 		- met him. 
 	- When he saw them, 
 		- Jacob said, "This is God's army <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/Dwelling Places/The Camp/Camp\|Camp]]<mark style="background: #CD04BBA6;">//</mark>." 
 		- He called the name of that place Mahanaim <mark style="background: #CD04BBA6;">//two camps//</mark>. 
-- Jacob sent [[Gate of Wisdom/Beings/Messenger\|Messenger]]s 
+- Jacob sent [[Gate of Wisdom/Beings/Messenger\|Messenger]]s <mark style="background: #CD04BBA6;">//(human)//</mark> 
 	- in front of him[^2] 
 		- to [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]], 
 			- his brother, 
