@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/obadiah/","tags":["#GateWisdom","#Being","#HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/obadiah/","tags":["#GateWisdom","Being","HumanBeing"]}
 ---
 
 

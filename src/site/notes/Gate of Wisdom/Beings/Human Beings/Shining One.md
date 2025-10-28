@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/shining-one/","tags":["#GateWisdom","#Being","#HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/shining-one/","tags":["#GateWisdom","Being","HumanBeing"]}
 ---
 
 # Define

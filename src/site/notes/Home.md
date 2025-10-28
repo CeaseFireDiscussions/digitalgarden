@@ -16,6 +16,7 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                             |
 | ---------------------------------------------------------------------------------------- |
+| [[Yada Yada Pauses/01 Gen-32 Yada Yada\|01 Gen-32 Yada Yada]]                         |
 | [[The Scrolls/Torah Portions/2025.11.01 Shabbat Reading\|2025.11.01 Shabbat Reading]] |
 | [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]                       |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                            |
@@ -35,7 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                     |
 | [[Yada Yada Pauses/33 Micah-07 Yada Yada\|33 Micah-07 Yada Yada]]                     |
 | [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                     |
-| [[Yada Yada Pauses/01 Gen-29 Yada Yada\|01 Gen-29 Yada Yada]]                         |
 
 { .block-language-dataview}
 # Highlight Legend:

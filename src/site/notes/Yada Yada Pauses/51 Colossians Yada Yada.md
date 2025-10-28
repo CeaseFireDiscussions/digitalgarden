@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/51-colossians-yada-yada/","tags":["#YadaYadaPauses","#C"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/51-colossians-yada-yada/","tags":["#YadaYadaPauses","C"]}
 ---
 
 [[The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Colossians\|Colossians]]

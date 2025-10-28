@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/saviors/","tags":["#GateWisdom","#Being"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/saviors/","tags":["#GateWisdom","Being"]}
 ---
 
 mo-shi-a (מוֹשִׁיעַ)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/messenger/","tags":["#GateWisdom","#M","#Being"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/messenger/","tags":["#GateWisdom","M","Being"]}
 ---
 
 # Define

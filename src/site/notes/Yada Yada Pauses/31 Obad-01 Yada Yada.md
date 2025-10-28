@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/31-obad-01-yada-yada/","tags":["#TheScrolls","#Neviim","#YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/31-obad-01-yada-yada/","tags":["TheScrolls","Neviim","YadaYadaPauses"]}
 ---
 
 

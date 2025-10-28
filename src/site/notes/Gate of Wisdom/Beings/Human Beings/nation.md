@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/nation/","tags":["#GateWisdom","#Being","#HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/nation/","tags":["#GateWisdom","Being","HumanBeing"]}
 ---
 
 goyim (גּוֹיִם) (plural) refers to a people, [[Gate of Wisdom/Beings/Human Beings/nation\|nation]], or community. 
