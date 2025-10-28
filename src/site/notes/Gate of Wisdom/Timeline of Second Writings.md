@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/timeline-of-second-writings/","tags":["#timeline","#GateWisdom","#T","#S","#W"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/timeline-of-second-writings/","tags":["#timeline","#GateWisdom","T","S","W"]}
 ---
 
 

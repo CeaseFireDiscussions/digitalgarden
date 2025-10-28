@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/passover-offering/","tags":["#GateWisdom","#P","#O"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/passover-offering/","tags":["#GateWisdom","P","O"]}
 ---
 
 ### [[Gate of Wisdom/Passover Offering\|Passover Offering]] - Korban Pesach [[Zunpublished/Passover\|Passover]]

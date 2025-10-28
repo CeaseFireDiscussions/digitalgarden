@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/restoration/","tags":["#GateWisdom","#GoodNews","#R","#unpublished"]}
+{"dg-publish":true,"permalink":"/zunpublished/restoration/","tags":["#GateWisdom","GoodNews","R","unpublished"]}
 ---
 
 # Define

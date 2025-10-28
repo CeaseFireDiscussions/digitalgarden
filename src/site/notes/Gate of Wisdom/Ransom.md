@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ransom/","tags":["#GateWisdom","#Atonement","#R"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ransom/","tags":["#GateWisdom","Atonement","R"]}
 ---
 
 # Define

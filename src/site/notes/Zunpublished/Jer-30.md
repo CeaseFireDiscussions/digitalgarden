@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/jer-30/","tags":["TheScrolls","Neviim"]}
+{"dg-publish":true,"permalink":"/zunpublished/jer-30/","tags":["#TheScrolls","#Neviim"]}
 ---
 
 
 # Jeremiah 30
 
-[[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-29\|← Jeremiah 29]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31\|Jeremiah 31 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-29\|← Jeremiah 29]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31\|Jeremiah 31 →]]
 ***
 ###### v1 
 The word that came to Jeremiah from Yahweh, saying, 
@@ -80,7 +80,7 @@ Behold, Yahweh's storm, his wrath, has gone out, a sweeping storm: it will burst
 The fierce anger of Yahweh will not return until he has accomplished, and until he has performed the intentions of his heart. In the latter days you will understand it."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-29\|← Jeremiah 29]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31\|Jeremiah 31 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-29\|← Jeremiah 29]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah]] | [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31\|Jeremiah 31 →]]
 
 
 # Fulfillments

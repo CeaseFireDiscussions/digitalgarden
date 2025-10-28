@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/tabernacle/","tags":["#GateWisdom","#Tabernacle","#T"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/tabernacle/","tags":["#GateWisdom","#Tabernacle","T"]}
 ---
 
 # Define

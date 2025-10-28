@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/aarons-staff/","tags":["#GateWisdom","#Tabernacle","#MostSetApartPlace","#A","#S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/aarons-staff/","tags":["#GateWisdom","Tabernacle","MostSetApartPlace","A","S"]}
 ---
 
 # Define

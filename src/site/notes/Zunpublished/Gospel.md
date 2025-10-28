@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/gospel/","tags":["#GateWisdom","#GoodNews","#unpublished","#G"]}
+{"dg-publish":true,"permalink":"/zunpublished/gospel/","tags":["#GateWisdom","GoodNews","unpublished","G"]}
 ---
 
 # Define

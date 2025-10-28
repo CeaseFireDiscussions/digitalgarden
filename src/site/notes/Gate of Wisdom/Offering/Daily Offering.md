@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/daily-offering/","tags":["#GateWisdom","#Offering","#D","#O"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/daily-offering/","tags":["#GateWisdom","Offering","D","O"]}
 ---
 
 # Define

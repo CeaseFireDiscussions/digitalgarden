@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/obedience/blessing/","tags":["#GateWisdom","#ConcequenceObedience","#B"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/obedience/blessing/","tags":["#GateWisdom","ConcequenceObedience","B"]}
 ---
 
 # A Father's Blessing

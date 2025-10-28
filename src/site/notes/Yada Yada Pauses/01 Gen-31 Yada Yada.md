@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-31-yada-yada/","tags":["TorahLawofMoses","YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-31-yada-yada/","tags":["TorahLawofMoses","YadaYadaPauses","G"]}
 ---
 
 For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]]
@@ -93,7 +93,7 @@ For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\
 						- and behold, the male goats 
 							- which leaped on the flock 
 							- were streaked, speckled, and grizzled. 
-						- The <mark style="background: #E0CC4BA6;">angel of God</mark> said //elohim malakh [[Gate of Wisdom/messengers\|messengers]]//
+						- The <mark style="background: #E0CC4BA6;">angel of God</mark> said //elohim malakh [[Gate of Wisdom/Beings/Messenger\|Messenger]]//
 							- to me 
 								- <mark style="background: #04CD3EA6;">in the dream</mark>, 
 									- 'Jacob,' 

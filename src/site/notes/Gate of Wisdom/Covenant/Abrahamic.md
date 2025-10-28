@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/abrahamic/","tags":["#GateWisdom","#Covenant","#A"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/abrahamic/","tags":["#GateWisdom","Covenant","A"]}
 ---
 
 Seed, semen = לְזַרְעֲךָ  -  Singular - not plural

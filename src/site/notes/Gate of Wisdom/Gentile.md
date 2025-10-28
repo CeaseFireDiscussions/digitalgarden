@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/gentile/","tags":["#GateWisdom","#G"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/gentile/","tags":["#GateWisdom","G"]}
 ---
 
 # Define

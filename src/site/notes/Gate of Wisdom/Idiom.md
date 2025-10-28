@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/idiom/","tags":["#GateWisdom","#I"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/idiom/","tags":["#GateWisdom","I"]}
 ---
 
 # Define

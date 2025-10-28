@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/assembly/","tags":["#GateWisdom","#A"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/assembly/","tags":["#GateWisdom","A"]}
 ---
 
 # Define

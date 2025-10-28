@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/torah-teaching/exod-19/","tags":["#TheScrolls","#TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/torah-teaching/exod-19/","tags":["TheScrolls","TorahLawofMoses"]}
 ---
 
 

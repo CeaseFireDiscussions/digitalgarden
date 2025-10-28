@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/isaacic/","tags":["#GateWisdom","#Covenant","#I"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/isaacic/","tags":["#GateWisdom","Covenant","I"]}
 ---
 
 # Define

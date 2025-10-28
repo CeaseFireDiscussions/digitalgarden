@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/kipper/","tags":["#GateWisdom","#K"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/kipper/","tags":["#GateWisdom","K"]}
 ---
 
 # Define

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/beer-lahai-roi/","tags":["#GateWisdom","#RealmofHumans","#B"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/beer-lahai-roi/","tags":["#GateWisdom","RealmofHumans","B"]}
 ---
 
 # Define

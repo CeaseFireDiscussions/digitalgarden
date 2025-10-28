@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/set-apart-place/golden-altar-of-incense/","tags":["#GateWisdom","#Tabernacle","#SetApartPlace","#G","#A","#I"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/set-apart-place/golden-altar-of-incense/","tags":["#GateWisdom","Tabernacle","SetApartPlace","G","A","I"]}
 ---
 
 ![Golden Altar of Incense.jpg](/img/user/Assets/attachments/Golden%20Altar%20of%20Incense.jpg)

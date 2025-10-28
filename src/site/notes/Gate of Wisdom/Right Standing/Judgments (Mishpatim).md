@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/judgments-mishpatim/","tags":["#GateWisdom","#RightStanding","#J","#M"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/judgments-mishpatim/","tags":["#GateWisdom","RightStanding","J","M"]}
 ---
 
 

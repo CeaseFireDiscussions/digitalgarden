@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/sin-lawlessness-unrighteousness/","tags":["#Hebrews10","#1John3","#Righteousness","#Sins","#Lawlessness","#Writer/Unknown","#Writer/John","#NewCovenant","#HolySpirt","#Ruach","#Jeremiah31","#Shavuot","#Pentecost","#lawlessness","#Social","#SacredTruces","#S","#L","#U"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/sin-lawlessness-unrighteousness/","tags":["#Hebrews10","#1John3","#Righteousness","#Sins","#Lawlessness","#Writer/Unknown","#Writer/John","#NewCovenant","#HolySpirt","#Ruach","#Jeremiah31","#Shavuot","#Pentecost","#lawlessness","#Social","SacredTruces","S","L","U"]}
 ---
 
 

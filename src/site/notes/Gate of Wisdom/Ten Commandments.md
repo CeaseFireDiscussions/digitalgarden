@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ten-commandments/","tags":["#GateWisdom","#T","#C"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ten-commandments/","tags":["#GateWisdom","T","C"]}
 ---
 
 # Define

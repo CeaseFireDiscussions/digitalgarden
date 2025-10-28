@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/appointed-time/","tags":["#GateWisdom","#AppointedTime","#A","#T"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/appointed-time/","tags":["#GateWisdom","#AppointedTime","A","T"]}
 ---
 
 # Define

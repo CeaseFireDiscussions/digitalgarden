@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/blood/","tags":["#GateWisdom","#Covenant","#B"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/blood/","tags":["#GateWisdom","Covenant","B"]}
 ---
 
 # Define

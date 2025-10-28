@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/abomination/","tags":["#GateWisdom","#A"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/abomination/","tags":["#GateWisdom","A"]}
 ---
 
 to'evah (תּוֹעֵבָה)

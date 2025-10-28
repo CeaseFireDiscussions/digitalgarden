@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/indwelling/","tags":["#GateWisdom","#GoodNews","#I","#unpublished"]}
+{"dg-publish":true,"permalink":"/zunpublished/indwelling/","tags":["#GateWisdom","GoodNews","I","unpublished"]}
 ---
 
 # Define

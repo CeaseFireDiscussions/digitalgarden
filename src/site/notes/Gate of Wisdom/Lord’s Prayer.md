@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/lord-s-prayer/","tags":["#GateWisdom","#L","#P"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/lord-s-prayer/","tags":["#GateWisdom","L","P"]}
 ---
 
 # Define

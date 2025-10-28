@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/fellowship-offering/","tags":["#GateWisdom","#Offering","#F","#O"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/offering/fellowship-offering/","tags":["#GateWisdom","Offering","F","O"]}
 ---
 
 # Define

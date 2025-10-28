@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/bronze/","tags":["#GateWisdom","#B"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/bronze/","tags":["#GateWisdom","B"]}
 ---
 
 # Define

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/rebekah/","tags":["#GateWisdom","#Being","#HumanBeing","#R"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/rebekah/","tags":["#GateWisdom","Being","HumanBeing","R"]}
 ---
 
 

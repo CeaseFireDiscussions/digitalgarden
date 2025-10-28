@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/mamre/","tags":["#GateWisdom","#RealmofHumans","#M"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/mamre/","tags":["#GateWisdom","RealmofHumans","M"]}
 ---
 
 # Define

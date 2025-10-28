@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/33-micah-07-yada-yada/","tags":["TheScrolls","Neviim","YadaYadaPauses","1John3"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/33-micah-07-yada-yada/","tags":["TheScrolls","Neviim","YadaYadaPauses","1John3","M"]}
 ---
 
 For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah-07]]

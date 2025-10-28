@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/holy/","tags":["#GateWisdom","#H"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/holy/","tags":["#GateWisdom","H"]}
 ---
 
 # Define

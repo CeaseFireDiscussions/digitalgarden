@@ -2,22 +2,47 @@
 {"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-32/","tags":["TheScrolls","TorahLawofMoses"]}
 ---
 
+# Setting
+## Who:
+- Author: [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]
+- Audience: [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
+- Bullet list Characters and People Groups: 
+	- [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
+	- Esau
+	- angels of God
+	- [[Gate of Wisdom/Beings/Messenger\|Messenger]]
+	- wives (of Jacob)
+	- two maids (of Jacob)
+	- eleven children (of Jacob)
+	- four hundred men (with Esau)
+	- God
+	- a Man
+- Symbolic Roles: 
+	- Deceiver: [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
+	- Deceived: Esau
+	- Savior: God
+## What:
+- **Main Storyline:** Jacob prepares to meet Esau, sends gifts ahead, wrestles with a Man at Peniel, is renamed Israel, and reconciles with Esau.
+## When:
+- Date Authored: 
+- Date takes place: 
+## Where: 
+- Mahanaim; Succoth; Peniel (Penuel); 
+- Modern day: near Jabbok River, Jordan
 
 # Genesis 32
 
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|← Genesis 31]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\|Genesis 33 →]]
 ***
 
-
-
 ###### v1 
-Jacob went on his way, and the angels [[Gate of Wisdom/messengers\|messengers]] of God met him. 
+Jacob went on his way, and the angels [[Gate of Wisdom/Beings/Messenger\|Messenger]] of God met him. 
 
 ###### v2 
 When he saw them, Jacob said, "This is God's army." He called the name of that place Mahanaim. 
 
 ###### v3 
-Jacob sent messengers in front of him to Esau, his brother, to the land of Seir, the field of Edom. 
+Jacob sent messengers in front of him[^2] to Esau, his brother, to the land of Seir, the field of Edom. 
 
 ###### v4 
 He commanded them, saying, "This is what you shall tell my lord, Esau: 'This is what your servant, Jacob, says. I have lived as a foreigner with Laban, and stayed until now. 
@@ -44,7 +69,7 @@ I am not worthy of the least of all the loving kindnesses, and of all the truth,
 Please deliver me from the hand of my brother, from the hand of Esau; for I fear him, lest he come and strike me and the mothers with the children. 
 
 ###### v12 
-You said, 'I will surely do you good, and make your offspring as the sand of the sea, which can't be counted because there are so many.'" 
+You said[^3], 'I will surely do you good[^4], and make your offspring as the sand of the sea, which can't be counted because there are so many.'" 
 
 ###### v13 
 He stayed there that night, and took from that which he had with him a present for Esau, his brother: 
@@ -68,7 +93,7 @@ Then you shall say, 'They are your servant, Jacob's. It is a present sent to my 
 He commanded also the second, and the third, and all that followed the herds, saying, "This is how you shall speak to Esau, when you find him. 
 
 ###### v20 
-You shall say, 'Not only that, but behold, your servant, Jacob, is behind us.'" For, he said, "I will appease him with the present that goes before me, and afterward I will see his face. Perhaps he will accept me." 
+You shall say, 'Not only that, but behold, your servant, Jacob, is behind us.'" For, he said, "I will appease him with the present that goes before me, and afterward I will see his face. [^1]Perhaps he will accept me." 
 
 ###### v21 
 So the present passed over before him, and he himself stayed that night in the camp. 
@@ -108,3 +133,20 @@ Therefore the children of Israel don't eat the sinew of the hip, which is on the
 
 ***
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|← Genesis 31]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\|Genesis 33 →]]
+
+
+# Connections
+- Repeated Words: 
+	- Genesis 25:26
+	- Genesis 27:36
+	- Genesis 28:12-15
+	- Genesis 31:3
+	- Hosea 12:3-4
+
+[^1]: [[Gate of Wisdom/Idiom\|Idiom]] I will appease him with the present – cover his face (pacify anger through gift)
+
+[^2]: [[Gate of Wisdom/Idiom\|Idiom]] sent messengers before him – sent ahead to announce or prepare the way
+
+[^3]: [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] Deliver me, I pray thee, from the hand of my brother... for thou saidst, I will surely do thee good, and make thy seed as the sand of the sea
+
+[^4]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] And God said unto him... I will surely do thee good (v12)

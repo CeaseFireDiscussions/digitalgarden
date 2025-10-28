@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/the-witness/","tags":["#GateWisdom","#W"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/the-witness/","tags":["#GateWisdom","W"]}
 ---
 
 # Define

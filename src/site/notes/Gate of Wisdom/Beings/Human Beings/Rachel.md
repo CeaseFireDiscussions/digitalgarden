@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/rachel/","tags":["#GateWisdom","#Being","#HumanBeing","#R"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/rachel/","tags":["#GateWisdom","Being","HumanBeing","R"]}
 ---
 
 # Birth and Ancestors

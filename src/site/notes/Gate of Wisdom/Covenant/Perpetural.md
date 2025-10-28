@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/perpetural/","tags":["#GateWisdom","#Covenant","#P"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/covenant/perpetural/","tags":["#GateWisdom","Covenant","P"]}
 ---
 
 # Define

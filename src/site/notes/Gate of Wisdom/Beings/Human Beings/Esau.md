@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/esau/","tags":["#GateWisdom","#HumanBeing","#E"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/esau/","tags":["#GateWisdom","HumanBeing","#E"]}
 ---
 
 
@@ -22,7 +22,7 @@
 	- Story:
 	- Children:
 - Other Descendants of Note:
-	-  Descendants become known as [[Zunpublished/Edomites\|Edomites]]
+	-  Descendants become known as [[Gate of Wisdom/Beings/Human Beings/Edomites\|Edomites]]
 
 # Land and Dwelling
 ## Journeys

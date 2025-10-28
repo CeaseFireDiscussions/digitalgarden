@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/fast/","tags":["#GateWisdom","#F"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/fast/","tags":["#GateWisdom","F"]}
 ---
 
 # Define

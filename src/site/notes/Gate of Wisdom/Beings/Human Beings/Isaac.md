@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/isaac/","tags":["#GateWisdom","#Being","#HumanBeing","#I"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/isaac/","tags":["#GateWisdom","Being","HumanBeing","I"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/ordinances-mishmerot/","tags":["#GateWisdom","#RightStanding","#O","#M"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/ordinances-mishmerot/","tags":["#GateWisdom","RightStanding","O","M"]}
 ---
 
 # Define

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/51-colossians-yada-yada/","tags":["#YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/51-colossians-yada-yada/","tags":["#YadaYadaPauses","#C"]}
 ---
 
 [[The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Colossians\|Colossians]]
@@ -343,7 +343,7 @@
 ## Hyperlinks:
 
 - [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deuteronomy\|Deuteronomy]] 10:16 circumcise therefore the foreskin of your heart; [[Deuteronomy10\|Deuteronomy10]]
-- [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|Jeremiah]] 4:4 circumcise yourself to the Lord [[Jeremiah4\|Jeremiah4]]
+- [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah]] 4:4 circumcise yourself to the Lord [[Jeremiah4\|Jeremiah4]]
 - [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] 14;22 Israel passing through the Red Sea; [[Exodus14\|Exodus14]]
 - [[The Scrolls/2. Nevi'im (Prophets)/06 - Joshua/Joshua\|Joshua]] 3:17 crossing the Jordan [[Joshua3\|Joshua3]]
 - [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deuteronomy\|Deuteronomy]]Deuteronomy 4:19 [[Deuteronomy4\|Deuteronomy4]]

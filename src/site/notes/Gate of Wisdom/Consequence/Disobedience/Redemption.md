@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/redemption/","tags":["#GateWisdom","#ConsequenceDisobedience","#R"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/redemption/","tags":["#GateWisdom","ConsequenceDisobedience","R"]}
 ---
 
 # Define

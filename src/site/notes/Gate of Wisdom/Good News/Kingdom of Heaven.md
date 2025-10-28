@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/good-news/kingdom-of-heaven/","tags":["#GateWisdom","#KingdomofHeaven","#GoodNews","#K","#H"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/good-news/kingdom-of-heaven/","tags":["#GateWisdom","#KingdomofHeaven","GoodNews","K","H"]}
 ---
 
 # Define

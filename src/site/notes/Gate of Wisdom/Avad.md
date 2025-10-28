@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/avad/","tags":["#work","#ScriptureSurvey","#A"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/avad/","tags":["#work","#ScriptureSurvey","A"]}
 ---
 
 # Define

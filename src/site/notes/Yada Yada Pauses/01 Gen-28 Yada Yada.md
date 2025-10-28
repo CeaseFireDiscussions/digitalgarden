@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-28-yada-yada/","tags":["TorahLawofMoses","YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-28-yada-yada/","tags":["TorahLawofMoses","YadaYadaPauses","G"]}
 ---
 
 # Author and Date: 
@@ -128,7 +128,7 @@
 			- and <mark style="background: #04CD3EA6;">saw</mark> 
 				- a stairway set upon the [[Zunpublished/Earth\|Earth]], 
 				- and its top reached to [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]. 
-				- Behold, the angels <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/messengers\|messengers]]<mark style="background: #CD04BBA6;">//</mark> of <mark style="background: #67A9B7A6;">God</mark> 
+				- Behold, the angels <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/Beings/Messenger\|Messenger]]<mark style="background: #CD04BBA6;">//</mark> of <mark style="background: #67A9B7A6;">God</mark> 
 					- were ascending 
 					- and descending on it. 
 				- Behold, <mark style="background: #67A9B7A6;">Yahweh</mark> stood above it, 

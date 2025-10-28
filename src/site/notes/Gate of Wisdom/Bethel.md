@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/bethel/","tags":["#GateWisdom","#B"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/bethel/","tags":["GateWisdom","B"]}
 ---
 
 # Location: 

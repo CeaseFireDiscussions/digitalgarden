@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zunpublished/kingdom-on-earth/","tags":["#GateWisdom","#GoodNews","#K","#E","#unpublished"]}
+{"dg-publish":true,"permalink":"/zunpublished/kingdom-on-earth/","tags":["#GateWisdom","GoodNews","K","E","unpublished"]}
 ---
 
 # Define

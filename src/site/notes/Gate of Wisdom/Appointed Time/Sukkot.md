@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/sukkot/","tags":["#GateWisdom","#AppointedTime","#S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/sukkot/","tags":["#GateWisdom","AppointedTime","S"]}
 ---
 
 # Define

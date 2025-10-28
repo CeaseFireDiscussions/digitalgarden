@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/reign-of-the-heavens/","tags":["#GateWisdom","#R","#H"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/reign-of-the-heavens/","tags":["#GateWisdom","R","H"]}
 ---
 
 # Define

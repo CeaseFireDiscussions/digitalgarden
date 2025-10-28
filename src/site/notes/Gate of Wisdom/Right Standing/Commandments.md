@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/commandments/","tags":["#GateWisdom","#RightStanding","#C"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/right-standing/commandments/","tags":["GateWisdom","RightStanding","C"]}
 ---
 
 # Related words

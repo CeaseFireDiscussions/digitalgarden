@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-herald-s-messages/fascism/","tags":["TheHeraldsMessages"]}
+{"dg-publish":true,"permalink":"/the-herald-s-messages/fascism/","tags":["TheHeraldsMessages","F"]}
 ---
 
 *During ancient times, the Heralds would announce truces or deliver messages during ceasefires.*

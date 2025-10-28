@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/tablets-of-testimony/","tags":["#GateWisdom","#Tabernacle","#MostSetApartPlace","#T"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/tablets-of-testimony/","tags":["#GateWisdom","Tabernacle","MostSetApartPlace","T"]}
 ---
 
 # Define
