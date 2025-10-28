@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/27-daniel/dan-12/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/27-daniel/dan-12/","tags":["#TheScrolls","#TorahLawofMoses"]}
 ---
 
 
 # Daniel 12
 
-[[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Dan-11\|← Daniel 11]] | [[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Daniel\|Daniel]]
+[[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Dan-11\|← Daniel 11]] | [[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Daniel\|The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Daniel]]
 ***
 
 
@@ -50,4 +50,4 @@ Blessed is he who waits, and comes to the one thousand three hundred thirty-five
 "But go your way until the end; for you will rest, and will stand in your inheritance at the end of the days."
 
 ***
-[[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Dan-11\|← Daniel 11]] | [[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Daniel\|Daniel]]
+[[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Dan-11\|← Daniel 11]] | [[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Daniel\|The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Daniel]]

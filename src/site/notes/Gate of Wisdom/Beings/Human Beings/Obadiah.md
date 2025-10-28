@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/obadiah/","tags":["#GateWisdom","Being","HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/obadiah/","tags":["#GateWisdom","#Being","#HumanBeing"]}
 ---
 
 
 # Birth and Ancestors
 - Timeframe: -Likely 9th century BCE (possibly during Jehoram's reign, ca. 848–841 BCE) or 6th century BCE (post-586 BCE Babylonian exile); scholarly consensus leans toward the later date due to thematic ties to Jerusalem's fall. 
-- Scholarly consensus favors the post-exilic (586 BCE) date, making [[Zunpublished/Jeremiah\|Zunpublished/Jeremiah]], [[Zunpublished/Ezekiel\|Zunpublished/Ezekiel]], and [[Zunpublished/Danielp\|Danielp]] the primary contemporaries.
+- Scholarly consensus favors the post-exilic (586 BCE) date, making [[Zunpublished/Jeremiah\|Jeremiah]], [[Zunpublished/Ezekiel\|Ezekiel]], and [[Zunpublished/Daniel\|Daniel]] the primary contemporaries.
 
 # Marriage and Descendants
 - Spouse #1:

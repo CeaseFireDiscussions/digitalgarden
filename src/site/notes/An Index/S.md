@@ -3,8 +3,8 @@
 ---
 
 
-- [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 - [[Sacred Truces/Scripture Survey Shavuot Pentecost\|Scripture Survey Shavuot Pentecost]]
+- [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/14 The Seventh Day Rest is for Remembering (05-Deut 05)\|14 The Seventh Day Rest is for Remembering (05-Deut 05)]]

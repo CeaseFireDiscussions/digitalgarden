@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/31-obadiah/obad-01/","tags":["TheScrolls","Neviim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/31-obadiah/obad-01/","tags":["#TheScrolls","#Neviim"]}
 ---
 
 
@@ -11,7 +11,7 @@
 For more indepth look [[Yada Yada Pauses/31 Obad-01 Yada Yada\|31 Obad-01 Yada Yada]]
 # Setting
 ## Who:
-- Author: [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Gate of Wisdom/Beings/Human Beings/Obadiah]]
+- Author: [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]
 - Audience: [[Gate of Wisdom/Edom\|Edom]] (primarily); [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]] (secondarily)
 - Bullet list Characters and People Groups: 
 	- Edom
