@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/15-the-seventh-day-rest-cover-removed-11-2-kings-16/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest","#S"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/15-the-seventh-day-rest-cover-removed-11-2-kings-16/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"]}
 ---
 
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: 2 Kings 16:16-18
+# Scripture: 2 Kings 16:16-18 [[The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-16#v16\|2 Kings-16#v16]]
 
 <mark style="background: #E0CC4BA6;">Urijah the priest</mark> did so, <mark style="background: #EB9E57A6;">according to all that king Ahaz commanded</mark>. King Ahaz <mark style="background: #04CD3EA6;">cut off the panels of the bases</mark>, and <mark style="background: #04CD3EA6;">removed the basin from off them</mark>, and <mark style="background: #04CD3EA6;">took down the sea from off the bronze oxen </mark>that were under it, and <mark style="background: #04CD3EA6;">put it on a pavement of stone</mark>. He <mark style="background: #04CD3EA6;">removed the covered way for the</mark> Sabbath that they had built in the house, and the king's entry outside to <mark style="background: #D7CD91A6;">Yahweh</mark>'s house, <mark style="background: #EB9E57A6;">because of the king of Assyria</mark>. 
 
@@ -53,16 +53,16 @@ Let's see what scripture says about that starting at the very beginning and then
 
 
 - [[Gate of Wisdom/Seventh Day\|Seventh Day]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/06 The Seventh Day Rest is for God's People (02-Exod 34)\|06 The Seventh Day Rest is for God's People (02-Exod 34)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)\|08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28)\|13 The Seventh Day Rest is for Offering (04-Num 28)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/14 The Seventh Day Rest is for Remembering (05-Deut 05)\|14 The Seventh Day Rest is for Remembering (05-Deut 05)]]

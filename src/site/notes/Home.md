@@ -16,12 +16,14 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yada Yada]]                                                                                                  |
+| [[The Scrolls/Torah Portions/2025.11.01 Shabbat Reading\|2025.11.01 Shabbat Reading]]                                                                              |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Peniel\|Peniel]]                                                                                                  |
+| [[Yada Yada Pauses/01 Gen-32 Yada Yada\|01 Gen-32 Yada Yada]]                                                                                                      |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/15 The Seventh Day Rest Cover Removed (11-2 Kings 16)\|15 The Seventh Day Rest Cover Removed (11-2 Kings 16)]] |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                                                                                                         |
 | [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                                                             |
 | [[Gate of Wisdom/Beings/Adversary\|Adversary]]                                                                                                                     |
-| [[The Scrolls/Torah Portions/2025.11.01 Shabbat Reading\|2025.11.01 Shabbat Reading]]                                                                              |
-| [[Yada Yada Pauses/01 Gen-32 Yada Yada\|01 Gen-32 Yada Yada]]                                                                                                      |
 | [[Yada Yada Pauses/31 Obad-01 Yada Yada\|31 Obad-01 Yada Yada]]                                                                                                    |
 | [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]                                                                                                              |
 | [[Gate of Wisdom/Beings/Saviors\|Saviors]]                                                                                                                         |
@@ -34,8 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Gate of Wisdom/Angel\|Angel]]                                                                                                                                    |
 | [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]                                                                                                      |
 | [[Yada Yada Pauses/01 Gen-28 Yada Yada\|01 Gen-28 Yada Yada]]                                                                                                      |
-| [[The Scrolls/Torah Portions/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]]                                                                              |
-| [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]                                                                                                  |
 
 { .block-language-dataview}
 

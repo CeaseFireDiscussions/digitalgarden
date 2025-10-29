@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/59-james/james-01/","tags":["#TheScrolls","#GospelsApostles"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/59-james-01-yada-yada/","tags":["#TheScrolls","#GospelsApostles","#YadaYadaPauses"]}
 ---
 
-For more in depth look [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yada Yada]]
+For ease of reading [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-01\|James-01]]
 # James 1
 
 [[The Scrolls/4. The Gospels and The Apostles/59 - James/James\|James]] | [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-02\|James 02 →]]
@@ -32,17 +32,28 @@ For more in depth look [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yad
 ## Where: 
 -  Jerusalem (biblical: Yerushalayim; modern: Jerusalem, Israel)
 
-###### v1 
-James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are in the Dispersion: Greetings. 
 
-###### v2 
-Count it all joy, my brothers, when you fall into various temptations, 
+- James, 
+	- a servant of 
+		- God 
+		- and of the Lord Jesus Christ, 
+- to the 
+	- <mark style="background: #E0CC4BA6;">twelve tribes</mark> 
+		- which are in the Dispersion: 
+- Greetings. 
 
-###### v3 
-knowing that the testing of your faith produces endurance. 
-
-###### v4 
-Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing. 
+- Count it all joy, 
+	- my <mark style="background: #E0CC4BA6;">brothers</mark>, 
+	- when you <mark style="background: #D2B3FFA6;">fall into various temptations</mark>,
+		- <mark style="background: #EB9E57A6;">knowing</mark> that 
+			- the testing 
+				- of your faith 
+				- produces endurance. 
+					- Let endurance have its perfect work, 
+						- <mark style="background: #E6852CA6;">that</mark> you may be 
+							- perfect 
+							- and complete, 
+							- lacking in nothing. 
 
 ###### v5 
 But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him. 
