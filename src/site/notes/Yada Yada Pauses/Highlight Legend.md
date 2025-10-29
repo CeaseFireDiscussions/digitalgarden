@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/highlight-legend/","tags":["#YadaYadaPauses","#nothome","#H"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/highlight-legend/","tags":["#YadaYadaPauses","nothome","H"]}
 ---
 
 # Highlight Legend:

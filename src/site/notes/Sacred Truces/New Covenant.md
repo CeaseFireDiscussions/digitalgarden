@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/new-covenant/","tags":["#N","#SacredTruces","#nothome"]}
+{"dg-publish":true,"permalink":"/sacred-truces/new-covenant/","tags":["N","SacredTruces","nothome"]}
 ---
 
 [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31\|Jer-31]]

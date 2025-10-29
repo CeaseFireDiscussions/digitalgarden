@@ -126,7 +126,7 @@
 
 [^1]: [[Gate of Wisdom/Abomination\|Abomination]] Idols
 
-[^2]: [[Zunpublished/Spiritual Death\|Spiritual Death]] Separated from God because of being [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
+[^2]: [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Spiritual Death\|Spiritual Death]] Separated from God because of being [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
 
 [^3]: [[Zunpublished/Symbolic Death\|Symbolic Death]] Bel and Nebo “bow down” and “stoop,” symbolizing the collapse of false gods and their worshipers’ hopes
 

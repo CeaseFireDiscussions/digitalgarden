@@ -15,7 +15,6 @@
 - [[Gate of Wisdom/Gentile\|Gentile]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]
-- [[Zunpublished/Gospel\|Gospel]]
 - [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]]
 - [[Gate of Wisdom/Grain Offering\|Grain Offering]]
 - [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]

@@ -388,7 +388,7 @@ The Sabbath was the only thing created after Man. Sabbath was made for man.
 - Numbers 15 :32 [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]
 - Numbers 28 :25 [[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28)\|13 The Seventh Day Rest is for Offering (04-Num 28)]]
 - Deuteronomy 5:12–15 [[Olive Branch Reconciliations/The Seventh Day Rest/14 The Seventh Day Rest is for Remembering (05-Deut 05)\|14 The Seventh Day Rest is for Remembering (05-Deut 05)]]
-- 2 Kings 16:16-18 [[Zunpublished/15 The Seventh Day Rest Cover Removed (11-2 Kings 16)\|15 The Seventh Day Rest Cover Removed (11-2 Kings 16)]]
+- 2 Kings 16:16-18 [[Olive Branch Reconciliations/The Seventh Day Rest/15 The Seventh Day Rest Cover Removed (11-2 Kings 16)\|15 The Seventh Day Rest Cover Removed (11-2 Kings 16)]]
 - Nehemiah 9:14 [[Zunpublished/16 The Seventh Day Rest is Set-Apart-Holy (16 Nehemiah 09)\|16 The Seventh Day Rest is Set-Apart-Holy (16 Nehemiah 09)]]
 - Nehemiah 10:31–33
 - Nehemiah 13:15–22

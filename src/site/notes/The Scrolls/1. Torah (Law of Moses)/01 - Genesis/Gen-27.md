@@ -180,7 +180,7 @@ Rebekah said to Isaac, "I am weary of my life because of the daughters of Heth. 
 ***
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|← Genesis 26]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Genesis 28 →]]
 
-[^1]: [[Zunpublished/Physical Death\|Physical Death]] Isaac is anticipating his death
+[^1]: [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Physical Death\|Physical Death]] Isaac is anticipating his death
 
 [^2]: [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]] [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]] willing to take the curse of being a deceiver from [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
 

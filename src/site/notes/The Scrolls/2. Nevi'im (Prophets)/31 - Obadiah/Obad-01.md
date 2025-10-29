@@ -113,8 +113,8 @@ Saviors will go up on Mount Zion to judge the mountains[^3] of Esau, and the kin
 
 [^3]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] And saviours shall come up on mount Zion… and the kingdom shall be the LORD's.
 
-[^4]: [[Zunpublished/Physical Death\|Physical Death]] [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] And thou shalt be cut off for ever.
+[^4]: [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Physical Death\|Physical Death]] [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] And thou shalt be cut off for ever.
 
-[^5]: [[Zunpublished/Physical Death\|Physical Death]] [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] …and there shall not be any remaining of the house of Esau…
+[^5]: [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Physical Death\|Physical Death]] [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] …and there shall not be any remaining of the house of Esau…
 
 [^6]: [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]] But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions

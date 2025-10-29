@@ -160,7 +160,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 
 [^3]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] [[Gate of Wisdom/Ruach/Fruit/Peace\|Peace]]    Peace and Sanctification, without which no man will see the Lord. #Righteous
 
-[^4]: [[Zunpublished/Spiritual Death\|Spiritual Death]] without Peace and the sanctification no man will see the Lord
+[^4]: [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Spiritual Death\|Spiritual Death]] without Peace and the sanctification no man will see the Lord
 
 [^5]: [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] for disobedience. God punishes those he loves.
 

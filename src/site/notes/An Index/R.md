@@ -12,7 +12,6 @@
 - [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]]
 - [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]
 - [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]
-- [[Zunpublished/Restoration\|Restoration]]
 - [[Gate of Wisdom/Return of the Gods\|Return of the Gods]]
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
 - [[Gate of Wisdom/Righteousness\|Righteousness]]
