@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-6-jesus-and-prayer/"}
 ---
 
+[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
 # Prayer
 
 There are all sorts of opinions on prayer: how to, when to, what for, how long, what position, etc. What if we went back and asked Yeshua /Jesus?
@@ -47,7 +48,7 @@ So from this we can see Jesus is telling us not to stammer, stutter, talk foolis
 
 Surprised by this at all? There are many churches who might be. But we are going to be concerned with what other’s do, we are going to be concerned with what we, ourselves do.
 
-This brings us to the [[Gate of Wisdom/Lord’s Prayer\|Lord’s Prayer]], we’ll cover it in another blog at another time ([[Sacred Truces/Matthew 6 v9-15 The Lord’s Prayer\|Matthew 6 v9-15 The Lord’s Prayer]]). For now, let’s just sit with what Jesus said about prayer:
+This brings us to the [[Gate of Wisdom/Lord’s Prayer\|Lord’s Prayer]], we’ll cover it in another blog at another time ([[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]). For now, let’s just sit with what Jesus said about prayer:
 
 - Don’t pray to draw attention to yourself.
 - Do it privately, not to be showy, and not to do it so other’s will give you accolades for praying.
@@ -70,8 +71,8 @@ This brings us to the [[Gate of Wisdom/Lord’s Prayer\|Lord’s Prayer]], we’
 ![This image has an empty alt attribute; its file name is img_20220207_135215258.jpg](https://calltoceasefire.files.wordpress.com/2022/02/img_20220207_135215258.jpg)
 
 # Connections
-- [[Sacred Truces/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]]
-- [[Sacred Truces/Matthew 6 v9-15 The Lord’s Prayer\|Matthew 6 v9-15 The Lord’s Prayer]]
+- [[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]
+- [[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]
 - [[Gate of Wisdom/Prayer\|Prayer]]
 - [[Gate of Wisdom/Pray\|Pray]]
 - 

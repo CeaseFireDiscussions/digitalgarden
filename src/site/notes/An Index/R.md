@@ -3,18 +3,21 @@
 ---
 
 
-- [[Sacred Truces/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]]
-- [[Sacred Truces/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]
+- [[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]
+- [[Sacred Truces/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
-- [[Gate of Wisdom/Ruach/Ruach\|Ruach]]
-- [[Gate of Wisdom/Righteousness\|Righteousness]]
-- [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
-- [[Gate of Wisdom/Return of the Gods\|Return of the Gods]]
-- [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]
-- [[Gate of Wisdom/Ransom\|Ransom]]
-- [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]
-- [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]]
+- [[Sacred Truces/Old, New, and Renewed\|Old, New, and Renewed]]
 - [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]
+- [[Gate of Wisdom/Ransom\|Ransom]]
+- [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]]
+- [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]
+- [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]
 - [[Zunpublished/Restoration\|Restoration]]
+- [[Gate of Wisdom/Return of the Gods\|Return of the Gods]]
+- [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
+- [[Gate of Wisdom/Righteousness\|Righteousness]]
+- [[Gate of Wisdom/Ruach/Ruach\|Ruach]]
+- [[Sacred Truces/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]
+- [[Sacred Truces/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]]
 
 { .block-language-dataview}

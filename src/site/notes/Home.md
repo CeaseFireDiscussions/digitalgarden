@@ -16,13 +16,15 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                             |
 | ---------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                            |
+| [[Gate of Wisdom/Beings/Satan\|Satan]]                                                |
+| [[Gate of Wisdom/Beings/Adversary\|Adversary]]                                        |
 | [[The Scrolls/Torah Portions/2025.11.01 Shabbat Reading\|2025.11.01 Shabbat Reading]] |
 | [[Yada Yada Pauses/01 Gen-32 Yada Yada\|01 Gen-32 Yada Yada]]                         |
 | [[Yada Yada Pauses/31 Obad-01 Yada Yada\|31 Obad-01 Yada Yada]]                       |
 | [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]                                 |
 | [[Gate of Wisdom/Beings/Saviors\|Saviors]]                                            |
 | [[Gate of Wisdom/Beings/Human Beings/Ambassador\|Ambassador]]                         |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                            |
 | [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]                       |
 | [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]                               |
 | [[Gate of Wisdom/Beings/Messenger\|Messenger]]                                        |
@@ -34,45 +36,8 @@ Thank you for joining us on these Cease Fire Moments.
 | [[The Scrolls/Torah Portions/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]] |
 | [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]                     |
 | [[Yada Yada Pauses/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                     |
-| [[Yada Yada Pauses/33 Micah-07 Yada Yada\|33 Micah-07 Yada Yada]]                     |
-| [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                     |
 
 { .block-language-dataview}
-# Highlight Legend:
----
-#### My thoughts and observations
-- // Inserted thought or note //
-	- <mark style="background: #CD04BBA6;">In line note</mark>
-	- <mark style="background: #FF9EF6A6;">General Highlight</mark>
-	- <mark style="background: #F309DDA6;">General Highlight</mark>
-- <mark style="background: #E0CC4BA6;">Who</mark>
-	- <mark style="background: #B2A23AA6;">Who 2</mark>
-	- <mark style="background: #A4A089A6;">Who 3</mark>
-	- <mark style="background: #DDCC5EA6;">Seed</mark>
-	- <mark style="background: #BAAC50A6;">Tree</mark>
-- <mark style="background: #04CD3EA6;">What</mark>
-	- <mark style="background: #94DEA9A6;">Consequence</mark>
-	- <mark style="background: #77C58DA6;">Good News</mark>
-	- <mark style="background: #61A273A6;">Instructions (law, command)</mark>
-	- <mark style="background: #67CD83A6;">Offering</mark>
-	- <mark style="background: #4FA466A6;">Righteous / Unrighteous</mark><mark style="background: #94DEA9A6;"></mark>
-	- <mark style="background: #4AB867A6;">Separation from Yah-God, Death</mark>
-	- <mark style="background: #2AC052A6;">Abomination</mark>
-- <mark style="background: #D2B3FFA6;">When</mark>
-	- <mark style="background: #A284CDA6;">Appointed Time</mark>
-- <mark style="background: #4DA6EDA6;">Where</mark>
-	- <mark style="background: #397CB2A6;">Dwelling Place</mark>
-	- <mark style="background: #258FE5A6;">Tabernacle or Tabernacle Elements</mark>
-- Why
-	- <mark style="background: #E6852CA6;">Why Purpose</mark>
-	- <mark style="background: #EB9E57A6;">Why Reason</mark>
-	- <mark style="background: #CFA57FA6;">Conditional IF Then</mark>
-- <mark style="background: #7FC1CFA6;">How</mark>
-	- <mark style="background: #67A9B7A6;">Ruach / Holy Sprit Gift or Fruit</mark>
-
-- <mark style="background: #CACFD9A6;">Question and Answer</mark>
-	- <mark style="background: #A8ADB8A6;">Connecting Thought</mark> (something referred to OR refers back to something)
-    
 
 
 # Folder Content Descriptions:
@@ -117,11 +82,7 @@ The Scrolls are originally in the World English Bible (WEB) because it is a publ
 ---
 [Youtube](https://www.youtube.com/channel/UClucQfZWQ3dSZFMMoEfg5gA)
 
-[Rumble](https://rumble.com/v223wyt-welcome-to-cease-fire.html)
-
 [X](https://x.com/CalltoCeaseFire)
-
-[TruthSocial](https://truthsocial.com/@CalltoCeaseFire)
 
 [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/)
 

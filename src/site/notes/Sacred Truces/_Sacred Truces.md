@@ -4,6 +4,33 @@
 
 | Table of Content                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sacred Truces/New Covenant\|New Covenant]]                                                                                                                     |
+| [[Sacred Truces/Happy New Year! In April\|Happy New Year! In April]]                                                                                             |
+| [[Sacred Truces/The Last Day of Unleavened Bread\|The Last Day of Unleavened Bread]]                                                                             |
+| [[Sacred Truces/The Life – Convergence of Jewish and Christian Faiths\|The Life – Convergence of Jewish and Christian Faiths]]                                   |
+| [[Sacred Truces/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]                                 |
+| [[Sacred Truces/The Way – Convergence of Jewish and Christian Faiths\|The Way – Convergence of Jewish and Christian Faiths]]                                     |
+| [[Sacred Truces/Video Scripture Survey Christian Spring Holidays\|Video Scripture Survey Christian Spring Holidays]]                                             |
+| [[Sacred Truces/Video Scripture Survey Passover\|Video Scripture Survey Passover]]                                                                               |
+| [[Sacred Truces/Scripture Survey – Jesus Said\|Scripture Survey – Jesus Said]]                                                                                   |
+| [[Sacred Truces/Scripture Survey – YHWH Said\|Scripture Survey – YHWH Said]]                                                                                     |
+| [[Sacred Truces/Shavuot Pentecost – a Convergence of Jewish and Christian Faiths\|Shavuot Pentecost – a Convergence of Jewish and Christian Faiths]]             |
+| [[Sacred Truces/Shavuot Pentecost – a Divergence of Jewish and Christian Faiths\|Shavuot Pentecost – a Divergence of Jewish and Christian Faiths]]               |
+| [[Sacred Truces/Old, New, and Renewed\|Old, New, and Renewed]]                                                                                                   |
+| [[Sacred Truces/Palm Sunday – The 10th of Nisan\|Palm Sunday – The 10th of Nisan]]                                                                               |
+| [[Sacred Truces/Passover and Unleavened Bread the UnEaster\|Passover and Unleavened Bread the UnEaster]]                                                         |
+| [[Sacred Truces/Matthew 28 v19 Baptizing in the Name\|Matthew 28 v19 Baptizing in the Name]]                                                                     |
+| [[Sacred Truces/Matthew 28 v19 Go and Teach\|Matthew 28 v19 Go and Teach]]                                                                                       |
+| [[Sacred Truces/Matthew 28 v19 Into All the World\|Matthew 28 v19 Into All the World]]                                                                           |
+| [[Sacred Truces/Matthew 6 vs22-24 Two Masters\|Matthew 6 vs22-24 Two Masters]]                                                                                   |
+| [[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]                                                                       |
+| [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]                                                                                         |
+| [[Sacred Truces/Matthew 6 vs05-8 Jesus on Prayer\|Matthew 6 vs05-8 Jesus on Prayer]]                                                                             |
+| [[Sacred Truces/Matthew 6 vs16-18 Jesus Fasting\|Matthew 6 vs16-18 Jesus Fasting]]                                                                               |
+| [[Sacred Truces/Matthew 6 vs19-21 Jesus Treasures\|Matthew 6 vs19-21 Jesus Treasures]]                                                                           |
+| [[Sacred Truces/Matthew 28 v19 Teaching to …\|Matthew 28 v19 Teaching to …]]                                                                                     |
+| [[Sacred Truces/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]                                                       |
+| [[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]                                       |
 | [[Sacred Truces/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]]                                                   |
 | [[Sacred Truces/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]                                                                                 |
 | [[Sacred Truces/Who May Dwell With God\|Who May Dwell With God]]                                                                                                 |
@@ -11,10 +38,6 @@
 | [[Sacred Truces/Traditional Teaching vs Scripture - Isaiah 66\|Traditional Teaching vs Scripture - Isaiah 66]]                                                   |
 | [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]                                                                 |
 | [[Sacred Truces/Scripture Survey Shavuot Pentecost\|Scripture Survey Shavuot Pentecost]]                                                                         |
-| [[Sacred Truces/New Covenant\|New Covenant]]                                                                                                                     |
-| [[Sacred Truces/Matthew 6 v9-15 The Lord’s Prayer\|Matthew 6 v9-15 The Lord’s Prayer]]                                                                           |
-| [[Sacred Truces/Matthew 6 v5-8 Jesus on Prayer\|Matthew 6 v5-8 Jesus on Prayer]]                                                                                 |
-| [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]                                                                                         |
 | [[Sacred Truces/Know the Children of God How\|Know the Children of God How]]                                                                                     |
 | [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]                                                                                 |
 | [[Sacred Truces/Fascism\|Fascism]]                                                                                                                               |

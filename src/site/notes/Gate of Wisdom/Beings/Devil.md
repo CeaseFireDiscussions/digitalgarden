@@ -8,7 +8,7 @@
 
 # Related words
 - [[Gate of Wisdom/Beings/Satan\|Satan]]
-- [[Zunpublished/Adversary\|Adversary]]
+- [[Gate of Wisdom/Beings/Adversary\|Adversary]]
 
 # Additional Info
 

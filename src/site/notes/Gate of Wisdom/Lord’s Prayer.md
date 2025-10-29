@@ -14,5 +14,5 @@
     - Luke 11:2–4 (response to disciple’s request; shorter, no doxology or “Your will be done”).
 
 # Connections
-- [[Sacred Truces/Matthew 6 v9-15 The Lord’s Prayer\|Matthew 6 v9-15 The Lord’s Prayer]]
+- [[Sacred Truces/Matthew 6 vs09-15 The Lord’s Prayer\|Matthew 6 vs09-15 The Lord’s Prayer]]
 
