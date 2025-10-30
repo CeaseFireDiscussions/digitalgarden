@@ -15,7 +15,7 @@
 - [[Gate of Wisdom/Ransom\|Ransom]]: Atonement is rarely specified in Deuteronomy, except for cases like the heifer ritual (Deut. 21:1-9) or purification processes (e.g., Deut. 23:11, Lev. 14:1-32 for leprosy). Most violations lack explicit atonement instructions in Deuteronomy, often implying repentance or adherence to general sacrificial laws in Leviticus.
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 
-#### It seems initially the Passover Lamb of the [[Gate of Wisdom/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
+#### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
 
 ## Jesus as an Offering
 

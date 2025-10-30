@@ -55,7 +55,7 @@
 **False Witness in Capital Cases**:
     - **Deuteronomy 19:16–19**: A false witness in a case involving a death penalty is to receive the punishment intended for the accused, implying death if the false testimony was meant to cause it.
 
-#### It seems initially the Passover Lamb of the [[Gate of Wisdom/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
+#### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free. Jesus became our Passover Lamb offering.
 ## Jesus vs Death
 
  - **1 Corinthians 15:54–57**: “When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: ‘Death is swallowed up in victory.’ ‘O death, where is your victory? O death, where is your sting?’ The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ.”

@@ -49,80 +49,125 @@ For ease of reading [[The Scrolls/4. The Gospels and The Apostles/59 - James/Jam
 			- the testing 
 				- of your faith 
 				- produces endurance. 
-					- Let endurance have its perfect work, 
+					- Let <mark style="background: #04CD3EA6;">endurance</mark> have its [[Gate of Wisdom/Perfect\|Perfect]] work, 
 						- <mark style="background: #E6852CA6;">that</mark> you may be 
-							- perfect 
-							- and complete, 
-							- lacking in nothing. 
+							- <mark style="background: #E6852CA6;">perfect</mark> 
+							- <mark style="background: #E6852CA6;">and complete</mark>, 
+							- <mark style="background: #E6852CA6;">lacking in nothing</mark>. 
+#### [[The Scrolls/3. Ketuvim (Writings)/18 - Job/Job-23#v10\|Job-23#v10]] ... when he hath tried me, I shall come forth as gold."
 
-###### v5 
-But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him. 
+ - But if any of you lacks [[Zunpublished/Wisdom\|Wisdom]], 
+	 - <mark style="background: #04CD3EA6;">let him ask of God</mark>, 
+		 - who gives to all 
+			 - liberally 
+			 - and without reproach, 
+		 - and it will be given to him. 
+	 - <mark style="background: #04CD3EA6;">But let him ask</mark> in [[Zunpublished/Faith\|Faith]], 
+		 - without any doubting, 
+			 - for he who doubts 
+				 - is like a wave of the sea, 
+				 - driven by the wind and tossed[^6]. 
+				 - For that man shouldn't think that he will receive anything from the Lord. 
+					 - He is a 
+						 - double-minded man, 
+						 - <mark style="background: #FF9EF6A6;">unstable in all his ways</mark>. 
 
-###### v6 
-But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed[^6]. 
+- But let the brother 
+	- in humble circumstances 
+		- glory in his high position; 
+- and the rich,  <mark style="background: #CD04BBA6;">//not the brother who is humble//</mark>
+	- in that he is made humble, 
+	- because like the flower in the grass, 
+		- he will pass away. 
+		- For the sun arises 
+			- with the scorching wind 
+			- and withers the grass, 
+			- and the flower in it falls, 
+			- and the beauty of its appearance perishes[^5]. 
+	- So the rich man 
+		- will also fade away 
+			- in his pursuits. 
+- [[Gate of Wisdom/Blessed\|Blessed]] <mark style="background: #CD04BBA6;">//ashrê, makarios//</mark> is a person 
+	- who endures [[Zunpublished/temptation\|temptation]] <mark style="background: #CD04BBA6;">//peirasmos//</mark> [^2], 
+		- for when he has been approved, 
+			- he will receive the crown of life[^3], 
+				- which the Lord promised 
+					- to those who love him. 
+#### Matthew 6:13 lead us not into peirasmos
+- Let no man say when he is tempted, 
+	- "I am tempted by God," 
+		- for God can't be tempted by evil, 
+		- and he himself tempts no one. 
+	- But each one is <mark style="background: #04CD3EA6;">tempted</mark> 
+		- when he is drawn away 
+			- <mark style="background: #7FC1CFA6;">by his own lust and enticed</mark>.
+				- Then the [[Gate of Wisdom/Lust\|Lust]] <mark style="background: #CD04BBA6;">//epithymia//</mark>, 
+					- when it has conceived, 
+					- bears sin. 
+						- The sin, 
+							- when it is full grown, 
+							- produces death[^4]. 
+	- Don't be deceived, 
+		- my beloved brothers. 
+#### The deception, lust, enticement comes from within
 
-###### v7 
-For that man shouldn't think that he will receive anything from the Lord. 
+- Every 
+	- good gift 
+	- and every perfect gift 
+		- is from above, 
+		- coming down from the Father of lights[^7], 
+			- with whom can be 
+				- no variation, 
+				- nor turning shadow. 
+			- Of his own will 
+				- he gave birth to us 
+					- by the word of truth, 
+						- <mark style="background: #E6852CA6;">that we should be a kind of first fruits</mark> 
+							- of his creatures. 
+#### [[The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-119#v160\|Ps-119#v160]] The sum of thy word is truth (’ĕmet)”) ; [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-17#v17\|John-17#v17]] “Sanctify them through thy truth: thy word is truth” ; [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-01#v13\|Ephes-01#v13]] “…the word of truth, the gospel of your salvation”; [[The Scrolls/4. The Gospels and The Apostles/60 - 1 Peter/1 Pet-01#v23\|1 Pet-01#v23]] “…born again… by the word of God”
 
-###### v8 
-He is a double-minded man, unstable in all his ways. 
+- So, then <mark style="background: #CD04BBA6;">//because God has given us every perfect gift, brought us new life, and we are a kind of first fruits//</mark>, 
+	- my beloved brothers, 
+	- let every man be 
+		- <mark style="background: #04CD3EA6;">swift to hear</mark>, 
+		- <mark style="background: #04CD3EA6;">slow to speak</mark>, 
+		- and <mark style="background: #04CD3EA6;">slow to anger</mark>; 
+			- for the <mark style="background: #04CD3EA6;">anger</mark> of man 
+				- <mark style="background: #EB9E57A6;">doesn't produce </mark>the [[Gate of Wisdom/Righteousness\|Righteousness]] of God[^1]. 
+			- Therefore <mark style="background: #CD04BBA6;">//because anger fails to produce righteousness//</mark>, 
+				- putting away 
+					- all filthiness 
+					- and overflowing of wickedness, 
+				- receive with humility 
+					- the implanted word, 
+						- which is able to save your souls. 
+					- But <mark style="background: #04CD3EA6;">be doers of the word</mark>, 
+						- and not only hearers, 
+							- deluding your own selves. 
+						- For if anyone is a hearer of the word 
+							- and not a doer, 
+							- he is like a man looking at his natural face in a mirror; 
+								- for he sees himself, 
+								- and goes away, 
+								- and immediately forgets what kind of man he was. 
+							- But he who looks into the perfect law of freedom 
+								- and continues, 
+									- not being a hearer who forgets, 
+								- but a doer of the work, 
+									- <mark style="background: #EB9E57A6;">this man will be blessed in what he does</mark>. 
+#### Filthiness = moral defilement; the outward overflow of inner sin (anger, malice, etc., from vv. 19–20) that must be stripped off like dirty clothes before the word can be humbly received. Used only here in the entire New Testament. Zech. 3:3–4: Joshua the high priest stands in "filthy garments" (rhypara) symbolizing sin/iniquity.
 
-###### v9 
-But let the brother in humble circumstances glory in his high position; 
+- If anyone among you thinks 
+	- himself to be religious 
+		- while he doesn't bridle his tongue, 
+			- but deceives his heart, 
+	- this man's religion is worthless. 
+	- Pure religion and undefiled 
+		- before our God and Father is this: 
+			- to visit the fatherless and widows in their affliction, 
+			- and to keep oneself unstained by the world.
 
-###### v10 
-and the rich, in that he is made humble, because like the flower in the grass, he will pass away. 
-
-###### v11 
-For the sun arises with the scorching wind and withers the grass, and the flower in it falls, and the beauty of its appearance perishes[^5]. So the rich man will also fade away in his pursuits. 
-
-###### v12 
-Blessed is a person who endures temptation[^2], for when he has been approved, he will receive the crown of life[^3], which the Lord promised to those who love him. 
-
-###### v13 
-Let no man say when he is tempted, "I am tempted by God," for God can't be tempted by evil, and he himself tempts no one. 
-
-###### v14 
-But each one is tempted when he is drawn away by his own lust and enticed. 
-
-###### v15 
-Then the lust, when it has conceived, bears sin. The sin, when it is full grown, produces death[^4]. 
-
-###### v16 
-Don't be deceived, my beloved brothers. 
-
-###### v17 
-Every good gift and every perfect gift is from above, coming down from the Father of lights[^7], with whom can be no variation, nor turning shadow. 
-
-###### v18 
-Of his own will he gave birth to us by the word of truth, that we should be a kind of first fruits of his creatures. 
-
-###### v19 
-So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger; 
-
-###### v20 
-for the anger of man doesn't produce the righteousness of God[^1]. 
-
-###### v21 
-Therefore, putting away all filthiness and overflowing of wickedness, receive with humility the implanted word, which is able to save your souls. 
-
-###### v22 
-But be doers of the word, and not only hearers, deluding your own selves. 
-
-###### v23 
-For if anyone is a hearer of the word and not a doer, he is like a man looking at his natural face in a mirror; 
-
-###### v24 
-for he sees himself, and goes away, and immediately forgets what kind of man he was. 
-
-###### v25 
-But he who looks into the perfect law of freedom and continues, not being a hearer who forgets, but a doer of the work, this man will be blessed in what he does. 
-
-###### v26 
-If anyone among you thinks himself to be religious while he doesn't bridle his tongue, but deceives his heart, this man's religion is worthless. 
-
-###### v27 
-Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.
+#### Makes me think of [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-58\|Isa-58]] 
 
 ***
 [[The Scrolls/4. The Gospels and The Apostles/59 - James/James\|James]] | [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-02\|James 02 →]]

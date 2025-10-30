@@ -17,7 +17,7 @@
 # Where and When:
 
 - **Biblical Location**: 
-	- [[Gate of Wisdom/Babylon\|Babylon]] (center of idolatry and exile)
+	- [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]] (center of idolatry and exile)
 	- [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] /Judah (God’s people, referenced as Jacob)
 
 - **Modern Location**: 

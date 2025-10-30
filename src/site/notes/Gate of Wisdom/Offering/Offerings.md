@@ -25,15 +25,15 @@ Acts 24 :17
 # Offerings
 Scroll down for brief overview of each. Follow the link for an indepth look.
 - [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] - Olah 
-- [[Gate of Wisdom/Grain Offering\|Grain Offering]] - Minchah (מִנְחָה)
+- [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]] - Minchah (מִנְחָה)
 - Peace / [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]  Shelem (שֶׁלֶם) 
 -  [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]] - Chatat (חַטָּאת)
 - Trespass / [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]] - Asham (אָשָׁם)
 -  [[Zunpublished/Wave Offering\|Wave Offering]] - Tenufah
 - [[Zunpublished/Heave Offering\|Heave Offering]] - Terumah (תְּרוּמָה)
 *  [[Zunpublished/First Fruits\|First Fruits]] Offering - Bikkurim
-* [[Gate of Wisdom/Drink Offering\|Drink Offering]] - Nesek (נֶסֶךְ)
-*  [[Gate of Wisdom/Passover Offering\|Passover Offering]] - Korban Pesach
+* [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]] - Nesek (נֶסֶךְ)
+*  [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] - Korban Pesach
 * [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]] - Sin offering made for national sins.
 * [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 # Related words
@@ -115,7 +115,7 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 * Example: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v2\|Gen-22:2]] – Abraham is told to offer Isaac as an olah.
 * [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-06#v13\|Num-06:13]] and [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-21#v26\|Acts-21:26]] - Paul provided offering 
 
-### [[Gate of Wisdom/Grain Offering\|Grain Offering]] - Minchah (מִנְחָה)
+### [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]] - Minchah (מִנְחָה)
 - Offering Type: Non-blood offering (grain-based)
 - Offered by: <mark style="background: #E0CC4BA6;">Individual or priest</mark>
 - Offering for: <mark style="background: #EB9E57A6;">Thanksgiving, dedication, or acknowledgment of God’s provision</mark>
@@ -254,7 +254,7 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 ### Yeshua/Jesus under the renewed covenant became a guilt offering. 
 1 Corinthians 15:20-24 But now Messiah has been raised from the dead, the firstfruits of those who have fallen asleep. 21 For since death came through a man, the resurrection of the dead also has come through a Man. 22 For as in Adam all die, so also in Messiah will all be made alive. 23 But each in its own order: Messiah the firstfruits; then, at His coming, those who belong to Messiah; 24 then the end, when He hands over the kingdom to God the Father after He has destroyed all rule and all authority and power. (TLV)
 
-### [[Gate of Wisdom/Drink Offering\|Drink Offering]] - Nesek (נֶסֶךְ)
+### [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]] - Nesek (נֶסֶךְ)
 - Offering Type: Liquid offering (wine or strong drink)
 - Offered by: <mark style="background: #E0CC4BA6;">Priests or individual (with other offerings)</mark>
 - Offering for: <mark style="background: #E6852CA6;">Accompaniment to burnt or peace offerings, worship</mark>
@@ -267,7 +267,7 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 * Context: Often accompanies other sacrifices (e.g., [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-15#v5\|Num-15:5]]).
 * Example: [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-28#v7\|Num-28:7]] – “Its drink offering (nesek) shall be one-fourth of a hin.”
 
-### [[Gate of Wisdom/Passover Offering\|Passover Offering]] - Korban Pesach
+### [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] - Korban Pesach
 - Offering Type: Sacrifice
 - Offered by: <mark style="background: #E0CC4BA6;">Household or individual</mark>
 - Offering for: <mark style="background: #EB9E57A6;">Commemoration of the Exodus, atonement</mark>

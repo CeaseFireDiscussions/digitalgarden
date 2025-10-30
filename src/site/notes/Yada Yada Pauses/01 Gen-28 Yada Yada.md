@@ -180,7 +180,7 @@
 	- and <mark style="background: #04CD3EA6;">set it up for a pillar</mark>, 
 	- and <mark style="background: #04CD3EA6;">poured oil on its top</mark>. 
 	- He <mark style="background: #04CD3EA6;">called the name of that place</mark> 
-		- [[Gate of Wisdom/Bethel\|Bethel]], 
+		- [[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]], 
 			- but the name of the city 
 				- was Luz at the first. 
 	- <mark style="background: #B2A23AA6;">Jacob</mark> [^6]<mark style="background: #04CD3EA6;">vowed a vow</mark>, saying, 

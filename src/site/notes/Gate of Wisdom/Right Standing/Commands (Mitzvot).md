@@ -12,7 +12,7 @@
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 
-#### It seems initially the Passover Lamb of the [[Gate of Wisdom/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free.  Jesus became our Passover Lamb offering.
+#### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free.  Jesus became our Passover Lamb offering.
 
 ## Jesus as an Offering
 
@@ -136,7 +136,7 @@
 - **Scripture Text (WEB)**: “Observe the month of Abib, and keep the Passover to Yahweh your God; for in the month of Abib Yahweh your God brought you out of Egypt by night. You shall sacrifice the Passover to Yahweh your God, of the flock and the herd, in the place which Yahweh shall choose to cause his name to dwell there.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
 - **Penalty or Consequence**: None in Deuteronomy; being cut off for eating leaven (Exodus 12:15).
-- **Offering or Ransom?**: [[Gate of Wisdom/Passover Offering\|Passover Offering]] (Deuteronomy 16:2).
+- **Offering or Ransom?**: [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] (Deuteronomy 16:2).
 - **Note:** No known place chosen by Yah to bring offerings at this time. 
 
 ## 13. Do Not Eat Leavened Bread During Passover
@@ -144,7 +144,7 @@
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall eat no leavened</mark> bread with it. You shall eat unleavened bread with it seven days, even the bread of affliction (for you came out of the land of Egypt in haste) that you may remember the day when you came out of the land of Egypt all the days of your life.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
 - **Penalty or Consequence**: None in Deuteronomy; being cut off for eating leaven (Exodus 12:15).
-- **Offering or Ransom?**: [[Gate of Wisdom/Passover Offering\|Passover Offering]] (Deuteronomy 16:2). 
+- **Offering or Ransom?**: [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] (Deuteronomy 16:2). 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 - **Note:** No known place chosen by Yah to bring offerings at this time. 
 

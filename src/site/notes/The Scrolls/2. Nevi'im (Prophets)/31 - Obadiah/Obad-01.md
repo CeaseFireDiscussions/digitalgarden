@@ -12,7 +12,7 @@ For more indepth look [[Yada Yada Pauses/31 Obad-01 Yada Yada\|31 Obad-01 Yada Y
 # Setting
 ## Who:
 - Author: [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]
-- Audience: [[Gate of Wisdom/Edom\|Edom]] (primarily); [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]] (secondarily)
+- Audience: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]] (primarily); [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]] (secondarily)
 - Bullet list Characters and People Groups: 
 	- Edom
 	- [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]

@@ -19,7 +19,7 @@ The Day of Atonement, also called Yom Kippur, occurs on Friday, Tishrei 10/[[Zun
 
 One day the high priest could enter into the Holy of Holy [[Zunpublished/Most Set Apart Place\|Most Set Apart Place]], when YHWH would make [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]] nationally, for the sins of Israel. (Leviticus 16)
 
-Jewsis Rabbis believe Moses came down with the second set of tablets [[Gate of Wisdom/Tables of Stone\|Tables of Stone]] on this day. Brokenness leads to wholeness.
+Jewsis Rabbis believe Moses came down with the second set of tablets [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]] on this day. Brokenness leads to wholeness.
 
 And this shall be a statute forever for you, that atonement  may be made for the people of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] once in the year because of all their sins.”  [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-16\|Lev-16]]  If an individual sins unintentionally, citizen of Israel or foreigner living among them, The priest will make atonement for him, and he will be forgiven Numbers 15:27-31 ([[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-15#v27\|Num-15#v27]]).
 
@@ -44,7 +44,7 @@ You shall not do any work. It is a statute forever throughout your generations i
 	- Those who do will be destroyed from among the people
 - solemn rest
 - holy (set apart) convocation
-- offer an offering made by fire, [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] w/ [[Gate of Wisdom/Grain Offering\|Grain Offering]] and [[Gate of Wisdom/Drink Offering\|Drink Offering]]
+- offer an offering made by fire, [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] w/ [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]] and [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]
 	- **Grain offerings were ate by the priests**
 - on 50th year - Jubilee year
 	- sound the trumpet

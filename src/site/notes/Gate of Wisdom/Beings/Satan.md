@@ -32,7 +32,7 @@
 - Job and Zechariah depict haśśāṭān as a role (heavenly prosecutor/tester) played by an angelic being in YHWH's service, not a named personal entity opposing God. This contrasts with NT development into a singular fallen adversary (e.g., John 8:44 [[Gate of Wisdom/Beings/Devil\|Devil]]).
 - Heiser, Michael S.. [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]: Recovering the Supernatural Worldview of the Bible. Lexham Press. Kindle Edition. 
 	- The Hebrew (satan) means something like “adversary,” “prosecutor,” or “challenger.” It speaks of an official legal function within a ruling body—
-- Cahn, Jonathan. [[The Dragon's Prophecy\|The Dragon's Prophecy]]: Israel, the Dark Resurrection, and the End of Days. Charisma House. Kindle Edition. 
+- Cahn, Jonathan. [[Gate of Wisdom/Sources/Cahn, Jonathan/The Dragon's Prophecy\|The Dragon's Prophecy]]: Israel, the Dark Resurrection, and the End of Days. Charisma House. Kindle Edition. 
 	- Sahtan 
 	- The English word Satan comes from the Hebrew sahtan, which can be translated as opponent, adversary, and enemy. The word goes to the heart of his essence.
 	- He is not an enemy—but the Enemy, the one at enmity with all.

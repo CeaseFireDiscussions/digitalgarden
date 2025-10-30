@@ -16,7 +16,7 @@ Davar - means matters
 # Related words
 - [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]
-- [[Gate of Wisdom/Tables of Stone\|Tables of Stone]]
+- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]
 
 # Additional Info
 

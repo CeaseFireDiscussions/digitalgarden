@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/peniel/","tags":["#GateWisdom","#RealmofHumans"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/peniel/","tags":["#GateWisdom","RealmofHumans"]}
 ---
 
 # Define

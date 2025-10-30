@@ -16,7 +16,7 @@
 - The same root appears elsewhere, like in Genesis 1 :2 ("Spirit of God") or Ezekiel 37 :9 (breath/wind in the valley of dry bones), showcasing its broad semantic range. 
 
 # Notes from Bible Project Podcasts
-[[Gate of Wisdom/Genesis-God’s Spirit in Creation Podcast\|Genesis-God’s Spirit in Creation Podcast]]
+[[Gate of Wisdom/Sources/Genesis-God’s Spirit in Creation Podcast\|Genesis-God’s Spirit in Creation Podcast]]
 - YHWH]/God  is Spirit. In Hebrew, the word "spirit" is "ruakh."
 - in Hebrew "ruakh" is translated "spirit." It's also translated "wind." It's also translated "breath." Those three ideas that have three separate (00:14:00) words in English, have one word in Hebrew, which is ruakh. So in Hebrew, you don't really think of those things as separate ideas. You think of them as kind of one idea. 
 - Because if a ruakh is blowing in the trees, you don't think of it as a person's breath. But in the biblical imagination, you think of it as God's breath.

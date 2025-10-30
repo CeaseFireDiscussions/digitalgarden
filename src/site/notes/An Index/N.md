@@ -15,6 +15,7 @@
 - [[Gate of Wisdom/Numbers/10\|10]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]
 - [[Sacred Truces/Happy New Year! In April\|Happy New Year! In April]]
+- [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]
 - [[Gate of Wisdom/Name\|Name]]
 - [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]
 - [[Sacred Truces/New Covenant\|New Covenant]]

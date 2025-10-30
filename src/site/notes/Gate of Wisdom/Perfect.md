@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/perfect/","tags":["#GateWisdom","P"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/perfect/","tags":["#GateWisdom","#P"]}
 ---
 
 # Define
+- Complete, mature, fully developed, brought to its proper goal, fulfilled.
 - Greek: τετελειωμένων (teteleiōmenōn), a perfect passive participle form of the verb τελειόω (teleioō).
 	- Τελειόω means “to make perfect,” “to complete,” “to fulfill,” or “to bring to maturity.”
 	- τετελειωμένων indicates that the “righteous” (likely Old Testament saints or believers) have been brought to a state of spiritual completion or perfection, enabling them to dwell in God’s presence in the heavenly Jerusalem.

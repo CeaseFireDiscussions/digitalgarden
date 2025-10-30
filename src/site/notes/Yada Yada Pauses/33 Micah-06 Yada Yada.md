@@ -90,7 +90,7 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|Mi
 		- With tens of thousands of rivers of oil[^5]? 
 		- Shall I give my firstborn for my disobedience[^6]? 
 			- The fruit of my body for the sin of my soul? 
-#### Public/[[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]] sacrifices always included [[Gate of Wisdom/Grain Offering\|Grain Offering]] (oil) + drink offerings (Num 28–29).  Daily, Sabbath, New Moon, Feasts, Nazirite vows, Priest consecration. 
+#### Public/[[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]] sacrifices always included [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]] (oil) + drink offerings (Num 28–29).  Daily, Sabbath, New Moon, Feasts, Nazirite vows, Priest consecration. 
 
 - He <mark style="background: #CD04BBA6;">//YHWH// </mark>has shown 
 	- you <mark style="background: #CD04BBA6;">//people of Israel//</mark>, 

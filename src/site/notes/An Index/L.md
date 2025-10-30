@@ -3,6 +3,7 @@
 ---
 
 
+- [[Gate of Wisdom/Beings/Heavenly Beings/Angel of the Lord\|Angel of the Lord]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
 - [[Olive Branch Reconciliations/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
 - [[Gate of Wisdom/Lord’s Prayer\|Lord’s Prayer]]

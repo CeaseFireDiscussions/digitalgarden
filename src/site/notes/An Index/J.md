@@ -8,6 +8,7 @@
 - [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
 - [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
 - [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]]
+- [[Gate of Wisdom/Beings/Heavenly Beings/Jesus\|Jesus]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]
 - [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]

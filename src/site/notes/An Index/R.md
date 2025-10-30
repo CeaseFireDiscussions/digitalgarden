@@ -12,7 +12,7 @@
 - [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]]
 - [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]]
 - [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]
-- [[Gate of Wisdom/Return of the Gods\|Return of the Gods]]
+- [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
 - [[Gate of Wisdom/Righteousness\|Righteousness]]
 - [[Gate of Wisdom/Ruach/Ruach\|Ruach]]

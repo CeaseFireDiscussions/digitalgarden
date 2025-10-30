@@ -7,7 +7,7 @@
 
 - In an effort to make the point that Yahweh, the God of Israel, deserved worship instead of Baal, the biblical writers occasionally pilfered this stock description of Baal as “cloud rider” and assigned it to Yahweh (emphasis in the following passages is added).
 
-# Cahn, Jonathan. [[Gate of Wisdom/Return of the Gods\|Return of the Gods]]. 
+# Cahn, Jonathan. [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]. 
 
 ## Other names: 
 - Baal

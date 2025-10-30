@@ -10,7 +10,7 @@
 -  “one sent” – always a messenger acting with the authority of the sender (Exodus 23:20–21; Judges 6:11–12; 13:3).  
 
 # Related words
-- [[Gate of Wisdom/Angel\|Angel]]
+- [[Gate of Wisdom/Beings/Heavenly Beings/Angel\|Angel]]
 - [[Gate of Wisdom/Beings/Human Beings/Ambassador\|Ambassador]] - typically a human
 
 # Additional Info
@@ -31,6 +31,14 @@
     - Guides Israel (Exodus 14:19; 23:20)
     - Executes judgment (2 Samuel 24:16; 1 Chronicles 21:15)
     - Reveals Torah at Sinai (Galatians 3:19; Acts 7:53; Hebrews 2:2)
+
+## NOTES:
+
+### Heiser, Michael S.. The Unseen Realm: Recovering the Supernatural Worldview of the Bible. Lexham Press. Kindle Edition.
+
+  
+
+Yahweh is at the top. His family-household (“ sons of God ”) are next in hierarchy. The lowest level is reserved for [elohim](https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/Elohim?name=Elohim) [Messenger](https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/Messenger?name=Messenger) —mal’akim (the word translated “ [Angel](https://app.thebrain.com/brain/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/Angel?name=Angel) ”).
 
 # Connections
 - 

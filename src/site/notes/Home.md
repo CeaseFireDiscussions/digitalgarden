@@ -16,8 +16,14 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yada Yada]]                                                                                                  |
 | [[The Scrolls/Torah Portions/2025.11.01 Shabbat Reading\|2025.11.01 Shabbat Reading]]                                                                              |
+| [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yada Yada]]                                                                                                  |
+| [[Gate of Wisdom/Lust\|Lust]]                                                                                                                                      |
+| [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]]                                                                                                   |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]                                                                                                      |
+| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]]                                                                                                  |
+| [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]                                                                                                          |
+| [[Gate of Wisdom/Beings/Messenger\|Messenger]]                                                                                                                     |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Peniel\|Peniel]]                                                                                                  |
 | [[Yada Yada Pauses/01 Gen-32 Yada Yada\|01 Gen-32 Yada Yada]]                                                                                                      |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/15 The Seventh Day Rest Cover Removed (11-2 Kings 16)\|15 The Seventh Day Rest Cover Removed (11-2 Kings 16)]] |
@@ -30,12 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Gate of Wisdom/Beings/Human Beings/Ambassador\|Ambassador]]                                                                                                      |
 | [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]                                                                                                    |
 | [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]                                                                                                            |
-| [[Gate of Wisdom/Beings/Messenger\|Messenger]]                                                                                                                     |
-| [[Gate of Wisdom/Edom\|Edom]]                                                                                                                                      |
-| [[Gate of Wisdom/Dwelling Places/The Camp/Camp\|Camp]]                                                                                                             |
-| [[Gate of Wisdom/Angel\|Angel]]                                                                                                                                    |
-| [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]                                                                                                      |
-| [[Yada Yada Pauses/01 Gen-28 Yada Yada\|01 Gen-28 Yada Yada]]                                                                                                      |
 
 { .block-language-dataview}
 

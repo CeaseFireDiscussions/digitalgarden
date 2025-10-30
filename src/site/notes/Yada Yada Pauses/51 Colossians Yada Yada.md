@@ -321,11 +321,11 @@
 
 ## Repeated words
 
-- [[Christ\|Christ]]
+- [[Gate of Wisdom/Beings/Heavenly Beings/Christ\|Christ]]
 - [[Lord\|Lord]]
 - [[God\|God]] [[YHWH\|YHWH]] 
 - things
-- [[Zunpublished/Jesus\|Jesus]]
+- [[Zunpublished/Jesus\|Zunpublished/Jesus]]
 - [[saints\|saints]]
 - [[Zunpublished/Faith\|Faith]]
 - [[Zunpublished/Love\|Love]]

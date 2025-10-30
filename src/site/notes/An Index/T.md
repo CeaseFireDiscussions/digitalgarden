@@ -8,7 +8,7 @@
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 - [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]
-- [[Gate of Wisdom/Tables of Stone\|Tables of Stone]]
+- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony\|Tablets of Testimony]]
 - [[Gate of Wisdom/Tefillos\|Tefillos]]
 - [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]

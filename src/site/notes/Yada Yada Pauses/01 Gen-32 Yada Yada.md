@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-32-yada-yada/","tags":["#TheScrolls","#TorahLawofMoses","#YadaYadaPauses","#G"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-32-yada-yada/","tags":["TheScrolls","TorahLawofMoses","YadaYadaPauses","G"]}
 ---
 
 # Setting
@@ -48,7 +48,7 @@
 		- to [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]], 
 			- his brother, 
 		- to the land of Seir, 
-			- the field of [[Gate of Wisdom/Edom\|Edom]]. 
+			- the field of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]. 
 	- He commanded them, saying, 
 		- "This is what you shall tell my lord, Esau: 
 			- 'This is what your servant, 
