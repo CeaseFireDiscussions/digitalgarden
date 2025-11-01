@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/31-obad-01-yada-yada/","tags":["TheScrolls","Neviim","YadaYadaPauses","O"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/31-obad-01-yada-yada/","tags":["#TheScrolls","#Neviim","#YadaYadaPauses","#O"]}
 ---
 
 
@@ -35,6 +35,8 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obad-01\|O
 
 ## Where: 
 - Edom, Mount Esau (modern: southern Jordan, including Petra region); Mount Zion (Jerusalem)
+
+# Scripture
 
 - The vision of <mark style="background: #E0CC4BA6;">Obadiah</mark>. 
 - This is what the <mark style="background: #D7CD91A6;">Lord Yahweh</mark> says 
