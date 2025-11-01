@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/31-obad-01-yada-yada/","tags":["TheScrolls","Neviim","YadaYadaPauses","O"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/31-obad-01-yada-yada/","tags":["#TheScrolls","#Neviim","#YadaYadaPauses","#O"]}
 ---
 
 
@@ -23,10 +23,15 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obad-01\|O
 	- Nations
 ## What:
 - **Main Storyline:** Vision of judgment against Edom for pride and violence against brother Jacob; their destruction and the restoration of Israel’s possession.
+- Edom stood aloof when Jacob (Israel/Judah) was attacked, gloated over their disaster, looted their wealth, and even handed over survivors to the enemy on the day of their calamity. They didn’t just fail to help; they actively profited from and participated in Jacob’s destruction (likely during the Babylonian siege of Jerusalem in 586 BC).
+- The specific actions of Edom condemned (gloating, looting, standing at the crossroads to cut down fugitives, handing over survivors) are not narrated in a single historical passage of Scripture. 2 Kings 25 and 2 Chronicles 36 describe the fall of Jerusalem but do not mention Edom. Instead, they are prophetically summarized in Obadiah itself, with parallel echoes and partial historical corroboration in the following passages:
+	- [[The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-137#v7\|Ps-137#v7]] Remember, O LORD, against the Edomites the day of Jerusalem, how they said, ‘Lay it bare, lay it bare, down to its foundations!’”
+	- [[The Scrolls/3. Ketuvim (Writings)/25 - Lamentations/Lam-04#v21\|Lam-04#v21]] Rejoice and be glad, O daughter of Edom... The cup shall pass to you as well; you shall become drunk and strip yourself bare.
+	- [[The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-35#v1\|Ezek-35#v1]] Because you cherished perpetual enmity and gave over the people of Israel to the power of the sword...
 
 ## When:
-- Date Authored:
-- Date takes place:
+- Date Authored: Between 589 and 550 BC (most likely 586–582 BC)
+- Date takes place: 586 BC (the fall of Jerusalem to Babylon), with possible aftermath raids 586–582 BC
 
 ## Where: 
 - Edom, Mount Esau (modern: southern Jordan, including Petra region); Mount Zion (Jerusalem)
@@ -47,7 +52,7 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obad-01\|O
 			- among the nations. 
 		- <mark style="background: #B2A23AA6;">You</mark> are greatly despised. 
 		- The pride of <mark style="background: #B2A23AA6;">your</mark> heart 
-			- has deceived <mark style="background: #B2A23AA6;">you</mark>, 
+			- has deceived <mark style="background: #B2A23AA6;">you</mark>, <mark style="background: #CD04BBA6;">//nasha//</mark>
 			- <mark style="background: #B2A23AA6;">you</mark> 
 				- who dwell in the clefts of the rock[^2], 
 				- whose habitation is high, 
@@ -78,6 +83,8 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obad-01\|O
 			- Friends who eat your bread 
 				- lay a snare under you.[^7] 
 				- There is no understanding in <mark style="background: #B2A23AA6;">him</mark> <mark style="background: #CD04BBA6;">//Edom//</mark>, ."
+#### Who will bring <mark style="background: #B2A23AA6;">me</mark> down to the ground - [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-49#v16\|Jer-49#v16]] (same time as Obadiah) exact same phrase spoken about Edom. King of Babylon [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-14#v13\|Isa-14#v13]] (100 years later): ‘I will ascend to heaven… I will make myself like the Most High.’ But you are brought down to Sheol, to the depths of the pit.”
+-
 	- "Won't <mark style="background: #D7CD91A6;">I</mark> <mark style="background: #CD04BBA6;">\\YHWH\\ </mark>
 		- <mark style="background: #D2B3FFA6;">in that day</mark>", says Yahweh, 
 		- "destroy the wise men out of <mark style="background: #B2A23AA6;">Edom</mark>,
@@ -86,7 +93,8 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obad-01\|O
 			- <mark style="background: #4DA6EDA6;">Teman</mark>, <mark style="background: #CD04BBA6;">//a location in Edom, home of the mighty men//</mark> ([[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36#v8\|Gen-36#v8]])
 			- will be dismayed, 
 				- to the end that everyone may be cut off 
-					- from the <mark style="background: #B2A23AA6;">mountain of Esau</mark>  <mark style="background: #CD04BBA6;">//Edom//</mark>, by slaughter. 
+					- from the <mark style="background: #B2A23AA6;">mountain of Esau</mark>  <mark style="background: #CD04BBA6;">//Edom//</mark>, 
+						- by slaughter. 
 	- For the violence done to 
 		- your <mark style="background: #CD04BBA6;">//Esau as a representation of Edom//</mark>  brother 
 			Jacob, <mark style="background: #CD04BBA6;">//as a representation of the surviving remnant of Israel at the time of this prophecy, House of Judah//</mark> 
@@ -139,7 +147,7 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obad-01\|O
 				- so will all the nations drink continually. 
 				- Yes, they <mark style="background: #CD04BBA6;">//nations// </mark>will drink, swallow down, 
 					- and will be as though they had not been. 
-####  "all the nations shall drink continually" extends the judgment from Edom to all other nations, culminating in their destruction ("as though they had never been"). (e.g., Zephaniah 1:14-18; Joel 3:12)
+####  "all the nations shall drink continually" extends the judgment from Edom to all other nations, culminating in their destruction ("as though they had never been"). (e.g., [[The Scrolls/2. Nevi'im (Prophets)/36 - Zephaniah/Zeph-01\|Zeph-01]]:14-18; [[The Scrolls/2. Nevi'im (Prophets)/29 - Joel/Joel-03#v12\|Joel-03#v12]])
 - 
 	- But in <mark style="background: #4DA6EDA6;">Mount Zion</mark>, 
 		- there will be those <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]<mark style="background: #CD04BBA6;">//</mark> 

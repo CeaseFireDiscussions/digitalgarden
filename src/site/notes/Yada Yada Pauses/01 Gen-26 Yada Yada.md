@@ -23,7 +23,7 @@
 		- Yahweh appeared 
 			- to him <mark style="background: #CD04BBA6;">//Isaac//</mark>, and said, 
 				- "Don't go down into Egypt. 
-				- Live in the land 
+				- <mark style="background: #04CD3EA6;">Live in the land</mark> 
 					- I will tell you about. 
 				- Live in this land, 
 					- and I will be with you, 

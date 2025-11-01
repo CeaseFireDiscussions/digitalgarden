@@ -11,7 +11,6 @@ In Hebrew - Yada means "to know." These Ceasefire Moments are for deep explorati
 | ------------------------------------------------------------------------ |
 | [[Yada Yada Pauses/01 Gen-24 Yada Yada\|01 Gen-24 Yada Yada]]         |
 | [[Yada Yada Pauses/01 Gen-25 Yada Yada\|01 Gen-25 Yada Yada]]         |
-| [[Yada Yada Pauses/01 Gen-26 Yada Yada\|01 Gen-26 Yada Yada]]         |
 | [[Yada Yada Pauses/01 Gen-27 Yada Yada\|01 Gen-27 Yada Yada]]         |
 | [[Yada Yada Pauses/01 Gen-29 Yada Yada\|01 Gen-29 Yada Yada]]         |
 | [[Yada Yada Pauses/23 Isa-01 Yada Yada\|23 Isa-01 Yada Yada]]         |
@@ -25,6 +24,7 @@ In Hebrew - Yada means "to know." These Ceasefire Moments are for deep explorati
 | [[Yada Yada Pauses/_Yada Yada Pauses\|_Yada Yada Pauses]]             |
 | [[Yada Yada Pauses/Highlight Legend\|Highlight Legend]]               |
 | [[Yada Yada Pauses/51 Colossians Yada Yada\|51 Colossians Yada Yada]] |
+| [[Yada Yada Pauses/01 Gen-26 Yada Yada\|01 Gen-26 Yada Yada]]         |
 
 { .block-language-dataview}
 

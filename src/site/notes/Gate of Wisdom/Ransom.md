@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ransom/","tags":["#GateWisdom","Atonement","R"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ransom/","tags":["#GateWisdom","#Atonement","#R"]}
 ---
 
 # Define
@@ -10,6 +10,13 @@
 - [[Gate of Wisdom/Kipper\|Kipper]]
 - [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
 - [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]
+
+- [[Zunpublished/Redeem\|Redeem]]
+- [[Gate of Wisdom/Ransom\|Ransom]]
+- [[Zunpublished/Save\|Save]]
+
+Isa 43:1–3 “I have redeemed thee (גָּאַל), I have called thee by thy name… I gave Egypt for thy ransom (כֹּפֶר)… I will save thee (יָשַׁע)”
+Ps 111:9 “He sent redemption (פְּדוּת) unto his people… Holy and reverend is his name”
 
 # Additional Info
 - In [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-30#v12\|Exod-30:12]][[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-30#v13\|Exod-30#v13]][[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-30#v14\|Exod-30#v14]][[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-30#v15\|Exod-30#v15]][[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-30#v16\|-16]], a half-shekel is a kopher (ransom) for a person’s life during a census to prevent plague. Kopher derives from kipper. This offering functions as a kopher for lives (verses 15-16), put something in place of ones life, substituting for the person to prevent death. The same structure is here as in Leviticus 17. The half-shekel is the ransom of ones life. The animal is in place of the person.

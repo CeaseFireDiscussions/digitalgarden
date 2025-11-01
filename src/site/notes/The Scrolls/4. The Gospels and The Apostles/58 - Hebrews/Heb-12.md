@@ -134,7 +134,7 @@ for our God is a consuming fire.
 
 [^17]: [[Zunpublished/Precept Pikkubim\|Precept Pikkubim]] instruction for [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] living from [[The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-03\|Prov-03]] v11-12
 
-[^18]: [[Zunpublished/Patience\|Patience]] lay aside weight and sin run with perseverance the peace before us.
+[^18]: [[Gate of Wisdom/Ruach/Fruit/Patience\|Patience]] lay aside weight and sin run with perseverance the peace before us.
 
 [^19]: [[Zunpublished/Evidence\|Evidence]] Trumpet - Words - God's presence
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/redemption/","tags":["#GateWisdom","ConsequenceDisobedience","R"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/consequence/disobedience/redemption/","tags":["#GateWisdom","#ConsequenceDisobedience","#R"]}
 ---
 
 # Define
@@ -9,7 +9,10 @@
 # Related words
 - [[Zunpublished/Redeem\|Redeem]]
 - [[Gate of Wisdom/Ransom\|Ransom]]
-- [[Zunpublished/Saved\|Saved]]
+- [[Zunpublished/Save\|Save]]
+
+Isa 43:1–3 “I have redeemed thee (גָּאַל), I have called thee by thy name… I gave Egypt for thy ransom (כֹּפֶר)… I will save thee (יָשַׁע)”
+Ps 111:9 “He sent redemption (פְּדוּת) unto his people… Holy and reverend is his name”
 
 # Additional Info
 - Core biblical pattern: Disobedience → loss of inheritance/freedom/exile → redemption by kinsman or God at a cost.
