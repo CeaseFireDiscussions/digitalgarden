@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/59-james-01-yada-yada/","tags":["#TheScrolls","#GospelsApostles","#YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/59-james-01-yada-yada/","tags":["TheScrolls","GospelsApostles","YadaYadaPauses"]}
 ---
 
 For ease of reading [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-01\|James-01]]
@@ -140,7 +140,7 @@ For ease of reading [[The Scrolls/4. The Gospels and The Apostles/59 - James/Jam
 					- and overflowing of wickedness, 
 				- receive with humility 
 					- the implanted word, [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-30#v14\|Deut-30#v14]]
-						- which is able to [[Zunpublished/Save\|Save]] your souls. 
+						- which is able to [[Gate of Wisdom/Save\|Save]] your souls. 
 					- But <mark style="background: #04CD3EA6;">be doers of the word</mark>, 
 						- and not only hearers, 
 							- deluding your own selves. 

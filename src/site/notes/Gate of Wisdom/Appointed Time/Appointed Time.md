@@ -8,7 +8,7 @@
 
 # Summary
 
-Exodus 31  - Shabbatot [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
+Exodus 31  - Shabbatot [[Zunpublished/Sabbath\|Sabbath]]
 - Weekly
 	- Seventh Day Rest/Shabbat   Exodus 16 , Exodus 20 , Exodus 31,   Leviticus 23 , Numbers 28 -29)-29
 		- convocation     Leviticus 23

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ransom/","tags":["#GateWisdom","#Atonement","#R"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ransom/","tags":["#GateWisdom","Atonement","R"]}
 ---
 
 # Define
@@ -13,7 +13,7 @@
 
 - [[Zunpublished/Redeem\|Redeem]]
 - [[Gate of Wisdom/Ransom\|Ransom]]
-- [[Zunpublished/Save\|Save]]
+- [[Gate of Wisdom/Save\|Save]]
 
 Isa 43:1–3 “I have redeemed thee (גָּאַל), I have called thee by thy name… I gave Egypt for thy ransom (כֹּפֶר)… I will save thee (יָשַׁע)”
 Ps 111:9 “He sent redemption (פְּדוּת) unto his people… Holy and reverend is his name”

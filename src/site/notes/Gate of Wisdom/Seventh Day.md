@@ -6,7 +6,7 @@
 - 
 
 # Related words
-- [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
+- [[Zunpublished/Sabbath\|Sabbath]]
 
 # Additional Info
 

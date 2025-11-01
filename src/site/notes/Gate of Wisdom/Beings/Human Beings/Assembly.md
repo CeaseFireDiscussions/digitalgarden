@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/assembly/","tags":["#GateWisdom","A","HumanBeing"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/assembly/","tags":["#GateWisdom","#A","#HumanBeing"]}
 ---
 
 # Define
@@ -8,7 +8,7 @@
 - qahal, and ekklēsia denotes a called-out group or assembly, often for a religious or communal purpose.
 
 # Related words
-- Children of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
+- Children of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]], [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]
 - Congregation of Israel - Congregation: ēḏāh (עֵדָה) refers to a group of people assembled or gathered together, often with a sense of unity or purpose. It can denote a community, assembly, or congregation, particularly in a religious or communal context.
 - Sons of Israel - sometimes it means the literal sons, sometimes it means the Congregation of Israel.
 

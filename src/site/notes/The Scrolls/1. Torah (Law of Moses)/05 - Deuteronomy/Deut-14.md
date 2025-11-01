@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/05-deuteronomy/deut-14/","tags":["#TheScrolls","#TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/05-deuteronomy/deut-14/","tags":["TheScrolls","TorahLawofMoses"]}
 ---
 
 

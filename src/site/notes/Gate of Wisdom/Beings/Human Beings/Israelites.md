@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/israelites/","tags":["#GateWisdom","HumanBeing","I"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/israelites/","tags":["#GateWisdom","#HumanBeing","#I"]}
 ---
 
 # Define
-- 
+- Children Of = Congregation/Ekklesia = Congregation: ēḏāh (עֵדָה) refers to a group of people assembled or gathered together, often with a sense of unity or purpose. It can denote a community, assembly, or congregation, particularly in a religious or communal context.
+	- In the New Testament the Greek word is ekklēsia (ἐκκλησία) a gathering or assembly of people, often for a specific purpose, such as a public meeting or community. This word is typically translated as "church."
+- [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]: All the people, both Hebrew and foreigners, who came out of Egypt.
 
 # Related words
 - [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]

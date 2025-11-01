@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/edom/","tags":["#GateWisdom","#E","#RealmofHumans"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/realm-of-humans/edom/","tags":["GateWisdom","E","RealmofHumans"]}
 ---
 
 # Location: 

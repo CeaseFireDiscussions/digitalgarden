@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/shavuot/","tags":["GateWisdom","#AppointedTime","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/shavuot/","tags":["#GateWisdom","#AppointedTime","#S"]}
 ---
 
 
@@ -9,7 +9,7 @@ Shavuot, meaning "weeks" in Hebrew is one of the three pilgrimage festivals wher
 
 Exodus 23:16 and [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-34#v22\|Exod-34:22]] refer to Shavuot as the "Feast of Harvest" and the "Feast of Weeks," respectively, marking the first fruits of the wheat harvest. It is celebrated seven weeks after the offering of the omer (a sheaf of barley) during Passover ([[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-23#v15\|Lev-23:15]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-23#v16\|-16]]).
 
-Leviticus 23:15-21 provides detailed instructions: From the day after the [[Gate of Wisdom/Appointed Time/Sabbath\|Gate of Wisdom/Appointed Time/Sabbath]] following Passover, Israel was to count seven weeks (49 days), and on the 50th day, offer a new grain offering to God. This included two loaves of bread made from fine flour, along with animal sacrifices (sin offerings, burnt offerings, and peace offerings).
+Leviticus 23:15-21 provides detailed instructions: From the day after the [[Zunpublished/Sabbath\|Sabbath]] following Passover, Israel was to count seven weeks (49 days), and on the 50th day, offer a new grain offering to God. This included two loaves of bread made from fine flour, along with animal sacrifices (sin offerings, burnt offerings, and peace offerings).
 
 [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-16#v9\|Deut-16;9]][[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-16#v10\|Deut-16#v10]][[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-16#v11\|Deut-16#v11]][[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-16#v12\|-12]]  emphasizes counting seven weeks from the time the sickle is first put to the grain, culminating in a joyous festival where Israel, servants, Levites, foreigners, widows, and orphans celebrate God’s provision.
 

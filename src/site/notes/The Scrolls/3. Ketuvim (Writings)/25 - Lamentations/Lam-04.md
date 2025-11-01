@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/25-lamentations/lam-04/","tags":["#TheScrolls","#Ketuvim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/25-lamentations/lam-04/","tags":["TheScrolls","Ketuvim"]}
 ---
 
 # Lamentations 4

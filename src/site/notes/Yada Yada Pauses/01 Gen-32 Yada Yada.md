@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-32-yada-yada/","tags":["#TheScrolls","#TorahLawofMoses","#YadaYadaPauses","#G"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-32-yada-yada/","tags":["TheScrolls","TorahLawofMoses","YadaYadaPauses","G"]}
 ---
 
 For reading purposes [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|Gen-32]]

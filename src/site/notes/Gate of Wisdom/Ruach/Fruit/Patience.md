@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/fruit/patience/","tags":["#GateWisdom","#RuachFruit"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/ruach/fruit/patience/","tags":["#GateWisdom","RuachFruit"]}
 ---
 
 # Define

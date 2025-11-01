@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/18-job/job-23/","tags":["#TheScrolls","#Ketuvim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/18-job/job-23/","tags":["TheScrolls","Ketuvim"]}
 ---
 
 # Job 23

@@ -23,7 +23,7 @@ Jewsis Rabbis believe Moses came down with the second set of tablets [[Gate of W
 
 And this shall be a statute forever for you, that atonement  may be made for the people of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] once in the year because of all their sins.”  [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-16\|Lev-16]]  If an individual sins unintentionally, citizen of Israel or foreigner living among them, The priest will make atonement for him, and he will be forgiven Numbers 15:27-31 ([[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-15#v27\|Num-15#v27]]).
 
-You shall not do any work. It is a statute forever throughout your generations in all your dwelling places. It shall be to you a [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] of solemn rest, and you shall afflict yourselves.  [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-23\|Lev-23]] 
+You shall not do any work. It is a statute forever throughout your generations in all your dwelling places. It shall be to you a [[Zunpublished/Sabbath\|Sabbath]] of solemn rest, and you shall afflict yourselves.  [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-23\|Lev-23]] 
 
 # What to/not to do
 - make [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]
