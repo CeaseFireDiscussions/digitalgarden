@@ -16,10 +16,13 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Zunpublished/2025.11.08 Shabbat Reading\|2025.11.08 Shabbat Reading]]                                                                                                              |
+| [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                                                                                        |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)\|16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)]]                 |
+| [[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]]                                                                                                                            |
 | [[The Scrolls/Torah Portions/2025.11.01 Shabbat Reading\|2025.11.01 Shabbat Reading]]                                                                                                |
 | [[Gate of Wisdom/temptation\|temptation]]                                                                                                                                            |
 | [[Yada Yada Pauses/31 Obad-01 Yada Yada\|31 Obad-01 Yada Yada]]                                                                                                                      |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)\|16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)]]                 |
 | [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]                                                                                                                            |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/15 The Seventh Day Rest Cover Removed (11-2 Kings 16)\|15 The Seventh Day Rest Cover Removed (11-2 Kings 16)]]                   |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/14 The Seventh Day Rest is for Remembering (05-Deut 05)\|14 The Seventh Day Rest is for Remembering (05-Deut 05)]]               |
@@ -33,9 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Yada Yada Pauses/01 Gen-32 Yada Yada\|01 Gen-32 Yada Yada]]                                                                                                                        |
 | [[Gate of Wisdom/Lust\|Lust]]                                                                                                                                                        |
 | [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]]                                                                                                                     |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Peniel\|Peniel]]                                                                                                                    |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                                                                                                                           |
-| [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                                                                               |
 
 { .block-language-dataview}
 

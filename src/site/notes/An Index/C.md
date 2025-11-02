@@ -21,5 +21,6 @@
 - [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
+- [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 
 { .block-language-dataview}

@@ -15,5 +15,6 @@
 - [[Gate of Wisdom/Good News/Kingdom of Heaven\|Kingdom of Heaven]]
 - [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]
 - [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]
+- [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 
 { .block-language-dataview}
