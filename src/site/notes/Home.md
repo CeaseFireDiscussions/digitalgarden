@@ -16,6 +16,7 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[The Scrolls/Torah Portions/_ A Torah Portions Listing\|_ A Torah Portions Listing]]                                                                                                |
 | [[The Scrolls/Torah Portions/2025.11.08 Shabbat Reading\|2025.11.08 Shabbat Reading]]                                                                                                |
 | [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                                                                                        |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)\|16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)]]                 |
@@ -35,7 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Yada Yada Pauses/01 Gen-33 YadaYada\|01 Gen-33 YadaYada]]                                                                                                                          |
 | [[Yada Yada Pauses/01 Gen-32 Yada Yada\|01 Gen-32 Yada Yada]]                                                                                                                        |
 | [[Gate of Wisdom/Lust\|Lust]]                                                                                                                                                        |
-| [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]]                                                                                                                     |
 
 { .block-language-dataview}
 
