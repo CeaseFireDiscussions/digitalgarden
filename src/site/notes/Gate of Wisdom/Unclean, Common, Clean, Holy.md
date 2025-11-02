@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/unclean-common-clean-holy/","tags":["#thebrain","#GateWisdom","#C","#U","#H"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/unclean-common-clean-holy/","tags":["thebrain","GateWisdom","C","U","H"]}
 ---
 
 # Define

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/16-nehemiah/neh-13/","tags":["#TheScrolls","#Neviim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/16-nehemiah/neh-13/","tags":["TheScrolls","Neviim"]}
 ---
 
 

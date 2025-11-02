@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/34-nahum/nah-01/","tags":["#TheScrolls","#ne"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/34-nahum/nah-01/","tags":["TheScrolls","ne"]}
 ---
 
 
