@@ -1,31 +1,48 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/17-the-seventh-day-rest-is-not-for-doing-business-16-nehemiah-10/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/18-the-seventh-day-rest-is-burden-free-16-nehemiah-13/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
 ---
 
 The common belief is the Seventh Day Rest (later known as [[Zunpublished/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Nehemiah 10:31 [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-10\|Neh-10]]
+# Scripture: Nehemiah 13:15-22 [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-13\|Neh-13]]
 
-... joined with their brothers, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of Yahweh our Lord, and his ordinances and his statutes; and that we would not give our daughters to the peoples of the land, nor take their daughters for our sons; 
+In those days I //[[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]]// saw some men <mark style="background: #04CD3EA6;">treading wine presses</mark> <mark style="background: #D2B3FFA6;">on the Sabbath</mark> <mark style="background: #4DA6EDA6;">in Judah</mark>, <mark style="background: #04CD3EA6;">bringing in sheaves</mark>, and <mark style="background: #04CD3EA6;">loading donkeys</mark>; also with wine, grapes, figs, and all kinds of burdens, which they brought <mark style="background: #4DA6EDA6;">into Jerusalem</mark> <mark style="background: #D2B3FFA6;">on the Sabbath day</mark>; and I testified against them in the day in which they <mark style="background: #04CD3EA6;">sold food</mark>. 
 
-**v 31** and if the <mark style="background: #E0CC4BA6;">peoples of the land</mark> <mark style="background: #04CD3EA6;">bring wares or any grain </mark><mark style="background: #D2B3FFA6;">on the Sabbath day</mark> to sell, that <mark style="background: #04CD3EA6;">we would not buy from them</mark> <mark style="background: #D2B3FFA6;">on the Sabbath</mark>, <mark style="background: #D2B3FFA6;">or on a holy day</mark>; and that <mark style="background: #B2A23AA6;">we</mark> <mark style="background: #04CD3EA6;">would forego the seventh year</mark>, and <mark style="background: #04CD3EA6;">the exaction of every debt</mark>. 
+Some men of Tyre also lived there, who <mark style="background: #04CD3EA6;">brought in fish and all kinds of wares</mark>, <mark style="background: #04CD3EA6;">and sold</mark> <mark style="background: #D2B3FFA6;">on the Sabbath</mark> <mark style="background: #E0CC4BA6;">to the children of Judah</mark>, and <mark style="background: #4DA6EDA6;">in Jerusalem</mark>. Then I contended with the nobles of Judah, and said to them, "What <mark style="background: #04CD3EA6;">evil thing is this that you do</mark>, and <mark style="background: #04CD3EA6;">profane the Sabbath day</mark>? Didn't your fathers do this, and didn't our God bring all this evil on us, and on this city? Yet <mark style="background: #04CD3EA6;">you bring more wrath on Israel</mark> <mark style="background: #04CD3EA6;">by profaning the Sabbath</mark>." 
 
-Also we made ordinances for ourselves, to charge ourselves yearly with the third part of a shekel for the service of the house of our God; for the show bread, for the continual meal offering, for the continual burnt offering, for the Sabbaths, for the new moons, for the set feasts, and for the holy things, and for the sin offerings to make atonement for Israel, and for all the work of the house of our God. 
+It came to pass that when the gates of Jerusalem began to be <mark style="background: #D2B3FFA6;">dark before the Sabbath</mark>, I commanded that the <mark style="background: #04CD3EA6;">doors should be shut</mark>, and commanded that they should not be opened <mark style="background: #D2B3FFA6;">until after the Sabbath</mark>. I set some of my servants over the gates, so that <mark style="background: #04CD3EA6;">no burden should be brought</mark> in <mark style="background: #D2B3FFA6;">on the Sabbath day</mark>. 
+
+So the merchants and sellers of all kinds of wares camped outside of Jerusalem once or twice. Then I testified against them, and said to them, "Why do you stay around the wall? If you do so again, I will lay hands on you." <mark style="background: #D2B3FFA6;">From that time on</mark>, they <mark style="background: #D2B3FFA6;">didn't come on the Sabbath</mark>. 
+
+I commanded the Levites that they should purify themselves, and that they should come and keep the gates, to <mark style="background: #04CD3EA6;">sanctify the Sabbath day</mark>. Remember me for this also, my God, and spare me according to the greatness of your loving kindness. 
+
 ## **Define**: 
-- 
+- Profane chalal ( חָלַל) - Root Meaning: "to pierce, to wound, to bore through" figuratively: to break, to violate, to make common. To treat as common what God has set apart as holy.
+- Sanctify qadash ( קָדַשׁ) - to set apart, to make [[Gate of Wisdom/Holy\|Holy]], to consecrate. To set apart from the common and dedicate to God making something or someone holy
+- [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+
 ## **Who**:
-- peoples of the land - those who did not separate themselves to the law of God - not followers of YHWH
-- we - all those who had separated themselves from the peoples of the lands to the law of God, followers of YHWH
+-  [[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]], nobles of Judah, Nehemiah's servants, Levities - all those who had separated themselves from the peoples of the lands to the law of God, followers of YHWH
+- some men, merchants, and sellers - those who did not separate themselves to the law of God - not followers of YHWH
 
 ## **What**: 
-- The followers of YHWH would not buy on the Sabbath (Seventh Day Rest) or on a holy day (SabbathS) ([[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v8\|Exod-20#v8]]-11)
+- Profaned the Sabbath (Seventh Day Rest) - evil things on the Sabbath :
+	- treading wine presses
+	- bringing in sheaves
+	- loading donkeys with burdens
+	- brought fish and wares to sell
+- Sanctify the Sabbath
+	- doors shut to merchants
+	- No burden's should be brought
 ## **When**:
 - On the 1st day of the Seventh Month ([[Zunpublished/Feast of Trumpets\|Feast of Trumpets]] (Yom Teru'ah)) they began reading the law. Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance. [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-08\|Neh-08]]
 - On the twenty-fourth day of this month, they renew the covenant which includes this portion about the Sabbath (Seventh Day Rest).  [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-09\|Neh-09]]
 
 ## **Why**: 
-- In Nehemiah 9 the people realize their "fathers have not kept your law, nor listened to your commandments and your testimonies with which you testified against them." [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-09\|Neh-09]]
+- To keep from profaning the Sabbath.
+- To sanctify the Sabbath.
+- To keep to the covenant they just made.
 
 # Findings
 
@@ -41,10 +58,7 @@ Also we made ordinances for ourselves, to charge ourselves yearly with the third
 
 ## Other Notes:
 
-- They just spent 24 days reading the [[Gate of Wisdom/Torah\|Torah]] Scrolls, which ends in them humbling themselves, repenting, and renewing a covenant with YHWH. Part of that is the realization about not buying on the Sabbath. 
-- At this point, we've looked at every scripture which has come before this as the current Bible is laid out. We haven't seen anything about buying on the Sabbath day. However, Jeremiah lived and prophesied ~180 years before Nehemiah. Jeremiah records YHWH talking to this subject in [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-17\|Jer-17]] which Nehemiah would have known about. We will cover that when we get there. 
-
-
+- At this point, we've looked at every scripture which has come before this as the current Bible is laid out. We haven't seen anything about burdens on the Sabbath day. However, Jeremiah lived and prophesied ~180 years before Nehemiah. Jeremiah records YHWH talking to this subject in [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-17\|Jer-17]] which Nehemiah would have known about. We will cover that when we get there. 
 
 # Connections
 
