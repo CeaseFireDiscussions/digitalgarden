@@ -16,10 +16,12 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[The Scrolls/Torah Portions/2025.11.08 Shabbat Reading\|2025.11.08 Shabbat Reading]]                                                                                                        |
+| [[Gate of Wisdom/Beings/Nahum\|Nahum]]                                                                                                                                                       |
+| [[Yada Yada Pauses/01 Gen-33 YadaYada\|01 Gen-33 YadaYada]]                                                                                                                                  |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)\|18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)]]                       |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/17 The Seventh Day Rest is Not for Doing Business (16 Nehemiah 10)\|17 The Seventh Day Rest is Not for Doing Business (16 Nehemiah 10)]] |
 | [[The Scrolls/Torah Portions/_ A Torah Portions Listing\|_ A Torah Portions Listing]]                                                                                                        |
-| [[The Scrolls/Torah Portions/2025.11.08 Shabbat Reading\|2025.11.08 Shabbat Reading]]                                                                                                        |
 | [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                                                                                                |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)\|16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)]]                         |
 | [[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]]                                                                                                                                    |
@@ -34,8 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Olive Branch Reconciliations/The Seventh Day Rest/11 The Seventh YEAR Rest is for the Land (03-Lev 25)\|11 The Seventh YEAR Rest is for the Land (03-Lev 25)]]                             |
 | [[Gate of Wisdom/Save\|Save]]                                                                                                                                                                |
 | [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yada Yada]]                                                                                                                            |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]                                                                                                                                |
-| [[Yada Yada Pauses/01 Gen-33 YadaYada\|01 Gen-33 YadaYada]]                                                                                                                                  |
 
 { .block-language-dataview}
 

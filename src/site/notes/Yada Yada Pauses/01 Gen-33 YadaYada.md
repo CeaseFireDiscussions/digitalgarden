@@ -23,7 +23,7 @@ For reading purposes [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\|
 
 ## When:
 - Date Authored: 
-- Date takes place: 
+- Date takes place: Patriarchal period (c. 1900–1800 BC)
 
 ## Where: 
 - Mahanaim to Penuel [[Gate of Wisdom/Dwelling Places/Realm of Humans/Peniel\|Peniel]] to Succoth (biblical); east of Jordan (location); near Zarqa River area, Jordan (modern)

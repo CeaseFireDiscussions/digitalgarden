@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/43-john/john-17/","tags":["TheScrolls","GospelsApostles"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/43-john/john-17/","tags":["#TheScrolls","#GospelsApostles"]}
 ---
 
 # John 17
 
 
-[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-16\|← John 16]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-18\|John 18 →]]
+[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-16\|← John 16]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|The Scrolls/4. The Gospels and The Apostles/43 - John/John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-18\|John 18 →]]
 ***
 
 
@@ -89,4 +89,4 @@ Righteous Father, the world hasn't known you, but I knew you; and these knew tha
 I made known to them your name, and will make it known; that the love with which you loved me may be in them, and I in them."
 
 ***
-[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-16\|← John 16]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-18\|John 18 →]]
+[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-16\|← John 16]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|The Scrolls/4. The Gospels and The Apostles/43 - John/John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-18\|John 18 →]]

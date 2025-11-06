@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/43-john/john-13/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/43-john/john-13/","tags":["#TheScrolls","#TorahLawofMoses"]}
 ---
 
 
 # John 13
 
-[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-12\|← John 12]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-14\|John 14 →]]
+[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-12\|← John 12]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|The Scrolls/4. The Gospels and The Apostles/43 - John/John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-14\|John 14 →]]
 ***
 
 
@@ -125,4 +125,4 @@ Peter said to him, "Lord, why can't I follow you now? I will lay down my life fo
 Jesus answered him, "Will you lay down your life for me? Most certainly I tell you, the rooster won't crow until you have denied me three times.
 
 ***
-[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-12\|← John 12]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-14\|John 14 →]]
+[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-12\|← John 12]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|The Scrolls/4. The Gospels and The Apostles/43 - John/John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-14\|John 14 →]]

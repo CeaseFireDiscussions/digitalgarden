@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/43-john/john-06/","tags":["TheScrolls","GospelsApostles"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/43-john/john-06/","tags":["#TheScrolls","#GospelsApostles"]}
 ---
 
 
 # John 6
 
-[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-05\|← John 05]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-07\|John 07 →]]
+[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-05\|← John 05]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|The Scrolls/4. The Gospels and The Apostles/43 - John/John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-07\|John 07 →]]
 ***
 
 
@@ -224,4 +224,4 @@ Jesus answered them, "Didn't I choose you, the twelve, and one of you is a devil
 Now he spoke of Judas, the son of Simon Iscariot, for it was he who would betray him, being one of the twelve.
 
 ***
-[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-05\|← John 05]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-07\|John 07 →]]
+[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-05\|← John 05]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|The Scrolls/4. The Gospels and The Apostles/43 - John/John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-07\|John 07 →]]

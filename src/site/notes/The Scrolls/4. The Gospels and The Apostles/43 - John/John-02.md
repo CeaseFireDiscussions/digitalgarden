@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/43-john/john-02/","tags":["TheScrolls","GospelsApostles"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/43-john/john-02/","tags":["#TheScrolls","#GospelsApostles"]}
 ---
 
 
 # John 2
 
-[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-01\|← John 01]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-03\|John 03 →]]
+[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-01\|← John 01]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|The Scrolls/4. The Gospels and The Apostles/43 - John/John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-03\|John 03 →]]
 ***
 
 
@@ -86,4 +86,4 @@ But Jesus didn't entrust himself to them, because he knew everyone,
 and because he didn't need for anyone to testify concerning man; for he himself knew what was in man.
 
 ***
-[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-01\|← John 01]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-03\|John 03 →]]
+[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-01\|← John 01]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John\|The Scrolls/4. The Gospels and The Apostles/43 - John/John]] | [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-03\|John 03 →]]
