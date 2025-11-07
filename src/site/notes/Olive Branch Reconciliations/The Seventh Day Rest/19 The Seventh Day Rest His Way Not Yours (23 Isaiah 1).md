@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/19-the-seventh-day-rest-his-way-not-yours-23-isaiah-1/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest","#S"]}
 ---
 
-The common belief is the Seventh Day Rest (later known as [[Zunpublished/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
+The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
 # Scripture: Isaiah 1:13 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-01\|Isa-01]]
@@ -56,7 +56,7 @@ Let's see what scripture says about that starting at the very beginning and then
 ## Other Notes:
 - There are other scriptures later which will show YHWH delights in these when they are done his way and not in vain. [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-10\|Neh-10]]. 
 - These things will be observed in the Millennial (1,000-year) kingdom, [[The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-45\|Ezek-45]] 
-- He was burdened because they kept the rituals but corrupted them, he rejects worship that bears His name but not his ways  (YOUR ... VAIN ... ABOMINATION ... EVIL ... HATES)
+- He was burdened because they kept His commandments and festivals but corrupted them with their own ways, he rejects worship that bears His name but not his ways  (YOUR ... VAIN ... ABOMINATION ... EVIL ... HATES)
 	- [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-32\|Exod-32]]  "When Aaron saw this, he built an altar before it; and Aaron made a proclamation, and said, "**Tomorrow shall be a feast to Yahweh.""** ... Yahweh said to Moses, "I have seen these people, and behold, they are a stiff-necked people. ... Now therefore leave me alone, that my wrath may burn hot against them, and that I may consume them; and I will make of you a great nation."
 	- [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66\|Isa-66]] He who kills an ox is as he who kills a man; he who sacrifices a lamb, as he who breaks a dog's neck; he who offers an offering, as he who offers pig's blood; he who burns frankincense, as he who blesses an idol. Yes, **they have chosen their own ways, and their soul delights in their abominations**:
 	- [[The Scrolls/2. Nevi'im (Prophets)/30 - Amos/Am-05\|Am-05]] I **hate, I despise your feasts, and I can't stand your solemn assemblies**. Yes, though you offer me your burnt offerings and meal offerings, I will not accept them; neither will I regard the peace offerings of your fat animals. Take away from me the noise of your songs! I will not listen to the music of your harps. 

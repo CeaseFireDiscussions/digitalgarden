@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/17-the-seventh-day-rest-is-not-for-doing-business-16-nehemiah-10/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
 ---
 
-The common belief is the Seventh Day Rest (later known as [[Zunpublished/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
+The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
 # Scripture: Nehemiah 10:31 [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-10\|Neh-10]]

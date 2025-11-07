@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/15-the-seventh-day-rest-cover-removed-11-2-kings-16/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"]}
 ---
 
-The common belief is the Seventh Day Rest (later known as [[Zunpublished/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
+The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
 # Scripture: 2 Kings 16:16-18 [[The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-16#v16\|2 Kings-16#v16]]

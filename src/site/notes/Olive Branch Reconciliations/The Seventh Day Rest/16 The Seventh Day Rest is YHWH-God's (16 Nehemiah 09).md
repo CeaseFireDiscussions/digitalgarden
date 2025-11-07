@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/16-the-seventh-day-rest-is-yhwh-god-s-16-nehemiah-09/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"]}
 ---
 
-The common belief is the Seventh Day Rest (later known as [[Zunpublished/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
+The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
 # Scripture: Nehemiah 9:14 [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-09\|Neh-09]]
@@ -16,7 +16,7 @@ Let's see what scripture says about that starting at the very beginning and then
 - Statues [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] Laws without explicit rationales, often ritual or symbolic (e.g., dietary laws, festivals).
 - Commandments [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] General commandments, often moral or religious duties (e.g., love God, keep commandments).
 - [[Gate of Wisdom/Holy\|Holy]] "set apart," "separate," or "consecrated" for a special purpose. 
-- [[Zunpublished/Sabbath\|Sabbath]] cease, desist, rest, a solemn rest day
+- [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] cease, desist, rest, a solemn rest day
 ## **Who**:
 - You =  YHWH
 - Them = [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]

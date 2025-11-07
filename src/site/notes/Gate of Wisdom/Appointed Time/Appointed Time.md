@@ -8,7 +8,7 @@
 
 # Summary
 
-Exodus 31  - Shabbatot [[Zunpublished/Sabbath\|Sabbath]]
+Exodus 31  - Shabbatot [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
 - Weekly
 	- Seventh Day Rest/Shabbat   Exodus 16 , Exodus 20 , Exodus 31,   Leviticus 23 , Numbers 28 -29)-29
 		- convocation     Leviticus 23
@@ -175,7 +175,7 @@ Source: Almond House Fellowship]
 - [[Zunpublished/New Moon\|New Moon]]
 - [[Zunpublished/Passover\|Passover]]
 - [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]]
-- [[Zunpublished/Sabbath\|Zunpublished/Sabbath]]
+- [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
 - [[Zunpublished/Seventh Year\|Seventh Year]]
 - [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
 - [[Zunpublished/Tabernacles\|Tabernacles]]

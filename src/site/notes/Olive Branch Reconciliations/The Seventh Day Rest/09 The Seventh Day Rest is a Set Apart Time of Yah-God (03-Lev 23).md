@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/09-the-seventh-day-rest-is-a-set-apart-time-of-yah-god-03-lev-23/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"]}
 ---
 
-The common belief is the Seventh Day Rest (later known as [[Zunpublished/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
+The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
 # Scripture: Leviticus 23:2-3
@@ -27,7 +27,7 @@ Let's see what scripture says about that starting at the very beginning and then
 - Each appointed time has it's set time listed in this chapter. 
 
 ## **Why**: 
-- It is a [[Zunpublished/Sabbath\|Sabbath]] to YHWH in all dwellings.
+- It is a [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] to YHWH in all dwellings.
 
 # Findings
 

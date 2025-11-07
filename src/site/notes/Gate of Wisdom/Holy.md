@@ -16,6 +16,6 @@
 
 
 # Connections
-- The word distinguishes the sacred from the profane, such as the [[Zunpublished/Sabbath\|Sabbath]] (kodesh) from the rest of the week
+- The word distinguishes the sacred from the profane, such as the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] (kodesh) from the rest of the week
 - [[Gate of Wisdom/Ruach/Holy Spirit\|Holy Spirit]] / [[Gate of Wisdom/Ruach/Ruach\|Ruach]]- 
 

@@ -28,6 +28,7 @@
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Morning Star\|Morning Star]]
 - [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]
+- [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
 - [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]]
 - [[Gate of Wisdom/Beings/Satan\|Satan]]
 - [[Gate of Wisdom/Save\|Save]]

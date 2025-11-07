@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/02-the-seventh-day-rest-was-for-them-02-exod-16/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest","S"]}
 ---
 
-The common belief is the Seventh Day Rest (later known as [[Zunpublished/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
+The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
 # Scripture: Exodus 16:21-30 
@@ -30,7 +30,7 @@ So the <mark style="background: #E0CC4BA6;">people</mark> <mark style="backgroun
 ## **Define**: 
 - [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]: Congregation ēḏāh (עֵדָה); Church ekklesia (ἐκκλησία)
 - [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]: All the people, both Hebrew and foreigners, who came out of Egypt.
-- [[Zunpublished/Sabbath\|Sabbath]]/ Shabbat: (שַׁבָּת) comes from the root שׁבת (sh-b-t), which means "to cease," "to rest," or "to stop." The term embodies the idea of ceasing work to honor God. It signifies both physical rest and a sacred time dedicated to God.
+- [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]/ Shabbat: (שַׁבָּת) comes from the root שׁבת (sh-b-t), which means "to cease," "to rest," or "to stop." The term embodies the idea of ceasing work to honor God. It signifies both physical rest and a sacred time dedicated to God.
 
 ## **Who**:
 -  They - They gathered ...  

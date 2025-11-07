@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/12-the-seventh-day-rest-carries-a-penalty-of-death-04-num-15/","tags":["#OliveBranch","#Sabbath","SeventhDayRest","S"]}
 ---
 
-The common belief is the Seventh Day Rest (later known as [[Zunpublished/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
+The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
 # Scripture: Numbers 15:32-36 [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-15#v32\|Num-15#v32]]
@@ -24,7 +24,7 @@ Let's see what scripture says about that starting at the very beginning and then
 ## **What**: 
 - Kept him in custody because it had not been declared what should be done with him
 - Gathering sticks on the Sabbath
-	- work is not permitted on the [[Zunpublished/Sabbath\|Sabbath]]
+	- work is not permitted on the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
 - Death with Stones
 	- the penalty of working on the Sabbath is death.
 ## **When**:
