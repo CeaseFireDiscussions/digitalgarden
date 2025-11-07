@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/28-hosea/hos-02/","tags":["#TheScrolls","#Neviim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/28-hosea/hos-02/","tags":["TheScrolls","Neviim"]}
 ---
 
 

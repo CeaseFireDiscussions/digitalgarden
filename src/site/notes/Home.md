@@ -16,7 +16,7 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/19 The Seventh Day Rest As A Burden to YHWH (23 Isaiah 1)\|19 The Seventh Day Rest As A Burden to YHWH (23 Isaiah 1)]]                   |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)\|19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)]]                       |
 | [[The Scrolls/Torah Portions/2025.11.08 Shabbat Reading\|2025.11.08 Shabbat Reading]]                                                                                                        |
 | [[Gate of Wisdom/Beings/Nahum\|Nahum]]                                                                                                                                                       |
 | [[Yada Yada Pauses/01 Gen-33 YadaYada\|01 Gen-33 YadaYada]]                                                                                                                                  |
