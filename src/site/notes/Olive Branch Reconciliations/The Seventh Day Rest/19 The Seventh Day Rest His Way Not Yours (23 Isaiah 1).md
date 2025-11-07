@@ -47,6 +47,7 @@ Let's see what scripture says about that starting at the very beginning and then
 	- The tribe of Benjamin (absorbed into Judah after 722 BC)
 	- Remnants of Levi (priests and Levites who fled north or stayed in Jerusalem)
 	- Some survivors from other tribes who defected south after Israel’s fall (2 Chr 11:13–17; 15:9).
+	- The Multitude (non-native [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]] - 2 Kings 25) who chose to follow YHWH.
 - The "Jews" (followers of Judaism) referred to in the New Testament do not exist yet.
 
 ## Jesus replaced the Sabbath:
@@ -76,15 +77,15 @@ Let's see what scripture says about that starting at the very beginning and then
 - [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/06 The Seventh Day Rest is for God's People (02-Exod 34)\|06 The Seventh Day Rest is for God's People (02-Exod 34)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)\|08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28)\|13 The Seventh Day Rest is for Offering (04-Num 28)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/15 The Seventh Day Rest Cover Removed (11-2 Kings 16)\|15 The Seventh Day Rest Cover Removed (11-2 Kings 16)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/14 The Seventh Day Rest is for Remembering (05-Deut 05)\|14 The Seventh Day Rest is for Remembering (05-Deut 05)]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/15 The Seventh Day Rest Cover Removed (11-2 Kings 16)\|15 The Seventh Day Rest Cover Removed (11-2 Kings 16)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)\|16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/17 The Seventh Day Rest is Not for Doing Business (16 Nehemiah 10)\|17 The Seventh Day Rest is Not for Doing Business (16 Nehemiah 10)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)\|18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)]]
