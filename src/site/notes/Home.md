@@ -16,6 +16,9 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Yada Yada Pauses/62 1 John-03 Yada Yada\|62 1 John-03 Yada Yada]]                                                                                                                          |
+| [[Gate of Wisdom/Beings/Children of God\|Children of God]]                                                                                                                                   |
+| [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]                                                                                                              |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)\|19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)]]                       |
 | [[The Scrolls/Torah Portions/2025.11.08 Shabbat Reading\|2025.11.08 Shabbat Reading]]                                                                                                        |
 | [[Gate of Wisdom/Beings/Nahum\|Nahum]]                                                                                                                                                       |
@@ -33,9 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Olive Branch Reconciliations/The Seventh Day Rest/15 The Seventh Day Rest Cover Removed (11-2 Kings 16)\|15 The Seventh Day Rest Cover Removed (11-2 Kings 16)]]                           |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/14 The Seventh Day Rest is for Remembering (05-Deut 05)\|14 The Seventh Day Rest is for Remembering (05-Deut 05)]]                       |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28)\|13 The Seventh Day Rest is for Offering (04-Num 28)]]                               |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]         |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/11 The Seventh YEAR Rest is for the Land (03-Lev 25)\|11 The Seventh YEAR Rest is for the Land (03-Lev 25)]]                             |
-| [[Gate of Wisdom/Save\|Save]]                                                                                                                                                                |
 
 { .block-language-dataview}
 

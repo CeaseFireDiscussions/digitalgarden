@@ -21,16 +21,6 @@
 - Fourth commandment in the Decalogue (Exod 20:8-11; Deut 5:12-15).
 - Prophetic restoration (Isa 56:2-6; 66:23; Ezek 44:24; 46:1-3).
 
-
-
-
-Check out our youtube looking at every single occurrence:  
-
-[](https://youtu.be/-6fYhyNBjNU)
-
-See [[Gate of Wisdom/Seventh Day\|Seventh Day]]
-
-
 # Who Observes?
 
 - Genesis 2 :2-3 

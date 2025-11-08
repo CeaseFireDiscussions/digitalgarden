@@ -13,7 +13,6 @@
 - [[Gate of Wisdom/Birthright\|Birthright]]
 - [[Gate of Wisdom/Bitterness\|Bitterness]]
 - [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]
-- [[Gate of Wisdom/Covenant/Blood\|Blood]]
 - [[Gate of Wisdom/Bronze\|Bronze]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]

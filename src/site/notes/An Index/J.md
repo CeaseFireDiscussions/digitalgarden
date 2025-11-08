@@ -11,6 +11,7 @@
 - [[Gate of Wisdom/Beings/Heavenly Beings/Jesus\|Jesus]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]
+- [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]
 - [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]
 - [[Gate of Wisdom/Judge\|Judge]]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/66-revelation/rev-22/","tags":["TheScrolls","GospelsApostles"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/66-revelation/rev-22/","tags":["#TheScrolls","#GospelsApostles"]}
 ---
 
 # Setting
 ## Who:
-- Author: [[Zunpublished/John\|John]]
+- Author: [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]
 - Audience: servants of God
 - Bullet list Characters and People Groups: 
 	- Jesus

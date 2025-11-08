@@ -1,29 +1,55 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/62-1-john/1-john-03/","tags":["TheScrolls","GospelsApostles"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/62-1-john/1-john-03/","tags":["#TheScrolls","#GospelsApostles"]}
 ---
 
+In depth look: [[Yada Yada Pauses/62 1 John-03 Yada Yada\|62 1 John-03 Yada Yada]]
+# Setting
+## Who:
+- Author: [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]
+- Audience: Not explicitly named
+	- Believers in [[Zunpublished/Jesus\|Jesus]]
+	- Know the truth and have received the anointing of the Holy Spirit
+	- Children of God
+- Bullet list Characters and People Groups: 
+	- Cain
+	- [[Gate of Wisdom/Beings/Children of God\|Children of God]]
+	- children of the [[Gate of Wisdom/Beings/Devil\|Devil]]
+	- [[Gate of Wisdom/Beings/Devil\|Devil]]
+	- God
+	- Jesus Christ
+	- [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
+	- [[Gate of Wisdom/Beings/Heavenly Beings/Sons of God\|Sons of God]]
+- Symbolic Roles: 
+	- Deceiver: devil
+	- Deceived: those who practice sin / children of the devil
+	- Savior: the Son of God (Jesus, the Messiah)
+## What:
+- **Main Storyline:** Contrast between the children of God and the children of the devil; living in [[Gate of Wisdom/Righteousness\|Righteousness]] and love versus sin and hatred; The Messiah revealed to take away sin and destroy the works of the devil.
+## When:
+- Date Authored:
+- Date takes place:
+## Where: 
+- biblical name, location and modern day name, location
 
 # 1 John 3
 
 [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-02\|← 1 John 02]] | [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John\|1 John]] | [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-04\|1 John 04 →]]
 ***
 
-
-
 ###### v1 
 See how great a love the Father has given to us, that we should be called children of God! For this cause the world doesn't know us, because it didn't know him. 
 
 ###### v2 
-Beloved, now we are children of God. It is not yet revealed what we will be; but we know that when he is revealed, we will be like him; for we will see him just as he is. 
+Beloved, now we are children of God. It is not yet revealed what we will be; but we know that when he is revealed, we will be like him; for we will see him just as he is.
 
 ###### v3 
-Everyone who has this hope set on him purifies himself, even as he is pure. 
+Everyone who has this hope set on him purifies himself, even as he is pure.
 
 ###### v4 
-Everyone who sins also commits lawlessness. Sin is lawlessness. 
+Everyone who sins also commits lawlessness. Sin is lawlessness[^3]. 
 
 ###### v5 
-You know that he was revealed to take away our sins, and no sin is in him. 
+You know that he was revealed to take away our sins, and no sin is in him.
 
 ###### v6 
 Whoever remains in him doesn't sin. Whoever sins hasn't seen him and doesn't know him. 
@@ -32,13 +58,13 @@ Whoever remains in him doesn't sin. Whoever sins hasn't seen him and doesn't kno
 Little children, let no one lead you astray. He who does righteousness is righteous, even as he is righteous. 
 
 ###### v8 
-He who sins is of the devil, for the devil has been sinning from the beginning. To this end the Son of God was revealed: that he might destroy the works of the devil. 
+He who sins is of the devil[^2], for the devil has been sinning from the beginning. To this end the Son of God was revealed: that he might destroy the works of the devil.
 
 ###### v9 
 Whoever is born of God doesn't commit sin, because his seed remains in him, and he can't sin, because he is born of God. 
 
 ###### v10 
-In this the children of God are revealed, and the children of the devil. Whoever doesn't do righteousness is not of God, neither is he who doesn't love his brother. 
+In this the children of God are revealed, and the children of the devil. Whoever doesn't do righteousness is not of God[^1], neither is he who doesn't love his brother. 
 
 ###### v11 
 For this is the message which you heard from the beginning, that we should love one another; 
@@ -53,7 +79,7 @@ Don't be surprised, my brothers, if the world hates you.
 We know that we have passed out of death into life, because we love the brothers. He who doesn't love his brother remains in death. 
 
 ###### v15 
-Whoever hates his brother is a murderer, and you know that no murderer has eternal life remaining in him. 
+Whoever hates his brother is a murderer, and you know that no murderer has eternal life remaining in him.
 
 ###### v16 
 By this we know love, because he laid down his life for us. And we ought to lay down our lives for the brothers. 
@@ -77,10 +103,43 @@ Beloved, if our hearts don't condemn us, we have boldness toward God;
 so whatever we ask, we receive from him, because we keep his commandments and do the things that are pleasing in his sight. 
 
 ###### v23 
-This is his commandment, that we should believe in the name of his Son, Jesus Christ, and love one another, even as he commanded. 
+This is his commandment, that we should believe in the name of his Son, Jesus Christ, and love one another, even as he commanded.
 
 ###### v24 
 He who keeps his commandments remains in him, and he in him. By this we know that he remains in us, by the Spirit which he gave us.
 
 ***
 [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-02\|← 1 John 02]] | [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John\|1 John]] | [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-04\|1 John 04 →]]
+
+# Connections
+- Repeated Words: 
+	- abide (6)        
+    - brother (8)        
+    - child / children (7)        
+    - devil (4)        
+    - God (13)        
+    - love (7)        
+    - sin (9)        
+    - righteous / righteousness (5)        
+    - world (4)
+- Other related scriptures
+	- 1 John 2:29
+	- 1 John 4:7
+	- 1 John 5:1
+	- John 8:44
+	- Genesis 4:8        
+    - Isaiah 53:5        
+    - Leviticus 19:18        
+    - Deuteronomy 14:1        
+    - Psalm 24:3–4        
+    - Proverbs 4:18        
+    - Genesis 3:15        
+    - Ezekiel 36:26–27
+	
+
+
+[^1]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Whoever doesn't do righteounsess is not of God
+
+[^2]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] He who sins is of the devil
+
+[^3]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Everyone who sins also commits lawlessness. Sin is lawlessness
