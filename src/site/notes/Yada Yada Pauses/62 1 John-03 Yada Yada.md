@@ -117,6 +117,7 @@ Ease of reading [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John
 								- my brothers,
 								- if the world hates you[^15]. [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-11#v9\|Gen-11#v9]]
 #### The Righteous (children of God, not sinning, not lawless) love others, the unrighteous (children of the adversary, sinning and lawless) hate others. [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-22#v40\|Matt-22#v40]] "The whole law and the prophets depend on these two commandments ..." 
+#### Children of ... goes back to the two seeds - [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-03#v15\|Gen-03#v15]]
 
 - We know that <mark style="background: #E0CC4BA6;">we</mark> <mark style="background: #CD04BBA6;">//believers who have receive the Ruach//</mark>
 	- have passed out of death into life[^12], [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-30#v19\|Deut-30#v19]]
