@@ -58,7 +58,7 @@ Whoever remains in him doesn't sin. Whoever sins hasn't seen him and doesn't kno
 Little children, let no one lead you astray. He who does righteousness is righteous, even as he is righteous. 
 
 ###### v8 
-He who sins is of the devil[^2], for the devil has been sinning from the beginning. To this end the Son of God was revealed: that he might destroy the works of the devil.
+He who sins is of the devil[^2], for the devil has been sinning from the beginning. To this end the Son of God was revealed: that he might destroy the works of the devil[^4].
 
 ###### v9 
 Whoever is born of God doesn't commit sin, because his seed remains in him, and he can't sin, because he is born of God. 
@@ -143,3 +143,5 @@ He who keeps his commandments remains in him, and he in him. By this we know tha
 [^2]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] He who sins is of the devil
 
 [^3]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] Everyone who sins also commits lawlessness. Sin is lawlessness
+
+[^4]: [[Gate of Wisdom/Good News/Atonement\|Atonement]] came to destroy the works (sin and lawlessness) of the adversary

@@ -7,7 +7,7 @@
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
 - [[Gate of Wisdom/Righteousness\|Righteousness]]
 - [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
-- [[Unrighteousness\|Unrighteousness]]
+- [[Zunpublished/Unrighteousness\|Unrighteousness]]
 - [[Zunpublished/Clean\|Clean]]
 - [[Zunpublished/Unclean\|Unclean]]
 - [[Gate of Wisdom/Holy\|Holy]]

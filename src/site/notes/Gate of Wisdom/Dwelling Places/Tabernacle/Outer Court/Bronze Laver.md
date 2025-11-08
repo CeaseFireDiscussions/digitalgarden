@@ -35,7 +35,7 @@ However, the Bible, does not make a direct connection between the bronze laver a
 ## God provided a way.
 
 Before [[Zunpublished/Jesus\|Zunpublished/Jesus]], one came preparing a way, he was called John the Baptizer.
-	 John called people to an immersion in the river as a baptism of repentance from sin, marking a turning away from [[Zunpublished/Lawlessness\|Lawlessness]] ([[Zunpublished/Sin\|Sin]]). This is referred to as John's Baptism.
+	 John called people to an immersion in the river as a baptism of repentance from sin, marking a turning away from [[Gate of Wisdom/Lawlessness\|Lawlessness]] ([[Zunpublished/Sin\|Sin]]). This is referred to as John's Baptism.
 At the Passover Meal, Jesus, as the Bread of Life, offered the unleavened bread as his body, in memory of himself.
 	 The bread representing dying to lawlessness (sin). Jesus was buried on the Feast of Unleavened Bread.
 	 They had always eaten the unleavened bread at the Passover Meal, but Jesus changed why, he said to eat it at the Passover Meal in remembrance of him.

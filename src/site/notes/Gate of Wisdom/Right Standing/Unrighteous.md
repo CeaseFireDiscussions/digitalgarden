@@ -13,7 +13,7 @@
 - pesha‘ (פֶּשַׁע): Transgression, rebellion, often associated with the wicked (rāshā‘)
 - dikaiosynē (δικαιοσύνη) [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
 - hamartia (ἁμαρτία) [[Zunpublished/Sin\|Sin]]
-- anomia (ἀνομία) [[Zunpublished/Lawlessness\|Lawlessness]], iniquity, often parallel to unrighteousness
+- anomia (ἀνομία) [[Gate of Wisdom/Lawlessness\|Lawlessness]], iniquity, often parallel to unrighteousness
 
 # Additional Info
 - The words ‘āwel and rāshā‘ appear frequently in Psalms and Proverbs, contrasting the righteous and unrighteous (e.g., Psalm 1:1–6). In the New Testament, adikos and adikia are common in Paul’s letters, emphasizing God’s judgment and grace (Romans 6:13, 2 Corinthians 6:14).
