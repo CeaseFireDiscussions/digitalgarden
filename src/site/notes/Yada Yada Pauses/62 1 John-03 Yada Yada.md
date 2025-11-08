@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/62-1-john-03-yada-yada/","tags":["#TheScrolls","#GospelsApostles","#YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/62-1-john-03-yada-yada/","tags":["TheScrolls","GospelsApostles","YadaYadaPauses"]}
 ---
 
 Ease of reading [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-03\|1 John-03]]
@@ -129,8 +129,8 @@ Ease of reading [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John
 					- has eternal life 
 						- remaining in him[^6]. [[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Dan-12#v2\|Dan-12#v2]]
 	- By this <mark style="background: #E0CC4BA6;">we</mark> <mark style="background: #04CD3EA6;">know love</mark>, 
-			- <mark style="background: #EB9E57A6;">because</mark> <mark style="background: #D7CD91A6;">he</mark> <mark style="background: #CD04BBA6;">//Jesus, the Messiah//</mark>
-				- laid down his life for <mark style="background: #E0CC4BA6;">us</mark>[^21]. [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v10\|Gen-22#v10]]-12
+		- <mark style="background: #EB9E57A6;">because</mark> <mark style="background: #D7CD91A6;">he</mark> <mark style="background: #CD04BBA6;">//Jesus, the Messiah//</mark>
+			- laid down his life for <mark style="background: #E0CC4BA6;">us</mark>[^21]. [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v10\|Gen-22#v10]]-12
 			- And <mark style="background: #E0CC4BA6;">we</mark> <mark style="background: #04CD3EA6;">ought to lay down our lives</mark> 
 				- for the brothers. 
 			- But whoever has the world's goods[^25] 
@@ -159,16 +159,17 @@ Ease of reading [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John
 										- and <mark style="background: #04CD3EA6;">do the things that are pleasing in his //YHWH//. sight</mark>. [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v2\|Deut-28#v2]], 
 
 - This is his commandment, <mark style="background: #CD04BBA6;">//singular//</mark>
-	- that we should believe in the name 
+	- that we should believe in the [[Gate of Wisdom/Name\|Name]] 
 		- of his Son, Jesus Christ, 
 	- and love one another[^29], [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v18\|Lev-19#v18]],
 		- even as he //YHWH// commanded. [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v5\|Deut-06#v5]],  [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-31#v18\|Exod-31#v18]]
-- He who keeps his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]][^28]  [[Gate of Wisdom/Torah Teaching/Exod-19#v5\|Exod-19#v5]]-6
-	- remains in him[^11],  [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-02#v2\|Num-02#v2]]
-	- and he in him.  [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v8\|Exod-25#v8]] [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v10\|Exod-25#v10]]
-	- By this we know that he remains in us[^23], 
-		- by the Spirit [[Gate of Wisdom/Ruach/Ruach\|Ruach]] which he gave us. [[The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-36#v27\|Ezek-36#v27]],
+		- He who keeps his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]][^28]  [[Gate of Wisdom/Torah Teaching/Exod-19#v5\|Exod-19#v5]]-6
+			- remains in him[^11],  [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-02#v2\|Num-02#v2]]
+			- and he in him.  [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v8\|Exod-25#v8]] [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v10\|Exod-25#v10]]
+			- By this we know that he remains in us[^23], 
+				- by the Spirit [[Gate of Wisdom/Ruach/Ruach\|Ruach]] which he gave us. [[The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-36#v27\|Ezek-36#v27]],
 #### We have to build the dwelling place within us, it has to remain [[Gate of Wisdom/Holy\|Holy]], [[Zunpublished/Clean\|Clean]], for YHWH to dwell among us, just like they did in the wilderness. By being Righteous (sinless and law abiding) we remain in him and he in us. By being Unrighteous (sinful and lawless) we can not remain in the camp and are put out with the adversary.  [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+
 
 ***
 [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-02\|← 1 John 02]] | [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John\|1 John]] | [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-04\|1 John 04 →]]
