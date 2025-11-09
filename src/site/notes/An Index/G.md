@@ -20,6 +20,7 @@
 - [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Yah/Kingdom of God\|Kingdom of God]]
 - [[Sacred Truces/Know the Children of God How\|Know the Children of God How]]
+- [[Sacred Truces/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]
 - [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]
 
 { .block-language-dataview}

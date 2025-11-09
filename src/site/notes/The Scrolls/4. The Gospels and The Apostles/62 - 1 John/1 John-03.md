@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/62-1-john/1-john-03/","tags":["#TheScrolls","#GospelsApostles"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/62-1-john/1-john-03/","tags":["TheScrolls","GospelsApostles"]}
 ---
 
 In depth look: [[Yada Yada Pauses/62 1 John-03 Yada Yada\|62 1 John-03 Yada Yada]]

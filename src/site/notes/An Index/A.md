@@ -27,5 +27,7 @@
 - [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
 - [[Sacred Truces/Day of Atonement for Christians\|Day of Atonement for Christians]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]
+- [[Sacred Truces/Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger\|Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger]]
+- [[Sacred Truces/Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire\|Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire]]
 
 { .block-language-dataview}

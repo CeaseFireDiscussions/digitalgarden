@@ -10,6 +10,8 @@
 - [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]
 - [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]]
 - [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]
+- [[Sacred Truces/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]
+- [[Sacred Truces/Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths\|Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths]]
 - [[Gate of Wisdom/Beings/Human Beings/Obadiah\|Obadiah]]
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 - [[Sacred Truces/Old, New, and Renewed\|Old, New, and Renewed]]

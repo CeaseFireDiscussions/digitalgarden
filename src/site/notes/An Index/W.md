@@ -4,6 +4,7 @@
 
 
 - [[Gate of Wisdom/Beings/Heavenly Beings/cloud of witnesses\|cloud of witnesses]]
+- [[Sacred Truces/Matthew 5 Sermon on the Mount vs 4 The Weeping\|Matthew 5 Sermon on the Mount vs 4 The Weeping]]
 - [[Gate of Wisdom/Ten Words\|Ten Words]]
 - [[Sacred Truces/The Way – Convergence of Jewish and Christian Faiths\|The Way – Convergence of Jewish and Christian Faiths]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]

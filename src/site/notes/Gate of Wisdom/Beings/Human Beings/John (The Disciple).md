@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/john-the-disciple/","tags":["#GateWisdom","#Being","#HumanBeing","#J"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/human-beings/john-the-disciple/","tags":["#GateWisdom","Being","HumanBeing","J"]}
 ---
 
 # Birth and Ancestors

@@ -4,6 +4,29 @@
 
 | Table of Content                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]                                                         |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]           |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation\|Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation]]                               |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths\|Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths]]                 |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire\|Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire]]               |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]             |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger\|Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger]]                       |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]     |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets\|Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets]] |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 14-16 Light of the World\|Matthew 5 Sermon on the Mount v 14-16 Light of the World]]                             |
+| [[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]                                                                    |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 13 Salt\|Matthew 5 Sermon on the Mount v 13 Salt]]                                                               |
+| [[Sacred Truces/More on Matthew 5 Salt\|More on Matthew 5 Salt]]                                                                                                 |
+| [[Sacred Truces/Please pass the salt\|Please pass the salt]]                                                                                                     |
+| [[Sacred Truces/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]                               |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness\|Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness]]         |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]                                       |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 5 The Resting Ones\|Matthew 5 Sermon on the Mount v 5 The Resting Ones]]                                         |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount vs 4 The Weeping\|Matthew 5 Sermon on the Mount vs 4 The Weeping]]                                                 |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 3 Humble of Spirit\|Matthew 5 Sermon on the Mount v 3 Humble of Spirit]]                                         |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 1-2 Beatitudes\|Matthew 5 Sermon on the Mount v 1-2 Beatitudes]]                                                 |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 9 Peacemaker\|Matthew 5 Sermon on the Mount v 9 Peacemaker]]                                                     |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 8 Pure at Heart\|Matthew 5 Sermon on the Mount v 8 Pure at Heart]]                                               |
 | [[Sacred Truces/New Covenant\|New Covenant]]                                                                                                                     |
 | [[Sacred Truces/Happy New Year! In April\|Happy New Year! In April]]                                                                                             |
 | [[Sacred Truces/The Last Day of Unleavened Bread\|The Last Day of Unleavened Bread]]                                                                             |
@@ -45,7 +68,6 @@
 | [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]] |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]   |
 | [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]                                                                                      |
-| [[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]                                                                    |
 | [[Sacred Truces/_Sacred Truces\|_Sacred Truces]]                                                                                                                 |
 
 { .block-language-dataview}

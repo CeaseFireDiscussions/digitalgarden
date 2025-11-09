@@ -15,6 +15,7 @@
 - [[Gate of Wisdom/Numbers/10\|10]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]
 - [[Sacred Truces/Happy New Year! In April\|Happy New Year! In April]]
+- [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]
 - [[Gate of Wisdom/Name\|Name]]
 - [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]

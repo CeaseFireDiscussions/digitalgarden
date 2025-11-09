@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/26-ezekiel/ezek-18/","tags":["#TheScrolls","#Neviim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/26-ezekiel/ezek-18/","tags":["TheScrolls","Neviim"]}
 ---
 
 

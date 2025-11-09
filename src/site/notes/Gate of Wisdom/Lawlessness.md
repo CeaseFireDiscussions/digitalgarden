@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/lawlessness/","tags":["#GateWisdom","#L"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/lawlessness/","tags":["#GateWisdom","L"]}
 ---
 
 # Define
