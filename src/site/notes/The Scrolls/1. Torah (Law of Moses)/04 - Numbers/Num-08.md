@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/04-numbers/num-08/","tags":["TheScrolls","Ketuvim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/04-numbers/num-08/","tags":["#TheScrolls","#Ketuvim","#nothome","#TorahLawofMoses","#04Num"]}
 ---
 
 

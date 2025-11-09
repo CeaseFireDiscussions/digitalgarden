@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/seventh-day/","tags":["#GateWisdom","#Sabbath","#S","#D"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/seventh-day/","tags":["#GateWisdom","#Sabbath","S","D"]}
 ---
 
 # Related words

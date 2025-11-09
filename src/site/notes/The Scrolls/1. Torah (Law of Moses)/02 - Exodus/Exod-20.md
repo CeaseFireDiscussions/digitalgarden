@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/02-exodus/exod-20/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/02-exodus/exod-20/","tags":["#TheScrolls","#TorahLawofMoses","#nothome","#02Exod"]}
 ---
 
 
 # Exodus 20
 
-[[Gate of Wisdom/Torah Teaching/Exod-19\|← Exodus 19]] | [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] | [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-21\|Exodus 21 →]]
+[[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19\|← Exodus 19]] | [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] | [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-21\|Exodus 21 →]]
 ***
 
 
@@ -89,4 +89,4 @@ If you make me an altar of stone, you shall not build it of cut stones; for if y
 You shall not go up by steps to my altar, that your nakedness may not be exposed to it.'
 
 ***
-[[Gate of Wisdom/Torah Teaching/Exod-19\|← Exodus 19]] | [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] | [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-21\|Exodus 21 →]]
+[[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19\|← Exodus 19]] | [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] | [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-21\|Exodus 21 →]]

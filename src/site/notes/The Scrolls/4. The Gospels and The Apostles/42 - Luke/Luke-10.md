@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/42-luke/luke-10/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/42-luke/luke-10/","tags":["#TheScrolls","#nothome","#GospelsApostles","#42Luke"]}
 ---
 
 

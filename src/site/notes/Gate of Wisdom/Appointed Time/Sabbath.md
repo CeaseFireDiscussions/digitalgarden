@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/sabbath/","tags":["#GateWisdom","#AppointedTime","#Sabbath","#S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/sabbath/","tags":["#GateWisdom","#AppointedTime","#Sabbath","S"]}
 ---
 
 # Define

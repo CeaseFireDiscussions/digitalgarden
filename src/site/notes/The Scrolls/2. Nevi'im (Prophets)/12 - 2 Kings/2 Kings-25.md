@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/12-2-kings/2-kings-25/","tags":["TheScrolls","Neviim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/12-2-kings/2-kings-25/","tags":["#TheScrolls","#Neviim","#nothome","#122Kings"]}
 ---
 
 

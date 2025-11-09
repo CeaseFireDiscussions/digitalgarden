@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/01-the-seventh-day-rest-for-yah-god-01-gen-02/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest","#S"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/01-the-seventh-day-rest-for-yah-god-01-gen-02/","tags":["#OliveBranch","#Sabbath","#SeventhDayRest","S"]}
 ---
 
 **The** common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 

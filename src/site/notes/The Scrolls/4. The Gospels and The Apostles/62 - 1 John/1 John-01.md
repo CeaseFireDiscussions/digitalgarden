@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/62-1-john/1-john-01/","tags":["TheScrolls","GospelsApostles"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/62-1-john/1-john-01/","tags":["#TheScrolls","#GospelsApostles","#nothome","#621John"]}
 ---
 
 
