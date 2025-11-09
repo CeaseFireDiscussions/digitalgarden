@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sacred-truces/forgive-and-forget-for-the-forgiver/"}
+{"dg-publish":true,"permalink":"/the-heralds-messages/forgive-and-forget-for-the-forgiver/"}
 ---
 
 Are [[Gate of Wisdom/Forgive\|Forgive]] and forget the same thing? Can we forgive without forgetting? Can we forget without forgiving?

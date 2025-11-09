@@ -4,7 +4,7 @@
 
 
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Cave of the Patriarchs\|Cave of the Patriarchs]]
-- [[The Herald's Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]
+- [[The Heralds Messages/Free2Live – Politically Correct\|Free2Live – Politically Correct]]
 - [[Sacred Truces/Happy New Year! In April\|Happy New Year! In April]]
 - [[Gate of Wisdom/Lord’s Prayer\|Lord’s Prayer]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness\|Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness]]

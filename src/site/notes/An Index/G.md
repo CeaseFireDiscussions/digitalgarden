@@ -11,7 +11,7 @@
 - [[Yada Yada Pauses/01 Gen-29 Yada Yada\|01 Gen-29 Yada Yada]]
 - [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]
 - [[Yada Yada Pauses/01 Gen-32 Yada Yada\|01 Gen-32 Yada Yada]]
-- [[The Herald's Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]
+- [[The Heralds Messages/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]
 - [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Gilead\|Gilead]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]
