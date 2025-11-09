@@ -15,6 +15,7 @@
 - [[The Scrolls/Torah Portions/2025.10.24 Shabbat Reading\|2025.10.24 Shabbat Reading]]
 - [[The Scrolls/Torah Portions/2025.11.01 Shabbat Reading\|2025.11.01 Shabbat Reading]]
 - [[The Scrolls/Torah Portions/2025.11.08 Shabbat Reading\|2025.11.08 Shabbat Reading]]
+- [[The Scrolls/Torah Portions/2025.11.15 Shabbat Reading\|2025.11.15 Shabbat Reading]]
 
 { .block-language-dataview}
 
