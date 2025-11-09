@@ -16,6 +16,7 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Zunpublished/2025.11.15 Shabbat Reading\|2025.11.15 Shabbat Reading]]                                                                                          |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]                                                         |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]           |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation\|Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation]]                               |
@@ -35,7 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 5 The Resting Ones\|Matthew 5 Sermon on the Mount v 5 The Resting Ones]]                                         |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount vs 4 The Weeping\|Matthew 5 Sermon on the Mount vs 4 The Weeping]]                                                 |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 3 Humble of Spirit\|Matthew 5 Sermon on the Mount v 3 Humble of Spirit]]                                         |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 1-2 Beatitudes\|Matthew 5 Sermon on the Mount v 1-2 Beatitudes]]                                                 |
 
 { .block-language-dataview}
 
