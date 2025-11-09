@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/56-titus/titus-03/","tags":["TheScrolls","GospelsApostles"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/56-titus/titus-03/","tags":["#TheScrolls","#GospelsApostles","#nothome","#56Titus"]}
 ---
 
 

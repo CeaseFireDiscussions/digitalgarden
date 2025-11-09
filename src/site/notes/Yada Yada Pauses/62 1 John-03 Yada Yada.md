@@ -164,7 +164,7 @@ Ease of reading [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John
 		- of his Son, Jesus Christ, 
 	- and love one another[^29], [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v18\|Lev-19#v18]],
 		- even as he //YHWH// commanded. [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v5\|Deut-06#v5]],  [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-31#v18\|Exod-31#v18]]
-		- He who keeps his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]][^28]  [[Gate of Wisdom/Torah Teaching/Exod-19#v5\|Exod-19#v5]]-6
+		- He who keeps his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]][^28]  [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v5\|Exod-19#v5]]-6
 			- remains in him[^11],  [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-02#v2\|Num-02#v2]]
 			- and he in him.  [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v8\|Exod-25#v8]] [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v10\|Exod-25#v10]]
 			- By this we know that he remains in us[^23], 

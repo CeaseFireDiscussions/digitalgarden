@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/58-hebrews/heb-12/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/58-hebrews/heb-12/","tags":["#TheScrolls","#nothome","#GospelsApostles","#58Heb"]}
 ---
 
 
@@ -68,7 +68,7 @@ For you have not come to [^12]a mountain that might be touched, and that burned 
 the [^19]sound of a trumpet, and the voice of words; which those who heard it begged that not one more word should be spoken to them, 
 
 ###### v20 
-for they [^13]could not stand that which was commanded, "If even an animal touches the mountain, it shall be stoned". [[Gate of Wisdom/Torah Teaching/Exod-19#v12\|Exod-19:12]][[Gate of Wisdom/Torah Teaching/Exod-19#v13\|-13]]
+for they [^13]could not stand that which was commanded, "If even an animal touches the mountain, it shall be stoned". [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v12\|Exod-19:12]][[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v13\|-13]]
 
 ###### v21 
 So fearful was the appearance that Moses said, "I am terrified and trembling." 

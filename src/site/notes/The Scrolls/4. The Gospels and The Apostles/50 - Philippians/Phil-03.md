@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/50-philippians/phil-03/","tags":["TheScrolls","GospelsApostles"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/50-philippians/phil-03/","tags":["#TheScrolls","#GospelsApostles","#nothome","#50Phil"]}
 ---
 
 

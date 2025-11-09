@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/27-daniel/dan-12/","tags":["TheScrolls","TorahLawofMoses"]}
+{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/27-daniel/dan-12/","tags":["#TheScrolls","#nothome","#Ketuvim","#27Dan"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/20-proverbs/prov-10/","tags":["TheScrolls","Ketuvim"]}
+{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/20-proverbs/prov-10/","tags":["#TheScrolls","#Ketuvim","#nothome","#20Prov"]}
 ---
 
 

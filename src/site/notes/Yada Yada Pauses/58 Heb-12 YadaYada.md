@@ -100,11 +100,11 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 		- that might be touched, 
 		- and that burned with fire, 
 		- and to blackness, darkness, storm, 
-		- [^19]the sound of a trumpet, [[Gate of Wisdom/Torah Teaching/Exod-19#v16\|Exod-19:16]]
+		- [^19]the sound of a trumpet, [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v16\|Exod-19:16]]
 		- and the voice of words; 
 			- which those who heard it begged that not one more word should be spoken to them, 
 				- for they [^14]could not stand that which was commanded, [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v18\|Exod-20:18]][[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v19\|Exod-20#v19]][[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v20\|Exod-20#v20]][[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v21\|-21]]
-				- "If even an animal touches the mountain, it shall be stoned". [[Gate of Wisdom/Torah Teaching/Exod-19#v12\|Exod-19:12]][[Gate of Wisdom/Torah Teaching/Exod-19#v13\|-13]]
+				- "If even an animal touches the mountain, it shall be stoned". [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v12\|Exod-19:12]][[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v13\|-13]]
 			- So fearful was the appearance that Moses said, [[Deut-9#v19\|Deut-9:19]]
 				- "I am terrified and trembling." 
 - But you have come 
@@ -127,7 +127,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 		- For if they didn't escape 
 			- when they refused him 
 				- who warned on the earth, 
-				- whose voice shook the earth then, [[Gate of Wisdom/Torah Teaching/Exod-19#v18\|Exod-19:18]]
+				- whose voice shook the earth then, [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v18\|Exod-19:18]]
 			- how much more will we not escape 
 				- who turn away from him 
 					- who warns from heaven, 
