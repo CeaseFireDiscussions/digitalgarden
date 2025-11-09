@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/40-matthew/matt-05/","tags":["#TheScrolls","#GospelsApostles"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/40-matthew/matt-05/","tags":["TheScrolls","GospelsApostles"]}
 ---
 
 For in depth study [[Zunpublished/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]

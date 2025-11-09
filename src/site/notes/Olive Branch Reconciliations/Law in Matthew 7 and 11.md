@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/olive-branch-reconciliations/law-in-matthew-7-and-11/","tags":["#Matthew7","#Matthew11","#Law","#Torah","#JesusTeaching","#JesusFollowers","#JohntheBaptist","#KingdomofHeaven","#SermonontheMount","#OliveBranch","#Wordpress","#M","#L"]}
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/law-in-matthew-7-and-11/","tags":["#Matthew7","#Matthew11","#Law","#Torah","#JesusTeaching","#JesusFollowers","#JohntheBaptist","#KingdomofHeaven","#SermonontheMount","#OliveBranch","#Wordpress","M","L"]}
 ---
 
 

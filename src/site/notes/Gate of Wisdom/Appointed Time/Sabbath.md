@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/sabbath/","tags":["#GateWisdom","#AppointedTime","#Sabbath","S"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/appointed-time/sabbath/","tags":["#GateWisdom","#AppointedTime","#Sabbath","#S"]}
 ---
 
 # Define
@@ -17,6 +17,8 @@
 - Violating it by working was punishable by death (Exod 31:14-15; 35:2; Num 15:32-36). 
 - It serves as a holy convocation for rest and worship (Lev 23:3; Isa 58:13-14). 
 - In the New Testament, Jesus declares Himself Lord of the Sabbath (Matt 12:8; Mark 2:28; Luke 6:5) 
+- [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
+
 # Connections
 - Fourth commandment in the Decalogue (Exod 20:8-11; Deut 5:12-15).
 - Prophetic restoration (Isa 56:2-6; 66:23; Ezek 44:24; 46:1-3).

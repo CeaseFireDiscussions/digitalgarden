@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/seventh-day/","tags":["#GateWisdom","#Sabbath","S","D"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/seventh-day/","tags":["#GateWisdom","#Sabbath","#S","#D"]}
 ---
-
-# Define
-- 
 
 # Related words
 - [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]
+
+# Connections
+- [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
+
 
 # Additional Info
 
@@ -18,6 +19,4 @@ Almond House Fellowship - Sabbath Day ![Can You Tell The Time? The Clock In The 
 
 ![Seventh Day - Almond House.png](/img/user/Assets/attachments/Seventh%20Day%20-%20Almond%20House.png)
 
-# Connections
-- [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 

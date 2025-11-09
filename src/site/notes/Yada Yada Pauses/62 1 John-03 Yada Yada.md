@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yada-yada-pauses/62-1-john-03-yada-yada/","tags":["#TheScrolls","#GospelsApostles","#YadaYadaPauses"]}
+{"dg-publish":true,"permalink":"/yada-yada-pauses/62-1-john-03-yada-yada/","tags":["TheScrolls","GospelsApostles","YadaYadaPauses"]}
 ---
 
 Ease of reading [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-03\|1 John-03]]
