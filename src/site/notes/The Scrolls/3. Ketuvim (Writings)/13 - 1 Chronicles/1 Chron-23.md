@@ -46,7 +46,7 @@ Jahath was the chief, and Zizah the second; but Jeush and Beriah didn't have man
 The sons of Kohath: Amram, Izhar, Hebron, and Uzziel, four. 
 
 ###### v13 
-The sons of Amram: Aaron and Moses; and Aaron was separated, that he should sanctify the most holy things, he and his sons, forever, to burn incense before Yahweh, to minister to him, and to bless in his name, forever. 
+The sons of Amram: [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]] and Moses; and Aaron was separated, that he should sanctify the most holy things, he and his sons, forever, to burn incense before Yahweh, to minister to him, and to bless in his name, forever. 
 
 ###### v14 
 But as for Moses the man of God, his sons were named among the tribe of Levi. 

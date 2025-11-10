@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-24/","tags":["#TheScrolls","#nothome","#TorahLawofMoses","#01Gen"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-24/","tags":["TheScrolls","nothome","TorahLawofMoses","#01Gen"]}
 ---
+
+Children:: [[Yada Yada Pauses/01 Gen-24 Yada Yada\|01 Gen-24 Yada Yada]]
 
 
 # Genesis 24
 
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23\|← Genesis 23]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Genesis 25 →]]
 ***
+
 
 # [[Yada Yada Pauses/01 Gen-24 Yada Yada\|01 Gen-24 Yada Yada]]
 

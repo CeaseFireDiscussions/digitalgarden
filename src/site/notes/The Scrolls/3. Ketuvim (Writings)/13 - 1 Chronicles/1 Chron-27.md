@@ -58,7 +58,7 @@ The twelfth captain for the twelfth month was Heldai the Netophathite, of Othnie
 Furthermore over the tribes of Israel: of the Reubenites, Eliezer the son of Zichri was the ruler; of the Simeonites, Shephatiah the son of Maacah; 
 
 ###### v17 
-of Levi, Hashabiah the son of Kemuel; of Aaron, Zadok; 
+of Levi, Hashabiah the son of Kemuel; of [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]], Zadok; 
 
 ###### v18 
 of Judah, Elihu, one of the brothers of David; of Issachar, Omri the son of Michael; 

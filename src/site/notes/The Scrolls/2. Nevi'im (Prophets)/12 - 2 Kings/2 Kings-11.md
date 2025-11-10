@@ -22,7 +22,7 @@ He was with her hidden in Yahweh's house six years while Athaliah reigned over t
 In the seventh year Jehoiada sent and fetched the captains over hundreds of the Carites and of the guard, and brought them to him into Yahweh's house; and he made a covenant with them, and made a covenant with them in Yahweh's house, and showed them the king's son. 
 
 ###### v5 
-He commanded them, saying, "This is what you must do: a third of you, who come in on the Sabbath, shall be keepers of the watch of the king's house; 
+He commanded them, saying, "This is what you must do: a third of you, who come in on the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], shall be keepers of the watch of the king's house; 
 
 ###### v6 
 a third of you shall be at the gate Sur; and a third of you at the gate behind the guard. So you shall keep the watch of the house, and be a barrier. 

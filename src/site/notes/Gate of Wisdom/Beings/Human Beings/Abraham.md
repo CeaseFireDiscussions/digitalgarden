@@ -7,8 +7,8 @@ Original name Abram
 # Birth and Ancestors
 - Timeframe:
 - Place: Ur of the Chaldeans
-- Father: [[Terah\|Terah]]
-- Mother:
+- Father:: [[Terah\|Terah]]
+- Mother::
 - Other Relatives of Note: half brother of his wife, Sarah  
 
 # Marriage and Descendants

@@ -6,13 +6,13 @@
 # Birth and Ancestors
 - **Timeframe**: Not explicitly dated in the Bible, but Jacob’s life is part of the patriarchal period, roughly estimated around 2000–1800 BCE based on biblical genealogies (Genesis 25–35).
 - **Place**: Born in Canaan, specifically in the region associated with Beersheba (Genesis 25:26; 28:10).
-- **Father**: [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] (Genesis 25:19).
-- **Mother**: [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]] (Genesis 25:20–21).
+- **Father**:: [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] (Genesis 25:19).
+- **Mother**:: [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]] (Genesis 25:20–21).
 - **Hebrew Meaning of Name**: 
 	- Jacob means “he grasps the heel” or “supplanter” (Genesis 25:26). 
 	- Later named Israel, meaning “he strives with God” or “God prevails” (Genesis 32:28).
 - **Other Relatives of Note**:
-  - **Esau**: Twin brother, from whom Jacob bought the birthright and stole the blessing (Genesis 25:29–34; 27:1–40). Esau is the legal [[Zunpublished/Firstborn\|Firstborn]], eldest
+  - Sibling:: [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]: Twin brother, from whom Jacob bought the birthright and stole the blessing (Genesis 25:29–34; 27:1–40). Esau is the legal [[Zunpublished/Firstborn\|Firstborn]], eldest
   - **Abraham**: Grandfather, the patriarch of the covenant (Genesis 12:1–3; 25:19).
   - Descendants as a group become known as the [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]
 		- The group will eventually split into to Houses
@@ -22,12 +22,12 @@
 ---
 
 # Marriage and Descendants
-- **Spouse #1**: Leah
+- #1 **Spouse**:: Leah
   - **Story**: Jacob was tricked by Laban into marrying Leah, his older daughter, before marrying Rachel, whom Jacob loved. He worked seven years for Laban to marry Leah (Genesis 29:15–27).
   - **Children**: Reuben, Simeon, [[Zunpublished/Levi\|Levi]], [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]], Issachar, Zebulun, and Dinah (Genesis 29:32–35; 30:17–21).
-- **Spouse #2**: [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]
+- #2 **Spouse**: [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]
   - **Story**: Jacob loved Rachel and worked seven years to marry her, but was deceived into marrying Leah first. He then worked another seven years for Rachel (Genesis 29:20–28).
-  - **Children**: [[Zunpublished/Joseph\|Joseph]] and Benjamin (Genesis 30:22–24; 35:16–18).
+  - **Children**:: [[Zunpublished/Joseph\|Joseph]] and Benjamin (Genesis 30:22–24; 35:16–18).
 - **Other Descendants of Note**:
   - Through Bilhah (Rachel’s servant): Dan, Naphtali (Genesis 30:4–8).
   - Through Zilpah (Leah’s servant): Gad, Asher (Genesis 30:9–13).

@@ -49,7 +49,7 @@ Are you walking in The Truth – God’s commands? Do you love Jesus and keep hi
 
 Ponder on this one. Do you as a Christian, daily leave the outer courts? The outer courts are where we are “saved” by the flesh and blood of Christ. Technically, you do not have to go any further than that. You can live in the outer courts – that is were most of the community lived – they weren’t even allowed beyond it. How often do you attend to the things in the Holy Place?
 
-Each week, on the Sabbath, do you attend to the Table of the Bread of Presence? Do you remove the old bread and bring in fresh? Do you get rid of the things you are trying to control and give them to Jesus, allowing him to sustain you as you walk in his presence. The True communion – his flesh (bread) and blood (wine) are always available to you through the Spirit of Truth.
+Each week, on the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], do you attend to the Table of the Bread of Presence? Do you remove the old bread and bring in fresh? Do you get rid of the things you are trying to control and give them to Jesus, allowing him to sustain you as you walk in his presence. The True communion – his flesh (bread) and blood (wine) are always available to you through the Spirit of Truth.
 
 Daily do you tend to the Lampstand, keeping the oil filled? Walking as the Light of the World, shining brightly Jesus, the true light that gives light to everyone? Matthew 5 and 1 John 1
 

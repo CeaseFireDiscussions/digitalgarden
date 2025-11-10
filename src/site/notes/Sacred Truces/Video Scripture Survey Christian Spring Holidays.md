@@ -32,7 +32,7 @@ Matthew 27:45–46
 ## Easter
 
 Matthew 28:1  
-Now after the Sabbath, at the dawning on the first day of the week, Mary Magdalene and the other Mary came to view the tomb.  
+Now after the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], at the dawning on the first day of the week, Mary Magdalene and the other Mary came to view the tomb.  
 Acts 12:4  
 After he had arrested him, he also put him in prison, handing him over to four squads of soldiers to guard him, intending to bring him out for public trial after the Passover.
 

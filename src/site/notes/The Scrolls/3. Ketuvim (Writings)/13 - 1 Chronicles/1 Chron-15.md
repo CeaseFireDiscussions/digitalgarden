@@ -19,7 +19,7 @@ Then David said, "No one ought to carry God's ark but the Levites. For Yahweh ha
 David assembled all Israel at Jerusalem, to bring up Yahweh's ark to its place, which he had prepared for it. 
 
 ###### v4 
-David gathered together the sons of Aaron and the Levites: 
+David gathered together the sons of [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]] and the Levites: 
 
 ###### v5 
 of the sons of Kohath, Uriel the chief, and his brothers one hundred twenty; 

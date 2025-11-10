@@ -4,6 +4,9 @@
 
 | Table of Content                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sacred Truces/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]                                 |
+| [[Sacred Truces/Video Scripture Survey Christian Spring Holidays\|Video Scripture Survey Christian Spring Holidays]]                                             |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]   |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]                                                         |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]           |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation\|Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation]]                               |
@@ -31,9 +34,7 @@
 | [[Sacred Truces/Happy New Year! In April\|Happy New Year! In April]]                                                                                             |
 | [[Sacred Truces/The Last Day of Unleavened Bread\|The Last Day of Unleavened Bread]]                                                                             |
 | [[Sacred Truces/The Life – Convergence of Jewish and Christian Faiths\|The Life – Convergence of Jewish and Christian Faiths]]                                   |
-| [[Sacred Truces/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]                                 |
 | [[Sacred Truces/The Way – Convergence of Jewish and Christian Faiths\|The Way – Convergence of Jewish and Christian Faiths]]                                     |
-| [[Sacred Truces/Video Scripture Survey Christian Spring Holidays\|Video Scripture Survey Christian Spring Holidays]]                                             |
 | [[Sacred Truces/Video Scripture Survey Passover\|Video Scripture Survey Passover]]                                                                               |
 | [[Sacred Truces/Scripture Survey – Jesus Said\|Scripture Survey – Jesus Said]]                                                                                   |
 | [[Sacred Truces/Scripture Survey – YHWH Said\|Scripture Survey – YHWH Said]]                                                                                     |
@@ -66,7 +67,6 @@
 | [[Sacred Truces/Fascism\|Fascism]]                                                                                                                               |
 | [[Sacred Truces/Day of Atonement for Christians\|Day of Atonement for Christians]]                                                                               |
 | [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]] |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]   |
 | [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]                                                                                      |
 | [[Sacred Truces/_Sacred Truces\|_Sacred Truces]]                                                                                                                 |
 

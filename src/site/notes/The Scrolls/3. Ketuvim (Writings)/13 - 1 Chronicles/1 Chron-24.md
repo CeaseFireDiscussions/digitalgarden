@@ -10,7 +10,7 @@
 
 
 ###### v1 
-These were the divisions of the sons of Aaron. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar. 
+These were the divisions of the sons of [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]]. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar. 
 
 ###### v2 
 But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest's office. 

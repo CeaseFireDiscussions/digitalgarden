@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/video-scripture-survey-sabbath-and-seventh-day-rest/"}
 ---
 
-WordPress Link https://calltoceasefire.wordpress.com/2024/01/17/video-scripture-survey-sabbath-and-seventh-day-rest/
+WordPress Link https://calltoceasefire.wordpress.com/2024/01/17/video-scripture-survey-[[Gate of Wisdom/Appointed Time/Sabbath\|sabbath]]-and-seventh-day-rest/
 
 Head on over to our [youtube](https://www.youtube.com/channel/UClucQfZWQ3dSZFMMoEfg5gA) and check out the shorts we are dropping daily. We’ve taken one long video and broken it up into Shorts – less than 60 seconds each. You can find them all on the shorts playlist.
 

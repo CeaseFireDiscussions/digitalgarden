@@ -8,8 +8,8 @@ Isaac was born as a fulfillment of a promise made by Yah, to Abraham.
 # Birth and Ancestors
 - Timeframe:
 - Place:
-- Father: [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]] (100 years)
-- Mother: [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]] (90 years)
+- Father:: [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]] (100 years)
+- Mother:: [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]] (90 years)
 - Other Relatives of Note:  
 
 # Marriage and Descendants
@@ -18,7 +18,7 @@ Isaac was born as a fulfillment of a promise made by Yah, to Abraham.
 		- She is from his relatives in Haran. Rebekah, is granddaughter of Nahor, 
 		- Isaac marries her at age 40 in the Negev near Beer-lahai-roi
 	- Children:
-		- Sons: Jacob (Israel and Israelites) and Esau (Edomites)
+		- Sons: [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] (Israel and Israelites) and [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]] (Edomites)
 			- God reaffirms the promise to Isaac (Genesis 26:24), and through Jacob (Israel), his lineage fulfills the blessing to all nations (Genesis 28:13-14).
 - Spouse #2:
 	- Story:

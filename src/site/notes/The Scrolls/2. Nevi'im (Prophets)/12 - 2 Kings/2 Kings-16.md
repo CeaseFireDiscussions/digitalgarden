@@ -61,7 +61,7 @@ Urijah the priest did so, according to all that king Ahaz commanded.
 King Ahaz cut off the panels of the bases, and removed the basin from off them, and took down the sea from off the bronze oxen that were under it, and put it on a pavement of stone. 
 
 ###### v18 
-He removed the covered way for the Sabbath that they had built in the house, and the king's entry outside to Yahweh's house, because of the king of Assyria. 
+He removed the covered way for the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] that they had built in the house, and the king's entry outside to Yahweh's house, because of the king of Assyria. 
 
 ###### v19 
 Now the rest of the acts of Ahaz which he did, aren't they written in the book of the chronicles of the kings of Judah? 
