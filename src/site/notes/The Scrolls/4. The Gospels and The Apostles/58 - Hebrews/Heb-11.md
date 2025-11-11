@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/58-hebrews/heb-11/","tags":["#TheScrolls","#GospelsApostles","#nothome","#58Heb"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/58-hebrews/heb-11/","tags":["TheScrolls","GospelsApostles","nothome","58Heb"]}
 ---
 
 

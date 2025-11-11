@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/51-colossians/col-02/","tags":["#TheScrolls","#GospelsApostles","#nothome","#51Col"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/51-colossians/col-02/","tags":["TheScrolls","GospelsApostles","nothome","51Col"]}
 ---
 
 

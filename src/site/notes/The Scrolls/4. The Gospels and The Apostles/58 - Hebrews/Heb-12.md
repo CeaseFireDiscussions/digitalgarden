@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/58-hebrews/heb-12/","tags":["#TheScrolls","#nothome","#GospelsApostles","#58Heb"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/58-hebrews/heb-12/","tags":["TheScrolls","nothome","GospelsApostles","58Heb"]}
 ---
 
 
@@ -124,7 +124,7 @@ for our God is a consuming fire.
 
 [^12]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] Mt. Sinai - giving of the covenant to the Hebrews under Moses
 
-[^13]: [[Zunpublished/Mosaic\|Mosaic]] Covenant given at Mt Sinai
+[^13]: [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]] Covenant given at Mt Sinai
 
 [^14]: 
 

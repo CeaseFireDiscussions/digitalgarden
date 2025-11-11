@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/34-nahum/nah-01/","tags":["#TheScrolls","#Neviim","#nothome","#34Nah"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/34-nahum/nah-01/","tags":["TheScrolls","Neviim","nothome","34Nah"]}
 ---
 
 # Setting
@@ -101,7 +101,7 @@ Behold, on the mountains the feet of him who brings good news[^1], who publishes
 
 [^5]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] mountains quake before Him
 
-[^6]: [[Zunpublished/Mosaic\|Mosaic]] jealous/vengeful God (covenant loyalty to Israel)
+[^6]: [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]] jealous/vengeful God (covenant loyalty to Israel)
 
 [^7]: [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Physical Death\|Physical Death]] no descendants, grave prepared
 

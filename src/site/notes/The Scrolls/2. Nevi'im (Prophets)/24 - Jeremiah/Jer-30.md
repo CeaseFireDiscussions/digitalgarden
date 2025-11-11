@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/24-jeremiah/jer-30/","tags":["#Neviim","#TheScrolls","#nothome","#24Jer"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/24-jeremiah/jer-30/","tags":["Neviim","TheScrolls","nothome","24Jer"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/14-2-chronicles/2-chron-32/","tags":["#TheScrolls","#nothome","#Ketuvim","#142Chron"]}
+{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/14-2-chronicles/2-chron-32/","tags":["TheScrolls","nothome","Ketuvim","142Chron"]}
 ---
 
 # 2 Chronicles 32

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/05-deuteronomy/deut-25/","tags":["#TheScrolls","#TorahLawofMoses","#nothome","#05Deut"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/05-deuteronomy/deut-25/","tags":["TheScrolls","TorahLawofMoses","nothome","05Deut"]}
 ---
 
 # Deuteronomy 25

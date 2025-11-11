@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/06-joshua/joshua/","tags":["#TheScrolls","#Neviim","#nothome","#06Josh"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/06-joshua/joshua/","tags":["TheScrolls","Neviim","nothome","06Josh"]}
 ---
 
 links: [[The Bible (WEB)\|The Bible (WEB)]]

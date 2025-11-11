@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/24-jeremiah/jer-10/","tags":["#TheScrolls","#Neviim","#nothome","#24Jer"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/24-jeremiah/jer-10/","tags":["TheScrolls","Neviim","nothome","24Jer"]}
 ---
 
 # Jeremiah 10

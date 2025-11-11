@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/41-mark/mark-11/","tags":["#TheScrolls","#GospelsApostles","#nothome","#41Mark"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/41-mark/mark-11/","tags":["TheScrolls","GospelsApostles","nothome","41Mark"]}
 ---
 
 

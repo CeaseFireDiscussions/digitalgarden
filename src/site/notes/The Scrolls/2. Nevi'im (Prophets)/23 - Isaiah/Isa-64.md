@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/23-isaiah/isa-64/","tags":["#TheScrolls","#nothome","#Neviim","#23Isa"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/23-isaiah/isa-64/","tags":["TheScrolls","nothome","Neviim","23Isa"]}
 ---
 
 # Isaiah 64

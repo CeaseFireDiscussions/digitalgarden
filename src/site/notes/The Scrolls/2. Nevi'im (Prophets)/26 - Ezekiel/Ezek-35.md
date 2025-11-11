@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/26-ezekiel/ezek-35/","tags":["#TheScrolls","#Neviim","#nothome","#26Ezek"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/26-ezekiel/ezek-35/","tags":["TheScrolls","Neviim","nothome","26Ezek"]}
 ---
 
 

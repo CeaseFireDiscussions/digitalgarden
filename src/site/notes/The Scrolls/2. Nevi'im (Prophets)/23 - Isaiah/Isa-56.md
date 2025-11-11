@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/23-isaiah/isa-56/","tags":["#TheScrolls","#Neviim","#nothome","#23Isa"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/23-isaiah/isa-56/","tags":["TheScrolls","Neviim","nothome","23Isa"]}
 ---
 
 # Isaiah 56
 
 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-55\|← Isaiah 55]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57\|Isaiah 57 →]]
 ***
-
-
 
 ###### v1 
 Yahweh says, "Maintain justice and do what is right, for my salvation is near and my righteousness will soon be revealed. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/32-jonah/jonah-04/","tags":["#TheScrolls","#nothome","#Neviim","#32Jonah"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/32-jonah/jonah-04/","tags":["TheScrolls","nothome","Neviim","32Jonah"]}
 ---
 
 # Jonah 4
