@@ -30,7 +30,7 @@
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 1-2 Beatitudes\|Matthew 5 Sermon on the Mount v 1-2 Beatitudes]]                                                 |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 9 Peacemaker\|Matthew 5 Sermon on the Mount v 9 Peacemaker]]                                                     |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 8 Pure at Heart\|Matthew 5 Sermon on the Mount v 8 Pure at Heart]]                                               |
-| [[Sacred Truces/New Covenant\|New Covenant]]                                                                                                                     |
+| [[Sacred Truces/What is the New Covenant\|What is the New Covenant]]                                                                                             |
 | [[Sacred Truces/Happy New Year! In April\|Happy New Year! In April]]                                                                                             |
 | [[Sacred Truces/The Last Day of Unleavened Bread\|The Last Day of Unleavened Bread]]                                                                             |
 | [[Sacred Truces/The Life – Convergence of Jewish and Christian Faiths\|The Life – Convergence of Jewish and Christian Faiths]]                                   |

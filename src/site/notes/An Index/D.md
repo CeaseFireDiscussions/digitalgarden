@@ -4,6 +4,7 @@
 
 
 - [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]
+- [[Gate of Wisdom/Covenant/Davidic\|Davidic]]
 - [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
 - [[Sacred Truces/Day of Atonement for Christians\|Day of Atonement for Christians]]
 - [[Gate of Wisdom/Beings/Devil\|Devil]]

@@ -16,7 +16,7 @@
 - [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
 - [[Gate of Wisdom/Ten Words\|Ten Words]]
 - [[Sacred Truces/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]
-- [[Gate of Wisdom/Timeline of Second Writings\|Timeline of Second Writings]]
+- [[Gate of Wisdom/Timeline\|Timeline]]
 - [[Gate of Wisdom/Torah\|Torah]]
 - [[Sacred Truces/Traditional Teaching vs Scripture - Isaiah 66\|Traditional Teaching vs Scripture - Isaiah 66]]
 

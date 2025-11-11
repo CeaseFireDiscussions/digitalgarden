@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-35/","tags":["#TheScrolls","#TorahLawofMoses","#nothome","#01Gen"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-35/","tags":["TheScrolls","TorahLawofMoses","nothome","#01Gen"]}
 ---
 
 # Setting

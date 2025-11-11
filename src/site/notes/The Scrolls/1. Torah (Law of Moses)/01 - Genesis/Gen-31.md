@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-31/","tags":["#TheScrolls","#TorahLawofMoses","#nothome","#01Gen"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-31/","tags":["TheScrolls","TorahLawofMoses","nothome","#01Gen"]}
 ---
 
 For more in-depth look [[Yada Yada Pauses/01 Gen-31 Yada Yada\|01 Gen-31 Yada Yada]]

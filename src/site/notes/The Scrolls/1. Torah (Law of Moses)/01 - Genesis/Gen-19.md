@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-19/","tags":["#TheScrolls","#nothome","#TorahLawofMoses","#01Gen"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-19/","tags":["TheScrolls","nothome","TorahLawofMoses","#01Gen"]}
 ---
 
 # Genesis 19

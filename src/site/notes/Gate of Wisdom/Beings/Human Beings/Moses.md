@@ -73,7 +73,7 @@
 ---
 
 # Other
-- **Role in Covenant**: Received and mediated the [[Zunpublished/Mosaic\|Mosaic]] Covenant at Sinai, delivering the Ten Commandments and laws (Exodus 19–24).
+- **Role in Covenant**: Received and mediated the [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]] Covenant at Sinai, delivering the Ten Commandments and laws (Exodus 19–24).
 - **Encounters with God**: 
 	- Saw God’s glory (Exodus 33:18–23), 
 	- Spoke with God directly (Exodus 33:11), 

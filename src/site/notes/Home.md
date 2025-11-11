@@ -14,28 +14,28 @@ Have an open mind and be willing to learn, even if you just can’t bring yourse
 
 Thank you for joining us on these Cease Fire Moments.
 
-| Latest Drops                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yada Yada]]                                                                                                |
-| [[The Scrolls/Torah Portions/2025.11.15 Shabbat Reading\|2025.11.15 Shabbat Reading]]                                                                            |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]                                                         |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]           |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation\|Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation]]                               |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths\|Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths]]                 |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire\|Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire]]               |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]             |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger\|Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger]]                       |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]     |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets\|Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets]] |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 14-16 Light of the World\|Matthew 5 Sermon on the Mount v 14-16 Light of the World]]                             |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 13 Salt\|Matthew 5 Sermon on the Mount v 13 Salt]]                                                               |
-| [[Sacred Truces/More on Matthew 5 Salt\|More on Matthew 5 Salt]]                                                                                                 |
-| [[Sacred Truces/Please pass the salt\|Please pass the salt]]                                                                                                     |
-| [[Sacred Truces/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]                               |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness\|Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness]]         |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]                                       |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 5 The Resting Ones\|Matthew 5 Sermon on the Mount v 5 The Resting Ones]]                                         |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount vs 4 The Weeping\|Matthew 5 Sermon on the Mount vs 4 The Weeping]]                                                 |
+| Latest Drops                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]] |
+| [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                                                                                                        |
+| [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yada Yada]]                                                                                                        |
+| [[The Scrolls/Torah Portions/2025.11.15 Shabbat Reading\|2025.11.15 Shabbat Reading]]                                                                                    |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]                                                                 |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]                   |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation\|Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation]]                                       |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths\|Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths]]                         |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire\|Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire]]                       |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]                     |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger\|Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger]]                               |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]             |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets\|Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets]]         |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 14-16 Light of the World\|Matthew 5 Sermon on the Mount v 14-16 Light of the World]]                                     |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 13 Salt\|Matthew 5 Sermon on the Mount v 13 Salt]]                                                                       |
+| [[Sacred Truces/More on Matthew 5 Salt\|More on Matthew 5 Salt]]                                                                                                         |
+| [[Sacred Truces/Please pass the salt\|Please pass the salt]]                                                                                                             |
+| [[Sacred Truces/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]                                       |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness\|Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness]]                 |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]                                               |
 
 { .block-language-dataview}
 

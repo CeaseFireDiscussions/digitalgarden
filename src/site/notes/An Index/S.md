@@ -75,7 +75,7 @@
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]
-- [[Gate of Wisdom/Timeline of Second Writings\|Timeline of Second Writings]]
+- [[Gate of Wisdom/Timeline\|Timeline]]
 - [[Sacred Truces/Video Scripture Survey Christian Spring Holidays\|Video Scripture Survey Christian Spring Holidays]]
 - [[Sacred Truces/Video Scripture Survey Passover\|Video Scripture Survey Passover]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]

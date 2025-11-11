@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/assets/templates/the-scrolls-template/","tags":["#TheScrolls","#nothome"]}
+{"dg-publish":true,"permalink":"/assets/templates/the-scrolls-template/","tags":["TheScrolls","nothome"]}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/the-witness/","tags":["#GateWisdom","#W","#MostSetApartPlace"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/most-set-apart-place/the-witness/","tags":["#GateWisdom","W","MostSetApartPlace"]}
 ---
 
 # Define

@@ -19,8 +19,8 @@
 - [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]
 - [[Gate of Wisdom/Name\|Name]]
 - [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]
-- [[Sacred Truces/New Covenant\|New Covenant]]
 - [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]
 - [[Sacred Truces/Old, New, and Renewed\|Old, New, and Renewed]]
+- [[Sacred Truces/What is the New Covenant\|What is the New Covenant]]
 
 { .block-language-dataview}

@@ -71,6 +71,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]                                       |
 | [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]]                                                       |
 | [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]                                                     |
+| [[Gate of Wisdom/Covenant/Davidic\|Davidic]]                                                                   |
 | [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]                                           |
 | [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                         |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]                                                       |
@@ -84,6 +85,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]                                   |
 | [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]                         |
 | [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]                                           |
+| [[Gate of Wisdom/Foreigner\|Foreigner]]                                                                        |
 | [[Gate of Wisdom/Forgive\|Forgive]]                                                                            |
 | [[Gate of Wisdom/Consequence/Disobedience/Forgiveness\|Forgiveness]]                                           |
 | [[Gate of Wisdom/Sources/Genesis-God’s Spirit in Creation Podcast\|Genesis-God’s Spirit in Creation Podcast]]  |
@@ -123,12 +125,14 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                                                     |
 | [[Gate of Wisdom/Lust\|Lust]]                                                                                  |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre\|Mamre]]                                                |
+| [[Gate of Wisdom/Memorial\|Memorial]]                                                                          |
 | [[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]]                                                       |
 | [[Gate of Wisdom/Beings/Messenger\|Messenger]]                                                                 |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Messiah\|Messiah]]                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Micah\|Micah]]                                                            |
 | [[Gate of Wisdom/Mitzvot\|Mitzvot]]                                                                            |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Morning Star\|Morning Star]]                                           |
+| [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]]                                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]                                                            |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]]                                          |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]                                                     |
@@ -189,10 +193,11 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Sources/Cahn, Jonathan/The Dragon's Prophecy\|The Dragon's Prophecy]]                         |
 | [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]                                |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]                    |
-| [[Gate of Wisdom/Timeline of Second Writings\|Timeline of Second Writings]]                                    |
+| [[Gate of Wisdom/Timeline\|Timeline]]                                                                          |
 | [[Gate of Wisdom/Torah\|Torah]]                                                                                |
 | [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                  |
 | [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]                                                     |
+| [[Gate of Wisdom/Vain\|Vain]]                                                                                  |
 | [[Gate of Wisdom/Wash\|Wash]]                                                                                  |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                   |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]                                                   |

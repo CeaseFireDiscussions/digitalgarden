@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/02-exodus/exod-37/","tags":["#TheScrolls","#TorahLawofMoses","#nothome","#02Exod"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/02-exodus/exod-37/","tags":["TheScrolls","TorahLawofMoses","nothome","02Exod"]}
 ---
 
 # Exodus 37

@@ -4,6 +4,7 @@
 
 | Table of Content                                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]                     |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]                                       |
 | [[Olive Branch Reconciliations/The Law in Matthew 5\|The Law in Matthew 5]]                                                                                                                  |
 | [[Olive Branch Reconciliations/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]                                                                                                            |

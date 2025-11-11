@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/03-leviticus/lev-24/","tags":["#TheScrolls","#TorahLawofMoses","#nothome","#03Lev"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/03-leviticus/lev-24/","tags":["TheScrolls","TorahLawofMoses","nothome","03Lev"]}
 ---
 
 

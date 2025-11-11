@@ -37,6 +37,7 @@
 - [[Sacred Truces/Matthew 6 vs16-18 Jesus Fasting\|Matthew 6 vs16-18 Jesus Fasting]]
 - [[Sacred Truces/Matthew 6 vs19-21 Jesus Treasures\|Matthew 6 vs19-21 Jesus Treasures]]
 - [[Sacred Truces/Matthew 6 vs22-24 Two Masters\|Matthew 6 vs22-24 Two Masters]]
+- [[Gate of Wisdom/Memorial\|Memorial]]
 - [[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]]
 - [[Gate of Wisdom/Beings/Messenger\|Messenger]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Messiah\|Messiah]]
