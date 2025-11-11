@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/04-numbers/num-35/","tags":["#TheScrolls","#TorahLawofMoses","#nothome","#04Num"]}
+{"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/04-numbers/num-35/","tags":["TheScrolls","TorahLawofMoses","nothome","04Num"]}
 ---
 
 # Numbers 35

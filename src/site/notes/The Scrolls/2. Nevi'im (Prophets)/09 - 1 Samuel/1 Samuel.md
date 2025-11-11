@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/09-1-samuel/1-samuel/","tags":["#TheScrolls","#Neviim","#nothome","#091Sam"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/09-1-samuel/1-samuel/","tags":["TheScrolls","Neviim","nothome","091Sam"]}
 ---
 
 links: [[The Bible (WEB)\|The Bible (WEB)]]

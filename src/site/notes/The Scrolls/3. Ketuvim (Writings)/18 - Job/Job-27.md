@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/18-job/job-27/","tags":["#TheScrolls","#nothome","#Ketuvim","#18Job"]}
+{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/18-job/job-27/","tags":["TheScrolls","nothome","Ketuvim","18Job"]}
 ---
 
 # Job 27

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/23-isaiah/isa-10/","tags":["#TheScrolls","#Neviim","#nothome","#23Isa"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/23-isaiah/isa-10/","tags":["TheScrolls","Neviim","nothome","23Isa"]}
 ---
 
 # Isaiah 10

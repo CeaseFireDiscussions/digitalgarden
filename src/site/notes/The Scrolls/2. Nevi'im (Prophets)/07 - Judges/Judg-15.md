@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/07-judges/judg-15/","tags":["#TheScrolls","#Neviim","#nothome","#07Judg"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/07-judges/judg-15/","tags":["TheScrolls","Neviim","nothome","07Judg"]}
 ---
 
 # Judges 15
