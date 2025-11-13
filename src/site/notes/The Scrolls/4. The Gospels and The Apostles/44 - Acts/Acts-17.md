@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/44-acts/acts-17/","tags":["#TheScrolls","#GospelsApostles","#nothome","#44Acts"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/44-acts/acts-17/","tags":["TheScrolls","#GospelsApostles","nothome","GospelsApostles","44Acts"]}
 ---
 
 

@@ -12,6 +12,8 @@
 - [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
+- [[Gate of Wisdom/Humble in Spirit\|Humble in Spirit]]
+- [[Gate of Wisdom/Hunger and Thirst\|Hunger and Thirst]]
 - [[Gate of Wisdom/Good News/Kingdom of Heaven\|Kingdom of Heaven]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 3 Humble of Spirit\|Matthew 5 Sermon on the Mount v 3 Humble of Spirit]]

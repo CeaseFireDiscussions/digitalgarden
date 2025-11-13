@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/13-1-chronicles/1-chron-08/","tags":["#TheScrolls","#nothome","#Ketuvim","#131Chron"]}
+{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/13-1-chronicles/1-chron-08/","tags":["TheScrolls","nothome","Ketuvim","131Chron"]}
 ---
 
 # 1 Chronicles 8

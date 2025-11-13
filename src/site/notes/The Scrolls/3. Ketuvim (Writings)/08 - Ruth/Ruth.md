@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/08-ruth/ruth/","tags":["#TheScrolls","#nothome","#Ketuvim","#08Ruth"]}
+{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/08-ruth/ruth/","tags":["TheScrolls","nothome","Ketuvim","08Ruth"]}
 ---
 
 links: [[The Bible (WEB)\|The Bible (WEB)]]

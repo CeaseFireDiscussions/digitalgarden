@@ -11,6 +11,7 @@
 - [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]
 - [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]]
 - [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]
+- [[Gate of Wisdom/Alms\|Alms]]
 - [[Gate of Wisdom/Beings/Human Beings/Ambassador\|Ambassador]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Angel\|Angel]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Angel of the Lord\|Angel of the Lord]]

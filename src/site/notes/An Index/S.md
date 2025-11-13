@@ -57,6 +57,7 @@
 - [[Gate of Wisdom/Beings/Saviors\|Saviors]]
 - [[Sacred Truces/Scripture Survey – YHWH Said\|Scripture Survey – YHWH Said]]
 - [[Sacred Truces/Scripture Survey Shavuot Pentecost\|Scripture Survey Shavuot Pentecost]]
+- [[Gate of Wisdom/Sea of Galilee\|Sea of Galilee]]
 - [[Gate of Wisdom/Sermon on the Mount\|Sermon on the Mount]]
 - [[Gate of Wisdom/Serpent\|Serpent]]
 - [[Gate of Wisdom/Seventh Day\|Seventh Day]]

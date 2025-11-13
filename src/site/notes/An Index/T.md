@@ -7,6 +7,7 @@
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 - [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
+- [[Gate of Wisdom/Hunger and Thirst\|Hunger and Thirst]]
 - [[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]

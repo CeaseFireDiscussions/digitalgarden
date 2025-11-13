@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/37-haggai/hag-01/","tags":["#TheScrolls","#nothome","#Neviim","#37Hag"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/37-haggai/hag-01/","tags":["TheScrolls","nothome","Neviim","37Hag"]}
 ---
 
 # Haggai 1

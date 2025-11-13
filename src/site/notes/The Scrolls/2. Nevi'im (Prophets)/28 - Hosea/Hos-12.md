@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/28-hosea/hos-12/","tags":["#TheScrolls","#TorahLawofMoses","#nothome","#Neviim","#28Hos"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/28-hosea/hos-12/","tags":["TheScrolls","TorahLawofMoses","nothome","Neviim","28Hos"]}
 ---
 
 # Setting
@@ -104,7 +104,7 @@ Ephraim has bitterly provoked anger. Therefore his blood will be left on him, an
 
 [^5]: [[Separation from YHWH\|Separation from YHWH]]: v. 1 (alliances with Assyria, Egypt).
 
-[^6]: [[Zunpublished/Mosaic\|Mosaic]] Covenant v. 9: “I am the Lord your God from the land of Egypt.”
+[^6]: [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]] Covenant v. 9: “I am the Lord your God from the land of Egypt.”
 
 [^7]: [[Gate of Wisdom/Dwelling Places/The Camp/Camp\|Camp]] : v. 9 (tents, recalling wilderness).
 

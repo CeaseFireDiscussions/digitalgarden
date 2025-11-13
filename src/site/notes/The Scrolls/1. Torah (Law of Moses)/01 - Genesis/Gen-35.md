@@ -2,20 +2,21 @@
 {"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-35/","tags":["TheScrolls","TorahLawofMoses","nothome","#01Gen"]}
 ---
 
+For in depth look [[Yada Yada Pauses/01 Gen-35 Yada Yada\|01 Gen-35 Yada Yada]]
 # Setting
 ## Who:
-- Author: Moses
-- Audience: Israel
-- Bullet list Characters and People Groups: 
+- Author: [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]
+- Audience: [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
+- Characters and People Groups: 
   - God
-  - Jacob
+  - [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
   - Deborah (Rebekah’s nurse)
-  - Rebekah (mentioned)
-  - Rachel
-  - Benjamin
-  - Isaac
+  - [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]] (mentioned)
+  - [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]
+  - [[Zunpublished/Benjamin\|Benjamin]]
+  - [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]
   - All the people with Jacob
-  - Household of Jacob
+  - Household of Jacob [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]
   - Foreign gods (idols, implied possessors)
 - Symbolic Roles: 
 	- Deceiver: 
@@ -28,9 +29,9 @@
 - Date takes place: Patriarchal period
 ## Where: 
 - biblical name, location and modern day name, location: 
-  - Luz/Bethel, Canaan (near modern Beit El, West Bank)
-  - Ephrath/Bethlehem, Canaan (Bethlehem, West Bank)
-  - Mamre/Kiriath Arba/Hebron, Canaan (Hebron, West Bank)
+  - Luz/[[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]], [[Gate of Wisdom/Dwelling Places/Realm of Humans/Canaan\|Canaan]] (near modern Beit El, West Bank)
+  - Ephrath/[[Zunpublished/Bethlehem\|Bethlehem]], Canaan (Bethlehem, West Bank)
+  - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre\|Mamre]]/Kiriath Arba/Hebron, Canaan (Hebron, West Bank)
 
 # Genesis 35
 

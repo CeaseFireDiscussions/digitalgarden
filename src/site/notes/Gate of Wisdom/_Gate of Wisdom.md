@@ -30,6 +30,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]]                                                               |
 | [[Gate of Wisdom/Beings/Adversary\|Adversary]]                                                                 |
 | [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]                                                              |
+| [[Gate of Wisdom/Alms\|Alms]]                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Ambassador\|Ambassador]]                                                  |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Angel\|Angel]]                                                         |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Angel of the Lord\|Angel of the Lord]]                                 |
@@ -74,6 +75,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Covenant/Davidic\|Davidic]]                                                                   |
 | [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]                                           |
 | [[Gate of Wisdom/Beings/Devil\|Devil]]                                                                         |
+| [[Gate of Wisdom/Disciple\|Disciple]]                                                                          |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Dragon\|Dragon]]                                                       |
 | [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]                                                     |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Edom\|Edom]]                                                  |
@@ -102,6 +104,8 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]                                        |
 | [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]                                          |
 | [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]                                          |
+| [[Gate of Wisdom/Humble in Spirit\|Humble in Spirit]]                                                          |
+| [[Gate of Wisdom/Hunger and Thirst\|Hunger and Thirst]]                                                        |
 | [[Gate of Wisdom/Idiom\|Idiom]]                                                                                |
 | [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]]                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]                                                            |
@@ -110,7 +114,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]                                                            |
 | [[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]]                                                                 |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Jesus\|Jesus]]                                                         |
+| [[Gate of Wisdom/Beings/Jesus\|Jesus]]                                                                         |
 | [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]                                                                |
 | [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]                                |
 | [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]]                                                            |
@@ -125,7 +129,9 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                                                     |
 | [[Gate of Wisdom/Lust\|Lust]]                                                                                  |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre\|Mamre]]                                                |
+| [[Gate of Wisdom/Meek\|Meek]]                                                                                  |
 | [[Gate of Wisdom/Memorial\|Memorial]]                                                                          |
+| [[Gate of Wisdom/Merciful\|Merciful]]                                                                          |
 | [[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]]                                                       |
 | [[Gate of Wisdom/Beings/Messenger\|Messenger]]                                                                 |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Messiah\|Messiah]]                                                     |
@@ -134,7 +140,9 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Morning Star\|Morning Star]]                                           |
 | [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]]                                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]                                                            |
+| [[Gate of Wisdom/mount\|mount]]                                                                                |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]]                                          |
+| [[Gate of Wisdom/Mourn\|Mourn]]                                                                                |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]                                                     |
 | [[Gate of Wisdom/Beings/Nahum\|Nahum]]                                                                         |
 | [[Gate of Wisdom/Name\|Name]]                                                                                  |
@@ -147,15 +155,18 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]]                                               |
 | [[Gate of Wisdom/Ruach/Fruit/Patience\|Patience]]                                                              |
 | [[Gate of Wisdom/Offering/Peace Offering\|Peace Offering]]                                                     |
+| [[Gate of Wisdom/Peacemaker\|Peacemaker]]                                                                      |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Peniel\|Peniel]]                                              |
 | [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]]                                                         |
 | [[Gate of Wisdom/Perfect\|Perfect]]                                                                            |
 | [[Gate of Wisdom/Covenant/Perpetural\|Perpetural]]                                                             |
 | [[Gate of Wisdom/Beings/Human Beings/Pharisee\|Pharisee]]                                                      |
+| [[Gate of Wisdom/Poor\|Poor]]                                                                                  |
 | [[Gate of Wisdom/Pray\|Pray]]                                                                                  |
 | [[Gate of Wisdom/Prayer\|Prayer]]                                                                              |
 | [[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]                                     |
 | [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]]                                             |
+| [[Gate of Wisdom/Pure\|Pure]]                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                                          |
 | [[Gate of Wisdom/Ransom\|Ransom]]                                                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]]                                                        |
@@ -170,6 +181,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                         |
 | [[Gate of Wisdom/Save\|Save]]                                                                                  |
 | [[Gate of Wisdom/Beings/Saviors\|Saviors]]                                                                     |
+| [[Gate of Wisdom/Sea of Galilee\|Sea of Galilee]]                                                              |
 | [[Gate of Wisdom/Sermon on the Mount\|Sermon on the Mount]]                                                    |
 | [[Gate of Wisdom/Serpent\|Serpent]]                                                                            |
 | [[Gate of Wisdom/Seventh Day\|Seventh Day]]                                                                    |
@@ -201,6 +213,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Wash\|Wash]]                                                                                  |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                   |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]                                                   |
+| [[Gate of Wisdom/Yehoshua\|Yehoshua]]                                                                          |
 | [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]                                               |
 | [[Gate of Wisdom/Offering/Zevah\|Zevah]]                                                                       |
 

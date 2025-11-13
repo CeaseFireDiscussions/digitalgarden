@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/59-james/james-04/","tags":["#TheScrolls","#GospelsApostles","#nothome","#59James"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/59-james/james-04/","tags":["TheScrolls","GospelsApostles","nothome","59James"]}
 ---
 
 More in-depth look: [[Yada Yada Pauses/59 James-04 Yada Yada\|59 James-04 Yada Yada]]

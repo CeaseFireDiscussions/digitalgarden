@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/33-micah/micah-06/","tags":["#TheScrolls","#Neviim","#nothome","#33Micah"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/33-micah/micah-06/","tags":["TheScrolls","Neviim","nothome","33Micah"]}
 ---
 
 # Setting
@@ -126,7 +126,7 @@ For the statutes of Omri are kept, and all the works of Ahab's house[^2]. You wa
 
 [^9]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] "mountains... strong foundations of the earth" (witness seat)
 
-[^10]: [[Zunpublished/Mosaic\|Mosaic]] "redeemed... from house of bondage... that you may know the righteous acts of YHWH" (recalls exodus covenant)
+[^10]: [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]] "redeemed... from house of bondage... that you may know the righteous acts of YHWH" (recalls exodus covenant)
 
 [^11]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] v2-3,7 (pervert all equity, build Zion with blood, Jerusalem with iniquity; judges take bribe, priests teach for pay, prophets divine for money)
 

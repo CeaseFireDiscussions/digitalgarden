@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/62-1-john/1-john-03/","tags":["#TheScrolls","#GospelsApostles","#nothome","#621John"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/62-1-john/1-john-03/","tags":["TheScrolls","GospelsApostles","nothome","621John"]}
 ---
 
 In depth look: [[Yada Yada Pauses/62 1 John-03 Yada Yada\|62 1 John-03 Yada Yada]]
@@ -7,7 +7,7 @@ In depth look: [[Yada Yada Pauses/62 1 John-03 Yada Yada\|62 1 John-03 Yada Yada
 ## Who:
 - Author: [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]
 - Audience: Not explicitly named
-	- Believers in [[Zunpublished/Jesus\|Jesus]]
+	- Believers in [[Gate of Wisdom/Beings/Jesus\|Gate of Wisdom/Beings/Jesus]]
 	- Know the truth and have received the anointing of the Holy Spirit
 	- Children of God
 - Bullet list Characters and People Groups: 

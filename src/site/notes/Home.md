@@ -16,10 +16,13 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[The Scrolls/Torah Portions/2025.11.15 Shabbat Reading\|2025.11.15 Shabbat Reading]]                                                                                    |
+| [[Yada Yada Pauses/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]                                                                                                            |
+| [[Gate of Wisdom/Humble in Spirit\|Humble in Spirit]]                                                                                                                    |
+| [[Yada Yada Pauses/62 1 John-03 Yada Yada\|62 1 John-03 Yada Yada]]                                                                                                      |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]] |
 | [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                                                                                                        |
 | [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yada Yada]]                                                                                                        |
-| [[The Scrolls/Torah Portions/2025.11.15 Shabbat Reading\|2025.11.15 Shabbat Reading]]                                                                                    |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]                                                                 |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]                   |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation\|Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation]]                                       |
@@ -33,9 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 13 Salt\|Matthew 5 Sermon on the Mount v 13 Salt]]                                                                       |
 | [[Sacred Truces/More on Matthew 5 Salt\|More on Matthew 5 Salt]]                                                                                                         |
 | [[Sacred Truces/Please pass the salt\|Please pass the salt]]                                                                                                             |
-| [[Sacred Truces/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]                                       |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness\|Matthew 5 Sermon on the Mount v 10-12 Persecuted for Righteousness]]                 |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]                                               |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/blessed/","tags":["#GateWisdom"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/blessed/","tags":["#GateWisdom","B","nothome"]}
 ---
 
 # Define
@@ -15,8 +15,13 @@
 - shālôm (שְׁלוֹם) – “peace, wholeness” – linked to the state of the makarios (Psalm 119:165)
 
 # Additional Info
+- A better translation for makarios is “you will feel truly content when… -- 10 words change way read bible)
 - Makarios describes humanity receiving divine favor through faith, endurance, or obedience — not merit, but God’s gracious approval.
 - ’Ashrê and makarios are never used for God Himself — only for people in right relationship with Him.
+- The word transalated as blessed did not carry with it the idea of a future event, it was a state of being, in the moment. It wasn’t something to be given at a later time, a reward for an action. It was experierenced during the action.
+- AMP:  happy, to be envied, and spiritually prosperous—with life-joy and satisfaction in God’s favor and salvation, regardless of their outward conditions
+- Dead Sea Scrolls community: Blessed is the one with a pure heart, who doesn’t not slander with his tongue. Blessed are those who adhere to the commands of the Torah and do not adhere to perverted paths.  …  blessed is the man who attains Wisdom, who walks in the Law of the Most High.
+- 150 years before Jesus, a Jewish Teacher, Ben-Sirah Jesus wrote a blessed is statement. It fully immersed it’s self in the value of the world with status, admiration, etc. It was a culture where status was important and the one Jesus Christ has walked into.  When they heard Jesus say, “blessed” they thought they knew what he was going to say, but he said almost the opposite.
 
 # Connections
 - Job 5:17 (“Behold, happy [’ashrê] is the man whom God corrects”) → James 1:12 – endurance under trial brings makarios status.

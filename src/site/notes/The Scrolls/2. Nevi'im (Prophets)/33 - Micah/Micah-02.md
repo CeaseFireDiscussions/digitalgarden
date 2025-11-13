@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/33-micah/micah-02/","tags":["#TheScrolls","#nothome","#Neviim","#33Micah"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/33-micah/micah-02/","tags":["TheScrolls","nothome","Neviim","33Micah"]}
 ---
 
 # Micah 2

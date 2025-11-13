@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/08-ruth/ruth-04/","tags":["#TheScrolls","#nothome","#Ketuvim","#08Ruth"]}
+{"dg-publish":true,"permalink":"/the-scrolls/3-ketuvim-writings/08-ruth/ruth-04/","tags":["TheScrolls","nothome","Ketuvim","08Ruth"]}
 ---
 
 # Ruth 4

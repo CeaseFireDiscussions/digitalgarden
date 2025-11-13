@@ -3,8 +3,8 @@
 ---
 
 
-- [[Sacred Truces/Fascism\|Fascism]]
 - [[The Heralds Messages/Fascism\|Fascism]]
+- [[Sacred Truces/Fascism\|Fascism]]
 - [[Gate of Wisdom/Fast\|Fast]]
 - [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]
 - [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]

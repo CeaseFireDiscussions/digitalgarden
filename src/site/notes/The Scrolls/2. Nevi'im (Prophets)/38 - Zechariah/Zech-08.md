@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/38-zechariah/zech-08/","tags":["#TheScrolls","#nothome","#Neviim","#38Zech"]}
+{"dg-publish":true,"permalink":"/the-scrolls/2-nevi-im-prophets/38-zechariah/zech-08/","tags":["TheScrolls","nothome","Neviim","38Zech"]}
 ---
 
 # Zechariah 8

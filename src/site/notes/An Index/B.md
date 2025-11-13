@@ -12,6 +12,7 @@
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]]
 - [[Gate of Wisdom/Birthright\|Birthright]]
 - [[Gate of Wisdom/Bitterness\|Bitterness]]
+- [[Gate of Wisdom/Blessed\|Blessed]]
 - [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]
 - [[Gate of Wisdom/Bronze\|Bronze]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]
