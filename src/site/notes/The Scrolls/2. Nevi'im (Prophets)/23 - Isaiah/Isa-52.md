@@ -5,7 +5,7 @@
 
 # Isaiah 52
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-51\|← Isaiah 51]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-53\|Isaiah 53 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-51\|← Isaiah 51]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-53\|Isaiah 53 →]]
 ***
 
 
@@ -56,4 +56,4 @@ Just as many were astonished at you-- his appearance was marred more than any ma
 so he will cleanse many nations. Kings will shut their mouths at him; for they will see that which had not been told them, and they will understand that which they had not heard.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-51\|← Isaiah 51]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-53\|Isaiah 53 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-51\|← Isaiah 51]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-53\|Isaiah 53 →]]

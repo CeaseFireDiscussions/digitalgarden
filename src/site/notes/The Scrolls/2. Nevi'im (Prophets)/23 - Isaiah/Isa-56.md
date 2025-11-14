@@ -4,7 +4,7 @@
 
 # Isaiah 56
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-55\|← Isaiah 55]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57\|Isaiah 57 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-55\|← Isaiah 55]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57\|Isaiah 57 →]]
 ***
 
 ###### v1 
@@ -44,4 +44,4 @@ Yes, the dogs are greedy. They can never have enough. They are shepherds who can
 "Come," they say, "I will get wine, and we will fill ourselves with strong drink; and tomorrow will be as today, great beyond measure."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-55\|← Isaiah 55]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57\|Isaiah 57 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-55\|← Isaiah 55]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57\|Isaiah 57 →]]

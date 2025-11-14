@@ -4,7 +4,7 @@
 
 # Isaiah 29
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-28\|← Isaiah 28]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-30\|Isaiah 30 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-28\|← Isaiah 28]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-30\|Isaiah 30 →]]
 ***
 
 
@@ -82,4 +82,4 @@ But when he sees his children, the work of my hands, in the middle of him, they 
 They also who err in spirit will come to understanding, and those who grumble will receive instruction."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-28\|← Isaiah 28]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-30\|Isaiah 30 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-28\|← Isaiah 28]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-30\|Isaiah 30 →]]

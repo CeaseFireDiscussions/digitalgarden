@@ -5,7 +5,7 @@
 
 # Isaiah 59
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-58\|← Isaiah 58]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60\|Isaiah 60 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-58\|← Isaiah 58]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60\|Isaiah 60 →]]
 ***
 
 
@@ -74,4 +74,4 @@ So they will fear Yahweh's name from the west, and his glory from the rising of 
 "As for me, this is my covenant with them," says Yahweh. "My Spirit who is on you, and my words which I have put in your mouth shall not depart out of your mouth, nor out of the mouth of your offspring, nor out of the mouth of your offspring's offspring," says Yahweh, "from now on and forever."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-58\|← Isaiah 58]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60\|Isaiah 60 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-58\|← Isaiah 58]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60\|Isaiah 60 →]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/66-revelation/rev-03/","tags":["#TheScrolls","#GospelsApostles","#nothome","#66Rev"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/66-revelation/rev-03/","tags":["TheScrolls","GospelsApostles","nothome","66Rev"]}
 ---
 
 

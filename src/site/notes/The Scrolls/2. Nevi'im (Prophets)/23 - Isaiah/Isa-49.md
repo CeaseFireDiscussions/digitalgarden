@@ -4,7 +4,7 @@
 
 # Isaiah 49
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-48\|← Isaiah 48]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-50\|Isaiah 50 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-48\|← Isaiah 48]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-50\|Isaiah 50 →]]
 ***
 
 
@@ -88,4 +88,4 @@ But Yahweh says, "Even the captives of the mighty shall be taken away, and the p
 I will feed those who oppress you with their own flesh; and they will be drunk on their own blood, as with sweet wine. Then all flesh shall know that I, Yahweh, am your Savior and your Redeemer, the Mighty One of Jacob."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-48\|← Isaiah 48]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-50\|Isaiah 50 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-48\|← Isaiah 48]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-50\|Isaiah 50 →]]

@@ -4,7 +4,7 @@
 
 # Isaiah 25
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-24\|← Isaiah 24]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-26\|Isaiah 26 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-24\|← Isaiah 24]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-26\|Isaiah 26 →]]
 ***
 
 
@@ -46,4 +46,4 @@ He will spread out his hands in the middle of it, like one who swims spreads out
 He has brought the high fortress of your walls down, laid low, and brought to the ground, even to the dust.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-24\|← Isaiah 24]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-26\|Isaiah 26 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-24\|← Isaiah 24]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-26\|Isaiah 26 →]]

@@ -186,7 +186,7 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|Mi
 
 [^9]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] "mountains... strong foundations of the earth" (witness seat)
 
-[^10]: [[Zunpublished/Mosaic\|Mosaic]] "redeemed... from house of bondage... that you may know the righteous acts of YHWH" (recalls exodus covenant)
+[^10]: [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]] "redeemed... from house of bondage... that you may know the righteous acts of YHWH" (recalls exodus covenant)
 
 [^11]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] v2-3,7 (pervert all equity, build Zion with blood, Jerusalem with iniquity; judges take bribe, priests teach for pay, prophets divine for money)
 

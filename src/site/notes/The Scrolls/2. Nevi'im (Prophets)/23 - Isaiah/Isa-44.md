@@ -4,7 +4,7 @@
 
 # Isaiah 44
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-43\|← Isaiah 43]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|Isaiah 45 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-43\|← Isaiah 43]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|Isaiah 45 →]]
 ***
 
 
@@ -94,4 +94,4 @@ who says to the deep, 'Be dry,' and 'I will dry up your rivers;'
 Who says of Cyrus, 'He is my shepherd, and shall perform all my pleasure,' even saying of Jerusalem, 'She will be built;' and of the temple, 'Your foundation will be laid.'"
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-43\|← Isaiah 43]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|Isaiah 45 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-43\|← Isaiah 43]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|Isaiah 45 →]]

@@ -5,7 +5,7 @@
 
 # Isaiah 65
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-64\|← Isaiah 64]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66\|Isaiah 66 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-64\|← Isaiah 64]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66\|Isaiah 66 →]]
 ***
 # [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]
 
@@ -153,4 +153,4 @@
 - They will not hurt nor destroy in all my holy mountain," says Yahweh.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-64\|← Isaiah 64]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66\|Isaiah 66 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-64\|← Isaiah 64]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66\|Isaiah 66 →]]

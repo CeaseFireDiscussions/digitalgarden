@@ -4,7 +4,7 @@
 
 # Isaiah 19
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-18\|← Isaiah 18]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-20\|Isaiah 20 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-18\|← Isaiah 18]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-20\|Isaiah 20 →]]
 ***
 
 
@@ -85,4 +85,4 @@ In that day, Israel will be the third with Egypt and with Assyria, a blessing wi
 because Yahweh of Armies has blessed them, saying, "Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-18\|← Isaiah 18]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-20\|Isaiah 20 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-18\|← Isaiah 18]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-20\|Isaiah 20 →]]

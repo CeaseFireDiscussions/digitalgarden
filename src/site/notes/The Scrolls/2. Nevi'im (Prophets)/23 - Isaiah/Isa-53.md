@@ -5,7 +5,7 @@
 
 # Isaiah 53
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-52\|← Isaiah 52]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-54\|Isaiah 54 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-52\|← Isaiah 52]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-54\|Isaiah 54 →]]
 ***
 
 
@@ -47,4 +47,4 @@ After the suffering of his soul, he will see the light and be satisfied. My righ
 Therefore I will give him a portion with the great. He will divide the plunder with the strong; because he poured out his soul to death and was counted with the transgressors; yet he bore the sins of many and made intercession for the transgressors.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-52\|← Isaiah 52]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-54\|Isaiah 54 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-52\|← Isaiah 52]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-54\|Isaiah 54 →]]

@@ -26,7 +26,7 @@
 
 # Isaiah 46 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-46\|Isa-46]]
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
 ***
 
 # The Babylonians
@@ -122,7 +122,7 @@
 
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
 
 [^1]: [[Gate of Wisdom/Abomination\|Abomination]] Idols
 

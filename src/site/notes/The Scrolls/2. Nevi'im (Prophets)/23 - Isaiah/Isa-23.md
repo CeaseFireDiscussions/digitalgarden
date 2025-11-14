@@ -4,7 +4,7 @@
 
 # Isaiah 23
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-22\|← Isaiah 22]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-24\|Isaiah 24 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-22\|← Isaiah 22]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-24\|Isaiah 24 →]]
 ***
 
 
@@ -64,4 +64,4 @@ It will happen after the end of seventy years that Yahweh will visit Tyre. She w
 Her merchandise and her wages will be holiness to Yahweh. It will not be treasured nor laid up; for her merchandise will be for those who dwell before Yahweh, to eat sufficiently, and for durable clothing.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-22\|← Isaiah 22]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-24\|Isaiah 24 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-22\|← Isaiah 22]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-24\|Isaiah 24 →]]

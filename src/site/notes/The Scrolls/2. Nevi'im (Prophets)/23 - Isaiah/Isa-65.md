@@ -4,7 +4,7 @@
 
 # Isaiah 65
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-64\|← Isaiah 64]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66\|Isaiah 66 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-64\|← Isaiah 64]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66\|Isaiah 66 →]]
 ***
 
 
@@ -85,4 +85,4 @@ It will happen that before they call, I will answer; and while they are yet spea
 The wolf and the lamb will feed together. The lion will eat straw like the ox. Dust will be the serpent's food. They will not hurt nor destroy in all my holy mountain," says Yahweh.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-64\|← Isaiah 64]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66\|Isaiah 66 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-64\|← Isaiah 64]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66\|Isaiah 66 →]]

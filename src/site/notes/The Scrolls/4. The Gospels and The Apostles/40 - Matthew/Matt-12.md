@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/40-matthew/matt-12/","tags":["#TheScrolls","#GospelsApostles","#nothome","#40Matt"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/40-matthew/matt-12/","tags":["TheScrolls","GospelsApostles","nothome","40Matt"]}
 ---
 
 

@@ -4,7 +4,7 @@
 
 # Isaiah 48
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|← Isaiah 47]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-49\|Isaiah 49 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|← Isaiah 47]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-49\|Isaiah 49 →]]
 ***
 
 
@@ -76,4 +76,4 @@ They didn't thirst when he led them through the deserts. He caused the waters to
 "There is no peace", says Yahweh, "for the wicked."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|← Isaiah 47]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-49\|Isaiah 49 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|← Isaiah 47]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-49\|Isaiah 49 →]]

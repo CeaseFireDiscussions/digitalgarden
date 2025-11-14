@@ -4,7 +4,7 @@
 
 # Isaiah 37
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-36\|← Isaiah 36]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-38\|Isaiah 38 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-36\|← Isaiah 36]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-38\|Isaiah 38 →]]
 ***
 
 
@@ -124,4 +124,4 @@ So Sennacherib king of Assyria departed, went away, returned to Nineveh, and sta
 As he was worshiping in the house of Nisroch his god, Adrammelech and Sharezer his sons struck him with the sword; and they escaped into the land of Ararat. Esar Haddon his son reigned in his place.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-36\|← Isaiah 36]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-38\|Isaiah 38 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-36\|← Isaiah 36]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-38\|Isaiah 38 →]]

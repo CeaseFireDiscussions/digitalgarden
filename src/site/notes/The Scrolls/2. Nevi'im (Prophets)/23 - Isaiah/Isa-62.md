@@ -4,7 +4,7 @@
 
 # Isaiah 62
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-61\|← Isaiah 61]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-63\|Isaiah 63 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-61\|← Isaiah 61]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-63\|Isaiah 63 →]]
 ***
 
 
@@ -46,4 +46,4 @@ Behold, Yahweh has proclaimed to the end of the earth, "Say to the daughter of Z
 They will call them "The Holy People, Yahweh's Redeemed". You will be called "Sought Out, A City Not Forsaken".
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-61\|← Isaiah 61]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-63\|Isaiah 63 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-61\|← Isaiah 61]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-63\|Isaiah 63 →]]

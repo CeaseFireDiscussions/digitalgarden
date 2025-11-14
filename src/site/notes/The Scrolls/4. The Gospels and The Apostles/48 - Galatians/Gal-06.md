@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/48-galatians/gal-06/","tags":["#TheScrolls","#GospelsApostles","#nothome","#48Gal"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/48-galatians/gal-06/","tags":["TheScrolls","GospelsApostles","nothome","48Gal"]}
 ---
 
 

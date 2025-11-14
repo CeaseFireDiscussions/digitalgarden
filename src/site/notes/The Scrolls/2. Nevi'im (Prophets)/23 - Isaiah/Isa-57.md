@@ -4,7 +4,7 @@
 
 # Isaiah 57
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-56\|← Isaiah 56]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-58\|Isaiah 58 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-56\|← Isaiah 56]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-58\|Isaiah 58 →]]
 ***
 
 
@@ -73,4 +73,4 @@ But the wicked are like the troubled sea; for it can't rest and its waters cast 
 "There is no peace", says my God, "for the wicked."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-56\|← Isaiah 56]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-58\|Isaiah 58 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-56\|← Isaiah 56]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-58\|Isaiah 58 →]]

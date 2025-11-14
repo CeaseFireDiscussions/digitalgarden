@@ -25,7 +25,7 @@
 
 # Isaiah 46 [[Yada Yada Pauses/23 Isa-46 Yada Yada\|23 Isa-46 Yada Yada]]
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
 ***
 
 ###### v1 
@@ -72,7 +72,7 @@ Listen to me, you [^2]stubborn-hearted, who are far from righteousness!
 
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
 
 [^1]: [[Gate of Wisdom/Abomination\|Abomination]] Idols
 

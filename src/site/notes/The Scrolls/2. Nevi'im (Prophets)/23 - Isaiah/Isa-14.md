@@ -5,7 +5,7 @@
 
 # Isaiah 14
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-13\|← Isaiah 13]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-15\|Isaiah 15 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-13\|← Isaiah 13]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-15\|Isaiah 15 →]]
 ***
 
 
@@ -107,6 +107,6 @@ Howl, gate! Cry, city! You are melted away, Philistia, all of you; for smoke com
 What will they answer the messengers of the nation? That Yahweh has founded Zion, and in her the afflicted of his people will take refuge.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-13\|← Isaiah 13]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-15\|Isaiah 15 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-13\|← Isaiah 13]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-15\|Isaiah 15 →]]
 
 ![High  Isaiah 14.png](/img/user/Assets/attachments/High%20%20Isaiah%2014.png)

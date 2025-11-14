@@ -4,7 +4,7 @@
 
 # Isaiah 32
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-31\|← Isaiah 31]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-33\|Isaiah 33 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-31\|← Isaiah 31]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-33\|Isaiah 33 →]]
 ***
 
 
@@ -70,4 +70,4 @@ though hail flattens the forest, and the city is leveled completely.
 Blessed are you who sow beside all waters, who send out the feet of the ox and the donkey.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-31\|← Isaiah 31]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-33\|Isaiah 33 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-31\|← Isaiah 31]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-33\|Isaiah 33 →]]

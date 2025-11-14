@@ -4,7 +4,7 @@
 
 # Isaiah 28
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-27\|← Isaiah 27]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-29\|Isaiah 29 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-27\|← Isaiah 27]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-29\|Isaiah 29 →]]
 ***
 
 
@@ -97,4 +97,4 @@ Bread flour must be ground; so he will not always be threshing it. Although he d
 This also comes out from Yahweh of Armies, who is wonderful in counsel, and excellent in wisdom.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-27\|← Isaiah 27]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-29\|Isaiah 29 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-27\|← Isaiah 27]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-29\|Isaiah 29 →]]

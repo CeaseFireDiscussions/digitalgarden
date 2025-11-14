@@ -4,7 +4,7 @@
 
 # Isaiah 45
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-44\|← Isaiah 44]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-46\|Isaiah 46 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-44\|← Isaiah 44]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-46\|Isaiah 46 →]]
 ***
 
 
@@ -85,4 +85,4 @@ They will say of me, 'There is righteousness and strength only in Yahweh.'" Even
 All the offspring of Israel will be justified in Yahweh, and will rejoice!
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-44\|← Isaiah 44]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-46\|Isaiah 46 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-44\|← Isaiah 44]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-46\|Isaiah 46 →]]

@@ -6,7 +6,7 @@
 
 # Isaiah 40
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-39\|← Isaiah 39]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-41\|Isaiah 41 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-39\|← Isaiah 39]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-41\|Isaiah 41 →]]
 ***
 
 
@@ -105,4 +105,4 @@ Even the youths faint and get weary, and the young men utterly fall;
 but those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-39\|← Isaiah 39]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-41\|Isaiah 41 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-39\|← Isaiah 39]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-41\|Isaiah 41 →]]

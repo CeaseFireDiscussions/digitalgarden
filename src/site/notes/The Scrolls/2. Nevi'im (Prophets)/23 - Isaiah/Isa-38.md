@@ -4,7 +4,7 @@
 
 # Isaiah 38
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-37\|← Isaiah 37]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-39\|Isaiah 39 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-37\|← Isaiah 37]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-39\|Isaiah 39 →]]
 ***
 
 
@@ -76,4 +76,4 @@ Now Isaiah had said, "Let them take a cake of figs, and lay it for a poultice on
 Hezekiah also had said, "What is the sign that I will go up to Yahweh's house?"
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-37\|← Isaiah 37]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-39\|Isaiah 39 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-37\|← Isaiah 37]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-39\|Isaiah 39 →]]

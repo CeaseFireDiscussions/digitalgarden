@@ -4,7 +4,7 @@
 
 # Isaiah 55
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-54\|← Isaiah 54]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-56\|Isaiah 56 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-54\|← Isaiah 54]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-56\|Isaiah 56 →]]
 ***
 
 
@@ -49,4 +49,4 @@ For you shall go out with joy, and be led out with peace. The mountains and the 
 Instead of the thorn the cypress tree will come up; and instead of the brier the myrtle tree will come up. It will make a name for Yahweh, for an everlasting sign that will not be cut off."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-54\|← Isaiah 54]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-56\|Isaiah 56 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-54\|← Isaiah 54]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-56\|Isaiah 56 →]]

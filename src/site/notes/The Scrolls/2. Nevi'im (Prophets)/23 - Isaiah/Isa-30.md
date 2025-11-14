@@ -4,7 +4,7 @@
 
 # Isaiah 30
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-29\|← Isaiah 29]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-31\|Isaiah 31 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-29\|← Isaiah 29]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-31\|Isaiah 31 →]]
 ***
 
 
@@ -109,4 +109,4 @@ Every stroke of the rod of punishment, which Yahweh will lay on him, will be wit
 For his burning place has long been ready. Yes, it is prepared for the king. He has made its pyre deep and large with fire and much wood. Yahweh's breath, like a stream of sulfur, kindles it.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-29\|← Isaiah 29]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-31\|Isaiah 31 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-29\|← Isaiah 29]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-31\|Isaiah 31 →]]

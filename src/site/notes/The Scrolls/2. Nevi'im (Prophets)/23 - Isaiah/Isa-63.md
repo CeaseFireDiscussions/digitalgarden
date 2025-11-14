@@ -4,7 +4,7 @@
 
 # Isaiah 63
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-62\|← Isaiah 62]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-64\|Isaiah 64 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-62\|← Isaiah 62]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-64\|Isaiah 64 →]]
 ***
 
 
@@ -67,4 +67,4 @@ Your holy people possessed it but a little while. Our adversaries have trodden d
 We have become like those over whom you never ruled, like those who were not called by your name.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-62\|← Isaiah 62]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-64\|Isaiah 64 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-62\|← Isaiah 62]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-64\|Isaiah 64 →]]

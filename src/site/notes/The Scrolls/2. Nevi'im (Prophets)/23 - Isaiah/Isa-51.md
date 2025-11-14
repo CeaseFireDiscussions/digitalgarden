@@ -4,7 +4,7 @@
 
 # Isaiah 51
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-50\|← Isaiah 50]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-52\|Isaiah 52 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-50\|← Isaiah 50]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-52\|Isaiah 52 →]]
 ***
 
 
@@ -79,4 +79,4 @@ Your Lord Yahweh, your God who pleads the cause of his people, says, "Behold, I 
 I will put it into the hand of those who afflict you, who have said to your soul, 'Bow down, that we may walk over you;' and you have laid your back as the ground, like a street to those who walk over."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-50\|← Isaiah 50]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-52\|Isaiah 52 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-50\|← Isaiah 50]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-52\|Isaiah 52 →]]

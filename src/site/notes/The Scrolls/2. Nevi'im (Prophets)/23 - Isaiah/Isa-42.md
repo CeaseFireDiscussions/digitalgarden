@@ -4,7 +4,7 @@
 
 # Isaiah 42
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-41\|← Isaiah 41]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-43\|Isaiah 43 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-41\|← Isaiah 41]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-43\|Isaiah 43 →]]
 ***
 
 
@@ -85,4 +85,4 @@ Who gave Jacob as plunder, and Israel to the robbers? Didn't Yahweh, he against 
 Therefore he poured the fierceness of his anger on him, and the strength of battle. It set him on fire all around, but he didn't know. It burned him, but he didn't take it to heart."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-41\|← Isaiah 41]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-43\|Isaiah 43 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-41\|← Isaiah 41]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-43\|Isaiah 43 →]]

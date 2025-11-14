@@ -4,7 +4,7 @@
 
 # Isaiah 35
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-34\|← Isaiah 34]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-36\|Isaiah 36 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-34\|← Isaiah 34]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-36\|Isaiah 36 →]]
 ***
 
 
@@ -40,4 +40,4 @@ No lion will be there, nor will any ravenous animal go up on it. They will not b
 Then Yahweh's ransomed ones will return, and come with singing to Zion; and everlasting joy will be on their heads. They will obtain gladness and joy, and sorrow and sighing will flee away."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-34\|← Isaiah 34]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-36\|Isaiah 36 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-34\|← Isaiah 34]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-36\|Isaiah 36 →]]

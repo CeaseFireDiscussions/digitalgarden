@@ -110,6 +110,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]]                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]                                                            |
 | [[Gate of Wisdom/Covenant/Isaacic\|Isaacic]]                                                                   |
+| [[Gate of Wisdom/Beings/Human Beings/Isaiah\|Isaiah]]                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]                                                          |
 | [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]                                                            |

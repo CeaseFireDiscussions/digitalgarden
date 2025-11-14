@@ -4,7 +4,7 @@
 
 # Isaiah 5
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-04\|← Isaiah 04]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-06\|Isaiah 06 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-04\|← Isaiah 04]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-06\|Isaiah 06 →]]
 ***
 
 
@@ -100,4 +100,4 @@ Their roaring will be like a lioness. They will roar like young lions. Yes, they
 They will roar against them in that day like the roaring of the sea. If one looks to the land, behold, darkness and distress. The light is darkened in its clouds.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-04\|← Isaiah 04]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-06\|Isaiah 06 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-04\|← Isaiah 04]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-06\|Isaiah 06 →]]

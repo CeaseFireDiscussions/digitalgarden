@@ -17,6 +17,7 @@ Thank you for joining us on these Cease Fire Moments.
 | Latest Drops                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[The Scrolls/Torah Portions/2025.11.15 Shabbat Reading\|2025.11.15 Shabbat Reading]]                                                                                    |
+| [[Gate of Wisdom/Beings/Human Beings/Isaiah\|Isaiah]]                                                                                                                    |
 | [[Yada Yada Pauses/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]                                                                                                            |
 | [[Gate of Wisdom/Humble in Spirit\|Humble in Spirit]]                                                                                                                    |
 | [[Yada Yada Pauses/62 1 John-03 Yada Yada\|62 1 John-03 Yada Yada]]                                                                                                      |
@@ -35,7 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 14-16 Light of the World\|Matthew 5 Sermon on the Mount v 14-16 Light of the World]]                                     |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 13 Salt\|Matthew 5 Sermon on the Mount v 13 Salt]]                                                                       |
 | [[Sacred Truces/More on Matthew 5 Salt\|More on Matthew 5 Salt]]                                                                                                         |
-| [[Sacred Truces/Please pass the salt\|Please pass the salt]]                                                                                                             |
 
 { .block-language-dataview}
 

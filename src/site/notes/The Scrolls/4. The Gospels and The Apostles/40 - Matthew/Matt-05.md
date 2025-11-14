@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/40-matthew/matt-05/","tags":["#TheScrolls","#GospelsApostles","#nothome","#40Matt"]}
+{"dg-publish":true,"permalink":"/the-scrolls/4-the-gospels-and-the-apostles/40-matthew/matt-05/","tags":["TheScrolls","GospelsApostles","nothome","40Matt"]}
 ---
 
-For in depth study [[Zunpublished/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]
+For in depth study [[Yada Yada Pauses/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]
 # Matthew 5
 
 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04\|← Matthew 04]] | [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matthew\|Matthew]] | [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matthew 06 →]]

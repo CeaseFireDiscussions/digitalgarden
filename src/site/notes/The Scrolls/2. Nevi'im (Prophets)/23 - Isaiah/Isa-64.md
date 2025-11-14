@@ -4,7 +4,7 @@
 
 # Isaiah 64
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-63\|← Isaiah 63]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-65\|Isaiah 65 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-63\|← Isaiah 63]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-65\|Isaiah 65 →]]
 ***
 
 
@@ -46,4 +46,4 @@ Our holy and our beautiful house where our fathers praised you is burned with fi
 Will you hold yourself back for these things, Yahweh? Will you keep silent and punish us very severely?
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-63\|← Isaiah 63]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-65\|Isaiah 65 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-63\|← Isaiah 63]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-65\|Isaiah 65 →]]

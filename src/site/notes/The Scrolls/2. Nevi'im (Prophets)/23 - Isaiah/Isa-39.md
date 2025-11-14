@@ -4,7 +4,7 @@
 
 # Isaiah 39
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-38\|← Isaiah 38]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40\|Isaiah 40 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-38\|← Isaiah 38]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40\|Isaiah 40 →]]
 ***
 
 
@@ -34,4 +34,4 @@ Then Isaiah said to Hezekiah, "Hear the word of Yahweh of Armies:
 Then Hezekiah said to Isaiah, "Yahweh's word which you have spoken is good." He said moreover, "For there will be peace and truth in my days."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-38\|← Isaiah 38]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40\|Isaiah 40 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-38\|← Isaiah 38]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40\|Isaiah 40 →]]

@@ -4,7 +4,7 @@
 
 # Isaiah 61
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60\|← Isaiah 60]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-62\|Isaiah 62 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60\|← Isaiah 60]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-62\|Isaiah 62 →]]
 ***
 
 
@@ -43,4 +43,4 @@ I will greatly rejoice in Yahweh! My soul will be joyful in my God, for he has c
 For as the earth produces its bud, and as the garden causes the things that are sown in it to spring up, so the Lord Yahweh will cause righteousness and praise to spring up before all the nations.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60\|← Isaiah 60]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-62\|Isaiah 62 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60\|← Isaiah 60]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-62\|Isaiah 62 →]]

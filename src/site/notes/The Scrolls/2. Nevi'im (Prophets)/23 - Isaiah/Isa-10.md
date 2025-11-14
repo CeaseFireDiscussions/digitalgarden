@@ -4,7 +4,7 @@
 
 # Isaiah 10
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-09\|← Isaiah 09]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-11\|Isaiah 11 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-09\|← Isaiah 09]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-11\|Isaiah 11 →]]
 ***
 
 
@@ -112,4 +112,4 @@ Behold, the Lord, Yahweh of Armies, will lop the boughs with terror. The tall wi
 He will cut down the thickets of the forest with iron, and Lebanon will fall by the Mighty One.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-09\|← Isaiah 09]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-11\|Isaiah 11 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-09\|← Isaiah 09]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-11\|Isaiah 11 →]]

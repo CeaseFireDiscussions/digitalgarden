@@ -4,7 +4,7 @@
 
 # Isaiah 2
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-01\|← Isaiah 01]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-03\|Isaiah 03 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-01\|← Isaiah 01]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-03\|Isaiah 03 →]]
 ***
 
 
@@ -76,4 +76,4 @@ to go into the caverns of the rocks, and into the clefts of the ragged rocks, fr
 Stop trusting in man, whose breath is in his nostrils; for of what account is he?
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-01\|← Isaiah 01]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-03\|Isaiah 03 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-01\|← Isaiah 01]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-03\|Isaiah 03 →]]

@@ -4,7 +4,7 @@
 
 # Isaiah 34
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-33\|← Isaiah 33]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-35\|Isaiah 35 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-33\|← Isaiah 33]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-35\|Isaiah 35 →]]
 ***
 
 
@@ -61,4 +61,4 @@ Search in the book of Yahweh, and read: not one of these will be missing. None w
 He has cast the lot for them, and his hand has divided it to them with a measuring line. They shall possess it forever. From generation to generation they will dwell in it.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-33\|← Isaiah 33]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-35\|Isaiah 35 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-33\|← Isaiah 33]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-35\|Isaiah 35 →]]

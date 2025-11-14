@@ -4,7 +4,7 @@
 
 # Isaiah 50
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-49\|← Isaiah 49]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-51\|Isaiah 51 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-49\|← Isaiah 49]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-51\|Isaiah 51 →]]
 ***
 
 
@@ -43,4 +43,4 @@ Who among you fears Yahweh and obeys the voice of his servant? He who walks in d
 Behold, all you who kindle a fire, who adorn yourselves with torches around yourselves, walk in the flame of your fire, and among the torches that you have kindled. You will have this from my hand: you will lie down in sorrow.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-49\|← Isaiah 49]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-51\|Isaiah 51 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-49\|← Isaiah 49]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-51\|Isaiah 51 →]]

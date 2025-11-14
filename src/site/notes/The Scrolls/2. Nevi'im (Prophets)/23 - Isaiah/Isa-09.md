@@ -4,7 +4,7 @@
 
 # Isaiah 9
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-08\|← Isaiah 08]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-10\|Isaiah 10 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-08\|← Isaiah 08]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-10\|Isaiah 10 →]]
 ***
 
 
@@ -73,4 +73,4 @@ One will devour on the right hand, and be hungry; and he will eat on the left ha
 Manasseh, Ephraim; and Ephraim, Manasseh; and they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-08\|← Isaiah 08]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-10\|Isaiah 10 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-08\|← Isaiah 08]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-10\|Isaiah 10 →]]

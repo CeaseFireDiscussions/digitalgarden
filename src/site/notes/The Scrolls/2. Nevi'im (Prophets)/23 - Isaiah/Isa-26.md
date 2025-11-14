@@ -4,7 +4,7 @@
 
 # Isaiah 26
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-25\|← Isaiah 25]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-27\|Isaiah 27 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-25\|← Isaiah 25]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-27\|Isaiah 27 →]]
 ***
 
 
@@ -73,4 +73,4 @@ Come, my people, enter into your rooms, and shut your doors behind you. Hide you
 For, behold, Yahweh comes out of his place to punish the inhabitants of the earth for their iniquity. The earth also will disclose her blood, and will no longer cover her slain.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-25\|← Isaiah 25]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-27\|Isaiah 27 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-25\|← Isaiah 25]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-27\|Isaiah 27 →]]

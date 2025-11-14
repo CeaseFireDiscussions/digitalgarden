@@ -4,7 +4,7 @@
 
 # Isaiah 31
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-30\|← Isaiah 30]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-32\|Isaiah 32 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-30\|← Isaiah 30]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-32\|Isaiah 32 →]]
 ***
 
 
@@ -34,4 +34,4 @@ Return to him from whom you have deeply revolted, children of Israel. <sup class
 His rock will pass away by reason of terror, and his princes will be afraid of the banner," says Yahweh, whose fire is in Zion, and his furnace in Jerusalem.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-30\|← Isaiah 30]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-32\|Isaiah 32 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-30\|← Isaiah 30]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-32\|Isaiah 32 →]]

@@ -4,7 +4,7 @@
 
 # Isaiah 8
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-07\|← Isaiah 07]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-09\|Isaiah 09 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-07\|← Isaiah 07]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-09\|Isaiah 09 →]]
 ***
 
 
@@ -76,4 +76,4 @@ They will pass through it, very distressed and hungry. It will happen that when 
 and look to the earth, and see distress, darkness, and the gloom of anguish. They will be driven into thick darkness.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-07\|← Isaiah 07]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-09\|Isaiah 09 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-07\|← Isaiah 07]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-09\|Isaiah 09 →]]

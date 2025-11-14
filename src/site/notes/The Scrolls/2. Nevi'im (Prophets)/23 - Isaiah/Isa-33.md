@@ -5,7 +5,7 @@
 
 # Isaiah 33
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-32\|← Isaiah 32]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-34\|Isaiah 34 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-32\|← Isaiah 32]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-34\|Isaiah 34 →]]
 ***
 
 
@@ -83,4 +83,4 @@ Your rigging is untied. They couldn't strengthen the foot of their mast. They co
 The inhabitant won't say, "I am sick." The people who dwell therein will be forgiven their iniquity.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-32\|← Isaiah 32]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-34\|Isaiah 34 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-32\|← Isaiah 32]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-34\|Isaiah 34 →]]

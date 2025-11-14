@@ -5,7 +5,7 @@
 
 # Isaiah 1
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-02\|Isaiah 02 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-02\|Isaiah 02 →]]
 ***
 
 
@@ -104,4 +104,4 @@ For you shall be as an oak whose leaf fades, and as a garden that has no water.
 The strong will be like tinder, and his work like a spark. They will both burn together, and no one will quench them."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-02\|Isaiah 02 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-02\|Isaiah 02 →]]

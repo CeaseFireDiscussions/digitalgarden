@@ -2,16 +2,46 @@
 {"dg-publish":true,"permalink":"/the-scrolls/1-torah-law-of-moses/01-genesis/gen-36/","tags":["TheScrolls","TorahLawofMoses","nothome","#01Gen"]}
 ---
 
+For in depth look [[Yada Yada Pauses/01 Gen-36 Yada Yada\|01 Gen-36 Yada Yada]]
+# Setting
+
+## Who:
+
+- **Author:** [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]
+- **Audience:** [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]    
+- **Characters and People Groups:**    
+    - [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]] (Edom)        
+    - [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] (Israel)        
+    - Adah, Aholibamah, Bashemath        
+    - Eliphaz, Reuel, Jeush, Jaalam, Korah        
+    - Amalek        
+    - Chiefs (dukes) of Edom        
+    - Horites (inhabitants of Seir)        
+    - Seir the Horite        
+    - Kings of Edom
+## What:
+
+- **Main Storyline:** Genealogy of Esau (Edom), listing his descendants, chiefs, and kings before any king reigned in Israel.
+
+## When:
+
+- **Date Authored:** Approx. 15th century BCE    
+- **Date Takes Place:** After Jacob and Esau parted ways, in the generations following Isaac.
+
+## Where:
+
+- **Biblical Name/Location:** Mount Seir, land of Edom    
+- **Modern Day Location:** Region of southern Jordan  
+
+---
 
 # Genesis 36
 
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|← Genesis 35]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-37\|Genesis 37 →]]
 ***
 
-
-
 ###### v1 
-Now this is the history of the generations of Esau (that is, Edom). 
+Now this is the history of the generations of Esau (that is, Edom).[^1] 
 
 ###### v2 
 Esau took his wives from the daughters of Canaan: Adah the daughter of Elon, the Hittite; and Oholibamah the daughter of Anah, the daughter of Zibeon, the Hivite; 
@@ -32,10 +62,10 @@ Esau took his wives, his sons, his daughters, and all the members of his househo
 For their substance was too great for them to dwell together, and the land of their travels couldn't bear them because of their livestock. 
 
 ###### v8 
-Esau lived in the hill country of Seir. Esau is Edom. 
+Esau lived in the hill country of Seir[^2]. Esau is Edom[^3]. 
 
 ###### v9 
-This is the history of the generations of Esau the father of the Edomites in the hill country of Seir: 
+This is the history of the generations of Esau the father of the Edomites[^4] in the hill country of Seir: 
 
 ###### v10 
 these are the names of Esau's sons: Eliphaz, the son of Adah, the wife of Esau; and Reuel, the son of Basemath, the wife of Esau. 
@@ -141,3 +171,29 @@ chief Magdiel, and chief Iram. These are the chiefs of Edom, according to their 
 
 ***
 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|← Genesis 35]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-37\|Genesis 37 →]]
+
+# Connections
+
+- **Repeated Words:**
+    
+    - Chief (43)        
+    - Son (38)        
+    - Land (8)        
+    - Edom (7)        
+    - Seir (6)        
+        
+- **Other Related Scriptures:**
+    
+    - Genesis 25:23        
+    - Deuteronomy 2:4–5        
+    - Obadiah 1:8–10
+        
+
+
+[^1]: [[Gate of Wisdom/Idiom\|Idiom]] “Esau is Edom”** — Identification idiom emphasizing the founding of the nation of Edom by Esau.
+
+[^2]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] hill country of seir
+
+[^3]: [[Zunpublished/Covenant\|Covenant]] Esau’s separation signifies fulfillment of the word to Rebekah (Gen. 25:23).
+
+[^4]: [[Separation from YHWH\|Separation from YHWH]] Esau departed from Jacob and dwelt in another land.

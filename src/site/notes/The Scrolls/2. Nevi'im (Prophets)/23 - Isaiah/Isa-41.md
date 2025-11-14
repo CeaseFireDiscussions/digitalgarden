@@ -4,7 +4,7 @@
 
 # Isaiah 41
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40\|← Isaiah 40]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-42\|Isaiah 42 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40\|← Isaiah 40]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-42\|Isaiah 42 →]]
 ***
 
 
@@ -97,4 +97,4 @@ When I look, there is no man, even among them there is no counselor who, when I 
 Behold, all of their deeds are vanity and nothing. Their molten images are wind and confusion.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40\|← Isaiah 40]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-42\|Isaiah 42 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40\|← Isaiah 40]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-42\|Isaiah 42 →]]

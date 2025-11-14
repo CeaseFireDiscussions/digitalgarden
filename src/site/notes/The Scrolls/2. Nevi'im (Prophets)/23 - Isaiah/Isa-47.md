@@ -4,7 +4,7 @@
 
 # Isaiah 47
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-46\|← Isaiah 46]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-48\|Isaiah 48 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-46\|← Isaiah 46]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-48\|Isaiah 48 →]]
 ***
 
 
@@ -55,4 +55,4 @@ Behold, they are like stubble. The fire will burn them. They won't deliver thems
 The things that you labored in will be like this: those who have trafficked with you from your youth will each wander in his own way. There will be no one to save you.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-46\|← Isaiah 46]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-48\|Isaiah 48 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-46\|← Isaiah 46]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-48\|Isaiah 48 →]]

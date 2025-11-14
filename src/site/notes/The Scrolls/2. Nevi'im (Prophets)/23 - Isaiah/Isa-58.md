@@ -6,7 +6,7 @@
 
 # Isaiah 58
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57\|← Isaiah 57]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-59\|Isaiah 59 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57\|← Isaiah 57]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-59\|Isaiah 59 →]]
 ***
 
 
@@ -54,4 +54,4 @@ Those who will be of you will build the old waste places. You will raise up the 
 then you will delight yourself in Yahweh, and I will make you to ride on the high places of the earth, and I will feed you with the heritage of Jacob your father;" for Yahweh's mouth has spoken it.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57\|← Isaiah 57]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-59\|Isaiah 59 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57\|← Isaiah 57]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-59\|Isaiah 59 →]]

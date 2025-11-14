@@ -4,7 +4,7 @@
 
 # Isaiah 60
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-59\|← Isaiah 59]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-61\|Isaiah 61 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-59\|← Isaiah 59]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-61\|Isaiah 61 →]]
 ***
 
 
@@ -76,4 +76,4 @@ Then your people will all be righteous. They will inherit the land forever, the 
 The little one will become a thousand, and the small one a strong nation. I, Yahweh, will do this quickly in its time."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-59\|← Isaiah 59]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-61\|Isaiah 61 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-59\|← Isaiah 59]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-61\|Isaiah 61 →]]

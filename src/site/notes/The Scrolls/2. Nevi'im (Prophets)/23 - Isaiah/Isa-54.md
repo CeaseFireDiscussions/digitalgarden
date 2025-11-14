@@ -5,7 +5,7 @@
 
 # Isaiah 54
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-53\|← Isaiah 53]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-55\|Isaiah 55 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-53\|← Isaiah 53]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-55\|Isaiah 55 →]]
 ***
 
 
@@ -62,4 +62,4 @@ Behold, they may gather together, but not by me. Whoever gathers together agains
 No weapon that is formed against you will prevail; and you will condemn every tongue that rises against you in judgment. This is the heritage of Yahweh's servants, and their righteousness is of me," says Yahweh.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-53\|← Isaiah 53]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-55\|Isaiah 55 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-53\|← Isaiah 53]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-55\|Isaiah 55 →]]

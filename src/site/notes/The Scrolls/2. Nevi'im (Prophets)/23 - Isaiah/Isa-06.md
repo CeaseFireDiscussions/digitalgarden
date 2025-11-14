@@ -5,7 +5,7 @@
 
 # Isaiah 6
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-05\|← Isaiah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-07\|Isaiah 07 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-05\|← Isaiah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-07\|Isaiah 07 →]]
 ***
 
 
@@ -50,4 +50,4 @@ and Yahweh has removed men far away, and the forsaken places are many within the
 If there is a tenth left in it, that also will in turn be consumed, as a terebinth, and as an oak, whose stump remains when they are cut down; so the holy seed is its stock."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-05\|← Isaiah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-07\|Isaiah 07 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-05\|← Isaiah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-07\|Isaiah 07 →]]
