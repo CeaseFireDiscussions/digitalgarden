@@ -4,7 +4,7 @@
 
 # Isaiah 16
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-15\|← Isaiah 15]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-17\|Isaiah 17 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-15\|← Isaiah 15]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-17\|Isaiah 17 →]]
 ***
 
 
@@ -52,4 +52,4 @@ This is the word that Yahweh spoke concerning Moab in time past.
 But now Yahweh has spoken, saying, "Within three years, as a worker bound by contract would count them, the glory of Moab shall be brought into contempt, with all his great multitude; and the remnant will be very small and feeble."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-15\|← Isaiah 15]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-17\|Isaiah 17 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-15\|← Isaiah 15]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-17\|Isaiah 17 →]]

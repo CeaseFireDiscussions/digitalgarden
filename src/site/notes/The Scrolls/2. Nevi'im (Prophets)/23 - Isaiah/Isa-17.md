@@ -4,7 +4,7 @@
 
 # Isaiah 17
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-16\|← Isaiah 16]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-18\|Isaiah 18 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-16\|← Isaiah 16]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-18\|Isaiah 18 →]]
 ***
 
 
@@ -52,4 +52,4 @@ The nations will rush like the rushing of many waters: but he will rebuke them, 
 At evening, behold, terror! Before the morning, they are no more. This is the portion of those who plunder us, and the lot of those who rob us.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-16\|← Isaiah 16]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-18\|Isaiah 18 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-16\|← Isaiah 16]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-18\|Isaiah 18 →]]

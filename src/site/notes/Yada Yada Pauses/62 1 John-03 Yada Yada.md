@@ -7,7 +7,7 @@ Ease of reading [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John
 ## Who:
 - Author: [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]
 - Audience: Not explicitly named
-	- Believers in [[Zunpublished/Jesus\|Jesus]]
+	- Believers in [[Gate of Wisdom/Beings/Jesus\|Gate of Wisdom/Beings/Jesus]]
 	- Know the truth and have received the anointing of the Holy Spirit
 	- Children of God
 - Bullet list Characters and People Groups: 

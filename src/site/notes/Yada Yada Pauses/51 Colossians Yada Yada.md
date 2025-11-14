@@ -325,7 +325,7 @@
 - [[Lord\|Lord]]
 - [[God\|God]] [[YHWH\|YHWH]] 
 - things
-- [[Zunpublished/Jesus\|Zunpublished/Jesus]]
+- [[Gate of Wisdom/Beings/Jesus\|Gate of Wisdom/Beings/Jesus]]
 - [[saints\|saints]]
 - [[Zunpublished/Faith\|Faith]]
 - [[Zunpublished/Love\|Love]]

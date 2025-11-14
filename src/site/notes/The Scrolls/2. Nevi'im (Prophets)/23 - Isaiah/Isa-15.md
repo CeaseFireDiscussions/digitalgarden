@@ -4,7 +4,7 @@
 
 # Isaiah 15
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-14\|← Isaiah 14]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-16\|Isaiah 16 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-14\|← Isaiah 14]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-16\|Isaiah 16 →]]
 ***
 
 
@@ -37,4 +37,4 @@ For the cry has gone around the borders of Moab, its wailing to Eglaim, and its 
 For the waters of Dimon are full of blood; for I will bring yet more on Dimon, a lion on those of Moab who escape, and on the remnant of the land.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-14\|← Isaiah 14]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-16\|Isaiah 16 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-14\|← Isaiah 14]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-16\|Isaiah 16 →]]

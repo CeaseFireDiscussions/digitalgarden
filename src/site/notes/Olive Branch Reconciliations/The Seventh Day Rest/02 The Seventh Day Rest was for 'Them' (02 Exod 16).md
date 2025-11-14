@@ -109,6 +109,7 @@ So the <mark style="background: #E0CC4BA6;">people</mark> <mark style="backgroun
 - [[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)\|16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]
 - [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
+- [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest is (23 Isaiah 58)\|21 The Seventh Day Rest is (23 Isaiah 58)]]
 - [[Gate of Wisdom/Seventh Day\|Seventh Day]]
 - [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]

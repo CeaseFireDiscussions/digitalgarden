@@ -4,7 +4,7 @@
 
 # Isaiah 12
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-11\|← Isaiah 11]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-13\|Isaiah 13 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-11\|← Isaiah 11]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-13\|Isaiah 13 →]]
 ***
 
 
@@ -28,4 +28,4 @@ Sing to Yahweh, for he has done excellent things! Let this be known in all the e
 Cry aloud and shout, you inhabitant of Zion; for the Holy One of Israel is great among you!"
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-11\|← Isaiah 11]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-13\|Isaiah 13 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-11\|← Isaiah 11]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-13\|Isaiah 13 →]]

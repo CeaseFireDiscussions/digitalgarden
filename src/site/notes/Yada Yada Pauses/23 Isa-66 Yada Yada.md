@@ -5,7 +5,7 @@
 
 # Isaiah 66
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-65\|← Isaiah 65]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-65\|← Isaiah 65]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]]
 ***
 
 
@@ -163,4 +163,4 @@ The sacrifice of the wicked is an abomination-- how much more, when he brings it
 - "They will go out, and look at the dead bodies of the men who have transgressed against me; for their worm will not die, nor will their fire be quenched, and they will be loathsome to all mankind."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-65\|← Isaiah 65]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-65\|← Isaiah 65]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]]

@@ -4,7 +4,7 @@
 
 # Isaiah 24
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-23\|← Isaiah 23]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-25\|Isaiah 25 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-23\|← Isaiah 23]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-25\|Isaiah 25 →]]
 ***
 
 
@@ -79,4 +79,4 @@ They will be gathered together, as prisoners are gathered in the pit, and will b
 Then the moon will be confounded, and the sun ashamed; for Yahweh of Armies will reign on Mount Zion, and in Jerusalem; and glory will be before his elders.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-23\|← Isaiah 23]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-25\|Isaiah 25 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-23\|← Isaiah 23]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-25\|Isaiah 25 →]]

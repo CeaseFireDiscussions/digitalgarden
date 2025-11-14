@@ -4,7 +4,7 @@
 
 # Isaiah 13
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-12\|← Isaiah 12]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-14\|Isaiah 14 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-12\|← Isaiah 12]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-14\|Isaiah 14 →]]
 ***
 
 
@@ -76,4 +76,4 @@ But wild animals of the desert will lie there, and their houses will be full of 
 Wolves will cry in their fortresses, and jackals in the pleasant palaces. Her time is near to come, and her days will not be prolonged.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-12\|← Isaiah 12]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-14\|Isaiah 14 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-12\|← Isaiah 12]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-14\|Isaiah 14 →]]

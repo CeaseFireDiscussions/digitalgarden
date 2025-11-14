@@ -142,7 +142,6 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]]                                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]                                                            |
 | [[Gate of Wisdom/mount\|mount]]                                                                                |
-| [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]]                                          |
 | [[Gate of Wisdom/Mourn\|Mourn]]                                                                                |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]                                                     |
 | [[Gate of Wisdom/Beings/Nahum\|Nahum]]                                                                         |

@@ -406,7 +406,7 @@ The Sabbath was the only thing created after Man. Sabbath was made for man.
 - Nehemiah 13:15–22 [[Olive Branch Reconciliations/The Seventh Day Rest/18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)\|18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)]]
 - Isaiah 1:13 [[Olive Branch Reconciliations/The Seventh Day Rest/19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)\|19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)]]
 - Isaiah 56:2–6 [[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]
-- Isaiah 58:13
+- Isaiah 58:13 [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest is (23 Isaiah 58)\|21 The Seventh Day Rest is (23 Isaiah 58)]]
 - Isaiah 66:23
 - Jeremiah
 	- 17:21-27

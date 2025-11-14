@@ -4,7 +4,7 @@
 
 # Isaiah 22
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-21\|← Isaiah 21]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-23\|Isaiah 23 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-21\|← Isaiah 21]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-23\|Isaiah 23 →]]
 ***
 
 
@@ -85,4 +85,4 @@ They will hang on him all the glory of his father's house, the offspring and the
 "In that day," says Yahweh of Armies, "the nail that was fastened in a sure place will give way. It will be cut down and fall. The burden that was on it will be cut off, for Yahweh has spoken it."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-21\|← Isaiah 21]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-23\|Isaiah 23 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-21\|← Isaiah 21]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-23\|Isaiah 23 →]]

@@ -4,7 +4,7 @@
 
 # Isaiah 20
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-19\|← Isaiah 19]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-21\|Isaiah 21 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-19\|← Isaiah 19]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-21\|Isaiah 21 →]]
 ***
 
 
@@ -28,4 +28,4 @@ They will be dismayed and confounded, because of Ethiopia their expectation, and
 The inhabitants of this coast land will say in that day, 'Behold, this is our expectation, where we fled for help to be delivered from the king of Assyria. And we, how will we escape?'"
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-19\|← Isaiah 19]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-21\|Isaiah 21 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-19\|← Isaiah 19]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-21\|Isaiah 21 →]]

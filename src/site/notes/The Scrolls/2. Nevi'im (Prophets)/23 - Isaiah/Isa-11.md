@@ -5,7 +5,7 @@
 
 # Isaiah 11
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-10\|← Isaiah 10]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-12\|Isaiah 12 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-10\|← Isaiah 10]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-12\|Isaiah 12 →]]
 ***
 
 
@@ -59,4 +59,4 @@ Yahweh will utterly destroy the tongue of the Egyptian sea; and with his scorchi
 There will be a highway for the remnant that is left of his people from Assyria, like there was for Israel in the day that he came up out of the land of Egypt.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-10\|← Isaiah 10]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-12\|Isaiah 12 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-10\|← Isaiah 10]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-12\|Isaiah 12 →]]

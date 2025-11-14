@@ -4,7 +4,7 @@
 
 # Isaiah 18
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-17\|← Isaiah 17]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-19\|Isaiah 19 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-17\|← Isaiah 17]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-19\|Isaiah 19 →]]
 ***
 
 
@@ -31,4 +31,4 @@ They will be left together for the ravenous birds of the mountains, and for the 
 In that time, a present will be brought to Yahweh of Armies from a people tall and smooth, even from a people awesome from their beginning onward, a nation that measures out and treads down, whose land the rivers divide, to the place of the name of Yahweh of Armies, Mount Zion.
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-17\|← Isaiah 17]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-19\|Isaiah 19 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-17\|← Isaiah 17]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-19\|Isaiah 19 →]]

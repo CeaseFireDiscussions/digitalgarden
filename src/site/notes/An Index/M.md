@@ -50,7 +50,6 @@
 - [[Gate of Wisdom/Beings/Heavenly Beings/Morning Star\|Morning Star]]
 - [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]
 - [[Gate of Wisdom/mount\|mount]]
-- [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]]
 - [[Gate of Wisdom/Mourn\|Mourn]]
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 - [[Sacred Truces/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]

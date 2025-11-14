@@ -180,7 +180,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 
 [^13]: [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mountain\|Mountain]] Mt. Sinai - giving of the covenant to the Hebrews under Moses
 
-[^14]: [[Zunpublished/Mosaic\|Mosaic]] Covenant given at Mt Sinai
+[^14]: [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]] Covenant given at Mt Sinai
 
 [^15]: [[Zunpublished/Restoration\|Restoration]] through the blood of Jesus
 

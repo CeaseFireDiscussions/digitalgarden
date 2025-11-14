@@ -4,7 +4,7 @@
 
 # Isaiah 21
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-20\|← Isaiah 20]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-22\|Isaiah 22 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-20\|← Isaiah 20]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-22\|Isaiah 22 →]]
 ***
 
 
@@ -61,4 +61,4 @@ For the Lord said to me, "Within a year, as a worker bound by contract would cou
 and the residue of the number of the archers, the mighty men of the children of Kedar, will be few; for Yahweh, the God of Israel, has spoken it."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-20\|← Isaiah 20]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-22\|Isaiah 22 →]]
+[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-20\|← Isaiah 20]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-22\|Isaiah 22 →]]
