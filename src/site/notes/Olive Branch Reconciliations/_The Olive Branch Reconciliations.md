@@ -4,7 +4,7 @@
 
 | Table of Content                                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest is (23 Isaiah 58)\|21 The Seventh Day Rest is (23 Isaiah 58)]]                                                   |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]                     |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]                     |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]                                       |
 | [[Olive Branch Reconciliations/The Law in Matthew 5\|The Law in Matthew 5]]                                                                                                                  |
