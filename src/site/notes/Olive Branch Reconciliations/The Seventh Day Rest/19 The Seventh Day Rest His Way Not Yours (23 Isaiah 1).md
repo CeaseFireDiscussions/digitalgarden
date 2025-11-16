@@ -68,33 +68,5 @@ Let's see what scripture says about that starting at the very beginning and then
 	- [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-58\|Isa-58]] Is this the fast that I have chosen? A day for a man to humble his soul? Is it to bow down his head like a reed, and to spread sackcloth and ashes under himself? **Will you call this a fast, and an acceptable day to Yahweh?** "Isn't this the fast that I have chosen: to release the bonds of wickedness, to undo the straps of the yoke, to let the oppressed go free, and that you break every yoke? Isn't it to distribute your bread to the hungry, and that you bring the poor who are cast out to your house? When you see the naked, that you cover him; and that you not hide yourself from your own flesh? 
 	- [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]] **Beware of practicing your righteousness before other people**…when you give to the needy, sound no trumpet…when you pray, do not be like the hypocrites…when you fast, do not look gloomy…”
 
-# Connections
 
-
-- [[Gate of Wisdom/Seventh Day\|Seventh Day]]
-- [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
-- [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for 'Them' (02 Exod 16)\|02 The Seventh Day Rest was for 'Them' (02 Exod 16)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)\|08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/06 The Seventh Day Rest is for God's People (02-Exod 34)\|06 The Seventh Day Rest is for God's People (02-Exod 34)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28)\|13 The Seventh Day Rest is for Offering (04-Num 28)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/15 The Seventh Day Rest Cover Removed (11-2 Kings 16)\|15 The Seventh Day Rest Cover Removed (11-2 Kings 16)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/14 The Seventh Day Rest is for Remembering (05-Deut 05)\|14 The Seventh Day Rest is for Remembering (05-Deut 05)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)\|18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/17 The Seventh Day Rest is Not for Doing Business (16 Nehemiah 10)\|17 The Seventh Day Rest is Not for Doing Business (16 Nehemiah 10)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)\|19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)\|16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/Video Scripture Survey Sabbath and Seventh Day Rest\|Video Scripture Survey Sabbath and Seventh Day Rest]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]
-- [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]
-
-{ .block-language-dataview}
-
+# [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
