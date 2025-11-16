@@ -1,6 +1,7 @@
 [build]
   publish = "dist"
   command = "npm install && npm run build"
+  environment = { NODE_OPTIONS = "--max-old-space-size=3072" }
 
 [[redirects]]
   from = "/api/*"
