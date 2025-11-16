@@ -559,8 +559,13 @@ module.exports = function (eleventyConfig) {
     },
   });
 
-  userEleventySetup(eleventyConfig);
-  
+   userEleventySetup(eleventyConfig);
+
+  // Exclude heavy folders/files to reduce memory
+  eleventyConfig.ignores.add("**/attachments/**");  // Skip large images/PDFs
+  eleventyConfig.ignores.add("**/drafts/**");       // Skip unpublished
+  eleventyConfig.ignores.add("**/*.pdf");           // Skip PDFs
+
   return {
     dir: {
       input: "src/site",
