@@ -1,14 +1,6 @@
 [build]
   publish = "dist"
   command = "npm install && npm run build"
-  environment = { NODE_VERSION = "20" }
-
-[build.environment]
-  NODE_VERSION = "20"
-
-# ↓ MEMORY FIX: 3 GB (safe for Free/Personal plans)
-# ↓ Already in your package.json build:eleventy script
-# ↓ No extra cross-env needed here
 
 [[redirects]]
   from = "/api/*"
