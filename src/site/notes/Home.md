@@ -14,28 +14,28 @@ Have an open mind and be willing to learn, even if you just can’t bring yourse
 
 Thank you for joining us on these Cease Fire Moments.
 
-| Latest Drops                                                                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Yada Yada Pauses/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]                                                                                                            |
-| [[The Scrolls/Torah Portions/2025.11.15 Shabbat Reading\|2025.11.15 Shabbat Reading]]                                                                                    |
-| [[Gate of Wisdom/Beings/Human Beings/Benjamin\|Benjamin]]                                                                                                                |
-| [[Gate of Wisdom/Beings/Human Beings/Benoni\|Benoni]]                                                                                                                    |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]] |
-| [[Gate of Wisdom/Beings/Human Beings/Isaiah\|Isaiah]]                                                                                                                    |
-| [[Gate of Wisdom/Humble in Spirit\|Humble in Spirit]]                                                                                                                    |
-| [[Yada Yada Pauses/62 1 John-03 Yada Yada\|62 1 John-03 Yada Yada]]                                                                                                      |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]] |
-| [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                                                                                                        |
-| [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yada Yada]]                                                                                                        |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]                                                                 |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]                   |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation\|Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation]]                                       |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths\|Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths]]                         |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire\|Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire]]                       |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]                     |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger\|Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger]]                               |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]             |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets\|Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets]]         |
+| Latest Drops                                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]                                                                   |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/15 The Seventh Day Rest Cover Removed (11-2 Kings 16)\|15 The Seventh Day Rest Cover Removed (11-2 Kings 16)]]                           |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)\|16 The Seventh Day Rest is YHWH-God's (16 Nehemiah 09)]]                         |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/17 The Seventh Day Rest is Not for Doing Business (16 Nehemiah 10)\|17 The Seventh Day Rest is Not for Doing Business (16 Nehemiah 10)]] |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)\|18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)]]                       |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)\|19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)]]                       |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]                     |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]                     |
+| [[Yada Yada Pauses/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]                                                                                                                                |
+| [[The Scrolls/Torah Portions/2025.11.15 Shabbat Reading\|2025.11.15 Shabbat Reading]]                                                                                                        |
+| [[Gate of Wisdom/Beings/Human Beings/Benjamin\|Benjamin]]                                                                                                                                    |
+| [[Gate of Wisdom/Beings/Human Beings/Benoni\|Benoni]]                                                                                                                                        |
+| [[Gate of Wisdom/Beings/Human Beings/Isaiah\|Isaiah]]                                                                                                                                        |
+| [[Gate of Wisdom/Humble in Spirit\|Humble in Spirit]]                                                                                                                                        |
+| [[Yada Yada Pauses/62 1 John-03 Yada Yada\|62 1 John-03 Yada Yada]]                                                                                                                          |
+| [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                                                                                                                            |
+| [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yada Yada]]                                                                                                                            |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]                                                                                     |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]                                       |
+| [[Sacred Truces/Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation\|Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation]]                                                           |
 
 { .block-language-dataview}
 
