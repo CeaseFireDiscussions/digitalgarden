@@ -95,24 +95,26 @@ module.exports = function (eleventyConfig) {
     );
   });
 
-  // ⭐ FIX 1: Add missing `link` filter (used in feed.njk)
+  // ⭐ FIX 1: missing filter `link`
   eleventyConfig.addFilter("link", function (url = "") {
     return url;
   });
 
-  // ⭐ FIX 2: Add missing `hideDataview` filter (also used in feed.njk)
+  // ⭐ FIX 2: missing filter `hideDataview`
   eleventyConfig.addFilter("hideDataview", function (content = "") {
     return content;
   });
 
+  // ⭐ FIX 3: missing filter `searchableTags`
+  eleventyConfig.addFilter("searchableTags", function (tags = []) {
+    if (!Array.isArray(tags)) return "";
+    return tags.join(" ");
+  });
+
   // -----------------------------------------
-  // REMOVE ALL HEAVY TRANSFORMS (critical)
+  // REMOVE ALL HEAVY TRANSFORMS
   // -----------------------------------------
-  // ⛔ REMOVED: dataview-js-links transform
-  // ⛔ REMOVED: callout block transform
-  // ⛔ REMOVED: image optimization via eleventy-img
-  // ⛔ REMOVED: table-wrapping transform
-  // ⛔ REMOVED: html-minifier transform
+  // (all removed to avoid Netlify memory crashes)
 
   // -----------------------------------------
   // Passthrough assets
