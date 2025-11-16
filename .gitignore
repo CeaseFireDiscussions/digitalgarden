@@ -1,25 +1,13 @@
-# === NODE / BUILD ===
 node_modules
 dist
-.cache
-_site/
-
-# === NETLIFY ===
 netlify/functions/search/data.json
 netlify/functions/search/index.json
-.netlify
-
-# === THEME / STYLES ===
 src/site/styles/theme.*.css
 src/site/styles/_theme.*.css
-
-# === IDE / OS ===
+# Local Netlify folder
+.netlify
 .idea/
 .vercel
+.cache
+_site/
 **/.DS_Store
-
-# === OBSIDIAN JUNK (ADD THESE LINES) ===
-.obsidian/
-workspace.json
-*.tmp
-.DS_Store
