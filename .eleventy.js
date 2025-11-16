@@ -560,7 +560,7 @@ module.exports = function (eleventyConfig) {
   });
 
   userEleventySetup(eleventyConfig);
-
+  
   return {
     dir: {
       input: "src/site",
