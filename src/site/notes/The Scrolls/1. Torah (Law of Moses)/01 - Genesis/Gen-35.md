@@ -13,7 +13,7 @@ For in depth look [[Yada Yada Pauses/01 Gen-35 Yada Yada\|01 Gen-35 Yada Yada]]
   - Deborah (Rebekah’s nurse)
   - [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]] (mentioned)
   - [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]
-  - [[Zunpublished/Benjamin\|Benjamin]]
+  - [[Gate of Wisdom/Beings/Human Beings/Benjamin\|Benjamin]]
   - [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]
   - All the people with Jacob
   - Household of Jacob [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]

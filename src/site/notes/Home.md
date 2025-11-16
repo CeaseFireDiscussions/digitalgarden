@@ -16,10 +16,12 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]] |
-| [[The Scrolls/Torah Portions/2025.11.15 Shabbat Reading\|2025.11.15 Shabbat Reading]]                                                                                    |
-| [[Gate of Wisdom/Beings/Human Beings/Isaiah\|Isaiah]]                                                                                                                    |
 | [[Yada Yada Pauses/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]                                                                                                            |
+| [[The Scrolls/Torah Portions/2025.11.15 Shabbat Reading\|2025.11.15 Shabbat Reading]]                                                                                    |
+| [[Gate of Wisdom/Beings/Human Beings/Benjamin\|Benjamin]]                                                                                                                |
+| [[Gate of Wisdom/Beings/Human Beings/Benoni\|Benoni]]                                                                                                                    |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]] |
+| [[Gate of Wisdom/Beings/Human Beings/Isaiah\|Isaiah]]                                                                                                                    |
 | [[Gate of Wisdom/Humble in Spirit\|Humble in Spirit]]                                                                                                                    |
 | [[Yada Yada Pauses/62 1 John-03 Yada Yada\|62 1 John-03 Yada Yada]]                                                                                                      |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]] |
@@ -34,8 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger\|Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger]]                               |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]             |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets\|Matthew 5 Sermon on the Mount v 17-20 Jesus – the Law and the Prophets]]         |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 14-16 Light of the World\|Matthew 5 Sermon on the Mount v 14-16 Light of the World]]                                     |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 13 Salt\|Matthew 5 Sermon on the Mount v 13 Salt]]                                                                       |
 
 { .block-language-dataview}
 

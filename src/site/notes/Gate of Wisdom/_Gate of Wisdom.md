@@ -50,6 +50,8 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Bekah\|Bekah]]                                                                                |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Bel\|Bel]]                                                             |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Beney Elohim\|Beney Elohim]]                                           |
+| [[Gate of Wisdom/Beings/Human Beings/Benjamin\|Benjamin]]                                                      |
+| [[Gate of Wisdom/Beings/Human Beings/Benoni\|Benoni]]                                                          |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]]                                              |
 | [[Gate of Wisdom/Birthright\|Birthright]]                                                                      |
 | [[Gate of Wisdom/Bitterness\|Bitterness]]                                                                      |
