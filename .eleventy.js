@@ -1,5 +1,5 @@
 // Optimized Eleventy configuration
-// Heavy transforms (HTML minifier, image processing) disabled for Netlify memory limits.
+// Heavy transforms removed for Netlify memory limits.
 
 const slugify = require("@sindresorhus/slugify");
 const markdownIt = require("markdown-it");
@@ -16,11 +16,12 @@ const {
   userEleventySetup,
 } = require("./src/helpers/userSetup");
 
-const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
+const tagRegex =
+  /(^|\\s|\\>)(#[^\\s!@#$%^&*()=+\\.,\\[{\\]};:'\"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
   // -----------------------------------------
-  // Markdown engine (unchanged)
+  // Markdown engine
   // -----------------------------------------
   eleventyConfig.setLiquidOptions({ dynamicPartials: true });
 
@@ -74,35 +75,42 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLibrary("md", markdownLib);
 
   // -----------------------------------------
-  // Filters (lightweight)
+  // Filters
   // -----------------------------------------
   eleventyConfig.addFilter("isoDate", (date) => date && date.toISOString());
   eleventyConfig.addFilter("jsonify", (x) => JSON.stringify(x) || "\"\"");
-  eleventyConfig.addFilter("dateToZulu", (d) => (d ? new Date(d).toISOString() : ""));
+  eleventyConfig.addFilter(
+    "dateToZulu",
+    (d) => (d ? new Date(d).toISOString() : "")
+  );
 
   eleventyConfig.addFilter("taggify", function (str) {
     return (
       str &&
-      str.replace(tagRegex, (match, precede, tag) =>
-        `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`
+      str.replace(
+        tagRegex,
+        (match, precede, tag) =>
+          `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`
       )
     );
   });
 
-  // -----------------------------------------
-  // REMOVE ALL HEAVY TRANSFORMS
-  // -----------------------------------------
-
-  // ⛔ REMOVED: dataview-js-links transform
-  // ⛔ REMOVED: callout-block transform
-  // ⛔ REMOVED: picture / eleventy-img transform
-  // ⛔ REMOVED: table transform
-  // ⛔ REMOVED: htmlMinifier transform
-
-  // These transforms were the major cause of memory exhaustion.
+  // ⭐ FIX: Add missing filter that caused "filter not found: link"
+  eleventyConfig.addFilter("link", function (url = "") {
+    return url;
+  });
 
   // -----------------------------------------
-  // Pass-through assets
+  // REMOVE ALL HEAVY TRANSFORMS (critical)
+  // -----------------------------------------
+  // ⛔ REMOVED: dataview-js-links
+  // ⛔ REMOVED: callout blocks
+  // ⛔ REMOVED: picture / eleventy-img
+  // ⛔ REMOVED: table wrapper
+  // ⛔ REMOVED: htmlMinifier
+
+  // -----------------------------------------
+  // Passthrough assets
   // -----------------------------------------
   eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
@@ -121,7 +129,7 @@ module.exports = function (eleventyConfig) {
   userEleventySetup(eleventyConfig);
 
   // -----------------------------------------
-  // IGNORE large/heavy folders
+  // IGNORES
   // -----------------------------------------
   eleventyConfig.ignores.add("**/attachments/**");
   eleventyConfig.ignores.add("**/drafts/**");
