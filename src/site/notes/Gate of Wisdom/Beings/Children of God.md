@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/children-of-god/","tags":["#GateWisdom","Being","C"]}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/children-of-god/","tags":["#GateWisdom","Being","C","nothome"]}
 ---
 
 # Define

@@ -4,6 +4,7 @@
 
 | Table of Content                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]                                       |
 | [[Sacred Truces/What is the New Covenant\|What is the New Covenant]]                                                                                             |
 | [[Sacred Truces/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]                                 |
 | [[Sacred Truces/Video Scripture Survey Christian Spring Holidays\|Video Scripture Survey Christian Spring Holidays]]                                             |
@@ -54,7 +55,6 @@
 | [[Sacred Truces/Matthew 6 vs19-21 Jesus Treasures\|Matthew 6 vs19-21 Jesus Treasures]]                                                                           |
 | [[Sacred Truces/Matthew 28 v19 Teaching to …\|Matthew 28 v19 Teaching to …]]                                                                                     |
 | [[Sacred Truces/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]                                                       |
-| [[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]                                       |
 | [[Sacred Truces/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]]                                                   |
 | [[Sacred Truces/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]                                                                                 |
 | [[Sacred Truces/Who May Dwell With God\|Who May Dwell With God]]                                                                                                 |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-scrolls/torah-portions/a-torah-portions-listing/","tags":["TorahPortions"]}
+{"dg-publish":true,"permalink":"/the-scrolls/torah-portions/a-torah-portions-listing/","tags":["TorahPortions","nothome"]}
 ---
 
 
