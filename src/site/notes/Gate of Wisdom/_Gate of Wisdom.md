@@ -39,8 +39,8 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]                                                 |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]  |
 | [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]                                                      |
-| [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]                                               |
 | [[Gate of Wisdom/Good News/Atonement\|Atonement]]                                                              |
+| [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]                                               |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]]                                                           |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]]                                            |
 | [[Gate of Wisdom/Beings/Human Beings/Babylonians\|Babylonians]]                                                |
