@@ -16,7 +16,7 @@
 - [[Gate of Wisdom/Seventh Day\|Seventh Day]]
 - [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 - [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
-- [[Gate of Wisdom/Sources/Cahn, Jonathan/The Dragon's Prophecy\|The Dragon's Prophecy]]
+- [[Gate of Wisdom/The Dragons Prophecy\|The Dragons Prophecy]]
 - [[Sacred Truces/Who May Dwell With God\|Who May Dwell With God]]
 
 { .block-language-dataview}

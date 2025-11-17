@@ -204,7 +204,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/temptation\|temptation]]                                                                      |
 | [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]                                                          |
 | [[Gate of Wisdom/Ten Words\|Ten Words]]                                                                        |
-| [[Gate of Wisdom/Sources/Cahn, Jonathan/The Dragon's Prophecy\|The Dragon's Prophecy]]                         |
+| [[Gate of Wisdom/The Dragons Prophecy\|The Dragons Prophecy]]                                                  |
 | [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\|The Unseen Realm]]                                |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]                    |
 | [[Gate of Wisdom/Timeline\|Timeline]]                                                                          |

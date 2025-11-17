@@ -16,6 +16,7 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                                                                                       |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]                                                                   |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]                     |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/15 The Seventh Day Rest Cover Removed (11-2 Kings 16)\|15 The Seventh Day Rest Cover Removed (11-2 Kings 16)]]                           |
@@ -35,7 +36,6 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths\|Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths]]                                             |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire\|Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire]]                                           |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]                                         |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger\|Matthew 5 Sermon on the Mount v 21-22 Jesus Murder vs Anger]]                                                   |
 
 { .block-language-dataview}
 
@@ -89,5 +89,7 @@ The Scrolls are originally in the World English Bible (WEB) because it is a publ
 ![Logo.png](/img/user/Assets/attachments/Logo.png)
 
 
-[[**[https://vaults.obsidian-community.com](https://vaults.obsidian-community.com/) in your garden**\|Other Unrelated Digital Gardens]] 
+Obsidian Garden Sites Gallery has [[**[https://vaults.obsidian-community.com](https://vaults.obsidian-community.com/) in your garden**\|Other Digital Gardens to Explore]] 
+
+
 External links provided on CeaseFire Moments may direct you to third-party websites or resources. These links are shared for informational or reference purposes only. We do not endorse, guarantee, or assume responsibility for the content, opinions, accuracy, privacy practices, or availability of any external sites. Inclusion of a link does not imply agreement with or approval of all views, ideas, or materials found therein. Visitors access external links at their own risk.
