@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/59-james-04-yada-yada/","tags":["TheScrolls","GospelsApostles","YadaYadaPauses","J"]}
 ---
 
-For reading purposes: [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-04\|James-04]]
+For reading purposes: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04\|James-04]]
 # Setting
 ## Who:
 - **Author**: 
@@ -10,7 +10,7 @@ For reading purposes: [[The Scrolls/4. The Gospels and The Apostles/59 - James/J
 	- Origen (c. AD 185–253): First explicit attribution; quotes James as Scripture and links it to "James, who is called the brother of the Lord" (Commentary on John 19.6; cf. Ecclesiastical History via Eusebius).
 	- Eusebius of Caesarea (c. AD 265–340): In Ecclesiastical History (2.23.4–7, 25), states the epistle is "attributed to James, who was surnamed the brother of the Lord," noting its disputed canonicity but affirming authorship; quotes Hegesippus (c. AD 170) on James's martyrdom (AD 62) and leadership.
 	- Council of Carthage (AD 397): Canonizes the epistle, implicitly endorsing traditional authorship tied to James the Just.
-- **Audience**: The twelve tribes scattered abroad ([[The Scrolls/4. The Gospels and The Apostles/59 - James/James-01#v1\|James-01#v1]], context for book)
+- **Audience**: The twelve tribes scattered abroad ([[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-01#v1\|James-01#v1]], context for book)
 	- [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
 	- [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
 - **Characters and People Groups:** 
@@ -37,9 +37,9 @@ For reading purposes: [[The Scrolls/4. The Gospels and The Apostles/59 - James/J
 	- (Traditional author: James, brother of Jesus, traditionally martyred AD 62; epistle is early, pre-Jerusalem Council [Acts 15, AD 49–50]; no mention of Gentile controversy).
 - Date takes place: Not specified
 
-# James 4 [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-04\|James-04]]
+# James 4 [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04\|James-04]]
 
-[[The Scrolls/4. The Gospels and The Apostles/59 - James/James-03\|← James 03]] | [[The Scrolls/4. The Gospels and The Apostles/59 - James/James\|James]] | [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-05\|James 05 →]]
+[[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-03\|← James 03]] | [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James\|James]] | [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-05\|James 05 →]]
 ***
 
 - Where do wars and fightings[^3] among you come from? 
@@ -96,10 +96,10 @@ For reading purposes: [[The Scrolls/4. The Gospels and The Apostles/59 - James/J
 #### Notice what it says ... The Set-Apart Breath of YHWH (aka Holy Spirit) is INSIDE but there is a war INSIDE. The Holy Spirit WANTS you to listen, yearns for it. Just as YHWH yearned for the love of Israel in the Old Testament. Yah was a jealous god, and now His Set Apart Spirit is a jealous spirit because we follow our OWN pleasures.
 
 #### The Devil - the slander - in this case is our own pleasures, our own desires. 
-#### Don't speak against one another - take a stand, bear record against: [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-19#v15\|Deut-19#v15]]-19 One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-18#v15\|Matt-18#v15]]-20. 
+#### Don't speak against one another - take a stand, bear record against: [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-19#v15\|Deut-19#v15]]-19 One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-18#v15\|Matt-18#v15]]-20. 
 
-![Matt-1815-20 and Deut-1915-19.png](/img/user/Assets/attachments/Matt-1815-20%20and%20Deut-1915-19.png)
-#### Speak against the law ... Slandering or condemning a brother violates this command → you speak against the law by disobeying it. [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]  The law = Thou shalt love thy neighbour as thyself” (James 2:8; Leviticus 19:18).  
+![Matt-1815-20 and Deut-1915-19.png](/img/user/_Assets/attachments/Matt-1815-20%20and%20Deut-1915-19.png)
+#### Speak against the law ... Slandering or condemning a brother violates this command → you speak against the law by disobeying it. [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]  The law = Thou shalt love thy neighbour as thyself” (James 2:8; Leviticus 19:18).  
 
 #### Judge the law ... By condemning your brother, you sit in judgment over him as if you are above the law.  This usurps God’s role as the only Lawgiver and Judge (James 4:12: “There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?”).  You judge the law by acting as if it’s invalid or insufficient — you set yourself above it.
 #### Not a doer… but a judge”  Doer = one who obeys the law (James 1:22–25).  Judge = one who critiques or overrides the law.  You cannot obey a law you’ve dethroned.
@@ -127,31 +127,31 @@ For reading purposes: [[The Scrolls/4. The Gospels and The Apostles/59 - James/J
 				- to him it is sin.[^5]
 
 ***
-[[The Scrolls/4. The Gospels and The Apostles/59 - James/James-03\|← James 03]] | [[The Scrolls/4. The Gospels and The Apostles/59 - James/James\|James]] | [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-05\|James 05 →]]
+[[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-03\|← James 03]] | [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James\|James]] | [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-05\|James 05 →]]
 
 
-![James-04.png](/img/user/Assets/attachments/James-04.png)
+![James-04.png](/img/user/_Assets/attachments/James-04.png)
 
 # Connections
-- [[The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-03#v34\|Prov-03#v34]]
-- [[The Scrolls/4. The Gospels and The Apostles/60 - 1 Peter/1 Pet-05#v5\|1 Pet-05#v5]]-6
-- [[The Scrolls/3. Ketuvim (Writings)/18 - Job/Job-22#v29\|Job-22#v29]]
-- [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-23#v12\|Matt-23#v12]]
-- [[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-14#v11\|Luke-14#v11]]
-- [[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-18#v14\|Luke-18#v14]]
-- [[The Scrolls/4. The Gospels and The Apostles/60 - 1 Peter/1 Pet-05#v9\|1 Pet-05#v9]]
-- [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v27\|Ephes-04#v27]]
-- [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-06#v11\|Ephes-06#v11]]
-- [[The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-66#v18\|Ps-66#v18]]
+- [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-03#v34\|Prov-03#v34]]
+- [[_The Scrolls/4. The Gospels and The Apostles/60 - 1 Peter/1 Pet-05#v5\|1 Pet-05#v5]]-6
+- [[_The Scrolls/3. Ketuvim (Writings)/18 - Job/Job-22#v29\|Job-22#v29]]
+- [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-23#v12\|Matt-23#v12]]
+- [[_The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-14#v11\|Luke-14#v11]]
+- [[_The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-18#v14\|Luke-18#v14]]
+- [[_The Scrolls/4. The Gospels and The Apostles/60 - 1 Peter/1 Pet-05#v9\|1 Pet-05#v9]]
+- [[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v27\|Ephes-04#v27]]
+- [[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-06#v11\|Ephes-06#v11]]
+- [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-66#v18\|Ps-66#v18]]
 - 1 Chronicles 21:1-17
 - 2 Chronicles 32:31
-- [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v19\|Matt-06#v19]]
-- [[The Scrolls/4. The Gospels and The Apostles/54 - 1 Timothy/1 Tim-06#v17\|1 Tim-06#v17]]
-- [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-07#v1\|Matt-07#v1]]
-- [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-14#v4\|Rom-14#v4]]
+- [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v19\|Matt-06#v19]]
+- [[_The Scrolls/4. The Gospels and The Apostles/54 - 1 Timothy/1 Tim-06#v17\|1 Tim-06#v17]]
+- [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-07#v1\|Matt-07#v1]]
+- [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-14#v4\|Rom-14#v4]]
 - Proverbs 27:1
-- [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]
-- [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-01#v17\|Deut-01#v17]]
+- [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]
+- [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-01#v17\|Deut-01#v17]]
 
 [^1]: [[Gate of Wisdom/Idiom\|Idiom]] Cleanse your hands... purify your hearts – ritual and moral purification; outward actions and inward motives must both be made clean.
 

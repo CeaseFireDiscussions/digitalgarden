@@ -4,48 +4,48 @@
 
 Are [[Gate of Wisdom/Forgive\|Forgive]] and forget the same thing? Can we forgive without forgetting? Can we forget without forgiving?
 
-When the disciples asked Jesus to teach them to pray, one of the lines was: [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v12\|Matt-06:12]] 
+When the disciples asked Jesus to teach them to pray, one of the lines was: [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v12\|Matt-06:12]] 
 > ‘And forgive us our debts *\[fig., sins\]*, in the same way as \_we \_ also forgive our debtors *\[fig., the ones having sinned against us\]*.
 
 Let’s define a few of these words first. 
 - Forgive = to *send* *forth*, in various applications: – cry, forgive, forsake, lay aside, leave, let (alone, be, go, have), omit, put (send) away, remit, suffer, yield up. 
 - Debts = *something* *owed*, that is, (figuratively) a *due*.; morally a *fault:* – debt
 
-He goes on to say in [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v15\|Matt-06:15]] 
+He goes on to say in [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v15\|Matt-06:15]] 
 > “but if you\* do not forgive the people their transgressions, neither will your\* Father forgive your\* transgressions.
 
 - Transgressions = a *side* *slip* (*lapse* or *deviation*), that is, (unintentional) *error* or (wilful) *transgression:* – fall, fault, offence, sin, trespass
 
-Jesus tell us that all sins except blasphemy against the Spirit will be forgiven in [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-12#v31\|Matt-12:31]] 
+Jesus tell us that all sins except blasphemy against the Spirit will be forgiven in [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-12#v31\|Matt-12:31]] 
 > “For this reason I say to you\*, every sin and blasphemy will be forgiven to the people, but the blasphemy against the Spirit will not be forgiven to the people.
 
-Jesus told Peter in [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-18#v21\|Matt-18:21]][[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-18#v22\|-22]] how many times to forgive
+Jesus told Peter in [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-18#v21\|Matt-18:21]][[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-18#v22\|-22]] how many times to forgive
 > Then Peter having approached Him, said, “Lord, how often will my brother *\[or sister\]* sin against me, and I will forgive him, up to seven times?” (22) Jesus says to him, “I do not say to you up to seven times, \_but\_ up to seventy times seven!
 
 Whether you believe this to mean 77, 490, or an unlimited amount of times, we would have to agree that this means a whole lot.
 
-Jesus also told us in [[The Scrolls/4. The Gospels and The Apostles/41 - Mark/Mark-11#v24\|Mark-11:24]][[The Scrolls/4. The Gospels and The Apostles/41 - Mark/Mark-11#v25\|Mark-11#v25]][[The Scrolls/4. The Gospels and The Apostles/41 - Mark/Mark-11#v26\|-26]] 
+Jesus also told us in [[_The Scrolls/4. The Gospels and The Apostles/41 - Mark/Mark-11#v24\|Mark-11:24]][[_The Scrolls/4. The Gospels and The Apostles/41 - Mark/Mark-11#v25\|Mark-11#v25]][[_The Scrolls/4. The Gospels and The Apostles/41 - Mark/Mark-11#v26\|-26]] 
 > For this reason I say to you\*, all *\[things\]*, as many as while praying you\* shall be asking *\[for\]*, be believing *\[or, be having faith\]* that you\* are receiving, and it will be *\[granted\]* to you\*. (25) “And whenever you\* stand praying, be forgiving, if you\* are holding anything against anyone, so that also your\* Father, the *\[One\]* in the heavens, shall forgive you\* of your\* transgressions. (26) “But if you\* do not forgive, neither will your\* Father, the *\[One\]* in the heavens, forgive your\* transgressions.”
 
-In [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-01#v9\|1 John-01:9]] we read 
+In [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-01#v9\|1 John-01:9]] we read 
 > “If we are confessing our sins, He is faithful *\[or, trustworthy\]* and righteous that He shall forgive us our sins and cleanse *\[or, purge\]* us from all unrighteousness.”
 
 So by now, we should know that we are to forgive, if we don’t, we won’t be forgiven ourselves. I would go as far as to say that we should forgive even if the person doesn’t come and ask for forgiveness. But is forgiving the same as forgetting?
 
-Paul writes in [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-10#v17\|Heb-10:17]] a reference to a scripture originally found in [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31#v33\|Jer-31:33]][[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31#v34\|-34]] where the Lord said, 
+Paul writes in [[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-10#v17\|Heb-10:17]] a reference to a scripture originally found in [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31#v33\|Jer-31:33]][[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-31#v34\|-34]] where the Lord said, 
 > “And I shall by no means remember their sins and their lawless deeds any longer.”
 
-The only form of the word forget that I could find was in [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-01#v24\|James-01:24]] and its meaning is “to *lose* *out* of mind; by implication to *neglect.”*
+The only form of the word forget that I could find was in [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-01#v24\|James-01:24]] and its meaning is “to *lose* *out* of mind; by implication to *neglect.”*
 
 But all through Revelation God tells the churches to repent of their sins or he will remove their lamp stands (2:5); wage war against them (2:16) and he speaks of other’s who did not repent. Repent means to turn back, to reconsider, to think differently afterward.
 
-Jesus told the disciples in [[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-17#v3\|Luke-17:3]] 
+Jesus told the disciples in [[_The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-17#v3\|Luke-17:3]] 
 > “Be watching yourselves! Now if your brother sins against you rebuke him, and if he repents forgive him.
 
-Paul writes in [[The Scrolls/4. The Gospels and The Apostles/55 - 2 Timothy/2 Tim-04#v2\|2 Tim-04:2]] 
+Paul writes in [[_The Scrolls/4. The Gospels and The Apostles/55 - 2 Timothy/2 Tim-04#v2\|2 Tim-04:2]] 
 > Preach the word! Be ready in season *\[and\]* out of season *\[fig., whether the time is favorable or not\]*, convict, rebuke, *\[and\]* encourage, with all patience and teaching.
 
-And God said in [[The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-03#v19\|Rev-03:19]] 
+And God said in [[_The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-03#v19\|Rev-03:19]] 
 > ‘As many as I affectionately love, I rebuke and discipline. Therefore, be zealous and repent!
 
 So in all of these they require repentance. Yet, in Mark 11 we are told when we are praying we need to be forgiving, whether they have asked for it or not.

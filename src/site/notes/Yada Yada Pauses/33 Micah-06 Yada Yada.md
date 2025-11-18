@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/33-micah-06-yada-yada/","tags":["TheScrolls","Neviim","YadaYadaPauses","M"]}
 ---
 
-For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|Micah-06]]
+For reading purposes [[_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|Micah-06]]
 # Setting
 - ## Who:
 	- **Author**: [[Gate of Wisdom/Beings/Human Beings/Micah\|Micah]]
@@ -41,7 +41,7 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|Mi
 
 # Micah 6
 
-[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
+[[_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]] | [[_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
 ***
 
 - Listen <mark style="background: #CD04BBA6;">//mountains and hills// </mark>now to what <mark style="background: #D7CD91A6;">Yahweh</mark> says: 
@@ -72,7 +72,7 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|Mi
 - My people, 
 	- <mark style="background: #04CD3EA6;">remember</mark> now what [[Gate of Wisdom/Beings/Human Beings/Balak\|Balak]] 
 		- king of Moab 
-		- devised, ([[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-22#v5\|Num-22#v5]]–6, 11, 17; 23:7; [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-24#v10\|Num-24#v10]])
+		- devised, ([[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-22#v5\|Num-22#v5]]–6, 11, 17; 23:7; [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-24#v10\|Num-24#v10]])
 	- and what [[Gate of Wisdom/Beings/Human Beings/Balaam\|Balaam]] 
 		- the son of Beor 
 		- answered him 
@@ -100,7 +100,7 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|Mi
 			- but to act justly, 
 			- to love mercy, 
 			- and to walk humbly 
-				- with your God? [^1]  [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-04\|James-04]]
+				- with your God? [^1]  [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04\|James-04]]
 - Yahweh's 
 	- voice calls 
 		- to the city, 
@@ -133,8 +133,8 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|Mi
 			- You will sow, but won't reap. 
 			- You will tread the olives, but won't anoint yourself with oil; 
 			- and crush grapes, but won't drink the wine. 
-#### Sounds similar to what James said [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-04\|James-04]]
-#### Fulfillment: Aligns with the historical exile of Judah to Babylon, which the Bible records as a consequence of covenant unfaithfulness. [[The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-25\|2 Kings-25]] [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-07\|Jer-07]]. The Babylonian exile fulfills the desolation described in Micah 6:13-16.
+#### Sounds similar to what James said [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04\|James-04]]
+#### Fulfillment: Aligns with the historical exile of Judah to Babylon, which the Bible records as a consequence of covenant unfaithfulness. [[_The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-25\|2 Kings-25]] [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-07\|Jer-07]]. The Babylonian exile fulfills the desolation described in Micah 6:13-16.
 
 - For <mark style="background: #CD04BBA6;">//the wickedness comes from// </mark>the 
 	- statutes of [[Gate of Wisdom/Beings/Human Beings/Omri\|Omri]] are kept, 
@@ -145,13 +145,13 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|Mi
 		- And you <mark style="background: #CD04BBA6;">//people of Israel//</mark> 
 			- will bear the reproach 
 				- of my people."
-#### Omri did more evil than any other king before him. Idolatry [[The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-16\|1 Kings-16]]  Black limestone obelisk from Nimrud refers to Israel as the "House of Omri." Assyrian kings (e.g., Tiglath-Pileser III, ca. 734 BCE) repeatedly call Israel "House of Omri" 
+#### Omri did more evil than any other king before him. Idolatry [[_The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-16\|1 Kings-16]]  Black limestone obelisk from Nimrud refers to Israel as the "House of Omri." Assyrian kings (e.g., Tiglath-Pileser III, ca. 734 BCE) repeatedly call Israel "House of Omri" 
 - Source: British Museum: https://www.britishmuseum.org/collection/object/W_1848-1104-1
-- ![Israel as the House of Omri.png](/img/user/Assets/attachments/Israel%20as%20the%20House%20of%20Omri.png)
-#### Ahab more evil than Omri, was husband of Jezebel, worshiped [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]] [[The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-16\|1 Kings-16]], Corrupt legal system [[The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-21\|1 Kings-21]]
+- ![Israel as the House of Omri.png](/img/user/_Assets/attachments/Israel%20as%20the%20House%20of%20Omri.png)
+#### Ahab more evil than Omri, was husband of Jezebel, worshiped [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]] [[_The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-16\|1 Kings-16]], Corrupt legal system [[_The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-21\|1 Kings-21]]
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
+[[_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-05\|← Micah 05]] | [[_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]] | [[_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah 07 →]]
 
 #  Connections
 ## Repeated Words: 

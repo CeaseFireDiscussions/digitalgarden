@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-6-vs16-18-jesus-fasting/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v16\|Matt-06#v16]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v16\|Matt-06#v16]]
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2024/01/image-1.png)
 
 Again, keeping this in context with what has come before. Remember, we learned there was a belief that by giving alms, praying, and fasting, atonement was made for sins. Jesus is teaching those are man made ideas. And he is teaching how Yah/God sees things.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-9-peacemaker/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2023/09/4c6718bd-3761-481f-aec3-dc85761a0043.webp)
 

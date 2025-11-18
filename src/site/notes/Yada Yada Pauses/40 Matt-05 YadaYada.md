@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/40-matt-05-yada-yada/","tags":["thebrain","YadaYadaPauses","M"]}
 ---
 
-For ease of reading [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+For ease of reading [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 
 ## SETTING:
 
-- A long the [[Gate of Wisdom/Sea of Galilee\|Sea of Galilee]] “He went about all of Galilee”[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04#v21\|Matt-04#v21]]
-- On the west side of the Jordan [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v25\|Matt-05#v25]]
+- A long the [[Gate of Wisdom/Sea of Galilee\|Sea of Galilee]] “He went about all of Galilee”[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04#v21\|Matt-04#v21]]
+- On the west side of the Jordan [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v25\|Matt-05#v25]]
 - Up on a mount (Matthew 5:1)
-- Teaching the taught ones/ disciples - Not necessarily only the 12 we know by name. ([[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v1\|Matt-05#v1]])
+- Teaching the taught ones/ disciples - Not necessarily only the 12 we know by name. ([[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v1\|Matt-05#v1]])
 
 ![](https://app.thebrain.com/notes-image-request/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/f59db050-303f-427c-af8c-6feb6d68f8ec.webp)
 
@@ -20,7 +20,7 @@ Source: [Mount of Beatitudes | Galilee | Regions | Israel | Travel-Guide | Trave
 ![](https://app.thebrain.com/notes-image-request/9d9e6e01-35d1-431b-8520-6e7ad360f8ce/1e56c926-2fb3-4bb5-b643-a1805807d3e3.webp)
 
 
-- <mark style="background: #A8ADB8A6;">And</mark> having seen the mu<mark style="background: #E0CC4BA6;"></mark>ltitudes //[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04\|Matt-04]]//
+- <mark style="background: #A8ADB8A6;">And</mark> having seen the mu<mark style="background: #E0CC4BA6;"></mark>ltitudes //[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04\|Matt-04]]//
 - <mark style="background: #D7CD91A6;">he</mark> //[[Gate of Wisdom/Beings/Jesus\|Jesus]]//
 	- went up to the [[Gate of Wisdom/mount\|mount]]
 		- sat down,

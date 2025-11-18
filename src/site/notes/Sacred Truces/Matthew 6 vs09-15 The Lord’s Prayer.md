@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-6-vs09-15-the-lord-s-prayer/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v9\|Matt-06#v9]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v9\|Matt-06#v9]]
 
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2024/01/1f8ebfb3-d3e2-4249-907b-f798f4ac5f11.webp)
 
@@ -10,7 +10,7 @@ Building on the previous blogs [[Sacred Truces/Matthew 6 Jesus and Prayer\|Matth
 
 As tempting as it might be to fly through this because every Christian knows what it says – take time to read through. There are concepts in this prayer we do not naturally know.
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
 # Verses 9-15 
 
 ## ***Therefore pray thus: Our Father who is in the heavens, hallowed be your Name*** …
@@ -49,7 +49,7 @@ This is explained by Jesus very well in [John 6:31-59](https://www.biblegateway.
 
 Because Jesus has provided a way for atonement, and he is the bread of life, we will live forever. Without that way, we die.
 
-We also forgive – As he has provided a way to forgiveness, we also should provide a way of forgiveness. Later in verse 15 ([[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v15\|Matt-06:15]], Jesus will say, if we do not forgive, we will not be forgiven. 
+We also forgive – As he has provided a way to forgiveness, we also should provide a way of forgiveness. Later in verse 15 ([[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v15\|Matt-06:15]], Jesus will say, if we do not forgive, we will not be forgiven. 
 
 ## ***And lead us not into temptation***
 

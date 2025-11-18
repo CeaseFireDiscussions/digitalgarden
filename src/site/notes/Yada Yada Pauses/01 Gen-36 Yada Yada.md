@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-36-yada-yada/","tags":["TheScrolls","TorahLawofMoses","nothome","#01Gen","YadaYadaPauses"]}
 ---
 
-For ease of reading [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36\|Gen-36]]
+For ease of reading [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36\|Gen-36]]
 # Setting
 
 ## Who:
@@ -37,7 +37,7 @@ For ease of reading [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36\|G
 
 # Genesis 36
 
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|← Genesis 35]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-37\|Genesis 37 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|← Genesis 35]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-37\|Genesis 37 →]]
 ***
 
 - Now this is the history 
@@ -188,7 +188,7 @@ chief Kenaz, chief Teman, chief Mibzar,
 chief Magdiel, and chief Iram. These are the chiefs of Edom, according to their habitations in the land of their possession. This is Esau, the father of the Edomites.
 
 ***
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|← Genesis 35]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-37\|Genesis 37 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|← Genesis 35]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-37\|Genesis 37 →]]
 
 # Connections
 

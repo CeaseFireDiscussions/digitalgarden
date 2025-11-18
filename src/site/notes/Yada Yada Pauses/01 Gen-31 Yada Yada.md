@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-31-yada-yada/","tags":["TorahLawofMoses","YadaYadaPauses","G"]}
 ---
 
-For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]]
+For reading purposes: [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]]
 # Setting
 ## Who:
 
@@ -32,9 +32,9 @@ For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\
 - Gilead (mountains of Gilead, modern northwest Jordan)
 - Mizpah (Galeed/Mizpah of Gilead, modern Jal`ad, Jordan)
 
-# Genesis 31 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]]
+# Genesis 31 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]]
 
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|← Genesis 30]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|Genesis 32 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|← Genesis 30]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|Genesis 32 →]]
 ***
 
 - <mark style="background: #E0CC4BA6;">Jacob</mark> heard 
@@ -374,7 +374,7 @@ For reading purposes: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\
 			- Laban departed and returned to his place.
 
 ***
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|← Genesis 30]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|Genesis 32 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|← Genesis 30]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|Genesis 32 →]]
 
 
 

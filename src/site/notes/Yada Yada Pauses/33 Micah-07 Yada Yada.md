@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/33-micah-07-yada-yada/","tags":["TheScrolls","Neviim","YadaYadaPauses","1John3","M"]}
 ---
 
-For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah-07]]
+For reading purposes [[_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Micah-07]]
 # Setting
 ## Who:
 - **Author**: Micah
@@ -40,7 +40,7 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Mi
 
 # Micah 7
 
-[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|← Micah 06]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]]
+[[_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|← Micah 06]] | [[_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]]
 ***
 
 - Misery is mine //[[Gate of Wisdom/Beings/Human Beings/Micah\|Micah]]<mark style="background: #CD04BBA6;">//</mark>
@@ -108,7 +108,7 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Mi
 			- and from Egypt even to the River, 
 			- and from sea to sea, 
 			- and mountain to mountain[^8].  
-		- Yet the land will be desolate[^16]  [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-26#v32\|Lev-26#v32]]
+		- Yet the land will be desolate[^16]  [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-26#v32\|Lev-26#v32]]
 			- because of those who dwell therein, <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]], [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]<mark style="background: #CD04BBA6;">//</mark>
 				- <mark style="background: #EB9E57A6;">for the fruit of their doings</mark>. 
 	- Shepherd your <mark style="background: #CD04BBA6;">//YHWH//</mark> people 
@@ -121,8 +121,8 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Mi
 				- in Bashan 
 				- and Gilead, 
 				- as in the days of old. 
-#### Fulfillment: Day to rebuild the walls, [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-02#v17\|Neh-02#v17]], [[The Scrolls/3. Ketuvim (Writings)/15 - Ezra/Ezr-01\|Ezr-01]], [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-29#v10\|Jer-29#v10]]
-#### Fulfillment: Land desolate, [[The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-25#v21\|2 Kings-25#v21]]
+#### Fulfillment: Day to rebuild the walls, [[_The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-02#v17\|Neh-02#v17]], [[_The Scrolls/3. Ketuvim (Writings)/15 - Ezra/Ezr-01\|Ezr-01]], [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-29#v10\|Jer-29#v10]]
+#### Fulfillment: Land desolate, [[_The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-25#v21\|2 Kings-25#v21]]
 
 - "As <mark style="background: #D2B3FFA6;">in the days</mark> of your <mark style="background: #CD04BBA6;">//Israel//</mark> coming out 
 	- of the land of Egypt[^9], 
@@ -156,13 +156,13 @@ For reading purposes [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-07\|Mi
 					- and mercy to [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]], <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]]<mark style="background: #CD04BBA6;">//</mark>
 						- as you have sworn to our fathers 
 							- <mark style="background: #D2B3FFA6;">from the days of old</mark>.[^10]
-#### Fulfillment: Mercy and Forgiveness, [[The Scrolls/3. Ketuvim (Writings)/15 - Ezra/Ezr-09#v13\|Ezr-09#v13]], [[The Scrolls/2. Nevi'im (Prophets)/38 - Zechariah/Zech-08#v7\|Zech-08#v7]], [[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-01#v72\|Luke-01#v72]]
+#### Fulfillment: Mercy and Forgiveness, [[_The Scrolls/3. Ketuvim (Writings)/15 - Ezra/Ezr-09#v13\|Ezr-09#v13]], [[_The Scrolls/2. Nevi'im (Prophets)/38 - Zechariah/Zech-08#v7\|Zech-08#v7]], [[_The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-01#v72\|Luke-01#v72]]
 
-Micah 7:11-12 - [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-15#v16\|Acts-15#v16]]
-Micah 7:18-20 - [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-11#v26\|Rom-11#v26]], [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-11#v11\|Isa-11#v11]]
+Micah 7:11-12 - [[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-15#v16\|Acts-15#v16]]
+Micah 7:18-20 - [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-11#v26\|Rom-11#v26]], [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-11#v11\|Isa-11#v11]]
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|← Micah 06]] | [[The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]]
+[[_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah-06\|← Micah 06]] | [[_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah\|_The Scrolls/2. Nevi'im (Prophets)/33 - Micah/Micah]]
 
 
 

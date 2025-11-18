@@ -3,9 +3,9 @@
 ---
 
 
-# Genesis 26 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Gen-26]]
+# Genesis 26 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Gen-26]]
 
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|← Genesis 25]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|Genesis 27 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|← Genesis 25]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|Genesis 27 →]]
 ***
 
 
@@ -16,7 +16,7 @@
 	- in the land, 
 	- in addition to the first famine 
 		- that was in the days 
-			- of [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]].  [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v10\|Gen-12:10]]
+			- of [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]].  [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v10\|Gen-12:10]]
 	- [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]] went to 
 		- [[Gate of Wisdom/Beings/Human Beings/Abimelech\|Abimelech]] 
 			- king of the [[Zunpublished/Philistines\|Philistines]], to Gerar. 
@@ -49,7 +49,7 @@
 							- and my laws."
 					- Isaac lived in Gerar. 
 
-#### BECAUSE Abraham obeyed - Yah/God makes the covenant with Isaac IF Isaac stays in the land of Gerar and does not go down to Egypt [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12\|Gen-12]]; [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17\|Gen-17]]; [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-18\|Gen-18]]; [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22\|Gen-22]]
+#### BECAUSE Abraham obeyed - Yah/God makes the covenant with Isaac IF Isaac stays in the land of Gerar and does not go down to Egypt [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12\|Gen-12]]; [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17\|Gen-17]]; [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-18\|Gen-18]]; [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22\|Gen-22]]
 
 # Abimelech
 
@@ -190,8 +190,8 @@
 	- They <mark style="background: #CD04BBA6;">//Judith and Basemath//</mark> grieved Isaac's and Rebekah's spirits.
 
 ***
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|← Genesis 25]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|Genesis 27 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|← Genesis 25]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|Genesis 27 →]]
 
-[^1]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Gen-26]] Isaac obeyed "Do not go down to Egypt"
+[^1]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Gen-26]] Isaac obeyed "Do not go down to Egypt"
 
-[^2]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Gen-26]] Abraham obeyed Yah's voice, kept Yah's requirements, commandments, statues, and laws.
+[^2]: [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Gen-26]] Abraham obeyed Yah's voice, kept Yah's requirements, commandments, statues, and laws.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/49-ephes-05-yada-yada/","tags":["YadaYadaPauses","E","nothome"]}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-05\|Ephes-05]]
+[[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-05\|Ephes-05]]
 # My Outline Notes:
 
 - There are two main ideas
@@ -43,7 +43,7 @@
 
 # Outline
 
-#### Prologue: [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v13\|Ephes-04:13]][[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v14\|Ephes-04#v14]][[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v15\|-15]]-  We may all come to the unity of faith ... no longer be children ... carried around by every wind of the teaching, cunning men, to the scheming of leading astray ... speak truth in love wo we may increase in him all things who is the head - the Messiah. V 25 For this reason, putting away the lying, each speak truth with his neighbor .. v 28 who ever is stealing, let him no longer steal ... 
+#### Prologue: [[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v13\|Ephes-04:13]][[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v14\|Ephes-04#v14]][[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-04#v15\|-15]]-  We may all come to the unity of faith ... no longer be children ... carried around by every wind of the teaching, cunning men, to the scheming of leading astray ... speak truth in love wo we may increase in him all things who is the head - the Messiah. V 25 For this reason, putting away the lying, each speak truth with his neighbor .. v 28 who ever is stealing, let him no longer steal ... 
 
 ### Followers of Yah and Members of Light
 - Become, then, <mark style="background: #4DA6EDA6;">//see prologue above//</mark>
@@ -76,9 +76,9 @@
 										- thou who art sleeping, 
 										- and arise out of the dead, 
 										- and the Christ shall shine upon thee.'
-##### Reproving section sounds just like Colossians 3 [[The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Col-03\|Col-03]] Bringing order to chaos.
-##### Isaiah 26:19 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-26#v19\|Isa-26:19]] part of a song of trust in God’s salvation, emphasizing hope and restoration. It speaks prophetically of resurrection, where the dead will live again, rising from the dust in a manner likened to dew bringing life. Speaks of a future resurrection of God’s people. 
-##### Isaiah 60:1: [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60#v1\|Isa-60:1]] speaks about a light has come and darkness covering the earth, but nations will come to your light.
+##### Reproving section sounds just like Colossians 3 [[_The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Col-03\|Col-03]] Bringing order to chaos.
+##### Isaiah 26:19 [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-26#v19\|Isa-26:19]] part of a song of trust in God’s salvation, emphasizing hope and restoration. It speaks prophetically of resurrection, where the dead will live again, rising from the dust in a manner likened to dew bringing life. Speaks of a future resurrection of God’s people. 
+##### Isaiah 60:1: [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-60#v1\|Isa-60:1]] speaks about a light has come and darkness covering the earth, but nations will come to your light.
 <mark style="background: #CD04BBA6;">//Because Christ shines upon thee ...//</mark>
 - See, then, how exactly ye walk, 
 	- not as unwise, 
@@ -131,9 +131,9 @@
 
 ##### Literal translation: The wives to their own husbands - for reproving
 
-##### [[1 Cor-4#v32\|1 Cor-4:32]][[1 Cor-4#v33\|1 Cor-4#v33]][[1 Cor-4#v34\|1 Cor-4#v34]][[1 Cor-4#v35\|1 Cor-4#v35]][[1 Cor-4#v36\|-36]] - No explicit command in the Torah to women remaining silent in a community, the closest reference would be [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-03#v16\|Gen-03:16]] about a husband ruling over his wife. Chaos requires order. 
+##### [[1 Cor-4#v32\|1 Cor-4:32]][[1 Cor-4#v33\|1 Cor-4#v33]][[1 Cor-4#v34\|1 Cor-4#v34]][[1 Cor-4#v35\|1 Cor-4#v35]][[1 Cor-4#v36\|-36]] - No explicit command in the Torah to women remaining silent in a community, the closest reference would be [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-03#v16\|Gen-03:16]] about a husband ruling over his wife. Chaos requires order. 
 ##### Genesis 3:16, Colossians 3 :18, 1 Peter 3 :1-7 about wives being subject to their husbands is in context of the community, teaching and admonishing one another with all wisdom - Bringing order to chaos. 
-##### A husband can nullify a wive’s vows and then bear the guilt [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-30\|Num-30]]
+##### A husband can nullify a wive’s vows and then bear the guilt [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-30\|Num-30]]
 ##### 1 Timothy 2:8-15 A woman receive training in a quiet demanor with complete respect for order. Paul does not allow a woman to train or dictate to a man because Adam was formed first, and Adam was not deceived but the woman.
 
 - The husbands! 
@@ -220,7 +220,7 @@
 # Dead Sea Scrolls
 
 New Testament Papyrus 49 (http://www.earlynewtestament.com/papyrus49.htm)
-![Papyrus 49 Ephesians 5.png](/img/user/Assets/attachments/Papyrus%2049%20Ephesians%205.png)
+![Papyrus 49 Ephesians 5.png](/img/user/_Assets/attachments/Papyrus%2049%20Ephesians%205.png)
 
 [1] The manuscript matches the critical text.
 

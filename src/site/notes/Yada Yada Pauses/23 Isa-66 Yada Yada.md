@@ -5,16 +5,16 @@
 
 # Isaiah 66
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-65\|← Isaiah 65]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]]
+[[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-65\|← Isaiah 65]] | [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]]
 ***
 
 
 - Yahweh says, 
 	- "Heaven is my throne, 
 	- and the earth is my footstool. 
-		- What kind of house will you build to me? Where will I rest? [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v34\|Matt-05:34]][[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v35\|-35]]
+		- What kind of house will you build to me? Where will I rest? [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v34\|Matt-05:34]][[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v35\|-35]]
 	- For my hand has made all these things, 
-		- and so all these things came to be," says Yahweh: [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v49\|Acts-07:49]][[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v50\|-50]]
+		- and so all these things came to be," says Yahweh: [[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v49\|Acts-07:49]][[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-07#v50\|-50]]
 
 #### Yah will create a new heaven (throne) and new earth (footstool)
 
@@ -163,4 +163,4 @@ The sacrifice of the wicked is an abomination-- how much more, when he brings it
 - "They will go out, and look at the dead bodies of the men who have transgressed against me; for their worm will not die, nor will their fire be quenched, and they will be loathsome to all mankind."
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-65\|← Isaiah 65]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]]
+[[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-65\|← Isaiah 65]] | [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]]

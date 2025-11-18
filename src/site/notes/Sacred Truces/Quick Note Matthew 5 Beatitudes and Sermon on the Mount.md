@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/quick-note-matthew-5-beatitudes-and-sermon-on-the-mount/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 
 Generally the Beatitudes are separated from the rest of Matthew 5, as well as Chapters 6 and 7 of Matthew containing the Sermon on the Mount. However, just as when we attend classes or lectures, everything builds upon each other.
 

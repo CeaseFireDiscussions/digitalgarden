@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-5-the-resting-ones/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2023/09/8477d5d2-f1b7-4639-8177-642e6c47dea9.webp)
 

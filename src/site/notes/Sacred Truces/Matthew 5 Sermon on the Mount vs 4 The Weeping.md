@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-vs-4-the-weeping/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 
-![Matthew 54 The Weeping.png](/img/user/Assets/attachments/Matthew%2054%20The%20Weeping.png)
+![Matthew 54 The Weeping.png](/img/user/_Assets/attachments/Matthew%2054%20The%20Weeping.png)
 
 Mourning isn’t about sorrow because you’ve lost someone or something. The literal translation of the Hebrew is “Blessed are the weeping ones.”
 
