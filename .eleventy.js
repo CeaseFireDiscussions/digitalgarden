@@ -135,7 +135,6 @@ module.exports = function (eleventyConfig) {
     })
     .use(namedHeadingsFilter)
     .use(function (md) {
-      //https://github.com/DCsunset/markdown-it-mermaid-plugin
       const origFenceRule =
         md.renderer.rules.fence ||
         function (tokens, idx, options, env, self) {
@@ -203,7 +202,6 @@ module.exports = function (eleventyConfig) {
           return res
         }
 
-        // Other languages
         return origFenceRule(tokens, idx, options, env, slf);
       };
 
@@ -214,7 +212,6 @@ module.exports = function (eleventyConfig) {
         };
       md.renderer.rules.image = (tokens, idx, options, env, self) => {
         const imageName = tokens[idx].content;
-        //"image.png|metadata?|width"
         const [fileName, ...widthAndMetaData] = imageName.split("|");
         const lastValue = widthAndMetaData[widthAndMetaData.length - 1];
         const lastValueIsNumber = !isNaN(lastValue);
@@ -278,7 +275,6 @@ module.exports = function (eleventyConfig) {
     return (
       str &&
       str.replace(/\[\[(.*?\|.*?)\]\]/g, function (match, p1) {
-        //Check if it is an embedded excalidraw drawing or mathjax javascript
         if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
           return match;
         }
@@ -294,7 +290,7 @@ module.exports = function (eleventyConfig) {
       str &&
       str.replace(tagRegex, function (match, precede, tag) {
         return `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`;
-      })
+      ))
     );
   });
 
@@ -381,14 +377,6 @@ module.exports = function (eleventyConfig) {
           }
         );
 
-        /* Hacky fix for callouts with only a title:
-        This will ensure callout-content isn't produced if
-        the callout only has a title, like this:
-        ```md
-        > [!info] i only have a title
-        ```
-        Not sure why content has a random <p> tag in it,
-        */
         if (content === "\n<p>\n") {
           content = "";
         }
@@ -443,7 +431,6 @@ module.exports = function (eleventyConfig) {
     imageTag.innerHTML = html;
   }
 
-
   eleventyConfig.addTransform("picture", function (str) {
     if(process.env.USE_FULL_RESOLUTION_IMAGES === "true"){
       return str;
@@ -468,7 +455,7 @@ module.exports = function (eleventyConfig) {
             fillPictureSourceSets(src, cls, alt, meta, width, imageTag);
           }
         } catch {
-          // Make it fault tolarent.
+          // fault tolerant
         }
       }
     }
@@ -521,15 +508,22 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
+  // ──────────────────────────────
+  // STATIC ASSETS & PASSTHROUGH
+  // ──────────────────────────────
   eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
+
+  // NEW: The Scrolls – completely static, no processing, no backlinks
+  eleventyConfig.ignores.add("src/site/notes/_The Scrolls/**");
+  eleventyConfig.addPassthroughCopy({ "src/site/notes/_The Scrolls": "The Scrolls" });
+
   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
   });
-
 
   eleventyConfig.addFilter("dateToZulu", function (date) {
     try {
