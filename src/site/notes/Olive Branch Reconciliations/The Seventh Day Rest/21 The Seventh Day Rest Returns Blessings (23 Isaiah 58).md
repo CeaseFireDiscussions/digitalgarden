@@ -66,4 +66,4 @@ Let's see what scripture says about that starting at the very beginning and then
 ## Other Notes:
 - Given outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
 
-# [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
+# [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

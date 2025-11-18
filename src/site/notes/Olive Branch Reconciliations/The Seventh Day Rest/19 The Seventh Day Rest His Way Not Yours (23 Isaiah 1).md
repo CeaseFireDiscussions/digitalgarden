@@ -69,4 +69,4 @@ Let's see what scripture says about that starting at the very beginning and then
 	- [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]] **Beware of practicing your righteousness before other people**…when you give to the needy, sound no trumpet…when you pray, do not be like the hypocrites…when you fast, do not look gloomy…”
 
 
-# [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
+# [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

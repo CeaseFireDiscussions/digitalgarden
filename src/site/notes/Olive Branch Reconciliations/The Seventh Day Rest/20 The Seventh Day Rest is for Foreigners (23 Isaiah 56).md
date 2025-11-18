@@ -74,4 +74,4 @@ Let's see what scripture says about that starting at the very beginning and then
 - Inclusion of ALL - the whosoever's was fulfilled by Jesus, the Messiah. [[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-08#v27\|Acts-08#v27]]
 
 
-# [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
+# [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
