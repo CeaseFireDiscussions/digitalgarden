@@ -38,4 +38,4 @@ It shall be <mark style="background: #B2A23AA6;">for Aaron and his sons</mark>. 
 - This is specifically for Aaron and his sons, or the High Priest and the Priests.
 - This is specific to the Dwelling Place of God - here it is the [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]]. 
 
-# [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
+# [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

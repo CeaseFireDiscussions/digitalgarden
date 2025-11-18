@@ -70,4 +70,4 @@ Let's see what scripture says about that starting at the very beginning and then
 - Nehemiah records YHWH came down and spoke all these things, none of them belong to Moses - not the "Law of Moses" it's the Law of YHWH.
 - The translated word "law" here means teaching or instruction. 
 
-# [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
+# [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

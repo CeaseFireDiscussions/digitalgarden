@@ -12,8 +12,8 @@
 
 # Related words
 - [[Zunpublished/Lawless\|Lawless]]
-- [[Zunpublished/Sin\|Sin]]
-- [[Zunpublished/Transgression\|Transgression]]
+- [[Gate of Wisdom/Sin\|Sin]]
+- [[Gate of Wisdom/Transgression\|Transgression]]
 - [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
 - [[Gate of Wisdom/Righteousness\|Righteousness]]
 - [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]

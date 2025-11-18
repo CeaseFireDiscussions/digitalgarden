@@ -85,4 +85,4 @@ So the <mark style="background: #E0CC4BA6;">people</mark> <mark style="backgroun
 - God equated not resting on the Seventh Day to breaking HIS laws and commandments.
 - Later in this chapter we see God commands them to keep a full omer of manna so that they may see the bread with which he fed them in the wilderness, when he brought them out from the land of Egypt. This would have also been a reminder of the Shabbat God had given them. 
 
-# [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
+# [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

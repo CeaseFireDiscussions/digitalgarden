@@ -9,10 +9,10 @@
 
 # Related words
 - tsedeq  (צֶדֶק) [[Gate of Wisdom/Right Standing/Righteous\|Righteous]], justice
-- chattā’āh (חַטָּאָה): [[Zunpublished/Sin\|Sin]]
+- chattā’āh (חַטָּאָה): [[Gate of Wisdom/Sin\|Sin]]
 - pesha‘ (פֶּשַׁע): Transgression, rebellion, often associated with the wicked (rāshā‘)
 - dikaiosynē (δικαιοσύνη) [[Gate of Wisdom/Right Standing/Righteous\|Righteous]]
-- hamartia (ἁμαρτία) [[Zunpublished/Sin\|Sin]]
+- hamartia (ἁμαρτία) [[Gate of Wisdom/Sin\|Sin]]
 - anomia (ἀνομία) [[Gate of Wisdom/Lawlessness\|Lawlessness]], iniquity, often parallel to unrighteousness
 
 # Additional Info

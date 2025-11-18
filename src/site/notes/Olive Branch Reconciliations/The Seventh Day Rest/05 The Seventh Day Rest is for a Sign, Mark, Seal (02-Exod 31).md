@@ -65,4 +65,4 @@ When <mark style="background: #A4A089A6;">he</mark> finished speaking with <mark
 - The tablets are called the tablets of the covenant.
 
 
-# [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
+# [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

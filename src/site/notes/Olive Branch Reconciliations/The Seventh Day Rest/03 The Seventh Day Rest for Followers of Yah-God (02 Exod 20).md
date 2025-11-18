@@ -70,4 +70,4 @@ Let's see what scripture says about that starting at the very beginning and then
 - The outsider insider their camp was to keep it. (Outsider=ger (גֵּר) an outsider or non-Israelite residing within the household or community.)
 - Even the cattle was to keep it.
 
-# [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
+# [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

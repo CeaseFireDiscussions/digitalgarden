@@ -49,4 +49,4 @@ Let's see what scripture says about that starting at the very beginning and then
 	- Ahaz was subordinating Judah’s worship to Assyrian overlordship.
 -  God gave Judah into enemy hands because Ahaz encouraged sin (2 Chronicles 28:19).
 
-# [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
+# [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

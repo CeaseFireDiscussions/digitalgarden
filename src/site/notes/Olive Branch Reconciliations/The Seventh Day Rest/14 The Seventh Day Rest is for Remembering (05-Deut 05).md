@@ -59,4 +59,4 @@ Let's see what scripture says about that starting at the very beginning and then
 		- v30 Moses spoke in the ears of all the assembly of Israel the words of this song, until they were finished
 
 
-# [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
+# [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

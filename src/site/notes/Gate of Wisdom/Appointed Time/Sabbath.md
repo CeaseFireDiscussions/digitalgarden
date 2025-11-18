@@ -384,7 +384,7 @@ Shabbat is a holiday. The day of the week is Yom HaShevi'i.
 The Sabbath was the only thing created after Man. Sabbath was made for man.
 
 # Survey
-[[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
+[[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
 
 # Connections
 - [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]

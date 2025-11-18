@@ -1,0 +1,89 @@
+---
+{"dg-publish":true,"permalink":"/olive-branch-reconciliations/the-seventh-day-rest/seventh-day-rest-scripture-survey/","tags":["#OliveBranch","#Sabbath","SeventhDayRest"]}
+---
+
+The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
+
+Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
+
+List of Scriptures:
+
+- Genesis 2 :2–3 [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
+- Exodus 16 :23–30 [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for Them (02 Exod 16)\|02 The Seventh Day Rest was for Them (02 Exod 16)]]
+- Exodus 20 :8–11 [[Olive Branch Reconciliations/The Seventh Day Rest/03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)\|03 The Seventh Day Rest for Followers of Yah-God (02 Exod 20)]]
+- Exodus 23 :12 [[Olive Branch Reconciliations/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
+- Exodus 31 :13–17 [[Olive Branch Reconciliations/The Seventh Day Rest/05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)\|05 The Seventh Day Rest is for a Sign, Mark, Seal (02-Exod 31)]]
+- Exodus 34 :21 [[Olive Branch Reconciliations/The Seventh Day Rest/06 The Seventh Day Rest is for Gods People (02-Exod 34)\|06 The Seventh Day Rest is for Gods People (02-Exod 34)]]
+- Exodus 35 :1–3 [[Olive Branch Reconciliations/The Seventh Day Rest/07 The Seventh Day Rest is for the Congregation (02-Exod 35)\|07 The Seventh Day Rest is for the Congregation (02-Exod 35)]]
+	- 40:2 FIRST DAY
+- Leviticus 19 :3, 30 [[Olive Branch Reconciliations/The Seventh Day Rest/08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)\|08 The Seventh Day Rest is because YHWH is Your God (03-Lev 19)]]
+- Leviticus 23 :3–39 [[Olive Branch Reconciliations/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
+- Leviticus 24 :5-9 [[Olive Branch Reconciliations/The Seventh Day Rest/10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)\|10 The Seventh Day Rest is a Day to Refresh (03-Lev 24)]]
+- Leviticus 25 :2–8 SEVENTH YEAR [[Olive Branch Reconciliations/The Seventh Day Rest/11 The Seventh YEAR Rest is for the Land (03-Lev 25)\|11 The Seventh YEAR Rest is for the Land (03-Lev 25)]]
+- Numbers 15 :32 [[Olive Branch Reconciliations/The Seventh Day Rest/12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)\|12 The Seventh Day Rest Carries a Penalty of Death (04-Num 15)]]
+- Numbers 28 :25 [[Olive Branch Reconciliations/The Seventh Day Rest/13 The Seventh Day Rest is for Offering (04-Num 28)\|13 The Seventh Day Rest is for Offering (04-Num 28)]]
+- Deuteronomy 5:12–15 [[Olive Branch Reconciliations/The Seventh Day Rest/14 The Seventh Day Rest is for Remembering (05-Deut 05)\|14 The Seventh Day Rest is for Remembering (05-Deut 05)]]
+- 2 Kings 16:16-18 [[Olive Branch Reconciliations/The Seventh Day Rest/15 The Seventh Day Rest Cover Removed (11-2 Kings 16)\|15 The Seventh Day Rest Cover Removed (11-2 Kings 16)]]
+- Nehemiah 9:14 [[Olive Branch Reconciliations/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]
+- Nehemiah 10:31–33 [[Olive Branch Reconciliations/The Seventh Day Rest/17 The Seventh Day Rest is Not for Doing Business (16 Nehemiah 10)\|17 The Seventh Day Rest is Not for Doing Business (16 Nehemiah 10)]]
+- Nehemiah 13:15–22 [[Olive Branch Reconciliations/The Seventh Day Rest/18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)\|18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)]]
+- Isaiah 1:13 [[Olive Branch Reconciliations/The Seventh Day Rest/19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)\|19 The Seventh Day Rest His Way Not Yours (23 Isaiah 1)]]
+- Isaiah 56:2–6 [[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]
+- Isaiah 58:13 [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]
+- Isaiah 66:23 [[Olive Branch Reconciliations/The Seventh Day Rest/22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)\|22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)]]
+- Jeremiah
+	- 17:21-27
+- Lamentations
+	- 2:6
+- Ezekiel
+	- 20:12–24
+	- 22:8, 26
+	- 23:38
+	- 44:24
+	- 46:1-12
+- Hosea
+	- 2:11;
+- Matthew
+	- 12:1–12
+	- 24:20
+	- 28:1
+- Mark
+	- 1:21
+	- 2:23–28
+	- 3:2–4
+	- 6:2
+	- 15:42
+	- 16:1, 9
+- Luke
+	- 4:16, 31
+	- 6:1–9
+	- 13:10–16
+	- 14:1–5
+	- 23:54–24:1
+- John
+	- 5:9–18
+	- 7:22–23
+	- 9:14–16
+	- 19:31
+	- 20:1, 19
+- Acts
+	- 2:1, 11, 46
+	- 5:12
+	- 12:12
+	- 13:14, 27–44
+	- 14:27
+	- 15:21, 30
+	- 16:13
+	- 17:2
+	- 18:4
+	- 20:7
+- 1 Corinthians
+	- 11:34
+	- 16:2
+- Colossians
+	- 2:16
+- Hebrews
+	- 4:4–9
+	- 10:25
+- Revelation
+	- 1:10

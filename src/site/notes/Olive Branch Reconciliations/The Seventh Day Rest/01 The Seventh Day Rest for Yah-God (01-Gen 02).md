@@ -70,4 +70,4 @@ On <mark style="background: #D2B3FFA6;">the seventh day</mark> <mark style="back
 - There isn't an implicit or explicit command for humans to observe the Seventh Day rest.
 - Humans were to bear the image of Yah, would it be reasonable to assume they would have rested on the Seventh Day as they saw Yah rest?
 
-# [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]
+# [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

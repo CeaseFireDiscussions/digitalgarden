@@ -10,7 +10,7 @@
 # Related words
 - [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]
 - [[Gate of Wisdom/Good News/Atonement\|Atonement]]
-- [[Zunpublished/Sin\|Sin]]
+- [[Gate of Wisdom/Sin\|Sin]]
 
 # Additional Info
 - Pattern: Disobedience → guilt (עָוֹן) + consequence (death, exile, curse; Deut 28:15–68) → confession + atonement → forgiveness → restoration.

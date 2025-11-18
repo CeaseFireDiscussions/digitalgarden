@@ -39,8 +39,8 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]                                                 |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]  |
 | [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]                                                      |
-| [[Gate of Wisdom/Good News/Atonement\|Atonement]]                                                              |
 | [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]                                               |
+| [[Gate of Wisdom/Good News/Atonement\|Atonement]]                                                              |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]]                                                           |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]]                                            |
 | [[Gate of Wisdom/Beings/Human Beings/Babylonians\|Babylonians]]                                                |
@@ -191,6 +191,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Shedim\|Shedim]]                                                       |
 | [[Gate of Wisdom/Shem\|Shem]]                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]                                                |
+| [[Gate of Wisdom/Sin\|Sin]]                                                                                    |
 | [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]                                                         |
 | [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]             |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Son of Man\|Son of Man]]                                               |
@@ -209,6 +210,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]                    |
 | [[Gate of Wisdom/Timeline\|Timeline]]                                                                          |
 | [[Gate of Wisdom/Torah\|Torah]]                                                                                |
+| [[Gate of Wisdom/Transgression\|Transgression]]                                                                |
 | [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                  |
 | [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]                                                     |
 | [[Gate of Wisdom/Vain\|Vain]]                                                                                  |
