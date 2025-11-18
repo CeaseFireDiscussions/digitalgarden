@@ -1,3 +1,4 @@
+// eleventy.config.js
 const slugify = require("@sindresorhus/slugify");
 const markdownIt = require("markdown-it");
 const fs = require("fs");
@@ -29,7 +30,7 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
 }
 
 function getAnchorLink(filePath, linkTitle) {
-  const { attributes, innerHTML } = getAnchorAttributes(filePath, linkTitle);
+  const {attributes, innerHTML} = getAnchorAttributes(filePath, linkTitle);
   return `<a ${Object.keys(attributes).map(key => `${key}="${attributes[key]}"`).join(" ")}>${innerHTML}</a>`;
 }
 
@@ -77,7 +78,7 @@ function getAnchorAttributes(filePath, linkTitle) {
         "target": "",
       },
       innerHTML: title,
-    };
+    }
   }
   return {
     attributes: {
@@ -87,7 +88,7 @@ function getAnchorAttributes(filePath, linkTitle) {
       "href": `${permalink}${headerLinkPath}`,
     },
     innerHTML: title,
-  };
+  }
 }
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
@@ -96,13 +97,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
-
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
     linkify: true,
   })
-    .use(require("markdown-it-anchor"), { slugify: headerToId })
+    .use(require("markdown-it-anchor"), {
+      slugify: headerToId,
+    })
     .use(require("markdown-it-mark"))
     .use(require("markdown-it-footnote"))
     .use(function (md) {
@@ -111,8 +113,12 @@ module.exports = function (eleventyConfig) {
       };
     })
     .use(require("markdown-it-mathjax3"), {
-      tex: { inlineMath: [["$", "$"]] },
-      options: { skipHtmlTags: { "[-]": ["pre"] } },
+      tex: {
+        inlineMath: [["$", "$"]],
+      },
+      options: {
+        skipHtmlTags: { "[-]": ["pre"] },
+      },
     })
     .use(require("markdown-it-attrs"))
     .use(require("markdown-it-task-checkbox"), {
@@ -128,55 +134,271 @@ module.exports = function (eleventyConfig) {
       closeMarker: "```",
     })
     .use(namedHeadingsFilter)
-    .use(function (md) {
-      const origFenceRule = md.renderer.rules.fence || function (tokens, idx, options, env, self) {
-        return self.renderToken(tokens, idx, options, env, self);
-      };
+    .use(userMarkdownSetup);
 
-      md.renderer.rules.fence = (tokens, idx, options, env, slf) => {
-        const token = tokens[idx];
-        if (token.info === "mermaid") {
-          const code = token.content.trim();
-          return `<pre class="mermaid">${code}</pre>`;
+  eleventyConfig.setLibrary("md", markdownLib);
+
+  eleventyConfig.addFilter("isoDate", function (date) {
+    return date && date.toISOString();
+  });
+
+  eleventyConfig.addFilter("link", function (str) {
+    return (
+      str &&
+      str.replace(/\[\[(.*?\|.*?)\]\]/g, function (match, p1) {
+        if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
+          return match;
         }
-        if (token.info === "transclusion") {
-          const code = token.content.trim();
-          return `<div class="transclusion">${md.render(code)}</div>`;
+        const [fileLink, linkTitle] = p1.split("|");
+
+        return getAnchorLink(fileLink, linkTitle);
+      })
+    );
+  });
+
+  eleventyConfig.addFilter("taggify", function (str) {
+    return (
+      str &&
+      str.replace(tagRegex, function (match, precede, tag) {
+        return `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`;
+      })
+    );
+  });
+
+  eleventyConfig.addFilter("searchableTags", function (str) {
+    let tags;
+    let match = str && str.match(tagRegex);
+    if (match) {
+      tags = match
+        .map((m) => {
+          return `"${m.split("#")[1]}"`;
+        })
+        .join(", ");
+    }
+    if (tags) {
+      return `${tags},`;
+    } else {
+      return "";
+    }
+  });
+
+  eleventyConfig.addFilter("hideDataview", function (str) {
+    return (
+      str &&
+      str.replace(/\(\S+\:\:(.*)\)/g, function (_, value) {
+        return value.trim();
+      })
+    );
+  });
+
+  eleventyConfig.addTransform("dataview-js-links", function (str) {
+    const parsed = parse(str);
+    for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link")) {
+      const notePath = dataViewJsLink.getAttribute("data-href");
+      const title = dataViewJsLink.innerHTML;
+      const {attributes, innerHTML} = getAnchorAttributes(notePath, title);
+      for (const key in attributes) {
+        dataViewJsLink.setAttribute(key, attributes[key]);
+      }
+      dataViewJsLink.innerHTML = innerHTML;
+    }
+
+    return str && parsed.innerHTML;
+  });
+
+  eleventyConfig.addTransform("callout-block", function (str) {
+    const parsed = parse(str);
+
+    const transformCalloutBlocks = (
+      blockquotes = parsed.querySelectorAll("blockquote")
+    ) => {
+      for (const blockquote of blockquotes) {
+        transformCalloutBlocks(blockquote.querySelectorAll("blockquote"));
+
+        let content = blockquote.innerHTML;
+
+        let titleDiv = "";
+        let calloutType = "";
+        let calloutMetaData = "";
+        let isCollapsable;
+        let isCollapsed;
+        const calloutMeta = /\[!([\w-]*)\|?(\s?.*)\](\+|\-){0,1}(\s?.*)/;
+        if (!content.match(calloutMeta)) {
+          continue;
         }
-        if (token.info.startsWith("ad-")) {
-          const code = token.content.trim();
-          const parts = code.split("\n");
-          let titleLine, collapse, collapsible = false, collapsed = true, icon, color, nbLinesToSkip = 0;
-          for (let i = 0; i < 4; i++) {
-            if (parts[i] && parts[i].trim()) {
-              let line = parts[i].trim().toLowerCase();
-              if (line.startsWith("title:")) { titleLine = line.substring(6).trim(); nbLinesToSkip++; }
-              else if (line.startsWith("icon:")) { icon = line.substring(5).trim(); nbLinesToSkip++; }
-              else if (line.startsWith("collapse:")) {
-                collapsible = true;
-                collapse = line.substring(9).trim();
-                if (collapse === "open") collapsed = false;
-                nbLinesToSkip++;
-              }
-              else if (line.startsWith("color:")) { color = line.substring(6).trim(); nbLinesToSkip++; }
-            }
+
+        content = content.replace(
+          calloutMeta,
+          function (metaInfoMatch, callout, metaData, collapse, title) {
+            isCollapsable = Boolean(collapse);
+            isCollapsed = collapse === "-";
+            const titleText = title.replace(/(<\/{0,1}\w+>)/, "")
+              ? title
+              : `${callout.charAt(0).toUpperCase()}${callout
+                .substring(1)
+                .toLowerCase()}`;
+            const fold = isCollapsable
+              ? `<div class="callout-fold"><i icon-name="chevron-down"></i></div>`
+              : ``;
+
+            calloutType = callout;
+            calloutMetaData = metaData;
+            titleDiv = `<div class="callout-title"><div class="callout-title-inner">${titleText}</div>${fold}</div>`;
+            return "";
           }
-          const foldDiv = collapsible ? `<div class="callout-fold"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg></div>` : "";
-          const titleDiv = titleLine ? `<div class="callout-title"><div class="callout-title-inner">${titleLine}</div>${foldDiv}</div>` : "";
-          let collapseClasses = titleLine && collapsible ? "is-collapsible" : "";
-          if (collapsible && collapsed) collapseClasses += " is-collapsed";
+        );
 
-          return `<div data-callout-metadata class="callout ${collapseClasses}" data-callout="${token.info.substring(3)}">${titleDiv}
-<div class="callout-content">${md.render(parts.slice(nbLinesToSkip).join("\n"))}</div></div>`;
+        if (content === "\n<p>\n") {
+          content = "";
         }
-        return origFenceRule(tokens, idx, options, env, slf);
-      };
+        let contentDiv = content ? `\n<div class="callout-content">${content}</div>` : "";
 
-      const defaultImageRule = md.renderer.rules.image || function (tokens, idx, options, env, self) {
-        return self.renderToken(tokens, idx, options, env, self);
-      };
-      md.renderer.rules.image = (tokens, idx, options, env, self) => {
-        const imageName = tokens[idx].content;
-        const [fileName, ...widthAndMetaData] = imageName.split("|");
-        const lastValue = widthAndMetaData[widthAndMetaData.length - 1];
-        const lastValueIsNumber = !is
+        blockquote.tagName = "div";
+        blockquote.classList.add("callout");
+        blockquote.classList.add(isCollapsable ? "is-collapsible" : "");
+        blockquote.classList.add(isCollapsed ? "is-collapsed" : "");
+        blockquote.setAttribute("data-callout", calloutType.toLowerCase());
+        calloutMetaData && blockquote.setAttribute("data-callout-metadata", calloutMetaData);
+        blockquote.innerHTML = `${titleDiv}${contentDiv}`;
+      }
+    };
+
+    transformCalloutBlocks();
+
+    return str && parsed.innerHTML;
+  });
+
+  eleventyConfig.addTransform("picture", function (str) {
+    if(process.env.USE_FULL_RESOLUTION_IMAGES === "true"){
+      return str;
+    }
+    const parsed = parse(str);
+    for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
+      const src = imageTag.getAttribute("src");
+      if (src && src.startsWith("/") && !src.endsWith(".svg")) {
+        const cls = imageTag.classList.value;
+        const alt = imageTag.getAttribute("alt");
+        const width = imageTag.getAttribute("width") || '';
+
+        try {
+          const meta = transformImage(
+            "./src/site" + decodeURI(imageTag.getAttribute("src")),
+            cls.toString(),
+            alt,
+            ["(max-width: 480px)", "(max-width: 1024px)"]
+          );
+
+          if (meta) {
+            fillPictureSourceSets(src, cls, alt, meta, width, imageTag);
+          }
+        } catch {}
+      }
+    }
+    return str && parsed.innerHTML;
+  });
+
+  eleventyConfig.addTransform("table", function (str) {
+    const parsed = parse(str);
+    for (const t of parsed.querySelectorAll(".cm-s-obsidian > table")) {
+      let inner = t.innerHTML;
+      t.tagName = "div";
+      t.classList.add("table-wrapper");
+      t.innerHTML = `<table>${inner}</table>`;
+    }
+
+    for (const t of parsed.querySelectorAll(
+      ".cm-s-obsidian > .block-language-dataview > table"
+    )) {
+      t.classList.add("dataview");
+      t.classList.add("table-view-table");
+      t.querySelector("thead")?.classList.add("table-view-thead");
+      t.querySelector("tbody")?.classList.add("table-view-tbody");
+      t.querySelectorAll("thead > tr")?.forEach((tr) => {
+        tr.classList.add("table-view-tr-header");
+      });
+      t.querySelectorAll("thead > tr > th")?.forEach((th) => {
+        th.classList.add("table-view-th");
+      });
+    }
+    return str && parsed.innerHTML;
+  });
+
+  eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
+    if (
+      (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
+      outputPath &&
+      outputPath.endsWith(".html")
+    ) {
+      return htmlMinifier.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true,
+        conservativeCollapse: true,
+        preserveLineBreaks: true,
+        minifyCSS: true,
+        minifyJS: true,
+        keepClosingSlash: true,
+      });
+    }
+    return content;
+  });
+
+  // Existing passthroughs
+  eleventyConfig.addPassthroughCopy("src/site/img");
+  eleventyConfig.addPassthroughCopy("src/site/scripts");
+  eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
+
+  // ⭐ NEW: passthrough for your Scrolls folder
+  // Copies: src/site/notes/_The Scrolls → dist/the-scrolls
+  eleventyConfig.addPassthroughCopy({
+    "src/site/notes/_The Scrolls": "the-scrolls"
+  });
+
+  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
+  eleventyConfig.addPlugin(tocPlugin, {
+    ul: true,
+    tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
+  });
+
+  eleventyConfig.addFilter("dateToZulu", function (date) {
+    try {
+      return new Date(date).toISOString("dd-MM-yyyyTHH:mm:ssZ");
+    } catch {
+      return "";
+    }
+  });
+
+  eleventyConfig.addFilter("jsonify", function (variable) {
+    return JSON.stringify(variable) || '""';
+  });
+
+  eleventyConfig.addFilter("validJson", function (variable) {
+    if (Array.isArray(variable)) {
+      return variable.map((x) => x.replaceAll("\\", "\\\\")).join(",");
+    } else if (typeof variable === "string") {
+      return variable.replaceAll("\\", "\\\\");
+    }
+    return variable;
+  });
+
+  eleventyConfig.addPlugin(pluginRss, {
+    posthtmlRenderOptions: {
+      closingSingleTag: "slash",
+      singleTags: ["link"],
+    },
+  });
+
+  userEleventySetup(eleventyConfig);
+
+  return {
+    dir: {
+      input: "src/site",
+      output: "dist",
+      data: `_data`,
+    },
+    templateFormats: ["njk", "md", "11ty.js"],
+    htmlTemplateEngine: "njk",
+    markdownTemplateEngine: false,
+    passthroughFileCopy: true,
+  };
+};
