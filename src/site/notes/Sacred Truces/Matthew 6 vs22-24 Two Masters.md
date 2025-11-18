@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-6-vs22-24-two-masters/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v22\|Matt-06#v22]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v22\|Matt-06#v22]]
 
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2024/02/image.png)
 

@@ -5,7 +5,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Numbers 15:32-36 [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-15#v32\|Num-15#v32]]
+# Scripture: Numbers 15:32-36 [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-15#v32\|Num-15#v32]]
 
 32 <mark style="background: #D2B3FFA6;">While</mark> the <mark style="background: #B2A23AA6;">children of Israel</mark> were <mark style="background: #4DA6EDA6;">in the wilderness</mark>, <mark style="background: #B2A23AA6;">they</mark> found <mark style="background: #E0CC4BA6;">a man</mark> <mark style="background: #04CD3EA6;">gathering sticks</mark> <mark style="background: #D2B3FFA6;">on the Sabbath day</mark>. 33 <mark style="background: #B2A23AA6;">Those who found him</mark> <mark style="background: #04CD3EA6;">gathering sticks</mark> <mark style="background: #04CD3EA6;">brought him</mark> to <mark style="background: #A4A089A6;">Moses and Aaron</mark>, and to <mark style="background: #B2A23AA6;">all the congregation</mark>. 34 <mark style="background: #B2A23AA6;">They</mark> put <mark style="background: #E0CC4BA6;">him</mark> <mark style="background: #4DA6EDA6;">in custody</mark>, <mark style="background: #EB9E57A6;">because it had not been declared what should be done</mark> to him.
 
@@ -32,7 +32,7 @@ Let's see what scripture says about that starting at the very beginning and then
 - On a Sabbath day - Rest Day.
 
 ## **Why**: 
-- [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-31#v15\|Exod-31#v15]] 
+- [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-31#v15\|Exod-31#v15]] 
 	- 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-scrolls/1-torah-law-of-moses/02-exodus/exod-31/#v15" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 

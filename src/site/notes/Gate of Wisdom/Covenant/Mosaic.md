@@ -6,7 +6,7 @@
 
 ### COVENANT OF TREASURED PEOPLE
 
-[[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19\|Exod-19]]
+[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19\|Exod-19]]
 S ay to the descendants of Jacob (Israel)
 
 1. Y ou saw what I did to Egypt
@@ -18,11 +18,11 @@ S ay to the descendants of Jacob (Israel)
 7. T he people all responded together, we will do everything the Lord has said
 
 
-[[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20\|Exod-20]]
+[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20\|Exod-20]]
 1. T raditionally known 10 commandments
 2. I dols and Altars
 
-[[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-21\|Exod-21]], [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-22\|Exod-22]], [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-23\|Exod-23]]
+[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-21\|Exod-21]], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-22\|Exod-22]], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-23\|Exod-23]]
 
 1. T hese are the laws you are to set before them
 2. S ervants
@@ -35,7 +35,7 @@ S ay to the descendants of Jacob (Israel)
 9. Y ahweh’s Angel
 
   
- [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-24\|Exod-24]] (1446 BC)- All the words of Adonai and the ordinances
+ [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-24\|Exod-24]] (1446 BC)- All the words of Adonai and the ordinances
 
 1. M oses told all the words of Adonai, as well as all the ordinances
 2. A ll the people with one voice said they would do all that Yahweh had spoken
@@ -47,13 +47,13 @@ S ay to the descendants of Jacob (Israel)
 8. A ll the people, the multitude which included Israelites as well as foreigners, were required to keep all the ordinances
 
   
-[[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25\|Exod-25]], [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-26\|Exod-26]], [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-27\|Exod-27]], [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-28\|Exod-28]], [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-29\|Exod-29]], [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-30\|Exod-30]]
+[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25\|Exod-25]], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-26\|Exod-26]], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-27\|Exod-27]], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-28\|Exod-28]], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-29\|Exod-29]], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-30\|Exod-30]]
 
 1. O fferings for the Tabernacle
 2. E lements of the Tabernacle
 
   
-[[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-31\|Exod-31]] (1446 BC) - Shabbat
+[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-31\|Exod-31]] (1446 BC) - Shabbat
 
 1. You (the multitude) must keep my Shabbat
 2. as a sign
@@ -79,7 +79,7 @@ Exodus 33 - The Lord said leave, go out to the land I promised on an oath to Abr
 
   
 
-[[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-34\|Exod-34]] (1446 BC) - Second set of tablets
+[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-34\|Exod-34]] (1446 BC) - Second set of tablets
 
 1. Before all your (Moses) people I will do wonders
 2. such as have not been done in all the earth or nation
@@ -117,7 +117,7 @@ Exodus 33 - The Lord said leave, go out to the land I promised on an oath to Abr
 34. He gave all Israel the mitzvot that Adonai had spoken to him
 
   
-[[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-35\|Exod-35]]
+[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-35\|Exod-35]]
 
 1. Sabbath Regulations
 2. Materials for the Tabernacle

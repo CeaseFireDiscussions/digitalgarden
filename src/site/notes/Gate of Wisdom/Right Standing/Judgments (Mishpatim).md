@@ -10,7 +10,7 @@
 # Related words
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 - Penalties/Consequence: Many commands lack specific penalties in Deuteronomy, with consequences often tied to the general curses of Deut. 28:15-68 or specific punishments like death (e.g., for idolatry, adultery, murder) or curses (Deut. 27). Some penalties are drawn from related Torah passages (e.g., Exodus, Leviticus).
-	- Deuteronomy 28:15-68 ([[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v15\|Deut-28#v15]])
+	- Deuteronomy 28:15-68 ([[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v15\|Deut-28#v15]])
 - [[Gate of Wisdom/Ransom\|Ransom]]: Atonement is rarely specified in Deuteronomy, except for cases like the heifer ritual (Deut. 21:1-9) or purification processes (e.g., Deut. 23:11, Lev. 14:1-32 for leprosy). Most violations lack explicit atonement instructions in Deuteronomy, often implying repentance or adherence to general sacrificial laws in Leviticus.
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 
@@ -226,16 +226,16 @@
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
 ## Slander, False Witness
-### **Scripture Reference**: [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]
+### **Scripture Reference**: [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]
 - **Scripture Text (WEB)**: “You shall not go around as a slanderer among your people.“ ‘You shall not endanger the life of your neighbor. I am Yahweh.”
 - **Penalty or Consequence**: Violation leads to hatred, which breaks covenant love. (Leviticus 19:17-18)
 - **Offering or Ransom**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 	- False Witness which endangers a life - Death [[Gate of Wisdom/Offering/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
-### **Scripture Reference**: [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v11\|James-04#v11]]
+### **Scripture Reference**: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v11\|James-04#v11]]
 - **Scripture Text:** Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.
 
-Also related [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-19#v15\|Deut-19#v15]]–19: One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. 16 If an unrighteous witness rises up against any man to testify against him of wrongdoing, 17 then both the men, between whom the controversy is, shall stand before Yahweh, before the priests and the judges who shall be in those days; 18 and the judges shall make diligent inquisition; and behold, if the witness is a false witness, and has testified falsely against his brother, 19 then you shall do to him as he had thought to do to his brother. So you shall remove the evil from among you.
+Also related [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-19#v15\|Deut-19#v15]]–19: One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. 16 If an unrighteous witness rises up against any man to testify against him of wrongdoing, 17 then both the men, between whom the controversy is, shall stand before Yahweh, before the priests and the judges who shall be in those days; 18 and the judges shall make diligent inquisition; and behold, if the witness is a false witness, and has testified falsely against his brother, 19 then you shall do to him as he had thought to do to his brother. So you shall remove the evil from among you.
 
 

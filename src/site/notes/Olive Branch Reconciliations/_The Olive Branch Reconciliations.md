@@ -39,4 +39,4 @@ The biblical story of Noah's Ark, with the dove returning with an olive leaf, si
 
 In these Ceasefire Moments facts will be gathered and presented. How they are utilized and interpreted will be up to each individual. Verify and check out the resources as well as the information. Comparing references. But keep in mind, it's a time to seek common ground. 
 
-![Asset The Olive Branch Reconciliations.png](/img/user/Assets/attachments/Asset%20The%20Olive%20Branch%20Reconciliations.png)
+![Asset The Olive Branch Reconciliations.png](/img/user/_Assets/attachments/Asset%20The%20Olive%20Branch%20Reconciliations.png)

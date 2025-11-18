@@ -18,9 +18,9 @@
 - 
 
 # Additional Info
-- [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17#v19\|Gen-17:19]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17#v20\|Gen-17#v20]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17#v21\|-21]] covenant will be established through Isaac - Isaac is the covenant carrier, not Ishmael or any of Abraham's other sons.
-- [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v2\|Gen-26:2]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v3\|Gen-26#v3]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v4\|Gen-26#v4]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v5\|-5]] Yah/God makes his covenant directly with Isaac
-- [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v24\|Gen-26:24]] Covenant reaffirmed
+- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17#v19\|Gen-17:19]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17#v20\|Gen-17#v20]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17#v21\|-21]] covenant will be established through Isaac - Isaac is the covenant carrier, not Ishmael or any of Abraham's other sons.
+- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v2\|Gen-26:2]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v3\|Gen-26#v3]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v4\|Gen-26#v4]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v5\|-5]] Yah/God makes his covenant directly with Isaac
+- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v24\|Gen-26:24]] Covenant reaffirmed
 
 # Connections
 

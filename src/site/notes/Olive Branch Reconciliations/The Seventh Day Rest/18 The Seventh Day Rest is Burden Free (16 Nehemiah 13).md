@@ -5,7 +5,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Nehemiah 13:15-22 [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-13\|Neh-13]]
+# Scripture: Nehemiah 13:15-22 [[_The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-13\|Neh-13]]
 
 In those days I //[[Gate of Wisdom/Beings/Human Beings/Nehemiah\|Nehemiah]]// saw some men <mark style="background: #04CD3EA6;">treading wine presses</mark> <mark style="background: #D2B3FFA6;">on the Sabbath</mark> <mark style="background: #4DA6EDA6;">in Judah</mark>, <mark style="background: #04CD3EA6;">bringing in sheaves</mark>, and <mark style="background: #04CD3EA6;">loading donkeys</mark>; also with wine, grapes, figs, and all kinds of burdens, which they brought <mark style="background: #4DA6EDA6;">into Jerusalem</mark> <mark style="background: #D2B3FFA6;">on the Sabbath day</mark>; and I testified against them in the day in which they <mark style="background: #04CD3EA6;">sold food</mark>. 
 
@@ -36,8 +36,8 @@ I commanded the Levites that they should purify themselves, and that they should
 	- doors shut to merchants
 	- No burden's should be brought
 ## **When**:
-- On the 1st day of the Seventh Month ([[Zunpublished/Feast of Trumpets\|Feast of Trumpets]] (Yom Teru'ah)) they began reading the law. Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance. [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-08\|Neh-08]]
-- On the twenty-fourth day of this month, they renew the covenant which includes this portion about the Sabbath (Seventh Day Rest).  [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-09\|Neh-09]]
+- On the 1st day of the Seventh Month ([[Zunpublished/Feast of Trumpets\|Feast of Trumpets]] (Yom Teru'ah)) they began reading the law. Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance. [[_The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-08\|Neh-08]]
+- On the twenty-fourth day of this month, they renew the covenant which includes this portion about the Sabbath (Seventh Day Rest).  [[_The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-09\|Neh-09]]
 
 ## **Why**: 
 - To keep from profaning the Sabbath.
@@ -58,6 +58,6 @@ I commanded the Levites that they should purify themselves, and that they should
 
 ## Other Notes:
 
-- At this point, we've looked at every scripture which has come before this as the current Bible is laid out. We haven't seen anything about burdens on the Sabbath day. However, Jeremiah lived and prophesied ~180 years before Nehemiah. Jeremiah records YHWH talking to this subject in [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-17\|Jer-17]] which Nehemiah would have known about. We will cover that when we get there. 
+- At this point, we've looked at every scripture which has come before this as the current Bible is laid out. We haven't seen anything about burdens on the Sabbath day. However, Jeremiah lived and prophesied ~180 years before Nehemiah. Jeremiah records YHWH talking to this subject in [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-17\|Jer-17]] which Nehemiah would have known about. We will cover that when we get there. 
 
 # [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]

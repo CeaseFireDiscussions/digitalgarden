@@ -5,7 +5,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Number 28:9-10 [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-28#v9\|Num-28#v9]]
+# Scripture: Number 28:9-10 [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-28#v9\|Num-28#v9]]
 
 ""'On the <mark style="background: #D2B3FFA6;">Sabbath day</mark>, <mark style="background: #E0CC4BA6;">you</mark> shall offer <mark style="background: #04CD3EA6;">two male lambs a year old without defect</mark>, and <mark style="background: #04CD3EA6;">two tenths of an ephah of fine flour for a meal offering mixed with oil</mark>, and its <mark style="background: #04CD3EA6;">drink offering</mark>: this is the <mark style="background: #04CD3EA6;">burnt offering</mark> <mark style="background: #D2B3FFA6;">of every Sabbath</mark>, in addition to the <mark style="background: #04CD3EA6;">continual burnt offering</mark> and its <mark style="background: #04CD3EA6;">drink offering</mark>. 
 
@@ -31,7 +31,7 @@ Let's see what scripture says about that starting at the very beginning and then
 - Sabbath Day - Seven Day
 
 ## **Why**: 
-- [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-28#v2\|Num-28#v2]] as a pleasant aroma to YHWH
+- [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-28#v2\|Num-28#v2]] as a pleasant aroma to YHWH
 
 # Findings
 

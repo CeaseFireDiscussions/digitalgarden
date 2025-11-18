@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/outer-court/bronze-altar/","tags":["#GateWisdom","Tabernacle","OuterCourt","B","A"]}
 ---
 
-![Bronze Altar.jpg](/img/user/Assets/attachments/Bronze%20Altar.jpg)
+![Bronze Altar.jpg](/img/user/_Assets/attachments/Bronze%20Altar.jpg)
 
 # Define
 - 

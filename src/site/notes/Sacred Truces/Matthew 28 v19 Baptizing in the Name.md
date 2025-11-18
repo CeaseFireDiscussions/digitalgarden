@@ -3,7 +3,7 @@
 ---
 
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]]
 
 Baptizing is a very familiar term in the general Christian vocabulary. There is usually two forms of baptizing referenced. Water baptism and Spirit baptism, each bringing with them a whole host of controversary. Generally, this part of Matthew 28:19 is most associated with the water baptism. But does it really have anything to do with water?
 

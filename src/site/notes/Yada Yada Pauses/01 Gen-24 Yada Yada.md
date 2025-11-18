@@ -3,14 +3,14 @@
 ---
 
 
-# Genesis 24 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24\|Gen-24]]
+# Genesis 24 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24\|Gen-24]]
 
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23\|← Genesis 23]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Genesis 25 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23\|← Genesis 23]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Genesis 25 →]]
 ***
 
 # Making Connections
 
-![Genesis 24 The Brain Outline.png](/img/user/Assets/attachments/Genesis%2024%20The%20Brain%20Outline.png)
+![Genesis 24 The Brain Outline.png](/img/user/_Assets/attachments/Genesis%2024%20The%20Brain%20Outline.png)
 
 # Setting
 
@@ -206,7 +206,7 @@ She saith also
 
 
 ***
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23\|← Genesis 23]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Genesis 25 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23\|← Genesis 23]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Genesis 25 →]]
 
 # Repeated Words
 
@@ -223,8 +223,8 @@ She saith also
 
 # Connections
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/City of Nahor\|City of Nahor]]
-- [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23\|Gen-23]]
-- [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Gen-25]]
+- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23\|Gen-23]]
+- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Gen-25]]
 
 [^1]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] Abraham has obeyed - blessed with old age.
 

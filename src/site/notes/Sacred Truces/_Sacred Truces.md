@@ -77,4 +77,4 @@ During times of great important to those doing battle, a sacred truce would be c
 
 The Ceasefire Moments are meant to be a time of learning about new concepts or ideas which may not be previously known. Its a time to lay down the weapons and the shields and take time to listen, not to agree, but to understand.
 
-![Asset Sacred Truces.png](/img/user/Assets/attachments/Asset%20Sacred%20Truces.png)
+![Asset Sacred Truces.png](/img/user/_Assets/attachments/Asset%20Sacred%20Truces.png)

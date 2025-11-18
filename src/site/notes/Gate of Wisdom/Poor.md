@@ -22,7 +22,7 @@ a djective, nominative, plural, masculineFORM
 ### Second Writings:
 
 1. M atthew 5:3; Luke 6:20 - In spirit theirs is the kingdom of heaven;
-2. M atthew 5:3 - only place in NT Scriptures where the phrase “poor in spirit ” is used. [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+2. M atthew 5:3 - only place in NT Scriptures where the phrase “poor in spirit ” is used. [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 3. M atthew 5:3 - [[Gate of Wisdom/Reign of the Heavens\|Reign of the Heavens]]
 4. M atthew 11:5; Luke 7:22 - have the gospel preached to them
 5. M atthew 19:21; Luke 18:22 - give to them
@@ -44,7 +44,7 @@ a djective, nominative, plural, masculineFORM
 
 ### Hebrew Scripture
 
-- [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57#v15\|Isa-57#v15]]- they dwell in the high and holy places
-- [[The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-16#v19\|Prov-16#v19]]
-- [[The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-29#v23\|Prov-29#v23]]- upholds honor
-- [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v2\|Isa-66#v2]]YHWH/God looks intently upon
+- [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-57#v15\|Isa-57#v15]]- they dwell in the high and holy places
+- [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-16#v19\|Prov-16#v19]]
+- [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-29#v23\|Prov-29#v23]]- upholds honor
+- [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v2\|Isa-66#v2]]YHWH/God looks intently upon

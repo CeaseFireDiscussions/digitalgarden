@@ -13,4 +13,4 @@ In Job 11:17, lucifer is translated as morning.
 In 2 Peter 1:19, the same word is translated as morning star
 
 Isaiah 14 tracing all the entities referenced is tough unless you use a highlighter.
-![High  Isaiah 14.png](/img/user/Assets/attachments/High%20%20Isaiah%2014.png)
+![High  Isaiah 14.png](/img/user/_Assets/attachments/High%20%20Isaiah%2014.png)

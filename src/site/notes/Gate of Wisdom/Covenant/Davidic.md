@@ -4,7 +4,7 @@
 
 # Davidic Covenant
 
-[[The Scrolls/2. Nevi'im (Prophets)/10 - 2 Samuel/2 Sam-07\|2 Sam-07]]
+[[_The Scrolls/2. Nevi'im (Prophets)/10 - 2 Samuel/2 Sam-07\|2 Sam-07]]
 
 1. I will make your name great as the greates on earth
 2. I will give you rest from all your enemies
@@ -19,7 +19,7 @@
 11. T here are no requirements on David in order for this to be fulfilled.
 
 
-[[The Scrolls/3. Ketuvim (Writings)/13 - 1 Chronicles/1 Chron-17\|1 Chron-17]] 11-14
+[[_The Scrolls/3. Ketuvim (Writings)/13 - 1 Chronicles/1 Chron-17\|1 Chron-17]] 11-14
 
 1. I will make your name like the names of the great ones that are in the earth.
 2. I will establish a place for my people Israel - so they tremble no more
@@ -32,6 +32,6 @@
 9. I will appoint him over my house and my kingdom forever
 10. H is thrown will be established forever
 
-[[The Scrolls/3. Ketuvim (Writings)/14 - 2 Chronicles/2 Chron-06\|2 Chron-06]]:16
+[[_The Scrolls/3. Ketuvim (Writings)/14 - 2 Chronicles/2 Chron-06\|2 Chron-06]]:16
 
 1. F ULFILLED: He will build a house for My Name

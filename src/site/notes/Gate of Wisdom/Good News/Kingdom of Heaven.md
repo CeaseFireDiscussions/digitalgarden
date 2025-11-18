@@ -23,7 +23,7 @@
 
 
 # Connections
-- [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04\|Matt-04]]
+- [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-04\|Matt-04]]
 
 ###### Tags
 -

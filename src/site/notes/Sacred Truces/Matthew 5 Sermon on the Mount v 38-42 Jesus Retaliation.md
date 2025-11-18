@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-38-42-jesus-retaliation/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2023/11/55ba01b2-b617-454e-9a33-fcde443ba976.webp)
 

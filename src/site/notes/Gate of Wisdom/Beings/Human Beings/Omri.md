@@ -64,10 +64,10 @@
 - Assyrian kings (e.g., Tiglath-Pileser III, ca. 734 BCE) repeatedly call Israel "House of Omri" (Bit-Humri) in later texts, indicating the dynasty's lasting label for ~150 years. 
 - Oldest surviving image of an Israelite (likely Jehu or delegate); confirms Assyrian view of Omrides as a stable entity. On permanent display at the British Museum in London, UK. https://www.britishmuseum.org/collection/object/W_1848-1104-1
 	- lack limestone obelisk of Shalmaneser III; glorifies achievements of king and minister; inscription; illustrations show tribute from all directions; tribute bearers in five rows, identified by captions; each row has four panels, one on each side of the obelisk; 1. Gilzanu (North West Iran) tribute includes horses; 2. House of Omri (Ancient Israel- tribute from Biblical King Jehu 841BC); 3. Musri, or Egypt tribute or gift of elephant, ape and other exotic animals; 4. Suhi on the Euphrates, scene of animal hunting; 5. Patina in Southern Turkey.
-	- Tribute of Jeru bowing at Shalmanesar's feet ![Israel as the House of Omri.png](/img/user/Assets/attachments/Israel%20as%20the%20House%20of%20Omri.png)
+	- Tribute of Jeru bowing at Shalmanesar's feet ![Israel as the House of Omri.png](/img/user/_Assets/attachments/Israel%20as%20the%20House%20of%20Omri.png)
 		- The divine symbols of the god Shamash (the winged disk) and the goddess Ishtar (the star) hover above the scene. It
 		- Cuneiform translation: "The tribute of Jehu, son of Omri: I received from him silver, gold, a golden bowl..."
-		- [[The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-09\|2 Kings-09]] and [[The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-10\|2 Kings-10]]
+		- [[_The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-09\|2 Kings-09]] and [[_The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-10\|2 Kings-10]]
 
 
 

@@ -67,4 +67,4 @@ Heiser, Michael S.. [[Gate of Wisdom/Sources/Heiser, Michael S/The Unseen Realm\
 
 - The biblical passages we’ve seen above show that there is biblical precedent for the practice. In other passages, “the Name” functions as a substitute word for Yahweh. In several the Name is personified—the Name is a person. Isaiah 30 :27–28 is quite striking in this regard: The Name is clearly cast as an entity, as Yahweh himself, in this text.
 - [[Psalm-20 #v1\|Psalm-20 :1]][[Psalm-20 #v2\|Psalm-20 #v2]][[Psalm-20 #v3\|Psalm-20 #v3]][[Psalm-20 #v4\|Psalm-20 #v4]][[Psalm-20 #v5\|Psalm-20 #v5]][[Psalm-20 #v6\|Psalm-20 #v6]][[Psalm-20 #v7\|-7]], psalm is that trusting in the Name means trusting in Yahweh himself—he is the Name.
-- [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-12\|Deut-12]] 
+- [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-12\|Deut-12]] 

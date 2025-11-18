@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-28-v19-into-all-the-world/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]]
 
 Most believe this is a command to do “missions,” as it relates to being a missionary. Or going on missions trips to foreign nations. However, this isn’t the idea the text is conveying.
 

@@ -106,14 +106,14 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 	- Numbers 28:3 (WEB): "You shall tell them, ‘This is the offering made by fire which you shall offer to Yahweh: male lambs a year old without defect, two day by day, for a continual burnt offering.’"
 - Details: The Olah is a <mark style="background: #04CD3EA6;">voluntary offering</mark> where the entire animal (bull, sheep, goat, or bird) is consumed by fire, symbolizing complete surrender to God. It is <mark style="background: #D2B3FFA6;">offered daily</mark> (Numbers 28:3) and <mark style="background: #D2B3FFA6;">on special occasions</mark> (Numbers 28–29).
 * Meaning: Literally "that which goes up," referring to a burnt offering wholly consumed by fire, symbolizing complete dedication to God. Derived from the root meaning "to ascend," referring to the smoke rising to God or the offering being wholly consumed.
-* Context: Common in worship and atonement rituals (e.g., .[[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v3\|Lev-01:3]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v4\|Lev-01#v4]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v5\|Lev-01#v5]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v6\|Lev-01#v6]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v7\|Lev-01#v7]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v8\|Lev-01#v8]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v9\|Lev-01#v9]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v10\|Lev-01#v10]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v11\|Lev-01#v11]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v12\|Lev-01#v12]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v13\|Lev-01#v13]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v14\|Lev-01#v14]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v15\|Lev-01#v15]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v16\|Lev-01#v16]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v17\|-17]]
+* Context: Common in worship and atonement rituals (e.g., .[[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v3\|Lev-01:3]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v4\|Lev-01#v4]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v5\|Lev-01#v5]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v6\|Lev-01#v6]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v7\|Lev-01#v7]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v8\|Lev-01#v8]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v9\|Lev-01#v9]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v10\|Lev-01#v10]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v11\|Lev-01#v11]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v12\|Lev-01#v12]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v13\|Lev-01#v13]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v14\|Lev-01#v14]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v15\|Lev-01#v15]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v16\|Lev-01#v16]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-01#v17\|-17]]
 * Key Points:
 	* Entire animal (typically cattle, sheep, goats, or birds) burned on the altar.
 	* Voluntary offering to atone for general sin or express devotion.
 	* Symbolizes complete surrender to God.
 	* Performed by priests, with specific rituals for laypeople, priests, or leaders.
-* Example: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v2\|Gen-22:2]] – Abraham is told to offer Isaac as an olah.
-* [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-06#v13\|Num-06:13]] and [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-21#v26\|Acts-21:26]] - Paul provided offering 
+* Example: [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-22#v2\|Gen-22:2]] – Abraham is told to offer Isaac as an olah.
+* [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-06#v13\|Num-06:13]] and [[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-21#v26\|Acts-21:26]] - Paul provided offering 
 
 ### [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]] - Minchah (מִנְחָה)
 - Offering Type: Non-blood offering (grain-based)
@@ -142,14 +142,14 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 	- Leviticus 7:11-12 (WEB): "This is the law of the sacrifice of peace offerings, which one shall offer to Yahweh: If he offers it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mixed with oil, and unleavened wafers anointed with oil, and cakes mixed with oil."
 - Details: The Shelamim includes animals (cattle, sheep, or goats) and is shared among the offeror, priests, and God. It <mark style="background: #04CD3EA6;">expresses communion or gratitude</mark>.
 * Meaning: From the root for "peace" or "wholeness," indicating reconciliation or fellowship. Related to the peace or fellowship offering, emphasizing reconciliation or thanksgiving. Often translated as "peace offering."
-* Context: Associated with communal meals and gratitude (e.g., [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v1\|Lev-03:1]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v2\|Lev-03#v2]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v3\|Lev-03#v3]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v4\|Lev-03#v4]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v5\|Lev-03#v5]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v6\|Lev-03#v6]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v7\|Lev-03#v7]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v8\|Lev-03#v8]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v9\|Lev-03#v9]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v10\|Lev-03#v10]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v11\|Lev-03#v11]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v12\|Lev-03#v12]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v13\|Lev-03#v13]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v14\|Lev-03#v14]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v15\|Lev-03#v15]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v16\|Lev-03#v16]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v17\|-17]]).
+* Context: Associated with communal meals and gratitude (e.g., [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v1\|Lev-03:1]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v2\|Lev-03#v2]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v3\|Lev-03#v3]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v4\|Lev-03#v4]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v5\|Lev-03#v5]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v6\|Lev-03#v6]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v7\|Lev-03#v7]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v8\|Lev-03#v8]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v9\|Lev-03#v9]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v10\|Lev-03#v10]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v11\|Lev-03#v11]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v12\|Lev-03#v12]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v13\|Lev-03#v13]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v14\|Lev-03#v14]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v15\|Lev-03#v15]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v16\|Lev-03#v16]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-03#v17\|-17]]).
 * Key Points:
 
 	* Animal sacrifice (cattle, sheep, or goats) with portions shared among offerer, priests, and God.
 	* Voluntary offering for thanksgiving, vows, or freewill gifts.
 	* Includes communal meal, emphasizing fellowship with God and others.
 	* Three subtypes: thanksgiving, votive, and freewill offerings.
-* Example: [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-07#v11\|Lev-07:11]] – “This is the law of the sacrifice of peace offerings (shelem).”<br>
+* Example: [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-07#v11\|Lev-07:11]] – “This is the law of the sacrifice of peace offerings (shelem).”<br>
 ### [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]] - Chatat (חַטָּאת)
 - Offering Type: Sacrifice (expiatory)
 - Offered by: <mark style="background: #E0CC4BA6;">Individual, priest, or community</mark>
@@ -160,7 +160,7 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 	- Leviticus 4:27-28 (WEB): "If anyone of the common people sins unintentionally, in doing any of the things which Yahweh has commanded not to be done, and is guilty, when his sin which he has sinned is known, then he shall bring for his offering a goat, a female without defect, for his sin which he has sinned."
 - Details: The Chattat atones for unintentional sins, varying by the offeror’s status (e.g., bull for priests, goat for individuals). Blood is applied to the altar, and parts may be burned outside the camp.
 * Meaning: From the root for sin or purification offering, used to atone ([[Gate of Wisdom/Ransom\|Ransom]]) for unintentional sins or ritual impurities. It's about being cleansed, [[Zunpublished/Clean\|Clean]] vs [[Zunpublished/Unclean\|Unclean]].
-* Context: Specific to atonement rituals (e.g., Leviticus 4:1-35 ([[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v1\|Lev-04#v1]])
+* Context: Specific to atonement rituals (e.g., Leviticus 4:1-35 ([[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v1\|Lev-04#v1]])
 * Key Points:
 	* Required for unintentional sins or ritual impurities by individuals, priests, or the community. 
 	* Animal type (bull, goat, lamb, or birds) varies by status of the offeror.
@@ -185,7 +185,7 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 		- Examples: Leviticus 23:29–30, Leviticus 11:43–44, 
 	- <mark style="background: #E6852CA6;">Intentional sins involving deceit</mark> such as theft, extortion, lying about lost property, or swearing falsely, violations of trust or property, an act that harm another person.
 		-  Example Leviticus 6:1-7 
-	- Brings context to "forgive our trespasses as we forgive those who trespass against us." [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v9\|Matt-06#v9]]
+	- Brings context to "forgive our trespasses as we forgive those who trespass against us." [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v9\|Matt-06#v9]]
 - Offered where: <mark style="background: #4DA6EDA6;">Altar in the Tabernacle courtyard</mark>
 - Scripture References:
 	- Leviticus 5:6 (WEB): "He shall bring his trespass offering to Yahweh for his sin which he has sinned: a female from the flock, a lamb or a goat, for a sin offering; and the priest shall make atonement for him concerning his sin."
@@ -194,7 +194,7 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 	- Numbers 15:30–31 states, “But the person who does anything with a high hand, whether he is native or a sojourner, reviles the Lord, and that person shall be cut off from among his people. Because he has despised the word of the Lord and has broken his commandment, that person shall be utterly cut off; his iniquity shall be on him.” 
 - Details: The Asham addresses specific offenses, often requiring restitution (e.g., Leviticus 5:16). A ram is typically offered, and it is considered “most holy.” 
 * Meaning: A guilt or reparation offering, often linked to restitution for specific wrongs, such as violating sacred things or unintentional sins requiring compensation.
-* Context: Used in cases requiring reparative action (e.g., [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v6\|Lev-05:6]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v7\|Lev-05#v7]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v8\|Lev-05#v8]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v9\|Lev-05#v9]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v10\|Lev-05#v10]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v11\|Lev-05#v11]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v12\|Lev-05#v12]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v13\|Lev-05#v13]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v14\|Lev-05#v14]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v15\|Lev-05#v15]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v16\|Lev-05#v16]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v17\|Lev-05#v17]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v18\|Lev-05#v18]][[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v19\|-19]]).
+* Context: Used in cases requiring reparative action (e.g., [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v6\|Lev-05:6]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v7\|Lev-05#v7]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v8\|Lev-05#v8]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v9\|Lev-05#v9]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v10\|Lev-05#v10]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v11\|Lev-05#v11]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v12\|Lev-05#v12]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v13\|Lev-05#v13]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v14\|Lev-05#v14]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v15\|Lev-05#v15]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v16\|Lev-05#v16]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v17\|Lev-05#v17]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v18\|Lev-05#v18]][[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-05#v19\|-19]]).
 * Key Points:
 	* Required for specific sins, like misusing holy things or wronging others, often with restitution.
 	* Typically a ram or equivalent value; includes blood and burning rituals.
@@ -229,19 +229,19 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 - Details: The Terumah is a portion lifted up or contributed, often from peace offerings or firstfruits, designated for priests.
 * Meaning: A contribution or heave offering, often a portion of produce or goods dedicated to God or priests.
 * Context: Used for offerings given to sustain the priesthood (e.g., Numbers 15:19–21).
-* Example: [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v2\|Exod-25:2]] – “Take an offering (terumah) for Me.”
+* Example: [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v2\|Exod-25:2]] – “Take an offering (terumah) for Me.”
 	* terumah
-		* 2 Corinthians 9:4-6, 12-14 [[The Scrolls/4. The Gospels and The Apostles/47 - 2 Corinthians/2 Cor-09\|2 Cor-09]] (Paul remained cermonially clean Acts 24:17-19)
-		* Romans 11:16 [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-11\|Rom-11]]
+		* 2 Corinthians 9:4-6, 12-14 [[_The Scrolls/4. The Gospels and The Apostles/47 - 2 Corinthians/2 Cor-09\|2 Cor-09]] (Paul remained cermonially clean Acts 24:17-19)
+		* Romans 11:16 [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-11\|Rom-11]]
 	* maamadot
-		* 1 Corinthians 16 [[The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-16\|1 Cor-16]]
-		* Luke 8:3 [[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-08\|Luke-08]]
+		* 1 Corinthians 16 [[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-16\|1 Cor-16]]
+		* Luke 8:3 [[_The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-08\|Luke-08]]
 	* pushke
-		* 1 Corinthians 16 [[The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-16\|1 Cor-16]]
-		* Romans 12:13 [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-12\|Rom-12]]
+		* 1 Corinthians 16 [[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-16\|1 Cor-16]]
+		* Romans 12:13 [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-12\|Rom-12]]
 	* matanah - While both words can be translated as "gift," "matanah" has a broader, more general meaning, while "terumah" carries a more specialized and religious connotation, particularly within the context of Jewish tradition and the Torah
-		* 1 Corinthians 16 [[The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-16\|1 Cor-16]]
-		* 2 Corinthians 8 [[The Scrolls/4. The Gospels and The Apostles/47 - 2 Corinthians/2 Cor-08\|2 Cor-08]]
+		* 1 Corinthians 16 [[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-16\|1 Cor-16]]
+		* 2 Corinthians 8 [[_The Scrolls/4. The Gospels and The Apostles/47 - 2 Corinthians/2 Cor-08\|2 Cor-08]]
 ### [[Zunpublished/First Fruits\|First Fruits]] Offering - Bikkurim
 - Offering Type: Grain or produce offering
 - Offered by: <mark style="background: #E0CC4BA6;">Individual or community</mark>
@@ -264,8 +264,8 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 	- Numbers 28:7 (WEB): "Its drink offering shall be the fourth part of a hin for each lamb. You shall pour out a drink offering of strong drink to Yahweh in the holy place."
 - Details: The Nesekh is wine poured out alongside other offerings, symbolizing joy and abundance.
 * Meaning: A drink or libation offering, typically wine or oil poured out as part of a ritual.
-* Context: Often accompanies other sacrifices (e.g., [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-15#v5\|Num-15:5]]).
-* Example: [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-28#v7\|Num-28:7]] – “Its drink offering (nesek) shall be one-fourth of a hin.”
+* Context: Often accompanies other sacrifices (e.g., [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-15#v5\|Num-15:5]]).
+* Example: [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-28#v7\|Num-28:7]] – “Its drink offering (nesek) shall be one-fourth of a hin.”
 
 ### [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] - Korban Pesach
 - Offering Type: Sacrifice

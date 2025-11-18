@@ -5,7 +5,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Isaiah 56:2-6 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-56\|Isa-56]]
+# Scripture: Isaiah 56:2-6 [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-56\|Isa-56]]
 
 <mark style="background: #04CD3EA6;">Blessed</mark> <mark style="background: #E0CC4BA6;">is the man</mark> who <mark style="background: #04CD3EA6;">does this</mark>, and the son of man who <mark style="background: #04CD3EA6;">holds it fast</mark>; who <mark style="background: #04CD3EA6;">keeps the Sabbath without profaning it </mark>and keeps<mark style="background: #04CD3EA6;"> his hand from doing any evil</mark>." 
 
@@ -20,11 +20,11 @@ Let's see what scripture says about that starting at the very beginning and then
 - evil - bad, wicked, displeasing, harmful, any act contrary to what God says is good.
 - [[Gate of Wisdom/Foreigner\|Foreigner]] - literally “son of a foreigner”
 	- A Foreigner was someone who was not a native born Israelite who wanted to follow Yahweh / God. In the New Testament these would be Gentiles who wanted to follow Jesus.
-- Eunuch - The most common definition of a eunuch in the Bible is a man who has been physically castrated, impotent or was born that way. [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-23#v1\|Deut-23#v1]]
+- Eunuch - The most common definition of a eunuch in the Bible is a man who has been physically castrated, impotent or was born that way. [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-23#v1\|Deut-23#v1]]
 - [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] - Singular referring to the Seventh Day Rest in verses 2 and 6. The Sabbath Day is a covenant sign.
 - SabbathS - Plural in vs 4 [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
 - [[Zunpublished/Covenant\|Covenant]] - YHWH's covenant with [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]], given at [[Zunpublished/Mount Sinai\|Mount Sinai]]. Revealed in Moses [[Gate of Wisdom/Covenant/Mosaic\|Mosaic]], promised to Abraham [[Gate of Wisdom/Covenant/Abrahamic\|Abrahamic]], and renewed in the Servant (Isa 42:6; 49:8).
-	- [[Sacred Truces/What is the New Covenant\|What is the New Covenant]] Fulfillment [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-08#v6\|Heb-08#v6]]-13; [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-02#v12\|Ephes-02#v12]]-19
+	- [[Sacred Truces/What is the New Covenant\|What is the New Covenant]] Fulfillment [[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-08#v6\|Heb-08#v6]]-13; [[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-02#v12\|Ephes-02#v12]]-19
 - [[Gate of Wisdom/Memorial\|Memorial]] - permanent remembrance or enduring name in God’s house.
 - [[Gate of Wisdom/Name\|Name]] name, reputation, fame, memorial, renown, identity. To have a name with God is to have recognition, covenant belonging, and honor.
 
@@ -43,10 +43,10 @@ Let's see what scripture says about that starting at the very beginning and then
 	- give them permanent remembrance where YHWH is
 	- a better, everlasting reputation, identity
 		- better than that of sons and daughters 
-	- [[The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-03#v5\|Rev-03#v5]],  [[The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-13#v8\|Rev-13#v8]],  [[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-10#v20\|Luke-10#v20]], [[The Scrolls/2. Nevi'im (Prophets)/39 - Malachi/Mal-03#v16\|Mal-03#v16]], [[The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Dan-12#v1\|Dan-12#v1]]
+	- [[_The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-03#v5\|Rev-03#v5]],  [[_The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-13#v8\|Rev-13#v8]],  [[_The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-10#v20\|Luke-10#v20]], [[_The Scrolls/2. Nevi'im (Prophets)/39 - Malachi/Mal-03#v16\|Mal-03#v16]], [[_The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Dan-12#v1\|Dan-12#v1]]
 ## **When**:
 - This is not supplied in the text, however, Chapters 40–55 just spoke of comfort and how God will gather exiles through the Servant [[Gate of Wisdom/Beings/Heavenly Beings/Messiah\|Messiah]]. 
-- [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-55\|Isa-55]] just revealed a universal invitation to the new covenant—“Come… buy wine and milk without money” (55:1); God’s word will not return void (55:10–11); joy in return from exile (55:12–13).  Isaiah 56:1: “Thus says the LORD” links the free offer of grace to the demand for obedience.
+- [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-55\|Isa-55]] just revealed a universal invitation to the new covenant—“Come… buy wine and milk without money” (55:1); God’s word will not return void (55:10–11); joy in return from exile (55:12–13).  Isaiah 56:1: “Thus says the LORD” links the free offer of grace to the demand for obedience.
 
 ## **Why**: 
 - That the man will not be cut-off.
@@ -71,7 +71,7 @@ Let's see what scripture says about that starting at the very beginning and then
 ## Other Notes:
 - Given outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
 - Isaiah 56 is the [[Zunpublished/Gospel\|Gospel]] in the Old Testament—God’s salvation is near, so all who keep covenant by faith (even outsiders) are welcomed into His house, while hypocritical leaders face judgment.
-- Inclusion of ALL - the whosoever's was fulfilled by Jesus, the Messiah. [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-08#v27\|Acts-08#v27]]
+- Inclusion of ALL - the whosoever's was fulfilled by Jesus, the Messiah. [[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-08#v27\|Acts-08#v27]]
 
 
 # [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]

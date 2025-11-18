@@ -3,9 +3,9 @@
 ---
 
 
-# Genesis 25 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Gen-25]]
+# Genesis 25 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25\|Gen-25]]
 
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24\|← Genesis 24]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Genesis 26 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24\|← Genesis 24]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Genesis 26 →]]
 ***
 
 # Outline
@@ -158,8 +158,8 @@ The boys grew.
 		- "Please feed me 
 			- with some of that <mark style="background: #4DA6EDA6;">red</mark> stew, 
 				- for I am famished." 
-					- Therefore his name was called <mark style="background: #4DA6EDA6;">Edom</mark>. [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36#v1\|Gen-36:1]]
-#### Edom means red. Later this name applies to the region and people descended from him, known as Edom and the Edomites, southeast of the Dead Sea. The Edomites are rivals of the Israelites [[The Scrolls/2. Nevi'im (Prophets)/39 - Malachi/Mal-01#v2\|Mal-01:2]][[The Scrolls/2. Nevi'im (Prophets)/39 - Malachi/Mal-01#v3\|Mal-01#v3]][[The Scrolls/2. Nevi'im (Prophets)/39 - Malachi/Mal-01#v4\|-4]]
+					- Therefore his name was called <mark style="background: #4DA6EDA6;">Edom</mark>. [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36#v1\|Gen-36:1]]
+#### Edom means red. Later this name applies to the region and people descended from him, known as Edom and the Edomites, southeast of the Dead Sea. The Edomites are rivals of the Israelites [[_The Scrolls/2. Nevi'im (Prophets)/39 - Malachi/Mal-01#v2\|Mal-01:2]][[_The Scrolls/2. Nevi'im (Prophets)/39 - Malachi/Mal-01#v3\|Mal-01#v3]][[_The Scrolls/2. Nevi'im (Prophets)/39 - Malachi/Mal-01#v4\|-4]]
 
 - 
 	- Jacob said, 
@@ -179,7 +179,7 @@ The boys grew.
 		- and drank, 
 		- rose up, 
 		- and went his way. 
-		- So Esau despised his birthright. [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-12#v16\|Heb-12:16]]
+		- So Esau despised his birthright. [[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-12#v16\|Heb-12:16]]
 
 #### Despised =  בָּזָה (pronounced "bazah") means "to despise," "to scorn," "to hold in contempt," or "to regard as worthless." 
 
@@ -190,4 +190,4 @@ The boys grew.
 
 
 ***
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24\|← Genesis 24]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Genesis 26 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24\|← Genesis 24]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Genesis 26 →]]

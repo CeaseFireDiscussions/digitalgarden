@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-6-vs05-8-jesus-on-prayer/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v5\|Matt-06#v5]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v5\|Matt-06#v5]]
 
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2024/01/1f8ebfb3-d3e2-4249-907b-f798f4ac5f11.webp)
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
 
 # Verses 5 
 
@@ -46,11 +46,11 @@ When all we do is pray in groups, thinking about each word and what others will 
 
 ## ***And praying, you //disciples// may not use vain repetition like the nations //people// for they think that in their speaking much they will be heard.***
 
-It doesn’t seem to be about the length of the prayer because in [[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-06\|Luke-06]], he records Jesus prayed all night. It also doesn’t seem to be about asking more than once, as Jesus returned again in the Garden. So the repetition concept here can’t be about the length of prayer time nor the number of times.
+It doesn’t seem to be about the length of the prayer because in [[_The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-06\|Luke-06]], he records Jesus prayed all night. It also doesn’t seem to be about asking more than once, as Jesus returned again in the Garden. So the repetition concept here can’t be about the length of prayer time nor the number of times.
 
 Repetition – the word carries a meaning of babbling, chattering, uttering empty words, repeating the same things over and over, stammering, speaking with little purpose. The word here comes from the same root word used in Matthew 5, Let your yea by yea, nay be nay.
 
-Again, it seems to be about the connection of the heart. If one is just babbling along, disconnected from what is coming out of the heart into the mouth, there isn’t any connection between the person and God. This is probably the connection Paul was making in [[The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-14\|1 Cor-14]], when he said he would pray with words he understands.
+Again, it seems to be about the connection of the heart. If one is just babbling along, disconnected from what is coming out of the heart into the mouth, there isn’t any connection between the person and God. This is probably the connection Paul was making in [[_The Scrolls/4. The Gospels and The Apostles/46 - 1 Corinthians/1 Cor-14\|1 Cor-14]], when he said he would pray with words he understands.
 
 Prayer is about participation of the heart, the body, and the mind in connecting with God. Oneness.
 
@@ -60,7 +60,7 @@ Prayer is about participation of the heart, the body, and the mind in connecting
 
 Do not be like them – thinking in speaking much you will be heard.
 
-Those standing there hearing this had to have had a flash back to [[The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-18\|1 Kings-18]]  and the battle of the gods. Elijah said the people had abandoned YHWH/God’s commands and were following the Baals. He told the people, if YHWH is God, follow him. But if Baal is God, follow him. The people couldn’t decide. The followers of Baal and Asherah (Easter) called the gods from morning till evening, they got louder and louder and danced around. They thought if they kept pleading and praying their god would answer. Elijah then stepped up and said around 50 words and YHWH answered.
+Those standing there hearing this had to have had a flash back to [[_The Scrolls/2. Nevi'im (Prophets)/11 - 1 Kings/1 Kings-18\|1 Kings-18]]  and the battle of the gods. Elijah said the people had abandoned YHWH/God’s commands and were following the Baals. He told the people, if YHWH is God, follow him. But if Baal is God, follow him. The people couldn’t decide. The followers of Baal and Asherah (Easter) called the gods from morning till evening, they got louder and louder and danced around. They thought if they kept pleading and praying their god would answer. Elijah then stepped up and said around 50 words and YHWH answered.
 
 Knows before you ask – As the scene took place between Elijah and the prophets of Baal and Asherah, YHWH/God was fully aware of what was needed. But Elijah still had to make the preparations and ask. Sometime we have prayers that are like our emergency calls. We are in a moment, we dial up and say, ‘Help’. There is a sort of connection made when someone says the word help. Not a lot of words or time needed, the communion is instant and can be very deep.
 

@@ -5,7 +5,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Nehemiah 9:14 [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-09\|Neh-09]]
+# Scripture: Nehemiah 9:14 [[_The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-09\|Neh-09]]
 
 "<mark style="background: #D7CD91A6;">You</mark> also came down <mark style="background: #4DA6EDA6;">on Mount Sinai</mark>, and <mark style="background: #04CD3EA6;">spoke</mark> with <mark style="background: #E0CC4BA6;">them</mark> <mark style="background: #4DA6EDA6;">from heaven</mark>, and <mark style="background: #04CD3EA6;">gave</mark> <mark style="background: #E0CC4BA6;">them</mark> <mark style="background: #04CD3EA6;">right ordinances</mark> and <mark style="background: #04CD3EA6;">true laws</mark>, <mark style="background: #04CD3EA6;">good statutes and commandments</mark>,  and made known to <mark style="background: #E0CC4BA6;">them</mark> <mark style="background: #D7CD91A6;">your</mark> <mark style="background: #04CD3EA6;">holy Sabbath</mark>, and <mark style="background: #04CD3EA6;">commanded</mark> <mark style="background: #E0CC4BA6;">them</mark> <mark style="background: #04CD3EA6;">commandments, statutes, and a law</mark>, <mark style="background: #7FC1CFA6;">by Moses</mark> <mark style="background: #D7CD91A6;">your servant</mark>, and gave <mark style="background: #E0CC4BA6;">them</mark> <mark style="background: #04CD3EA6;">bread from the sky</mark> <mark style="background: #EB9E57A6;">for their hunger</mark>, and <mark style="background: #04CD3EA6;">brought water out of the rock</mark> for them <mark style="background: #EB9E57A6;">for their thirst</mark>, and <mark style="background: #04CD3EA6;">commanded</mark> <mark style="background: #E0CC4BA6;">them</mark> that <mark style="background: #E0CC4BA6;">they</mark> should <mark style="background: #04CD3EA6;">go in to possess the land</mark> which <mark style="background: #D7CD91A6;">you</mark> <mark style="background: #EB9E57A6;">had sworn to give </mark><mark style="background: #E0CC4BA6;">them</mark>. 
 
@@ -43,7 +43,7 @@ Let's see what scripture says about that starting at the very beginning and then
 	- water from a rock
 - YWHW commanded them to go into the land he swore to give them
 ## **When**:
-- On [[Zunpublished/Mount Sinai\|Mount Sinai]] implies at the time of the Exodus ([[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v20\|Exod-19#v20]]).
+- On [[Zunpublished/Mount Sinai\|Mount Sinai]] implies at the time of the Exodus ([[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v20\|Exod-19#v20]]).
 
 ## **Why**: 
 - Bread for hunger.

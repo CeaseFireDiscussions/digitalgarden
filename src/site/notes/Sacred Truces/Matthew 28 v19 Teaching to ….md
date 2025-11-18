@@ -4,7 +4,7 @@
 
 
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]] Go and teach the peoples, immersing them in the character, reputation, authority, and purpose of Yah/God …
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]] Go and teach the peoples, immersing them in the character, reputation, authority, and purpose of Yah/God …
 
 Jesus continues his instructions in verse 20. Teaching the nations to … here’s were we find out what is to be taught, what do you think it is?
 

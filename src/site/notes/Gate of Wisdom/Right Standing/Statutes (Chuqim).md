@@ -11,7 +11,7 @@
 
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 - Penalties/Consequence: Many commands lack specific penalties in Deuteronomy, with consequences often tied to the general curses of Deut. 28:15-68 or specific punishments like death (e.g., for idolatry, adultery, murder) or curses (Deut. 27). Some penalties are drawn from related Torah passages (e.g., Exodus, Leviticus).
-	- Deuteronomy 28:15-68 ([[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v15\|Deut-28#v15]])
+	- Deuteronomy 28:15-68 ([[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v15\|Deut-28#v15]])
 - [[Gate of Wisdom/Ransom\|Ransom]]: Atonement is rarely specified in Deuteronomy, except for cases like the heifer ritual (Deut. 21:1-9) or purification processes (e.g., Deut. 23:11, Lev. 14:1-32 for leprosy). Most violations lack explicit atonement instructions in Deuteronomy, often implying repentance or adherence to general sacrificial laws in Leviticus.
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 

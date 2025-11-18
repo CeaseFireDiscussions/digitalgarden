@@ -27,14 +27,14 @@ From YHWH, Yeshua/Jesus, the Disciples, and Paul’s point of view:
 	- The Lost Sheep - Rejects Yeshua as Messiah - See Religiously listing above.
 	- Congregation of Israel - Accepts Jesus as Messiah (typically translated as "church" in English.)
 		- Messianic Judaism - Former followers of Judaism who chose to follow YHWH (Torah) and Accepted Jesus (Messiah)
-		- The Way - Foreigner or Sojourner, Anyone who chose to follow YHWH (Torah) and Accepted Jesus (Messiah) [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-02\|Ephes-02]]
-		- Hebrew / Israelite - Who chose to follow YHWH (Torah) and Accepted Jesus (Messiah) [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-06\|Acts-06]] [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-09\|Rom-09]]
+		- The Way - Foreigner or Sojourner, Anyone who chose to follow YHWH (Torah) and Accepted Jesus (Messiah) [[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-02\|Ephes-02]]
+		- Hebrew / Israelite - Who chose to follow YHWH (Torah) and Accepted Jesus (Messiah) [[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-06\|Acts-06]] [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-09\|Rom-09]]
 	- Other's
 		- [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]] - Nations of people not following Judaism, Nations of people not following Yeshua
 		- Pagans - Follower of other gods
 		- Lost - Those who have not heard the Gospel of the Kingdom, Have not accepted Yeshua, The lawless (no Torah)
 	- 
-![Hebrew Phase 5.png](/img/user/Assets/attachments/Hebrew%20Phase%205.png)
+![Hebrew Phase 5.png](/img/user/_Assets/attachments/Hebrew%20Phase%205.png)
 # Connections
 - 
 

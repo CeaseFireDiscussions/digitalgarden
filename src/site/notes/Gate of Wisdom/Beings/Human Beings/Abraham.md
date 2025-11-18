@@ -3,7 +3,7 @@
 ---
 
 Original name Abram
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17\|Gen-17]] God changes Abram’s name to Abraham - father of a multitude
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-17\|Gen-17]] God changes Abram’s name to Abraham - father of a multitude
 # Birth and Ancestors
 - Timeframe:
 - Place: Ur of the Chaldeans
@@ -13,11 +13,11 @@ Original name Abram
 
 # Marriage and Descendants
 - Spouse #1: Sarai, [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]]
-	- Story: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-11#v29\|Gen-11:29]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-11#v30\|Gen-11#v30]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-11#v31\|-31]] and [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12\|Gen-12]]
+	- Story: [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-11#v29\|Gen-11:29]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-11#v30\|Gen-11#v30]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-11#v31\|-31]] and [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12\|Gen-12]]
 	- Children: [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]
 	- Abraham and Sarah are depicted as a new Adam and Eve, who God is calling to return to the garden so he can bless all the nations through them.
 - Spouse #2: [[Gate of Wisdom/Beings/Human Beings/Keturah\|Keturah]]
-	- Story: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v1\|Gen-25:1]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v2\|Gen-25#v2]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v3\|Gen-25#v3]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v4\|Gen-25#v4]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v5\|Gen-25#v5]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v6\|-6]]  and [[The Scrolls/3. Ketuvim (Writings)/13 - 1 Chronicles/1 Chron-01#v32\|1 Chron-01:32]][[The Scrolls/3. Ketuvim (Writings)/13 - 1 Chronicles/1 Chron-01#v33\|-33]]
+	- Story: [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v1\|Gen-25:1]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v2\|Gen-25#v2]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v3\|Gen-25#v3]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v4\|Gen-25#v4]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v5\|Gen-25#v5]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v6\|-6]]  and [[_The Scrolls/3. Ketuvim (Writings)/13 - 1 Chronicles/1 Chron-01#v32\|1 Chron-01:32]][[_The Scrolls/3. Ketuvim (Writings)/13 - 1 Chronicles/1 Chron-01#v33\|-33]]
 	- Children: 
 		- Sons: Zimram, Jokshan, Medan, Midian, Ishbak, Shuah
 - Other Descendants of Note:-  
@@ -26,10 +26,10 @@ Original name Abram
 ## Journeys
 - God spoke to Abraham (https://www.gotquestions.org/life-Abraham.html) several times. Many of their conversations were filled with instruction, but God also gave Abraham glimpses of the future. In fact, in their first meeting, God started by telling Abram (75 yrs) to leave his country and travel to a new place (Genesis 12:1 (https://biblia.com/bible/esv/Gen%2012.1)) and then went straight into a blessing that doubled as a prophecy of the future (Genesis 12:2–3 (https://biblia.com/bible/esv/Gen%2012.2%E2%80%933)).
 ## Maps
-- ![Abraham's Journey.png](/img/user/Assets/attachments/Abraham's%20Journey.png)
+- ![Abraham's Journey.png](/img/user/_Assets/attachments/Abraham's%20Journey.png)
 
 # Military
-- Campaign Against the Kings to Rescue Lot [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v1\|Gen-14:1]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v2\|Gen-14#v2]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v3\|Gen-14#v3]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v4\|Gen-14#v4]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v5\|Gen-14#v5]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v6\|Gen-14#v6]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v7\|Gen-14#v7]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v8\|Gen-14#v8]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v9\|Gen-14#v9]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v10\|Gen-14#v10]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v11\|Gen-14#v11]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v12\|Gen-14#v12]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v13\|Gen-14#v13]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v14\|Gen-14#v14]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v15\|Gen-14#v15]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v16\|-16]]
+- Campaign Against the Kings to Rescue Lot [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v1\|Gen-14:1]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v2\|Gen-14#v2]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v3\|Gen-14#v3]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v4\|Gen-14#v4]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v5\|Gen-14#v5]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v6\|Gen-14#v6]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v7\|Gen-14#v7]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v8\|Gen-14#v8]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v9\|Gen-14#v9]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v10\|Gen-14#v10]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v11\|Gen-14#v11]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v12\|Gen-14#v12]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v13\|Gen-14#v13]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v14\|Gen-14#v14]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v15\|Gen-14#v15]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-14#v16\|-16]]
 # Medical and Death
 - Secular Year -1638
 - Jewish Year 2123
@@ -116,7 +116,7 @@ the field which Abraham purchased from the children of Heth. Abraham was buried 
 
 ## Diagrams
 
-![Family of Abraham.png](/img/user/Assets/attachments/Family%20of%20Abraham.png)
+![Family of Abraham.png](/img/user/_Assets/attachments/Family%20of%20Abraham.png)
 
 
 ###### Tags

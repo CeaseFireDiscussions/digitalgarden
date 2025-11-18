@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/dwelling-places/tabernacle/set-apart-place/golden-altar-of-incense/","tags":["#GateWisdom","Tabernacle","SetApartPlace","G","A","I"]}
 ---
 
-![Golden Altar of Incense.jpg](/img/user/Assets/attachments/Golden%20Altar%20of%20Incense.jpg)
+![Golden Altar of Incense.jpg](/img/user/_Assets/attachments/Golden%20Altar%20of%20Incense.jpg)
 
 # Define
 - Offering of the soul; Victory; Complete submission

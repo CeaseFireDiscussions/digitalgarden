@@ -5,7 +5,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: Nehemiah 10:31 [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-10\|Neh-10]]
+# Scripture: Nehemiah 10:31 [[_The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-10\|Neh-10]]
 
 ... joined with their brothers, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of Yahweh our Lord, and his ordinances and his statutes; and that we would not give our daughters to the peoples of the land, nor take their daughters for our sons; 
 
@@ -19,13 +19,13 @@ Also we made ordinances for ourselves, to charge ourselves yearly with the third
 - we - all those who had separated themselves from the peoples of the lands to the law of God, followers of YHWH
 
 ## **What**: 
-- The followers of YHWH would not buy on the Sabbath (Seventh Day Rest) or on a holy day (SabbathS) ([[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v8\|Exod-20#v8]]-11)
+- The followers of YHWH would not buy on the Sabbath (Seventh Day Rest) or on a holy day (SabbathS) ([[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v8\|Exod-20#v8]]-11)
 ## **When**:
-- On the 1st day of the Seventh Month ([[Zunpublished/Feast of Trumpets\|Feast of Trumpets]] (Yom Teru'ah)) they began reading the law. Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance. [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-08\|Neh-08]]
-- On the twenty-fourth day of this month, they renew the covenant which includes this portion about the Sabbath (Seventh Day Rest).  [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-09\|Neh-09]]
+- On the 1st day of the Seventh Month ([[Zunpublished/Feast of Trumpets\|Feast of Trumpets]] (Yom Teru'ah)) they began reading the law. Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance. [[_The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-08\|Neh-08]]
+- On the twenty-fourth day of this month, they renew the covenant which includes this portion about the Sabbath (Seventh Day Rest).  [[_The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-09\|Neh-09]]
 
 ## **Why**: 
-- In Nehemiah 9 the people realize their "fathers have not kept your law, nor listened to your commandments and your testimonies with which you testified against them." [[The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-09\|Neh-09]]
+- In Nehemiah 9 the people realize their "fathers have not kept your law, nor listened to your commandments and your testimonies with which you testified against them." [[_The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-09\|Neh-09]]
 
 # Findings
 
@@ -42,7 +42,7 @@ Also we made ordinances for ourselves, to charge ourselves yearly with the third
 ## Other Notes:
 
 - They just spent 24 days reading the [[Gate of Wisdom/Torah\|Torah]] Scrolls, which ends in them humbling themselves, repenting, and renewing a covenant with YHWH. Part of that is the realization about not buying on the Sabbath. 
-- At this point, we've looked at every scripture which has come before this as the current Bible is laid out. We haven't seen anything about buying on the Sabbath day. However, Jeremiah lived and prophesied ~180 years before Nehemiah. Jeremiah records YHWH talking to this subject in [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-17\|Jer-17]] which Nehemiah would have known about. We will cover that when we get there. 
+- At this point, we've looked at every scripture which has come before this as the current Bible is laid out. We haven't seen anything about buying on the Sabbath day. However, Jeremiah lived and prophesied ~180 years before Nehemiah. Jeremiah records YHWH talking to this subject in [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-17\|Jer-17]] which Nehemiah would have known about. We will cover that when we get there. 
 
 
 # [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]

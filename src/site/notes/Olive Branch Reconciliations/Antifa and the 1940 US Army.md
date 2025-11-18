@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/olive-branch-reconciliations/antifa-and-the-1940-us-army/","tags":["OliveBranch","A"]}
 ---
 
-![Antifia and the 1940 US Army.png](/img/user/Assets/attachments/Antifia%20and%20the%201940%20US%20Army.png)
+![Antifia and the 1940 US Army.png](/img/user/_Assets/attachments/Antifia%20and%20the%201940%20US%20Army.png)
 
 The Meme above is being circulated at a pretty high level so let's explore it, do some critical thinking about its message, and see where we might land afterward. 
 

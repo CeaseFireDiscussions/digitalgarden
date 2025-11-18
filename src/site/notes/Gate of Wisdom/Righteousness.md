@@ -23,5 +23,5 @@ Tsedaqah (צְדָקָה):
 # Connections
 
 
-![LogosCircle Righteousness.webp](/img/user/Assets/attachments/LogosCircle%20Righteousness.webp)
+![LogosCircle Righteousness.webp](/img/user/_Assets/attachments/LogosCircle%20Righteousness.webp)
 

@@ -30,8 +30,8 @@ A closely related word is צְדָקָה (tsedaqah), often translated as "righte
 
 - Greek word for Justice; fairness
 - righteous+ness= Heb. tsedaqah- right relationship; being in right relationship with God and with others
-- Romans 6:18-20 [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-06#v18\|Rom-06:18]][[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-06#v19\|Rom-06#v19]][[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-06#v20\|-20]]  - being made free of sin, we became the servants of righteousness. 
-- Job 29:14 [[The Scrolls/3. Ketuvim (Writings)/18 - Job/Job-29#v14\|Job-29:14]] - Righteous ness I have put on, and it clotheth me, As a robe and a diadem //turban// my justice.
+- Romans 6:18-20 [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-06#v18\|Rom-06:18]][[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-06#v19\|Rom-06#v19]][[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-06#v20\|-20]]  - being made free of sin, we became the servants of righteousness. 
+- Job 29:14 [[_The Scrolls/3. Ketuvim (Writings)/18 - Job/Job-29#v14\|Job-29:14]] - Righteous ness I have put on, and it clotheth me, As a robe and a diadem //turban// my justice.
 - Other places this word is used: Righteous inherit eternal life. Those on the right hand inherit the kingdom; Followers inheart the promises. Some inherit a blessing. He that overcomes inherits all things.
 - Sin is the opposite of Righteousness.
 
@@ -43,10 +43,10 @@ A closely related word is צְדָקָה (tsedaqah), often translated as "righte
 - [[Gate of Wisdom/Righteousness\|Righteousness]]
 
 # Additional Info
-- Those who hunger and thirst after righteousness shall be filled - [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
-- those who are persecuted for righteousness sake has the kingdom of heaven -  [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
-- Must exceed that of the scribes and pharisees or will not enter the kingdom of heaven - Matthew 5  [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
-- Seek it first and “all these” will be added - Matthew 6 [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
+- Those who hunger and thirst after righteousness shall be filled - [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+- those who are persecuted for righteousness sake has the kingdom of heaven -  [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+- Must exceed that of the scribes and pharisees or will not enter the kingdom of heaven - Matthew 5  [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+- Seek it first and “all these” will be added - Matthew 6 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
 
 # Connections
 - [[Noah\|Noah]] was righteous Genesis 6:9

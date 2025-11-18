@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-1-2-beatitudes/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2023/09/1e56c926-2fb3-4bb5-b643-a1805807d3e3.webp)
 

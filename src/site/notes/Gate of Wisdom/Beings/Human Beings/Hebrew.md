@@ -49,21 +49,21 @@ Regarding the title 'Abram the Hebrew', there are several theories:
 The intention is to trace the words Hebrew, Israelite, and Jew. There are other sons not included on the diagram. Ishmael, the son of Abraham and Esau the son of Jacob/Israel had descendants who were not enslaved nor rescued from Egypt.
 ## Phase 1
 
-![Hebrew Phase 1.png](/img/user/Assets/attachments/Hebrew%20Phase%201.png)
+![Hebrew Phase 1.png](/img/user/_Assets/attachments/Hebrew%20Phase%201.png)
 
 ## Phase 2
 
-![Hebrew Phase 2-1.png](/img/user/Assets/attachments/Hebrew%20Phase%202-1.png)
+![Hebrew Phase 2-1.png](/img/user/_Assets/attachments/Hebrew%20Phase%202-1.png)
 
 ## Phase 3
 
-![Hebrew Phase 3.png](/img/user/Assets/attachments/Hebrew%20Phase%203.png)
+![Hebrew Phase 3.png](/img/user/_Assets/attachments/Hebrew%20Phase%203.png)
 
 ## Phase 4
 
-![Hebrew Phase 4.png](/img/user/Assets/attachments/Hebrew%20Phase%204.png)
+![Hebrew Phase 4.png](/img/user/_Assets/attachments/Hebrew%20Phase%204.png)
 
 ## Phase 5
 
-![Hebrew Phase 5.png](/img/user/Assets/attachments/Hebrew%20Phase%205.png)
+![Hebrew Phase 5.png](/img/user/_Assets/attachments/Hebrew%20Phase%205.png)
 

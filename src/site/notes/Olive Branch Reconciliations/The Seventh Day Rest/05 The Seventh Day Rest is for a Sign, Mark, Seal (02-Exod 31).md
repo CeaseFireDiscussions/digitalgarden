@@ -23,7 +23,7 @@ When <mark style="background: #A4A089A6;">he</mark> finished speaking with <mark
 
 ## **Define**: 
 - Desecrate (chalal) means to profane, pollute, or treat as common something that is set-apart (holy). To treat it as an ordinary day by working.
-- Sign (oth) a perpetual (on-going) distinguishing mark, token, or symbol that serves as evidence of a covenant or relationship between God and His people. The Rainbow in Noah's account is an oth. Oth can be related to the word Sphragis translated as 'seal' in Revelation 9:4 ([[The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-09#v4\|Rev-09#v4]])
+- Sign (oth) a perpetual (on-going) distinguishing mark, token, or symbol that serves as evidence of a covenant or relationship between God and His people. The Rainbow in Noah's account is an oth. Oth can be related to the word Sphragis translated as 'seal' in Revelation 9:4 ([[_The Scrolls/4. The Gospels and The Apostles/66 - Revelation/Rev-09#v4\|Rev-09#v4]])
 
 ## **Who**:
 - [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]] - Moses is being spoken to by Yah-God. God mentions:
@@ -38,7 +38,7 @@ When <mark style="background: #A4A089A6;">he</mark> finished speaking with <mark
 - Verse 14: Observe the Seventh Day Rest
 - Consequences for NOT observing the Seventh Day Rest:
 	- Desecrate = death
-	- Whoever works on this day will surely be put to death. [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-02#v17\|Gen-02#v17]]
+	- Whoever works on this day will surely be put to death. [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-02#v17\|Gen-02#v17]]
 - The Seventh Day Rest is set apart to God.
 ## **When**:
 - For generations to come.

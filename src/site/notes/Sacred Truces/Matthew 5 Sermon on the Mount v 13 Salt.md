@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-13-salt/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2023/09/0e0d5c96-6011-4b8f-93c8-2a601ab420af.webp)
 

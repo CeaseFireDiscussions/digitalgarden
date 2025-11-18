@@ -22,7 +22,7 @@ Let's see what scripture says about that starting at the very beginning and then
 ## **Who**:
 - [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]: Congregation ēḏāh (עֵדָה); Church ekklesia (ἐκκλησία)
 - [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]: All the people, both Hebrew and foreigners, who came out of Egypt.
-	- In Exodus 19:6 ([[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v6\|Exod-19#v6]]) Yah-God says if they keep this covenant they will be:
+	- In Exodus 19:6 ([[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v6\|Exod-19#v6]]) Yah-God says if they keep this covenant they will be:
 		- His own treasure among all the people
 		- A Kingdom of kohanim (כֹּהֲנִים) meaning priests. 
 		- A Set-Apart goyim (גּוֹיִם) refers to a people, [[Gate of Wisdom/Beings/Human Beings/nation\|nation]], or community. This word in Greek is ethnē (ἔθνη) and is typically translated as [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]] in the New Testament. 
@@ -38,7 +38,7 @@ Let's see what scripture says about that starting at the very beginning and then
 ## **What**: 
 - Yah-God is giving the Words-Things-Matters, ALL the people witnessed this. The words have not been written down yet.
 	- The Words are known today as the "[[Gate of Wisdom/Ten Commandments\|Ten Commandments]]". The Hebrew word is Devarim - meaning "words," "things," or "matters." 
-	- In Exodus:19:5 ([[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v5\|Exod-19#v5]]), Yah-God calls this his covenant (berit (בְּרִית) - refers to a binding agreement, treaty, or covenant)
+	- In Exodus:19:5 ([[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v5\|Exod-19#v5]]), Yah-God calls this his covenant (berit (בְּרִית) - refers to a binding agreement, treaty, or covenant)
 - Be mindful to keep the Seventh Day set-apart to serving Yah-God. (Remember = zakhor (זָכוֹר), to actively recall, commemorate, or be mindful of something.)
 - Work six days.
 - Yah-God blessed the Seventh Day

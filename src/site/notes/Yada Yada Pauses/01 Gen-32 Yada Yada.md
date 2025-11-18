@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-32-yada-yada/","tags":["TheScrolls","TorahLawofMoses","YadaYadaPauses","G"]}
 ---
 
-For reading purposes [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|Gen-32]]
+For reading purposes [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|Gen-32]]
 # Setting
 ## Who:
 - Author: [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]
@@ -33,7 +33,7 @@ For reading purposes [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|
 
 # Genesis 32
 
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|← Genesis 31]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\|Genesis 33 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|← Genesis 31]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\|Genesis 33 →]]
 ***
 
 - Jacob 
@@ -44,7 +44,7 @@ For reading purposes [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|
 	- When he saw them, 
 		- Jacob said, "This is God's army <mark style="background: #CD04BBA6;">//</mark>[[Gate of Wisdom/Dwelling Places/The Camp/Camp\|Camp]]<mark style="background: #CD04BBA6;">//</mark>." [^5]
 		- He called the name of that place <mark style="background: #04CD3EA6;">Mahanaim</mark> <mark style="background: #CD04BBA6;">//two camps//</mark>. 
-#### "AngelS of God" [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28#v12\|Gen-28#v12]] Jacob saw "Angels of God ascending and descending
+#### "AngelS of God" [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28#v12\|Gen-28#v12]] Jacob saw "Angels of God ascending and descending
 
 - Jacob sent [[Gate of Wisdom/Beings/Messenger\|Messenger]]s <mark style="background: #CD04BBA6;">//(human)//</mark> 
 	- in front of him[^2] 
@@ -204,7 +204,7 @@ For reading purposes [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|
 				 - touched the hollow of his <mark style="background: #CD04BBA6;">//Jacob//</mark>thigh, 
 					 - and the hollow of Jacob's thigh 
 						 - was strained as he wrestled. 
-#### In Hebrew mindset, the thigh = seat of strength and offspring. Oaths are sworn by placing hand under the thigh ([[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24#v2\|Gen-24#v2]]) - tied to life, seed, and covenant continuity. 
+#### In Hebrew mindset, the thigh = seat of strength and offspring. Oaths are sworn by placing hand under the thigh ([[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24#v2\|Gen-24#v2]]) - tied to life, seed, and covenant continuity. 
 
 - The man said, 
 	- "Let me go, 
@@ -258,7 +258,7 @@ For reading purposes [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|
 
 
 ***
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|← Genesis 31]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\|Genesis 33 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|← Genesis 31]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\|Genesis 33 →]]
 
 
 # Connections

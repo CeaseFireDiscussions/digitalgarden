@@ -32,7 +32,7 @@ Let's see what scripture says about that starting at the very beginning and then
 
 ## **Why**: 
 - The Sabbath is always referenced "rest TO God."
-- There isn't any reason given for why it is repeated. It was just given in Exodus 34:21 [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-34#v21\|Exod-34#v21]] and here it is repeated outside the Ten Words.
+- There isn't any reason given for why it is repeated. It was just given in Exodus 34:21 [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-34#v21\|Exod-34#v21]] and here it is repeated outside the Ten Words.
 
 # Findings
 

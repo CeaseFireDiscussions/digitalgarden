@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-jesus-said/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 
 Although we’ve come to what has been labeled as the end of a Chapter, it is not the end of the Torah/Teaching Jesus is giving. We can’t set everything he’s said to this point aside just because we are moving into Chapter 6.
 

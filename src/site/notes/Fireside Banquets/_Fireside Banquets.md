@@ -16,4 +16,4 @@ Among ancient nomadic tribes, including those related to the Hebrews, a fire mig
 In these Ceasefire moments it's just like a potluck banquet, you never know what you are going to find. The adventure awaits!
 
 
-![Asset Fireside Banquets.png](/img/user/Assets/attachments/Asset%20Fireside%20Banquets.png)
+![Asset Fireside Banquets.png](/img/user/_Assets/attachments/Asset%20Fireside%20Banquets.png)

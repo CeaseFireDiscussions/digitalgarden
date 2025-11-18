@@ -34,7 +34,7 @@ So the <mark style="background: #E0CC4BA6;">people</mark> <mark style="backgroun
 
 ## **Who**:
 -  They - They gathered ...  
-	- the whole congregation of Israel [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-16#v10\|Exod-16:10]]
+	- the whole congregation of Israel [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-16#v10\|Exod-16:10]]
 		- The first reference to the congregation of Israel is found in Exodus 12, before they are brought out of Egypt. 
 			- Verse 3 God says, "Tell all the congregation of Israel that on the tenth day of this month, each man is to take a lamb for his family one lamb for the household" (TLV)			
 			- Verse 38 says, "Also a mixed multitude went up with them," there were those who were not native born who came out of Egypt with the native born Hebrews.			-

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-5-sermon-on-the-mount-v-13-20-lights-city-heaven-earth/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05\|Matt-05]]
 ## Genesis – Matthew – Revelation Connections
 
 Read [[Sacred Truces/Matthew 5 Sermon on the Mount v 14-16 Light of the World\|Matthew 5 Sermon on the Mount v 14-16 Light of the World]] and

@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/51-colossians-yada-yada/","tags":["#YadaYadaPauses","C"]}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Colossians\|Colossians]]
+[[_The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Colossians\|Colossians]]
 ## Backdrop:
 
-- The events in [[The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Colossians\|Colossians]] take place approximately 20-30 years after Jesus' ascension.
+- The events in [[_The Scrolls/4. The Gospels and The Apostles/51 - Colossians/Colossians\|Colossians]] take place approximately 20-30 years after Jesus' ascension.
 - The letter to the Colossians was written about 27-29 years after the ascension.
 - Colossae is approximately 750 miles from Jerusalem, 20 to 40 days travel at that time.
 - Laodicea and Colossae were approximately 11 miles apart, 3-4 hours travel time.
@@ -222,7 +222,7 @@
             - the Saints and Faithful Brothers in Colossae
             - Saints and Faithful Brothers in Laodicea
             - Saints and Faithful Brothers in Hierapolis
-- **[[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke\|Luke]]**
+- **[[_The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke\|Luke]]**
     - dearly loved physician
     - sends his greetings
     - Note: Author of Luke and most likely of Acts
@@ -253,7 +253,7 @@
 ## [[Zunpublished/Good News\|Good News]]
 
 - bearing fruit and growing
-    - Hyperlink: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] 1:28 be fruitful and multiple
+    - Hyperlink: [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] 1:28 be fruitful and multiple
 - **The father:**
     - qualified "us" to share in the inheritance of the Saints in light (ohr).
         - Us=Paul, Timothy, and the Saints and Faithful Brothers in Colossae
@@ -342,20 +342,20 @@
 
 ## Hyperlinks:
 
-- [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deuteronomy\|Deuteronomy]] 10:16 circumcise therefore the foreskin of your heart; [[Deuteronomy10\|Deuteronomy10]]
-- [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah]] 4:4 circumcise yourself to the Lord [[Jeremiah4\|Jeremiah4]]
-- [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] 14;22 Israel passing through the Red Sea; [[Exodus14\|Exodus14]]
-- [[The Scrolls/2. Nevi'im (Prophets)/06 - Joshua/Joshua\|Joshua]] 3:17 crossing the Jordan [[Joshua3\|Joshua3]]
-- [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deuteronomy\|Deuteronomy]]Deuteronomy 4:19 [[Deuteronomy4\|Deuteronomy4]]
+- [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deuteronomy\|Deuteronomy]] 10:16 circumcise therefore the foreskin of your heart; [[Deuteronomy10\|Deuteronomy10]]
+- [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah\|_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jeremiah]] 4:4 circumcise yourself to the Lord [[Jeremiah4\|Jeremiah4]]
+- [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] 14;22 Israel passing through the Red Sea; [[Exodus14\|Exodus14]]
+- [[_The Scrolls/2. Nevi'im (Prophets)/06 - Joshua/Joshua\|Joshua]] 3:17 crossing the Jordan [[Joshua3\|Joshua3]]
+- [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deuteronomy\|Deuteronomy]]Deuteronomy 4:19 [[Deuteronomy4\|Deuteronomy4]]
 - [[Isaiah Book of\|Isaiah Book of]] 29:13 [[Isaiah29\|Isaiah29]]
 - [[_My Bible/01 Genesis/Genesis 1\|Genesis 1]]:28 be fruitful and multiple [[Genesis1\|Genesis1]] 
-- [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Numbers\|Numbers]] 26:53, [[Numbers26\|Numbers26]]
-- [[The Scrolls/2. Nevi'im (Prophets)/06 - Joshua/Joshua\|Joshua]] 14:2 Inheritance of the land among Israel [[Joshua14\|Joshua14]]
+- [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Numbers\|Numbers]] 26:53, [[Numbers26\|Numbers26]]
+- [[_The Scrolls/2. Nevi'im (Prophets)/06 - Joshua/Joshua\|Joshua]] 14:2 Inheritance of the land among Israel [[Joshua14\|Joshua14]]
 - [[_My Bible/01 Genesis/Genesis 1\|Genesis 1]]:4 And Elohim saw the light, that it was tov (good); and Elohim divided the ohr (light) from the choshech (darkness). [[Genesis1\|Genesis1]] 
-- [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] 6:6 I will deliver you from slavery [[Exodus6\|Exodus6]]
+- [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] 6:6 I will deliver you from slavery [[Exodus6\|Exodus6]]
 - [[_My Bible/01 Genesis/Genesis 1\|Genesis 1]]:1 in the beginning God created the heavens and earth [[Genesis1\|Genesis1]] 
-- [[The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Psalm\|Psalm]] 89:27 I will make him the firstborn, the highest of the kings; [[Psalm89\|Psalm89]]
-- [[The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] 13:2 firstborn consecrated to God [[Exodus13\|Exodus13]]
-- [[The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Leviticus\|Leviticus]] 16:15-16 atonement by blood [[Leviticus16\|Leviticus16]]
+- [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Psalm\|Psalm]] 89:27 I will make him the firstborn, the highest of the kings; [[Psalm89\|Psalm89]]
+- [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exodus\|Exodus]] 13:2 firstborn consecrated to God [[Exodus13\|Exodus13]]
+- [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Leviticus\|Leviticus]] 16:15-16 atonement by blood [[Leviticus16\|Leviticus16]]
 
 > _Yada, the Hebrew word meaning, “**to know**,_

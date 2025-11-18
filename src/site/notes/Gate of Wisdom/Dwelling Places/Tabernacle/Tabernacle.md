@@ -83,4 +83,4 @@ If you are not sinning against yourself, others, and God, then you have no need 
 # Illustrations
 
 ## By Tim Mackie, [[The Bible Project\|The Bible Project]]
-![Tabernacle - Bible Project.png](/img/user/Assets/attachments/Tabernacle%20-%20Bible%20Project.png)
+![Tabernacle - Bible Project.png](/img/user/_Assets/attachments/Tabernacle%20-%20Bible%20Project.png)

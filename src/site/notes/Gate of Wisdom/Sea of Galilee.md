@@ -6,7 +6,7 @@ Sea of Galilee
 
 ## Also known as
 
-1. C hinnereth [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-34\|Num-34]]
+1. C hinnereth [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-34\|Num-34]]
 2. G ennesar or Gennesaritis (Hellenized form used by Josephus)
 3. S ea of Tiberias (used by John)
 

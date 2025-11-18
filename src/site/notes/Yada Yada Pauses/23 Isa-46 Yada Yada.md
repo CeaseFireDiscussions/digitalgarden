@@ -24,9 +24,9 @@
 	- Babylon: Near modern-day Hillah, Babil Governorate, Iraq
 	- Israel/Judah: Modern-day Israel and parts of the West Bank
 
-# Isaiah 46 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-46\|Isa-46]]
+# Isaiah 46 [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-46\|Isa-46]]
 
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
+[[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
 ***
 
 # The Babylonians
@@ -39,7 +39,7 @@
 			- and on the livestock. 
 			- The things that you <mark style="background: #CD04BBA6;">//Babylonians//</mark> carried around are 
 				- heavy loads, 
-				- a burden for the weary. [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-11#v30\|Matt-11:30]]
+				- a burden for the weary. [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-11#v30\|Matt-11:30]]
 	- They stoop and [^5]they bow down 
 		- together. <mark style="background: #CD04BBA6;">//the Babylonians and their gods//</mark>
 		- They could not deliver 
@@ -109,9 +109,9 @@
 - Lord (5)
 
 # Connections
-- Deuteronomy 4:28-31 [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-04#v28\|Deut-04#v28]] – Warns against idolatry, contrasts false gods with the true God who shows mercy, similar to God’s superiority over Bel and Nebo (Isa. 46:1-7).
-- Psalm 115:4-8 [[The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-115#v4\|Ps-115:4]][[The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-115#v5\|Ps-115#v5]][[The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-115#v6\|Ps-115#v6]][[The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-115#v7\|Ps-115#v7]][[The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-115#v8\|-8]]– Describes the powerlessness of idols, echoing the futility of Babylon’s gods in Isaiah 46:1-2.
-- Isaiah 40:18-20 [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40#v18\|Isa-40:18]][[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40#v19\|Isa-40#v19]][[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40#v20\|-20]] – Compares God’s unmatched power to worthless idols, reinforcing His sovereignty as in Isaiah 46:5-9.
+- Deuteronomy 4:28-31 [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-04#v28\|Deut-04#v28]] – Warns against idolatry, contrasts false gods with the true God who shows mercy, similar to God’s superiority over Bel and Nebo (Isa. 46:1-7).
+- Psalm 115:4-8 [[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-115#v4\|Ps-115:4]][[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-115#v5\|Ps-115#v5]][[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-115#v6\|Ps-115#v6]][[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-115#v7\|Ps-115#v7]][[_The Scrolls/3. Ketuvim (Writings)/19 - Psalm/Ps-115#v8\|-8]]– Describes the powerlessness of idols, echoing the futility of Babylon’s gods in Isaiah 46:1-2.
+- Isaiah 40:18-20 [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40#v18\|Isa-40:18]][[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40#v19\|Isa-40#v19]][[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-40#v20\|-20]] – Compares God’s unmatched power to worthless idols, reinforcing His sovereignty as in Isaiah 46:5-9.
 - Jeremiah 10:3-5 – Ridicules idols as powerless and unable to move, similar to the burden of idols in Isaiah 46:1-2.
 - Hosea 13:2-4 – Condemns idolatry and affirms God as Israel’s only savior, aligning with God’s role in Isaiah 46:4, 13.
 - Zephaniah 3:17 – Depicts God as a saving and sustaining presence for His people, like His promise to carry Israel in Isaiah 46:4.
@@ -122,7 +122,7 @@
 
 
 ***
-[[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
+[[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-45\|← Isaiah 45]] | [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah\|_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isaiah]] | [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-47\|Isaiah 47 →]]
 
 [^1]: [[Gate of Wisdom/Abomination\|Abomination]] Idols
 

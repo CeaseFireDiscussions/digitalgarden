@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-33-yada-yada/","tags":["TheScrolls","TorahLawofMoses","YadaYadaPauses"]}
 ---
 
-For reading purposes [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\|Gen-33]]
+For reading purposes [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\|Gen-33]]
 
 # Setting
 ## Who:
@@ -32,7 +32,7 @@ For reading purposes [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\|
 
 # Genesis 33
 
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|← Genesis 32]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-34\|Genesis 34 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|← Genesis 32]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-34\|Genesis 34 →]]
 ***
 
 
@@ -62,7 +62,7 @@ For reading purposes [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\|
 	- fell on his neck, 
 	- kissed him, 
 	- and they wept. 
-#### Sounds like [[The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-15#v20\|Luke-15#v20]]
+#### Sounds like [[_The Scrolls/4. The Gospels and The Apostles/42 - Luke/Luke-15#v20\|Luke-15#v20]]
 
 - He lifted up his eyes, 
 	- and saw the women 
@@ -153,11 +153,11 @@ For reading purposes [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\|
 		- for one hundred pieces of money. 
 	- He erected an altar[^2] there, 
 		- and called it El Elohe Israel.
-#### Shechem = “Shoulder” [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-33#v12\|Deut-33#v12]]— likely named for its geographic location on a mountain ridge/shoulder (between Mt. Ebal and Mt. Gerizim).
+#### Shechem = “Shoulder” [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-33#v12\|Deut-33#v12]]— likely named for its geographic location on a mountain ridge/shoulder (between Mt. Ebal and Mt. Gerizim).
 #### ʾĒl ʾĔlōhê Yiśrāʾēl -  God, the God of Israel. First time in Scripture “God of Israel” is tied to a named altar.
 
 ***
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|← Genesis 32]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-34\|Genesis 34 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-32\|← Genesis 32]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-34\|Genesis 34 →]]
 
 # Connections
 - Repeated Words: 

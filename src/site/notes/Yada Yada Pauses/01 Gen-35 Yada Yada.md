@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/yada-yada-pauses/01-gen-35-yada-yada/","tags":["TheScrolls","TorahLawofMoses","nothome","#01Gen","YadaYadaPauses","G"]}
 ---
 
-For east of reading [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|Gen-35]]
+For east of reading [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|Gen-35]]
 # Setting
 ## Who:
 - Author: [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]
@@ -35,7 +35,7 @@ For east of reading [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|G
 
 # Genesis 35
 
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-34\|← Genesis 34]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36\|Genesis 36 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-34\|← Genesis 34]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36\|Genesis 36 →]]
 ***
 
 ###### v1 
@@ -204,7 +204,7 @@ For east of reading [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|G
 			- buried him.
 
 ***
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-34\|← Genesis 34]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36\|Genesis 36 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-34\|← Genesis 34]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36\|Genesis 36 →]]
 
 
 

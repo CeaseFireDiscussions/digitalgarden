@@ -5,7 +5,7 @@
 The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]], or Shabbat) is not for a Christian, it is a "Jewish thing". And the Seventh Day Rest no longer needs to be observed because Jesus is a Christians Rest/Sabbath now. 
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
-# Scripture: 2 Kings 16:16-18 [[The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-16#v16\|2 Kings-16#v16]]
+# Scripture: 2 Kings 16:16-18 [[_The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-16#v16\|2 Kings-16#v16]]
 
 <mark style="background: #E0CC4BA6;">Urijah the priest</mark> did so, <mark style="background: #EB9E57A6;">according to all that king Ahaz commanded</mark>. King Ahaz <mark style="background: #04CD3EA6;">cut off the panels of the bases</mark>, and <mark style="background: #04CD3EA6;">removed the basin from off them</mark>, and <mark style="background: #04CD3EA6;">took down the sea from off the bronze oxen </mark>that were under it, and <mark style="background: #04CD3EA6;">put it on a pavement of stone</mark>. He <mark style="background: #04CD3EA6;">removed the covered way for the</mark> Sabbath that they had built in the house, and the king's entry outside to <mark style="background: #D7CD91A6;">Yahweh</mark>'s house, <mark style="background: #EB9E57A6;">because of the king of Assyria</mark>. 
 

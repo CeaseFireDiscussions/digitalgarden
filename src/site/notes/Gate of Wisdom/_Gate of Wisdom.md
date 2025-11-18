@@ -6,7 +6,7 @@ Check out the Index Pages for quicker navigation.
 
 Behind the Gate of Wisdom you'll find general information about various topics. Think Wiki pages.  A variety of Source and Resource listings. Definitions, background information, indexes, etc. 
 
-![Asset Gate of Wisdom.png](/img/user/Assets/attachments/Asset%20Gate%20of%20Wisdom.png)
+![Asset Gate of Wisdom.png](/img/user/_Assets/attachments/Asset%20Gate%20of%20Wisdom.png)
 
 | Table of Content                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------- |
@@ -39,8 +39,8 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]                                                 |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]  |
 | [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]                                                      |
-| [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]                                               |
 | [[Gate of Wisdom/Good News/Atonement\|Atonement]]                                                              |
+| [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]                                               |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]]                                                           |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]]                                            |
 | [[Gate of Wisdom/Beings/Human Beings/Babylonians\|Babylonians]]                                                |

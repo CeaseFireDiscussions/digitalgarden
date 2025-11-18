@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-6-vs19-21-jesus-treasures/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v19\|Matt-06#v19]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06#v19\|Matt-06#v19]]
 
 ![](https://calltoceasefire.wordpress.com/wp-content/uploads/2024/01/image-2.png)
 

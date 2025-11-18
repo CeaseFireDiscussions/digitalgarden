@@ -39,7 +39,7 @@
 
 # Genesis 29
 
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|← Genesis 28]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|Genesis 30 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|← Genesis 28]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|Genesis 30 →]]
 ***
 
 - Then <mark style="background: #E0CC4BA6;">Jacob</mark> went 
@@ -203,7 +203,7 @@
 - She conceived again, and bore a son. She said, "This time I will praise Yahweh." Therefore she named him Judah. Then she stopped bearing.
 
 ***
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|← Genesis 28]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|Genesis 30 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|← Genesis 28]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|Genesis 30 →]]
 
 # Connections
 - **Repeated Words** (more than four times):
@@ -218,10 +218,10 @@
 	  - [[Gate of Wisdom/Numbers/07\|07]]: Genesis 29:27 – “Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years.”
 	  - [[Gate of Wisdom/Numbers/07\|07]]: Genesis 29:30 – “And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years.”
 - **Other Related Scriptures**:
-  - [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Gen-28]]8: Jacob’s journey to Haran begins, and he receives God’s covenant promise.
-  - [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|Gen-30]]: Continuation of Jacob’s family and dealings with Laban.
-  - [[The Scrolls/2. Nevi'im (Prophets)/28 - Hosea/Hos-12\|Hos-12]]:12 – References Jacob’s service in Haran for a wife.
-  - [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]]: Jacob’s departure from Laban and further covenant interactions.
+  - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Gen-28]]8: Jacob’s journey to Haran begins, and he receives God’s covenant promise.
+  - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30\|Gen-30]]: Continuation of Jacob’s family and dealings with Laban.
+  - [[_The Scrolls/2. Nevi'im (Prophets)/28 - Hosea/Hos-12\|Hos-12]]:12 – References Jacob’s service in Haran for a wife.
+  - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31\|Gen-31]]: Jacob’s departure from Laban and further covenant interactions.
 
 
 [^1]: [[Gate of Wisdom/Idiom\|Idiom]] “Fulfill her week” – Refers to completing the bridal week of celebration, a customary period for a marriage feast.

@@ -13,7 +13,7 @@ Archaeological and historical records, such as those from the Mari archives (18t
 The region of Aram Naharaim was home to West Semitic tribes, including the Arameans, who became prominent in the late second millennium BCE. The genealogy of Nahor’s descendants in Genesis 22:20–24 is seen by some scholars as reflecting the tribal and geographical expansion of these groups. The city of Nahor may have been a center for Nahor’s clan, which intermarried with Abraham’s line, as seen in the marriage of Isaac and Rebekah
 
 
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24\|Gen-24]]: The travel time for Abraham's servant from Canaan to the city of Nahor (Haran) was roughly three to four weeks, covering a distance of approximately 600-700 miles by camel, which is about 25-30 miles per day. This journey was considered long and significant in biblical times.
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24\|Gen-24]]: The travel time for Abraham's servant from Canaan to the city of Nahor (Haran) was roughly three to four weeks, covering a distance of approximately 600-700 miles by camel, which is about 25-30 miles per day. This journey was considered long and significant in biblical times.
 
-![Abraham Servant Journey.png](/img/user/Assets/attachments/Abraham%20Servant%20Journey.png)
+![Abraham Servant Journey.png](/img/user/_Assets/attachments/Abraham%20Servant%20Journey.png)
 

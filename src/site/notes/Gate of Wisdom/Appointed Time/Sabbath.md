@@ -371,7 +371,7 @@
 	- next day was a special Sabbath
 - Hebrews 4 
 	- make every effort to enter that rest to not fall through the same pattern of disobedience
-- Isaiah 66:22-24 ([[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v22\|Isa-66:22]][[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v23\|Isa-66#v23]][[The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v24\|-24]])
+- Isaiah 66:22-24 ([[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v22\|Isa-66:22]][[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v23\|Isa-66#v23]][[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v24\|-24]])
 	- New Moon and Shabbats will be celebrated by all flesh in the new kingdom.
 
 # Notes

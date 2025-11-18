@@ -166,7 +166,7 @@ Video:
 # Seven and the Times
 Source: Almond House Fellowship]
 
-![Almond House Appointed Time.webp](/img/user/Assets/attachments/Almond%20House%20Appointed%20Time.webp)
+![Almond House Appointed Time.webp](/img/user/_Assets/attachments/Almond%20House%20Appointed%20Time.webp)
 # Connections
 - [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
 - [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]

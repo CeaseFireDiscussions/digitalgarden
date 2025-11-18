@@ -18,7 +18,7 @@
 # People
 - [[Zunpublished/Canaanites\|Canaanites]]
 
-Map: ![Abraham's Journey.png](/img/user/Assets/attachments/Abraham's%20Journey.png)
+Map: ![Abraham's Journey.png](/img/user/_Assets/attachments/Abraham's%20Journey.png)
 
 
 

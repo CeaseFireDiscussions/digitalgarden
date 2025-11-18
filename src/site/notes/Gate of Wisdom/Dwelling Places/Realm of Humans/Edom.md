@@ -24,12 +24,12 @@
 # Military
 - Edom is often lumped with Israel's enemies (e.g., Psalm 83:4–8 lists Edom among a broad anti-Israel conspiracy with Assyria, Ishmaelites, Moab, Ammon, Amalek, Philistia, Tyre, and others—possibly hyperbolic poetry rather than a historical pact).
 - Involvement in several temporary coalitions (alliances) with neighboring nations:
-	- Rebellion Against Babylon (ca. 593 BC) – Anti-Babylonian Coalition; [[The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-27\|Jer-27]]
+	- Rebellion Against Babylon (ca. 593 BC) – Anti-Babylonian Coalition; [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-27\|Jer-27]]
 		- Edom (hostile to Judah but united against Babylon), Moab, Ammon, Tyre (Phoenicia), Sidon (Phoenicia), Judah (led by Zedekiah)
 
-	- Invasion of Judah (ca. 870–849 BC) – Triple Alliance Against Jehoshaphat [[The Scrolls/3. Ketuvim (Writings)/14 - 2 Chronicles/2 Chron-20\|2 Chron-20]]
+	- Invasion of Judah (ca. 870–849 BC) – Triple Alliance Against Jehoshaphat [[_The Scrolls/3. Ketuvim (Writings)/14 - 2 Chronicles/2 Chron-20\|2 Chron-20]]
 		- Edom (Mount Seir region), Moab, Ammon (including "some of the Meunites" – possibly Arab tribes)
-	- Campaign Against Moab (ca. 840s BC) – Triple Alliance with Israel and Judah [[The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-03\|2 Kings-03]]
+	- Campaign Against Moab (ca. 840s BC) – Triple Alliance with Israel and Judah [[_The Scrolls/2. Nevi'im (Prophets)/12 - 2 Kings/2 Kings-03\|2 Kings-03]]
 		- Edom (provided access through its land; possibly troops as a subordinate), Israel (King Joram), Judah (King Jehoshaphat)
 
 

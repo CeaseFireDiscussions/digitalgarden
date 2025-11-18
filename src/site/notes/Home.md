@@ -16,6 +16,9 @@ Thank you for joining us on these Cease Fire Moments.
 
 | Latest Drops                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Yada Yada Pauses/33 Micah-07 Yada Yada\|33 Micah-07 Yada Yada]]                                                                                                                            |
+| [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                                                                                                                            |
+| [[Yada Yada Pauses/31 Obad-01 Yada Yada\|31 Obad-01 Yada Yada]]                                                                                                                              |
 | [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                                                                                       |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/Seventh Day Rest Scripture Survey\|Seventh Day Rest Scripture Survey]]                                                                   |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]                     |
@@ -28,14 +31,11 @@ Thank you for joining us on these Cease Fire Moments.
 | [[Gate of Wisdom/Beings/Human Beings/Isaiah\|Isaiah]]                                                                                                                                        |
 | [[Gate of Wisdom/Humble in Spirit\|Humble in Spirit]]                                                                                                                                        |
 | [[Yada Yada Pauses/62 1 John-03 Yada Yada\|62 1 John-03 Yada Yada]]                                                                                                                          |
-| [[Yada Yada Pauses/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]                                                                                                                            |
 | [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yada Yada]]                                                                                                                            |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]                                                                                     |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies\|Matthew 5 Sermon on the Mount v 43-48 Jesus Neighbors and Enemies]]                                       |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation\|Matthew 5 Sermon on the Mount v 38-42 Jesus Retaliation]]                                                           |
 | [[Sacred Truces/Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths\|Matthew 5 Sermon on the Mount v 33-37 Jesus Swearing and Oaths]]                                             |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire\|Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire]]                                           |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother\|Matthew 5 Sermon on the Mount v 23-26 Your Gift and Your Brother]]                                         |
 
 { .block-language-dataview}
 
@@ -86,7 +86,7 @@ The Scrolls are originally in the World English Bible (WEB) because it is a publ
 
 [Facebook](https://www.facebook.com/people/Calltoceasefire/100084627167535/)
 
-![Logo.png](/img/user/Assets/attachments/Logo.png)
+![Logo.png](/img/user/_Assets/attachments/Logo.png)
 
 
 Obsidian Garden Sites Gallery has [[**[https://vaults.obsidian-community.com](https://vaults.obsidian-community.com/) in your garden**\|Other Digital Gardens to Explore]] 

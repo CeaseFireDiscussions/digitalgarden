@@ -50,13 +50,13 @@ the land of the Kenites, the Kenizzites, the Kadmonites,
 	- Eventually, the term "[[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]" diminishes in reference to the northern kingdom as a distinct entity. The term "Jew," derived from "Judah," becomes more prominent.  
 - After the Mid-500s the religion of Judaism expanded what the term "Jew" referred to. 
 	- Religiously:
-		- Rabbinic Judaism: Pharisees  [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-03\|Matt-03]]
+		- Rabbinic Judaism: Pharisees  [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-03\|Matt-03]]
 			- [[Zunpublished/Written Torah\|Written Torah]] 
 			- [[Zunpublished/Oral Torah\|Oral Torah]] (Talmud)
 			- After-life existed
 			- ALL sons were circumcised
 			- Part of the Sanhedrin.
-		- Hellenistic Judaism: Sadducees  [[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-03\|Matt-03]]
+		- Hellenistic Judaism: Sadducees  [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-03\|Matt-03]]
 			- Liberal interpretations of Written Law
 			- No after-life existed
 			- ALL sons were circumcised
@@ -76,10 +76,10 @@ the land of the Kenites, the Kenizzites, the Kadmonites,
 			- A resident of Jerusalem
 			- Zealots: Followers of Judaism, Political movement against Roman occupiers of Jerusalem
 	- Not a Jew
-		- Non-Israelite [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-09\|Rom-09]]
+		- Non-Israelite [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-09\|Rom-09]]
 			- Not descendant of Jacob/Israel
 			- Not a descendant of Abraham referring to the geographical location of Israel - not genealogy
-		- Uncircumcised [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-15\|Acts-15]]
+		- Uncircumcised [[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-15\|Acts-15]]
 			- Anyone man who was not circumcised - whether they followed YHWH or not
 		- Outside Judaism
 			- Anyone not apart of the sects mentioned to the left
@@ -103,8 +103,8 @@ the land of the Kenites, the Kenizzites, the Kadmonites,
 	- The Lost Sheep - Rejects Yeshua as Messiah - See Religiously listing above.
 	- Congregation of Israel - Accepts Jesus as Messiah (typically translated as "church" in English.)
 		- Messianic Judaism - Former followers of Judaism who chose to follow YHWH (Torah) and Accepted Jesus (Messiah)
-		- The Way - Foreigner or Sojourner, Anyone who chose to follow YHWH (Torah) and Accepted Jesus (Messiah) [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-02\|Ephes-02]]
-		- Hebrew / Israelite - Who chose to follow YHWH (Torah) and Accepted Jesus (Messiah) [[The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-06\|Acts-06]] [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-09\|Rom-09]]
+		- The Way - Foreigner or Sojourner, Anyone who chose to follow YHWH (Torah) and Accepted Jesus (Messiah) [[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-02\|Ephes-02]]
+		- Hebrew / Israelite - Who chose to follow YHWH (Torah) and Accepted Jesus (Messiah) [[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-06\|Acts-06]] [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-09\|Rom-09]]
 	- Other's
 		- [[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]] - Nations of people not following Judaism, Nations of people not following Yeshua
 		- Pagans - Follower of other gods
@@ -126,23 +126,23 @@ the land of the Kenites, the Kenizzites, the Kadmonites,
 The intention is to trace the words Hebrew, Israelite, and Jew. There are other sons not included on the diagram. Ishmael, the son of Abraham and Esau the son of Jacob/Israel had descendants who were not enslaved nor rescued from Egypt.
 ## Phase 1
 
-![Hebrew Phase 1.png](/img/user/Assets/attachments/Hebrew%20Phase%201.png)
+![Hebrew Phase 1.png](/img/user/_Assets/attachments/Hebrew%20Phase%201.png)
 
 ## Phase 2
 
-![Hebrew Phase 2-1.png](/img/user/Assets/attachments/Hebrew%20Phase%202-1.png)
+![Hebrew Phase 2-1.png](/img/user/_Assets/attachments/Hebrew%20Phase%202-1.png)
 
 ## Phase 3
 
-![Hebrew Phase 3.png](/img/user/Assets/attachments/Hebrew%20Phase%203.png)
+![Hebrew Phase 3.png](/img/user/_Assets/attachments/Hebrew%20Phase%203.png)
 
 ## Phase 4
 
-![Hebrew Phase 4.png](/img/user/Assets/attachments/Hebrew%20Phase%204.png)
+![Hebrew Phase 4.png](/img/user/_Assets/attachments/Hebrew%20Phase%204.png)
 
 ## Phase 5
 
-![Hebrew Phase 5.png](/img/user/Assets/attachments/Hebrew%20Phase%205.png)
+![Hebrew Phase 5.png](/img/user/_Assets/attachments/Hebrew%20Phase%205.png)
 
 
 - 

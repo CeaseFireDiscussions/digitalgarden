@@ -14,7 +14,7 @@ Abraham's wife after Sarah died. Some text says concubine.
 
 # Marriage and Descendants
 - Spouse #1: [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]]
-	- Story: [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v1\|Gen-25:1]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v2\|Gen-25#v2]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v3\|Gen-25#v3]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v4\|Gen-25#v4]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v5\|Gen-25#v5]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v6\|-6]]
+	- Story: [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v1\|Gen-25:1]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v2\|Gen-25#v2]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v3\|Gen-25#v3]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v4\|Gen-25#v4]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v5\|Gen-25#v5]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v6\|-6]]
 	- Children: 
 		- Gen-25:6 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-scrolls/1-torah-law-of-moses/01-genesis/gen-25/#v6" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

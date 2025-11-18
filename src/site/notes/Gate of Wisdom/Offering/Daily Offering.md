@@ -3,7 +3,7 @@
 ---
 
 # Define
-- [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-28#v4\|Num-28#v4]]
+- [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-28#v4\|Num-28#v4]]
 - Morning Offering
 	- one lamb
 	- one tenth of an ephah of fine flour for a meal offering [[Gate of Wisdom/Offering/Grain Offering\|Grain Offering]], 

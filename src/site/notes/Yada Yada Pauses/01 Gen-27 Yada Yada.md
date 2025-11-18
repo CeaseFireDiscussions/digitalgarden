@@ -20,9 +20,9 @@
 - When: During the patriarchal period, approximately 1800–1700 BC, based on biblical chronology.
 
 
-# Genesis 27 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|Gen-27]]
+# Genesis 27 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|Gen-27]]
 
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|← Genesis 26]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Genesis 28 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|← Genesis 26]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Genesis 28 →]]
 ***
 
 
@@ -86,7 +86,7 @@
 												- before his death." 
 #### Rebekah has indicated this was a command from her. Interesting how the text indicates "his son" and "her son". 
 
-#### Later in v 36 Esau indicates Jacob cheated him twice. First he will get  the [[Gate of Wisdom/Birthright\|Birthright]], Jacob was rightly entitled to that because Esau gave it to him [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v29\|Gen-25:29]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v30\|Gen-25#v30]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v31\|Gen-25#v31]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v32\|Gen-25#v32]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v33\|Gen-25#v33]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v34\|-34]]. But because of Rebekah's command, Jacob will also get the [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]], through deception of Isaac. 
+#### Later in v 36 Esau indicates Jacob cheated him twice. First he will get  the [[Gate of Wisdom/Birthright\|Birthright]], Jacob was rightly entitled to that because Esau gave it to him [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v29\|Gen-25:29]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v30\|Gen-25#v30]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v31\|Gen-25#v31]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v32\|Gen-25#v32]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v33\|Gen-25#v33]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v34\|-34]]. But because of Rebekah's command, Jacob will also get the [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]], through deception of Isaac. 
 
 - Jacob said 
 	- to Rebekah 
@@ -223,7 +223,7 @@
 - [^3]Cursed be everyone 
 	- who curses you. 
 - [^4]Blessed be everyone 
-	- who blesses you." [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v3\|Gen-12:3]]
+	- who blesses you." [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v3\|Gen-12:3]]
 
 <mark style="background: #D2B3FFA6;">As soon as</mark> Isaac had finished 
 - blessing Jacob,
@@ -343,7 +343,7 @@
 								- of the land, 
 									- what good will my life do me?"
 
-#### Daughters of Heth were the women of the [[Zunpublished/Hittite\|Hittite]] people. Heth is a descendant of Canaan, son of Ham [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-10#v15\|Gen-10:15]]. Abraham bought a burial site from them [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v3\|Gen-23:3]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v4\|Gen-23#v4]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v5\|Gen-23#v5]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v6\|Gen-23#v6]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v7\|Gen-23#v7]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v8\|Gen-23#v8]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v9\|Gen-23#v9]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v10\|Gen-23#v10]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v11\|Gen-23#v11]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v12\|Gen-23#v12]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v13\|Gen-23#v13]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v14\|Gen-23#v14]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v15\|Gen-23#v15]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v16\|Gen-23#v16]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v17\|Gen-23#v17]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v18\|Gen-23#v18]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v19\|Gen-23#v19]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v20\|-20]] Esau had married Hittite women.  [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v34\|Gen-26:34]][[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v35\|-35]]
+#### Daughters of Heth were the women of the [[Zunpublished/Hittite\|Hittite]] people. Heth is a descendant of Canaan, son of Ham [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-10#v15\|Gen-10:15]]. Abraham bought a burial site from them [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v3\|Gen-23:3]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v4\|Gen-23#v4]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v5\|Gen-23#v5]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v6\|Gen-23#v6]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v7\|Gen-23#v7]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v8\|Gen-23#v8]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v9\|Gen-23#v9]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v10\|Gen-23#v10]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v11\|Gen-23#v11]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v12\|Gen-23#v12]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v13\|Gen-23#v13]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v14\|Gen-23#v14]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v15\|Gen-23#v15]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v16\|Gen-23#v16]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v17\|Gen-23#v17]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v18\|Gen-23#v18]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v19\|Gen-23#v19]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-23#v20\|-20]] Esau had married Hittite women.  [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v34\|Gen-26:34]][[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26#v35\|-35]]
 #### Is Rebekah just saying this so she can justify sending Jacob away to Isaac? In the next verse he calls Jacob and sends him away.
 # Repeated words:
 
@@ -360,35 +360,35 @@
 # Connections
 ## Deception and Its Consequences
 
-- Genesis 12:10–20 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v10\|Gen-12#v10]]: Abram deceives Pharaoh about Sarai being his wife, leading to consequences. This parallels Jacob’s deception, showing how lying affects relationships and outcomes.
-- Genesis 29:15–30 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29#v15\|Gen-29#v15]]: Jacob is deceived by Laban, who substitutes Leah for Rachel on Jacob’s wedding night. This mirrors Jacob’s own deception in Genesis 27, illustrating a pattern of reaping what one sows.
-- Proverbs 12:22 [[The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-12#v22\|Prov-12#v22]]: “Lying lips are an abomination to the Lord, but those who act faithfully are his delight.” This underscores the moral implications of Jacob and Rebekah’s deception.
-- Galatians 6:7 [[The Scrolls/4. The Gospels and The Apostles/48 - Galatians/Gal-06#v7\|Gal-06#v7]]: “Do not be deceived: God is not mocked, for whatever one sows, that will he also reap.” This New Testament principle reflects the consequences of Jacob’s actions, as he later faces deception.
+- Genesis 12:10–20 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v10\|Gen-12#v10]]: Abram deceives Pharaoh about Sarai being his wife, leading to consequences. This parallels Jacob’s deception, showing how lying affects relationships and outcomes.
+- Genesis 29:15–30 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29#v15\|Gen-29#v15]]: Jacob is deceived by Laban, who substitutes Leah for Rachel on Jacob’s wedding night. This mirrors Jacob’s own deception in Genesis 27, illustrating a pattern of reaping what one sows.
+- Proverbs 12:22 [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-12#v22\|Prov-12#v22]]: “Lying lips are an abomination to the Lord, but those who act faithfully are his delight.” This underscores the moral implications of Jacob and Rebekah’s deception.
+- Galatians 6:7 [[_The Scrolls/4. The Gospels and The Apostles/48 - Galatians/Gal-06#v7\|Gal-06#v7]]: “Do not be deceived: God is not mocked, for whatever one sows, that will he also reap.” This New Testament principle reflects the consequences of Jacob’s actions, as he later faces deception.
 
 ## Sibling Rivalry
 
-- Genesis 25:21–34 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v21\|Gen-25#v21]]: The earlier account of Jacob and Esau’s birth and the selling of the birthright sets the stage for the blessing conflict in Genesis 27. Esau’s disregard for his birthright (Gen 25:29–34) contrasts with his distress in Genesis 27:34–38.
-- Genesis 33:1–17 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33#v1\|Gen-33#v1]]: Jacob and Esau’s reconciliation after years of estrangement shows the resolution of their rivalry, contrasting with the hostility in Genesis 27:41.
-- 1 John 3:11–12 [[The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-03#v11\|1 John-03#v11]]: “We should love one another. Do not be like Cain, who was of the evil one and murdered his brother.” The Cain and Abel story (Gen 4:1–16) is a parallel to Jacob and Esau’s conflict, highlighting sibling enmity.
+- Genesis 25:21–34 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v21\|Gen-25#v21]]: The earlier account of Jacob and Esau’s birth and the selling of the birthright sets the stage for the blessing conflict in Genesis 27. Esau’s disregard for his birthright (Gen 25:29–34) contrasts with his distress in Genesis 27:34–38.
+- Genesis 33:1–17 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33#v1\|Gen-33#v1]]: Jacob and Esau’s reconciliation after years of estrangement shows the resolution of their rivalry, contrasting with the hostility in Genesis 27:41.
+- 1 John 3:11–12 [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 John-03#v11\|1 John-03#v11]]: “We should love one another. Do not be like Cain, who was of the evil one and murdered his brother.” The Cain and Abel story (Gen 4:1–16) is a parallel to Jacob and Esau’s conflict, highlighting sibling enmity.
 
 ## Blessing and Inheritance
 
-- Genesis 12:1–3 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v1\|Gen-12#v1]]: God’s promise to Abraham about blessing his offspring is foundational to the patriarchal blessing in Genesis 27, as Isaac’s blessing to Jacob continues this covenant (Gen 27:27–29).
-- Genesis 28:1–4 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28#v1\|Gen-28#v1]]: Isaac reaffirms the blessing to Jacob before he flees to Haran, explicitly tying it to the Abrahamic covenant, reinforcing the significance of Genesis 27’s events.
-- Hebrews 11:20 [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-11#v20\|Heb-11#v20]]: “By faith Isaac invoked future blessings on Jacob and Esau.” This New Testament reference directly cites Genesis 27, emphasizing the faith behind Isaac’s blessing despite the deception.
-- Numbers 23:19–20 [[The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-23#v19\|Num-23#v19]]: “God is not man, that he should lie… He has blessed, and I cannot revoke it.” This reflects the irrevocability of Isaac’s blessing to Jacob (Gen 27:33).
+- Genesis 12:1–3 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v1\|Gen-12#v1]]: God’s promise to Abraham about blessing his offspring is foundational to the patriarchal blessing in Genesis 27, as Isaac’s blessing to Jacob continues this covenant (Gen 27:27–29).
+- Genesis 28:1–4 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28#v1\|Gen-28#v1]]: Isaac reaffirms the blessing to Jacob before he flees to Haran, explicitly tying it to the Abrahamic covenant, reinforcing the significance of Genesis 27’s events.
+- Hebrews 11:20 [[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-11#v20\|Heb-11#v20]]: “By faith Isaac invoked future blessings on Jacob and Esau.” This New Testament reference directly cites Genesis 27, emphasizing the faith behind Isaac’s blessing despite the deception.
+- Numbers 23:19–20 [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-23#v19\|Num-23#v19]]: “God is not man, that he should lie… He has blessed, and I cannot revoke it.” This reflects the irrevocability of Isaac’s blessing to Jacob (Gen 27:33).
 
 ## God’s Sovereignty
 
-- Genesis 25:23 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v23\|Gen-25#v23]]: God’s prophecy to Rebekah that “the older shall serve the younger” foreshadows the events of Genesis 27, showing that God’s plan prevails despite human schemes.
-- Romans 9:10–13 [[The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-09#v10\|Rom-09#v10]]: Paul references Jacob and Esau, stating, “Jacob I loved, but Esau I hated,” to illustrate God’s sovereign choice, directly tying to Genesis 27’s outcome.
-- Proverbs 19:21 [[The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-19#v21\|Prov-19#v21]]: “Many are the plans in the mind of a man, but it is the purpose of the Lord that will stand.” This aligns with God’s plan unfolding through the messy events of Genesis 27.
+- Genesis 25:23 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-25#v23\|Gen-25#v23]]: God’s prophecy to Rebekah that “the older shall serve the younger” foreshadows the events of Genesis 27, showing that God’s plan prevails despite human schemes.
+- Romans 9:10–13 [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-09#v10\|Rom-09#v10]]: Paul references Jacob and Esau, stating, “Jacob I loved, but Esau I hated,” to illustrate God’s sovereign choice, directly tying to Genesis 27’s outcome.
+- Proverbs 19:21 [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-19#v21\|Prov-19#v21]]: “Many are the plans in the mind of a man, but it is the purpose of the Lord that will stand.” This aligns with God’s plan unfolding through the messy events of Genesis 27.
 
 ## Family Dysfunction and Favoritism
 
-- Genesis 37:3–4 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-37#v3\|Gen-37#v3]]: Jacob’s favoritism toward Joseph, leading to his brothers’ jealousy, echoes the favoritism of Isaac and Rebekah toward Esau and Jacob, respectively (Gen 27:6–17).
-- James 2:1 [[The Scrolls/4. The Gospels and The Apostles/59 - James/James-02#v1\|James-02#v1]]: “My brothers, show no partiality as you hold the faith in our Lord Jesus Christ.” This principle critiques the favoritism displayed by Rebekah and Isaac in Genesis 27.
-- Ephesians 6:4 [[The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-06#v4\|Ephes-06#v4]]: “Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord.” This contrasts with the dysfunctional parenting in Genesis 27, which fueled conflict.
+- Genesis 37:3–4 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-37#v3\|Gen-37#v3]]: Jacob’s favoritism toward Joseph, leading to his brothers’ jealousy, echoes the favoritism of Isaac and Rebekah toward Esau and Jacob, respectively (Gen 27:6–17).
+- James 2:1 [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-02#v1\|James-02#v1]]: “My brothers, show no partiality as you hold the faith in our Lord Jesus Christ.” This principle critiques the favoritism displayed by Rebekah and Isaac in Genesis 27.
+- Ephesians 6:4 [[_The Scrolls/4. The Gospels and The Apostles/49 - Ephesians/Ephes-06#v4\|Ephes-06#v4]]: “Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord.” This contrasts with the dysfunctional parenting in Genesis 27, which fueled conflict.
 
 # Chiastic Structure
 
@@ -404,7 +404,7 @@
    A: Stratagem to kill Jacob. B: To bring back Jacob. C: Jacob's escape.
 
 ***
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|← Genesis 26]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Genesis 28 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|← Genesis 26]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Genesis 28 →]]
 
 [^1]: [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Physical Death\|Physical Death]] Isaac is anticipating his death
 

@@ -6,9 +6,9 @@ According to the Dead Sea Scrolls: Unleavened Bread is a week long festival occu
 
 Unleavened bread - when we come out of Egypt, we come with no sin attached to us. 
 
-At the time of Passover we are called to take the leaven out of our homes, leaven represents sin. [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-02#v13\|John-02:13]] - the Passover was at hand. A time to examine our own temples.
+At the time of Passover we are called to take the leaven out of our homes, leaven represents sin. [[_The Scrolls/4. The Gospels and The Apostles/43 - John/John-02#v13\|John-02:13]] - the Passover was at hand. A time to examine our own temples.
 
-[[The Scrolls/4. The Gospels and The Apostles/43 - John/John-02#v18\|John-02:18]] Just as Moses built the tabernacle, so Jesus would build the new tabernacle in our hearts.  
+[[_The Scrolls/4. The Gospels and The Apostles/43 - John/John-02#v18\|John-02:18]] Just as Moses built the tabernacle, so Jesus would build the new tabernacle in our hearts.  
 
 In the same way the plagues took place at the time of Exodus, they take place in Jesus
 * first water turned to blood - Jesus turned water into wine

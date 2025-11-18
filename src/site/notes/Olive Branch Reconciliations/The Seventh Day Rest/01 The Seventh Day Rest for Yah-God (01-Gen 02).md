@@ -63,7 +63,7 @@ On <mark style="background: #D2B3FFA6;">the seventh day</mark> <mark style="back
 - At this point, "Jews" do not exist yet. 
 ## Jesus replaced the Sabbath:
 - At this point, Jesus had not replaced the Sabbath.
-- Many believe Jesus is "The Word" as stated in [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-01\|John-01]]. The belief is Jesus is the Logos Word through whom Yah/God created everything. Given this premise - Jesus would have also rested on Day 7. 
+- Many believe Jesus is "The Word" as stated in [[_The Scrolls/4. The Gospels and The Apostles/43 - John/John-01\|John-01]]. The belief is Jesus is the Logos Word through whom Yah/God created everything. Given this premise - Jesus would have also rested on Day 7. 
 
 ## Other Notes:
 - There isn't indication as to whether human also rested. 

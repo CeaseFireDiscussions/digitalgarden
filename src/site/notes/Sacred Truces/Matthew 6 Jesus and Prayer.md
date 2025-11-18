@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-6-jesus-and-prayer/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-06\|Matt-06]]
 # Prayer
 
 There are all sorts of opinions on prayer: how to, when to, what for, how long, what position, etc. What if we went back and asked Yeshua /Jesus?

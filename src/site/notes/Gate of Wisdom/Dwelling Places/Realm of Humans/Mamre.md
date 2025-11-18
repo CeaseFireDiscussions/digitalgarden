@@ -17,4 +17,4 @@
 # Connections
 - 
 
-![Holy Places of hebron.png](/img/user/Assets/attachments/Holy%20Places%20of%20hebron.png)
+![Holy Places of hebron.png](/img/user/_Assets/attachments/Holy%20Places%20of%20hebron.png)

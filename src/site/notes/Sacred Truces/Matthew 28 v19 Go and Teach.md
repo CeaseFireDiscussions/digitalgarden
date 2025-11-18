@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sacred-truces/matthew-28-v19-go-and-teach/"}
 ---
 
-[[The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]]
+[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]]
 
 Matthew 28:19 and 20 are rich in their connection to the Old Testament, which is very well hidden in the English Translations. Let’s take a closer look at a few of the words found in Verse 19.
 

@@ -10,7 +10,7 @@
 ## A Christian Walk with the Tabernacle Israelite Common People
 
 
- [[Assets/Clippings/Reign of YHWH  Eden\|Reign of YHWH  Eden]] and [[Assets/Clippings/Reign of YHWH  The Tabernacle\|Reign of YHWH  The Tabernacle]] 
+ [[_Assets/Clippings/Reign of YHWH  Eden\|Reign of YHWH  Eden]] and [[_Assets/Clippings/Reign of YHWH  The Tabernacle\|Reign of YHWH  The Tabernacle]] 
 
 L et’s take another look at the overlay of Eden and the Tabernacle.
 

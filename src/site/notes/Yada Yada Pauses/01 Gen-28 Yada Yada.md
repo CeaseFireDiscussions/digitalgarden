@@ -33,9 +33,9 @@
 - Savior: God 
 
 
-# Genesis 28 [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Gen-28]]
+# Genesis 28 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28\|Gen-28]]
 
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|← Genesis 27]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29\|Genesis 29 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|← Genesis 27]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29\|Genesis 29 →]]
 ***
 
 
@@ -160,7 +160,7 @@
 										- to <mark style="background: #B2A23AA6;">you</mark>."  
 #### Fulfillment of the blessing from Isaac.
 #### New covenant made with Jacob
-#### Sounds like: I will not leave nor forsake [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-31#v6\|Deut-31#v6]] and [[The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-13#v5\|Heb-13#v5]]
+#### Sounds like: I will not leave nor forsake [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-31#v6\|Deut-31#v6]] and [[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-13#v5\|Heb-13#v5]]
 
 - <mark style="background: #B2A23AA6;">Jacob</mark> <mark style="background: #04CD3EA6;">awakened</mark> 
 	- out of <mark style="background: #B2A23AA6;">his</mark> sleep, 
@@ -213,19 +213,19 @@
 - land: 5
 
 # Connections
-- [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12\|Gen-12]]:1-3: God’s initial covenant with Abraham, promising land, descendants, and blessing, which is renewed with Jacob in Genesis 28:13-15.
-- [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-13\|Gen-13]]:14-17: God reiterates the promise of land and offspring to Abraham, paralleling the land promise to Jacob in Genesis 28:13-14.
-- [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-15\|Gen-15]]:5-7: God’s covenant with Abraham, emphasizing numerous descendants and the land, echoed in Genesis 28:3-4, 13-14.
-- [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24\|Gen-24]]:3-4: Abraham instructs his servant to find a wife for Isaac from his own people, not Canaanites, similar to Isaac’s instruction to Jacob in Genesis 28:1-2.
-- [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Gen-26]]:2-5: God renews the covenant with Isaac, promising land and descendants, akin to the promise to Jacob in Genesis 28:13-15.
-- [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|Gen-35]]:1-15: God commands Jacob to return to Bethel, where he reaffirms the covenant and renames Jacob as Israel, directly connecting to the Bethel event in Genesis 28:16-22.
-- [[The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-26\|Deut-26]]:5: Refers to Jacob as a “wandering Aramean,” relating to his journey to Haran in Genesis 28:10.
-- [[The Scrolls/2. Nevi'im (Prophets)/28 - Hosea/Hos-12\|Hos-12]]:12: Mentions Jacob’s flight to Aram (Haran) and his service for a wife, referencing the events following Genesis 28:10.
-- [[The Scrolls/4. The Gospels and The Apostles/43 - John/John-01\|John-01]]:51: Jesus references Jacob’s ladder (Genesis 28:12), describing angels ascending and descending on the Son of Man, connecting the dream to Christ.
+- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12\|Gen-12]]:1-3: God’s initial covenant with Abraham, promising land, descendants, and blessing, which is renewed with Jacob in Genesis 28:13-15.
+- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-13\|Gen-13]]:14-17: God reiterates the promise of land and offspring to Abraham, paralleling the land promise to Jacob in Genesis 28:13-14.
+- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-15\|Gen-15]]:5-7: God’s covenant with Abraham, emphasizing numerous descendants and the land, echoed in Genesis 28:3-4, 13-14.
+- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-24\|Gen-24]]:3-4: Abraham instructs his servant to find a wife for Isaac from his own people, not Canaanites, similar to Isaac’s instruction to Jacob in Genesis 28:1-2.
+- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-26\|Gen-26]]:2-5: God renews the covenant with Isaac, promising land and descendants, akin to the promise to Jacob in Genesis 28:13-15.
+- [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|Gen-35]]:1-15: God commands Jacob to return to Bethel, where he reaffirms the covenant and renames Jacob as Israel, directly connecting to the Bethel event in Genesis 28:16-22.
+- [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-26\|Deut-26]]:5: Refers to Jacob as a “wandering Aramean,” relating to his journey to Haran in Genesis 28:10.
+- [[_The Scrolls/2. Nevi'im (Prophets)/28 - Hosea/Hos-12\|Hos-12]]:12: Mentions Jacob’s flight to Aram (Haran) and his service for a wife, referencing the events following Genesis 28:10.
+- [[_The Scrolls/4. The Gospels and The Apostles/43 - John/John-01\|John-01]]:51: Jesus references Jacob’s ladder (Genesis 28:12), describing angels ascending and descending on the Son of Man, connecting the dream to Christ.
 
 
 ***
-[[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|← Genesis 27]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29\|Genesis 29 →]]
+[[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-27\|← Genesis 27]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29\|Genesis 29 →]]
 
 # Connections
 
