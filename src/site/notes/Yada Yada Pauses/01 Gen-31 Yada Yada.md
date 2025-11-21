@@ -11,7 +11,7 @@ For reading purposes: [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-31
 - Characters and People Groups: 
 	- [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
 	- Laban
-	- Leah
+	- [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]
 	- [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]
 	- sons of Laban
 	- children (of Jacob)

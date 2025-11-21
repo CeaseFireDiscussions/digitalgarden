@@ -9,7 +9,7 @@
 - **Mother**: Not named in the Bible
 - **Name meaning**: Her name means “ewe,” symbolizing gentleness or fertility.
 - **Other Relatives of Note**:
-  - Leah (sister)
+  - [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]] (sister)
   - [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]] (husband, cousin)
   - Bethuel (father of Laban, grandfather)
 

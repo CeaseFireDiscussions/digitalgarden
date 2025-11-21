@@ -361,7 +361,7 @@
 ## Deception and Its Consequences
 
 - Genesis 12:10–20 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-12#v10\|Gen-12#v10]]: Abram deceives Pharaoh about Sarai being his wife, leading to consequences. This parallels Jacob’s deception, showing how lying affects relationships and outcomes.
-- Genesis 29:15–30 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29#v15\|Gen-29#v15]]: Jacob is deceived by Laban, who substitutes Leah for Rachel on Jacob’s wedding night. This mirrors Jacob’s own deception in Genesis 27, illustrating a pattern of reaping what one sows.
+- Genesis 29:15–30 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29#v15\|Gen-29#v15]]: Jacob is deceived by Laban, who substitutes [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]] for Rachel on Jacob’s wedding night. This mirrors Jacob’s own deception in Genesis 27, illustrating a pattern of reaping what one sows.
 - Proverbs 12:22 [[_The Scrolls/3. Ketuvim (Writings)/20 - Proverbs/Prov-12#v22\|Prov-12#v22]]: “Lying lips are an abomination to the Lord, but those who act faithfully are his delight.” This underscores the moral implications of Jacob and Rebekah’s deception.
 - Galatians 6:7 [[_The Scrolls/4. The Gospels and The Apostles/48 - Galatians/Gal-06#v7\|Gal-06#v7]]: “Do not be deceived: God is not mocked, for whatever one sows, that will he also reap.” This New Testament principle reflects the consequences of Jacob’s actions, as he later faces deception.
 

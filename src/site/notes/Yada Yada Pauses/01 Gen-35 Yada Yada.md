@@ -163,7 +163,7 @@ For east of reading [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-35\|
 				- his father's concubine, 
 			- and Israel heard of it[^1]. 
 		- Now the sons of Jacob were twelve.
-			- The sons of Leah: 
+			- The sons of [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]: 
 				- Reuben 
 					- (Jacob's firstborn), 
 				- Simeon, 

@@ -17,6 +17,7 @@
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Consequence/Disobedience/Curse\|Curse]]
+- [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
 - [[Sacred Truces/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]
 - [[Sacred Truces/Know the Children of God How\|Know the Children of God How]]
 - [[Gate of Wisdom/Sources/Cahn, Jonathan/Return of the Gods\|Return of the Gods]]

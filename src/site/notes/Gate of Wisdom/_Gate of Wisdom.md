@@ -39,8 +39,8 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]                                                 |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]  |
 | [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]                                                      |
-| [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]                                               |
 | [[Gate of Wisdom/Good News/Atonement\|Atonement]]                                                              |
+| [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]                                               |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Baal\|Baal]]                                                           |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]]                                            |
 | [[Gate of Wisdom/Beings/Human Beings/Babylonians\|Babylonians]]                                                |
@@ -60,6 +60,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Bronze\|Bronze]]                                                                              |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]                           |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]                           |
+| [[Gate of Wisdom/Burden\|Burden]]                                                                              |
 | [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]                                                     |
 | [[Gate of Wisdom/Dwelling Places/The Camp/Camp\|Camp]]                                                         |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Canaan\|Canaan]]                                              |
@@ -86,6 +87,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Beings/Human Beings/Esau\|Esau]]                                                              |
 | [[Gate of Wisdom/Fast\|Fast]]                                                                                  |
 | [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]                                                          |
+| [[Gate of Wisdom/Appointed Time/Feast\|Feast]]                                                                 |
 | [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]                                   |
 | [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]                         |
 | [[Gate of Wisdom/Offering/Fellowship Offering\|Fellowship Offering]]                                           |
@@ -102,6 +104,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]                                                 |
 | [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]                                                          |
 | [[Gate of Wisdom/Holy\|Holy]]                                                                                  |
+| [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]                                           |
 | [[Gate of Wisdom/Ruach/Holy Spirit\|Holy Spirit]]                                                              |
 | [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]                                        |
 | [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]                                          |
@@ -128,6 +131,7 @@ Behind the Gate of Wisdom you'll find general information about various topics. 
 | [[Gate of Wisdom/Good News/Kingdom of Heaven\|Kingdom of Heaven]]                                              |
 | [[Gate of Wisdom/Kipper\|Kipper]]                                                                              |
 | [[Gate of Wisdom/Lawlessness\|Lawlessness]]                                                                    |
+| [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]                                                              |
 | [[Gate of Wisdom/Lord’s Prayer\|Lord’s Prayer]]                                                                |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                                                     |
 | [[Gate of Wisdom/Lust\|Lust]]                                                                                  |

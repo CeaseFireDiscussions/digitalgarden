@@ -10,7 +10,7 @@
   - [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]
   - Laban
   - [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]
-  - Leah
+  - [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]
   - Bilhah
   - Zilpah
   - Reuben

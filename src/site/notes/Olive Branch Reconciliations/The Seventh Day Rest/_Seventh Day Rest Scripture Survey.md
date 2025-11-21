@@ -6,7 +6,7 @@ The common belief is the Seventh Day Rest (later known as [[Gate of Wisdom/Appoi
 
 Let's see what scripture says about that starting at the very beginning and then working from Genesis to Revelation. 
 
-List of Scriptures:
+# The Scriptures (Old Testament)
 
 - Genesis 2 :2–3 [[Olive Branch Reconciliations/The Seventh Day Rest/01 The Seventh Day Rest for Yah-God (01-Gen 02)\|01 The Seventh Day Rest for Yah-God (01-Gen 02)]]
 - Exodus 16 :23–30 [[Olive Branch Reconciliations/The Seventh Day Rest/02 The Seventh Day Rest was for Them (02 Exod 16)\|02 The Seventh Day Rest was for Them (02 Exod 16)]]
@@ -31,59 +31,53 @@ List of Scriptures:
 - Isaiah 56:2–6 [[Olive Branch Reconciliations/The Seventh Day Rest/20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)\|20 The Seventh Day Rest is for Foreigners (23 Isaiah 56)]]
 - Isaiah 58:13 [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]
 - Isaiah 66:23 [[Olive Branch Reconciliations/The Seventh Day Rest/22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)\|22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)]]
-- Jeremiah
-	- 17:21-27
-- Lamentations
-	- 2:6
-- Ezekiel
-	- 20:12–24
-	- 22:8, 26
-	- 23:38
-	- 44:24
-	- 46:1-12
-- Hosea
-	- 2:11;
-- Matthew
-	- 12:1–12
-	- 24:20
-	- 28:1
-- Mark
-	- 1:21
-	- 2:23–28
-	- 3:2–4
-	- 6:2
-	- 15:42
-	- 16:1, 9
-- Luke
-	- 4:16, 31
-	- 6:1–9
-	- 13:10–16
-	- 14:1–5
-	- 23:54–24:1
-- John
-	- 5:9–18
-	- 7:22–23
-	- 9:14–16
-	- 19:31
-	- 20:1, 19
-- Acts
-	- 2:1, 11, 46
-	- 5:12
-	- 12:12
-	- 13:14, 27–44
-	- 14:27
-	- 15:21, 30
-	- 16:13
-	- 17:2
-	- 18:4
-	- 20:7
-- 1 Corinthians
-	- 11:34
-	- 16:2
-- Colossians
-	- 2:16
-- Hebrews
-	- 4:4–9
-	- 10:25
-- Revelation
-	- 1:10
+- Jeremiah 17:21-27 [[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]
+- Lamentations 1:7
+- Lamentations 2:6
+- Ezekiel 20:12–24
+- Ezekiel 22:8, 26
+- Ezekiel 23:38  
+- Ezekiel 44:24 
+- Ezekiel 45:17
+- Ezekiel 46:1-12
+- Hosea 2:11
+- Amos 8:5
+
+# Second Writings (New Testament)
+
+- Matthew 8:14-17, Mark 1:29-34, Luke 4:38-41
+- Matthew 12:1–8, Mark 2:23–28, Luke 6:1–9
+- Matthew 12:9-14, Mark 3:2–4, Luke 6:6-11
+- Matthew 24:20
+- Matthew 27:62, Mark 15:42, Luke 23:54-56, John 19:31, 42
+- Matthew 28:1, Mark 16:1-9
+- Mark 1:21-28, Luke 4:31-37, Luke 24:1, John 20:1, 19
+- Mark 6:2 
+- Luke 4:16, 31
+- Luke 13:10–17
+- Luke 14:1–6 
+- John 5:9–18
+- John 7:22–23
+- John 9:14–16 
+- Acts 13:14, 27–44
+- Acts 15:21, 30
+- Acts 16:13
+- Acts 17:2
+- Acts 18:4
+- Acts 20:7 - FIRST DAY
+- Colossians 2:16
+- Hebrews 4:1–11
+- Revelation 1:10 - LORD'S DAY
+- Matthew 5:17-19 - TORAH
+- Matthew 7:12 - TORAH
+- Matthew 22:36-40 - TORAH
+- Romans 2:13-15 - TORAH
+- Romans 3:31 - TORAH
+- Romans 7:12-14 - TORAH
+- 1 Corinthians 7:19 - TORAH
+- Hebrew 10:16 - TORAH
+- 1 John 2:3-6 - TORAH
+- 1 John 3:4 - TORAH
+- 1 John 5:2-3 - TORAH
+- Revelation 12:17 - TORAH
+- Revelation 14:12 - TORAH

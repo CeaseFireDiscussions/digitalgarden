@@ -10,7 +10,7 @@
 
 # Additional Info
 
-[[Zunpublished/Acts 2\|Acts 2]]:1-4 describes the pivotal New Testament event on Pentecost: the apostles, gathered in Jerusalem 50 days after Jesus’ resurrection (which coincided with Passover), to observe Shavuot. At that time, they experienced the descent of the Holy Spirit. They spoke in the tongues of the various nations (human languages), and Peter preached to a diverse crowd, leading to about 3,000 conversions ([[_My Bible/44 Acts/Acts 2\|_My Bible/44 Acts/Acts 2]]:41).
+[[Zunpublished/Acts 2\|Acts 2]]:1-4 describes the pivotal New Testament event on Pentecost: the apostles, gathered in Jerusalem 50 days after Jesus’ resurrection (which coincided with Passover), to observe Shavuot. At that time, they experienced the descent of the Holy Spirit. They spoke in the tongues of the various nations (human languages), and Peter preached to a diverse crowd, leading to about 3,000 conversions ([[_The Scrolls/4. The Gospels and The Apostles/44 - Acts/Acts-02#v41\|Acts-02#v41]]).
 
 The timing aligns with Shavuot, as Jews from various nations were in Jerusalem for the pilgrimage festival (Acts 2:5-11), fulfilling the biblical command to gather [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-16#v16\|Deut-16:16]]
 

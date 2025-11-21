@@ -17,6 +17,7 @@
 - [[Gate of Wisdom/Bronze\|Bronze]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Altar\|Bronze Altar]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
+- [[Gate of Wisdom/Burden\|Burden]]
 - [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
 - [[Sacred Truces/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]
 - [[Sacred Truces/Matthew 28 v19 Baptizing in the Name\|Matthew 28 v19 Baptizing in the Name]]

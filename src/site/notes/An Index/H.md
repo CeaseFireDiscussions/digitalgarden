@@ -8,6 +8,7 @@
 - [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]
 - [[Yada Yada Pauses/Highlight Legend\|Highlight Legend]]
 - [[Gate of Wisdom/Holy\|Holy]]
+- [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
 - [[Gate of Wisdom/Ruach/Holy Spirit\|Holy Spirit]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]

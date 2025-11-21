@@ -16,9 +16,15 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 
 | Latest Drops                                                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)\|22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)]] |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]         |
+| [[Gate of Wisdom/Burden\|Burden]]                                                                                                                                                                  |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                       |
 | [[Torah Portions/2025.11.22 Shabbat Reading\|2025.11.22 Shabbat Reading]]                                                                                                                          |
+| [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]                                                                                                                               |
+| [[Gate of Wisdom/Appointed Time/Feast\|Feast]]                                                                                                                                                     |
+| [[Yada Yada Pauses/01 Gen-33 YadaYada\|01 Gen-33 YadaYada]]                                                                                                                                        |
+| [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]                                                                                                                                                  |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)\|22 The Seventh Day Rest is in New Heaven and New Earth (23 Isaiah 66)]] |
 | [[Gate of Wisdom/Transgression\|Transgression]]                                                                                                                                                    |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)\|21 The Seventh Day Rest Returns Blessings (23 Isaiah 58)]]                           |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)\|18 The Seventh Day Rest is Burden Free (16 Nehemiah 13)]]                             |
@@ -30,12 +36,6 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 | [[Gate of Wisdom/Beings/Satan\|Satan]]                                                                                                                                                             |
 | [[Yada Yada Pauses/40 Matt-05 YadaYada\|40 Matt-05 YadaYada]]                                                                                                                                      |
 | [[Gate of Wisdom/Beings/Human Beings/Benjamin\|Benjamin]]                                                                                                                                          |
-| [[Gate of Wisdom/Beings/Human Beings/Benoni\|Benoni]]                                                                                                                                              |
-| [[Gate of Wisdom/Beings/Human Beings/Isaiah\|Isaiah]]                                                                                                                                              |
-| [[Gate of Wisdom/Humble in Spirit\|Humble in Spirit]]                                                                                                                                              |
-| [[Yada Yada Pauses/62 1 John-03 Yada Yada\|62 1 John-03 Yada Yada]]                                                                                                                                |
-| [[Yada Yada Pauses/59 James-01 Yada Yada\|59 James-01 Yada Yada]]                                                                                                                                  |
-| [[Sacred Truces/Matthew 5 Sermon on the Mount Jesus said …\|Matthew 5 Sermon on the Mount Jesus said …]]                                                                                           |
 
 { .block-language-dataview}
 
@@ -91,7 +91,7 @@ The Scrolls are originally in the World English Bible (WEB) because it is a publ
 ![Logo.png](/img/user/_Assets/attachments/Logo.png)
 
 
-Obsidian Garden Sites Gallery has [Other Digital Gardens to Explore](https://dg-docs.ole.dev/)
+Obsidian Garden Sites Gallery has [Other Digital Gardens to Explore]([https://vaults.obsidian-community.com/](https://vaults.obsidian-community.com/)
 
 # External Links 
 CeaseFire Moments may reference third-party websites or resources. These links are shared for informational or reference purposes only. We do not endorse, guarantee, or assume responsibility for the content, opinions, accuracy, privacy practices, or availability of any external sites. Inclusion of a link does not imply agreement with or approval of all views, ideas, or materials found therein. Visitors access external links at their own risk.

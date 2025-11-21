@@ -9,7 +9,7 @@
 - 
 
 # Additional Info
-- This site became the family burial ground for the patriarchs and matriarchs of Israel, including Abraham, Isaac, Jacob, Sarah, Rebecca, and Leah. 
+- This site became the family burial ground for the patriarchs and matriarchs of Israel, including [[Gate of Wisdom/Beings/Human Beings/Abraham\|Abraham]], [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]], [[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]], [[Gate of Wisdom/Beings/Human Beings/Sarah\|Sarah]], [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]], and [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]. 
 - It remains one of the most revered religious sites for Judaism, Christianity, and Islam. 
 
 

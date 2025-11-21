@@ -14,7 +14,7 @@ For reading purposes [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-33\
 	- Four hundred men (with Esau)
 	- Maidservants (2)
 	- Eleven children (of Jacob)
-	- Leah
+	- [[Gate of Wisdom/Beings/Human Beings/Leah\|Leah]]
 	- [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]
 	- [[Zunpublished/Joseph\|Joseph]]
 
