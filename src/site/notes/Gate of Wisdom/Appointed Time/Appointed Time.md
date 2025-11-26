@@ -11,6 +11,7 @@
 # Related words
 - [[Gate of Wisdom/Appointed Time/Feast\|Feast]]
 - [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
+- [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]
 
 # Additional Info
 - The broadest, most common biblical category.

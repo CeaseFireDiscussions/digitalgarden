@@ -13,7 +13,7 @@ Let's see what scripture says about that starting at the very beginning and then
 "'<mark style="background: #E0CC4BA6;">You</mark> shall <mark style="background: #04CD3EA6;">keep my Sabbaths</mark>, and <mark style="background: #04CD3EA6;">reverence my sanctuary</mark>; <mark style="background: #A4A089A6;">I am Yahweh</mark>. 
 
 ## **Define**: 
-- SabbathS see [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
+- [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]] - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
 ## **Who**:
 - [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]: Congregation ēḏāh (עֵדָה); Church ekklesia (ἐκκλησία)
 - [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]: All the people, both Hebrew and foreigners, who came out of Egypt.

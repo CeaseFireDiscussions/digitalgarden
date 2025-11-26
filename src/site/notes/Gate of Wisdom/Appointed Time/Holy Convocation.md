@@ -13,6 +13,7 @@
 # Related words
 - [[Gate of Wisdom/Appointed Time/Feast\|Feast]]
 - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
+- [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]
 
 # Additional Info 
 

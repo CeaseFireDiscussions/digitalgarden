@@ -78,7 +78,7 @@
             - in matters by (καὶ "and" ἢ "or")
                 - food (singular) **AND** drink (singular)
                 - respect to a festival (singular) **OR** new moon (singular) **OR** Shabbots (plural)
-                    - Sabbaths/Shabbots
+                    - [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]/Shabbots
                         - Greek word σαββάτων in Colossians 2:16 is plural, most scholars lean toward it meaning the entire system of Sabbath observances (weekly and festival Sabbaths).
                         - 1 Corinthians 5:7-8 (written before Colossians) – Paul connects Christ to Passover and exhorts believers to "keep the feast" spiritually.
             - These matters are a foreshadowing (singular) of things (plural) to come
@@ -205,7 +205,7 @@
     - [[Aristarchus\|Aristarchus]]
         - fellow prisoner of Paul's
         - sends his greetings
-    - [[Zunpublished/Mark\|Zunpublished/Mark]]
+    - [[Gate of Wisdom/Sign/Mark\|Gate of Wisdom/Sign/Mark]]
         - cousin of Barnabas
         - sends his greetings
         - the Saints and Faithful Brothers in Colossae has received instructions from him earlier

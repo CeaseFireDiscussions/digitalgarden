@@ -20,7 +20,7 @@ They believed the "commands/laws" were YHWH/God’s way of connecting with his p
 
 The hypocrites – those are the religious leaders of the day. Giving of Alms, Praying, and Fasting which are grouped together here and at that time were practices used to express repentance and devotion as part of atonement for sins. The more you could be seen the more people knew you were [[Gate of Wisdom/Right Standing/Righteous\|righteous]]. They sat in the best seats in the “church” and went out into the market places and prayed so everyone could hear them. They didn’t do it from their heart – they did it SO THAT other people would see them. It was a show, all the intimacy was gone. They weren’t concerned about whether God heard them, just how many seen them.
 
-In Luke 18, Jesus tells a parable about a [[Gate of Wisdom/Beings/Human Beings/Pharisee\|Pharisee]] and a Publican (tax collector). Keep in mind a tax collector was believed to be so [[Zunpublished/Unclean\|Unclean]], he was unredeemable, he couldn’t even give a testimony in the courts. Jesus tells how they are going to the temple to pray. In the end, the Publican was justified, not the Pharisee. Ponder on that one for a moment or two.
+In Luke 18, Jesus tells a parable about a [[Gate of Wisdom/Beings/Human Beings/Pharisee\|Pharisee]] and a Publican (tax collector). Keep in mind a tax collector was believed to be so [[Gate of Wisdom/Unclean\|Unclean]], he was unredeemable, he couldn’t even give a testimony in the courts. Jesus tells how they are going to the temple to pray. In the end, the Publican was justified, not the Pharisee. Ponder on that one for a moment or two.
 
 # Verse 6
 

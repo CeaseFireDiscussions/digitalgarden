@@ -169,7 +169,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 			- and he in him.  [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v8\|Exod-25#v8]] [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-25#v10\|Exod-25#v10]]
 			- By this we know that he remains in us[^23], 
 				- by the Spirit [[Gate of Wisdom/Ruach/Ruach\|Ruach]] which he gave us. [[_The Scrolls/2. Nevi'im (Prophets)/26 - Ezekiel/Ezek-36#v27\|Ezek-36#v27]],
-#### We have to build the dwelling place within us, it has to remain [[Gate of Wisdom/Holy\|Holy]], [[Zunpublished/Clean\|Clean]], for YHWH to dwell among us, just like they did in the wilderness. By being Righteous (sinless and law abiding) we remain in him and he in us. By being Unrighteous (sinful and lawless) we can not remain in the camp and are put out with the adversary.  [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
+#### We have to build the dwelling place within us, it has to remain [[Gate of Wisdom/Holy\|Holy]], [[Gate of Wisdom/Clean\|Clean]], for YHWH to dwell among us, just like they did in the wilderness. By being Righteous (sinless and law abiding) we remain in him and he in us. By being Unrighteous (sinful and lawless) we can not remain in the camp and are put out with the adversary.  [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 
 
 ***

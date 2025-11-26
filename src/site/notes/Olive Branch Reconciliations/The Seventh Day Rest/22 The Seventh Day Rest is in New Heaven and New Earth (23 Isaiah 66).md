@@ -50,7 +50,7 @@ It shall happen that <mark style="background: #A284CDA6;">from one new moon to a
 	- be loathsome to all who have not transgressed YHWH
 ## **<mark style="background: #D2B3FFA6;">When</mark>**:
 - AFTER the new heavens and new earth exist [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05#v18\|Matt-05#v18]]
-- On New Moons and Sabbaths
+- On New Moons and [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]
 
 ## **<mark style="background: #EB9E57A6;">Why</mark>**: 
 - For ... Redeemed: because the new heaven and new earth are indestructible and eternal the promises in [[_The Scrolls/2. Nevi'im (Prophets)/23 - Isaiah/Isa-66#v18\|Isa-66#v18]]-21 (enduring seed, gentile priests, universal worship) will endure forever. 

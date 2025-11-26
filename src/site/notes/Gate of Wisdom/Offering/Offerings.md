@@ -159,7 +159,7 @@ Kodesh Kallim class….or, the offerings of lesser sanctity
 	- Leviticus 4:2-3 (WEB): "Speak to the children of Israel, saying, ‘If anyone sins unintentionally, in any of the things which Yahweh has commanded not to be done, and does any one of them, if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin which he has sinned a young bull without defect to Yahweh for a sin offering.’"
 	- Leviticus 4:27-28 (WEB): "If anyone of the common people sins unintentionally, in doing any of the things which Yahweh has commanded not to be done, and is guilty, when his sin which he has sinned is known, then he shall bring for his offering a goat, a female without defect, for his sin which he has sinned."
 - Details: The Chattat atones for unintentional sins, varying by the offeror’s status (e.g., bull for priests, goat for individuals). Blood is applied to the altar, and parts may be burned outside the camp.
-* Meaning: From the root for sin or purification offering, used to atone ([[Gate of Wisdom/Ransom\|Ransom]]) for unintentional sins or ritual impurities. It's about being cleansed, [[Zunpublished/Clean\|Clean]] vs [[Zunpublished/Unclean\|Unclean]].
+* Meaning: From the root for sin or purification offering, used to atone ([[Gate of Wisdom/Ransom\|Ransom]]) for unintentional sins or ritual impurities. It's about being cleansed, [[Gate of Wisdom/Clean\|Clean]] vs [[Gate of Wisdom/Unclean\|Unclean]].
 * Context: Specific to atonement rituals (e.g., Leviticus 4:1-35 ([[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-04#v1\|Lev-04#v1]])
 * Key Points:
 	* Required for unintentional sins or ritual impurities by individuals, priests, or the community. 

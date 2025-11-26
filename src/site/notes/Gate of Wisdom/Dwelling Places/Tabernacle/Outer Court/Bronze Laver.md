@@ -17,7 +17,7 @@
 ## The Laver
 God gave the Bronze Laver in the [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]] to wash clean their hands and feet.
 - This washing was not merely physical but symbolized spiritual cleansing, as the priests needed to be pure to approach God’s presence.
-- Being in right relationship and [[Zunpublished/Clean\|Clean]] //[[Gate of Wisdom/Right Standing/Righteous\|righteous]] //, they were now prepared to enter into the Holy Place [[Zunpublished/Set Apart Place\|Set Apart Place]].
+- Being in right relationship and [[Gate of Wisdom/Clean\|Clean]] //[[Gate of Wisdom/Right Standing/Righteous\|righteous]] //, they were now prepared to enter into the Holy Place [[Zunpublished/Set Apart Place\|Set Apart Place]].
 	  - [[Gate of Wisdom/Righteousness\|Righteousness]] is described as a state of being “clean” before God, free from sin’s defilement, which the laver facilitated in the priestly service.
 - There was a veil [[Zunpublished/Veil\|Veil]] between the [[Zunpublished/Outer Court\|Outer Court]]s and the Holy Place, only a [[Zunpublished/Priest\|Priest]] could pass through into the Holy Place.
 - The bronze laver was made from the mirrors of the women serving at the entrance to the [[Zunpublished/Tent of Meeting\|Tent of Meeting]] ([[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-38#v8\|Exod-38:8]]). Mirrors in ancient times were associated with vanity, and their transformation into a tool for purification suggests a shift from self-focus to God-focused righteousness

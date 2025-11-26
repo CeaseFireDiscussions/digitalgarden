@@ -4,6 +4,7 @@
 
 | Table of Content                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]                                                                 |
 | [[Sacred Truces/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]                                       |
 | [[Sacred Truces/What is the New Covenant\|What is the New Covenant]]                                                                                             |
 | [[Sacred Truces/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]                                 |
@@ -60,7 +61,6 @@
 | [[Sacred Truces/Who May Dwell With God\|Who May Dwell With God]]                                                                                                 |
 | [[Sacred Truces/When The Kingdom of God Comes ...\|When The Kingdom of God Comes ...]]                                                                           |
 | [[Sacred Truces/Traditional Teaching vs Scripture - Isaiah 66\|Traditional Teaching vs Scripture - Isaiah 66]]                                                   |
-| [[Sacred Truces/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]                                                                 |
 | [[Sacred Truces/Scripture Survey Shavuot Pentecost\|Scripture Survey Shavuot Pentecost]]                                                                         |
 | [[Sacred Truces/Know the Children of God How\|Know the Children of God How]]                                                                                     |
 | [[Sacred Truces/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]                                                                                 |

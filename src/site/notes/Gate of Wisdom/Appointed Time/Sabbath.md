@@ -3,7 +3,7 @@
 ---
 
 # Define
-- Hebrew: שַׁבָּת (shabbat) – root verb שָׁבַת (shabat, H7673) meaning "to cease, desist, rest."
+- Hebrew: שַׁבָּת (shabbat) – root verb שָׁבַת (shabat, H7673) meaning "to cease, desist, rest." [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]: shabbəṯôtay (שַׁבְּתוֹתַי)
 - Greek: σάββατον (sabbaton) – plural σάββατα (sabbata); derived from Hebrew shabbat, meaning "Sabbath" or "week."
 
 # Related words

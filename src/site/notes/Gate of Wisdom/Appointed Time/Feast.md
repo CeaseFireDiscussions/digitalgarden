@@ -17,6 +17,7 @@
 - Festival
 - [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
 - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
+- [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]
 
 # Additional Info
 - The narrowest category — only three are ever called ḥag in the Bible.

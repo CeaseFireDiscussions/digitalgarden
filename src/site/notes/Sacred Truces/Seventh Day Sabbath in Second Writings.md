@@ -26,7 +26,7 @@
 	 Acts 20:7 - Break Bread on First Day of Week
 17. Acts 15:21 – Law of Moses preached each Sabbath Parallel passages: None
 18. Hebrews 4:4-10 – The Sabbath Rest  Parallel passages: None
-19. Colossians 2:16-17 – Sabbaths and Other Observances Parallel passages: None 
+19. Colossians 2:16-17 – [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]] and Other Observances Parallel passages: None 
 
 
 

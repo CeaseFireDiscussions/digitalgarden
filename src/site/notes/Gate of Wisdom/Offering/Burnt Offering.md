@@ -576,7 +576,7 @@ Were made even when there was no tabernacle or temple.
 	* Verses:
 
 		* 31:2: "Hezekiah appointed the divisions of the kohanim and the Levites, according to their divisions, each kohen and Levite according to his service, for burnt offerings and for fellowship offerings, to minister and to give thanks and to praise in the gates of the camp of Adonai."
-		* 31:3: "He also provided the king’s portion of his possessions for the burnt offerings: for the morning and evening burnt offerings, and the burnt offerings for the Sabbaths, the New Moons and the moadim, as it is written in the Torah of Adonai."
+		* 31:3: "He also provided the king’s portion of his possessions for the burnt offerings: for the morning and evening burnt offerings, and the burnt offerings for the [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]], the New Moons and the moadim ([[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]), as it is written in the Torah of Adonai."
 	* Context: Hezekiah organizes burnt offerings.
 * 2 Chronicles 35:12, 14, 16
 

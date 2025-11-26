@@ -3,10 +3,10 @@
 ---
 
 # Define
-1. "**Common** " (Hebrew: chol; Greek: koinos): Often means ordinary or profane, as opposed to holy or set apart. In the New Testament, it can imply "defiled" in Jewish tradition (e.g., unwashed hands).
-2. "**Clean** " (Hebrew: tahor; Greek: katharos): Refers to ritual or moral purity, acceptable to God.
-3. "**Unclean** " (Hebrew: tame; Greek: akathartos): Indicates impurity, whether physical, ceremonial, or moral, requiring separation or cleansing.
-4. **Holy** (qodesh): Set apart, consecrated, belonging to God, and reflecting His purity and perfection. It’s the opposite of "common" and incompatible with " unclean," often requiring " clean " as a prerequisite.
+1. "**[[Gate of Wisdom/Common\|Common]]** " (Hebrew: chol; Greek: koinos): Often means ordinary or profane, as opposed to holy or set apart. In the New Testament, it can imply "defiled" in Jewish tradition (e.g., unwashed hands).
+2. "**[[Gate of Wisdom/Clean\|Clean]]** " (Hebrew: tahor; Greek: katharos): Refers to ritual or moral purity, acceptable to God.
+3. "**[[Gate of Wisdom/Unclean\|Unclean]]** " (Hebrew: tame; Greek: akathartos): Indicates impurity, whether physical, ceremonial, or moral, requiring separation or cleansing.
+4. **[[Gate of Wisdom/Holy\|Holy]]** (qodesh): Set apart, consecrated, belonging to God, and reflecting His purity and perfection. It’s the opposite of "common" and incompatible with " unclean," often requiring " clean " as a prerequisite.
 
 # **Notes on Combinations**
  

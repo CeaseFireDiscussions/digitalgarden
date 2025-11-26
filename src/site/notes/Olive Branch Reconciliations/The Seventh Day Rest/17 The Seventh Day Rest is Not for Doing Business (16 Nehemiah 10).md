@@ -19,7 +19,7 @@ Also we made ordinances for ourselves, to charge ourselves yearly with the third
 - we - all those who had separated themselves from the peoples of the lands to the law of God, followers of YHWH
 
 ## **What**: 
-- The followers of YHWH would not buy on the Sabbath (Seventh Day Rest) or on a holy day (SabbathS) ([[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v8\|Exod-20#v8]]-11)
+- The followers of YHWH would not buy on the Sabbath (Seventh Day Rest) or on a holy day ([[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]) ([[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v8\|Exod-20#v8]]-11)
 ## **When**:
 - On the 1st day of the Seventh Month ([[Zunpublished/Feast of Trumpets\|Feast of Trumpets]] (Yom Teru'ah)) they began reading the law. Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance. [[_The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-08\|Neh-08]]
 - On the twenty-fourth day of this month, they renew the covenant which includes this portion about the Sabbath (Seventh Day Rest).  [[_The Scrolls/3. Ketuvim (Writings)/16 - Nehemiah/Neh-09\|Neh-09]]

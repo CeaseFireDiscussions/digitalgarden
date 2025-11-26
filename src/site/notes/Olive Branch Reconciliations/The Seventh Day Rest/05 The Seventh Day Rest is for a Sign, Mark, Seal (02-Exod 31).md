@@ -32,7 +32,7 @@ When <mark style="background: #A4A089A6;">he</mark> finished speaking with <mark
 	- Those who do work - cut off from their people.
 
 ## **What**: 
-- Verse 12: MUST observe Yah-God's Sabbath**s** ([[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]] )
+- Verse 12: MUST observe Yah-God's [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]] ([[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]] )
 	- Notice God has claimed these times as HIS.
 	- Notice the plural here - this isn't just about the [[Gate of Wisdom/Seventh Day\|Seventh Day]] Rest. 
 - Verse 14: Observe the Seventh Day Rest

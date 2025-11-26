@@ -17,7 +17,7 @@ The sin offering goat would be for the people, it’s blood would be brought bef
 
 The High Priest would lay his hands on the head of the scapegoat and confess all the iniquities of Israel, all their transgressions, all their sins, placed on the head of the goat and then the goat would be sent away into the wilderness. The goat would carry all those things into the wilderness.
 
-This was to be a statue forever, they were to do no kind of work – both the native born and the outsider dwelling with YHWH/God’s chosen people. On this day, atonement was made for all, they would be [[Zunpublished/Clean\|Clean]] before YHWH/God.
+This was to be a statue forever, they were to do no kind of work – both the native born and the outsider dwelling with YHWH/God’s chosen people. On this day, atonement was made for all, they would be [[Gate of Wisdom/Clean\|Clean]] before YHWH/God.
 
 The scapegoat was for Azazel. Azazel in Hebrew can be translated as “the goat that goes away,” now shorted to scapegoat. Azazel is found no where else in the Biblical Canon we have today. Some scholars connect Azazel with Moc, the god of death. 
 

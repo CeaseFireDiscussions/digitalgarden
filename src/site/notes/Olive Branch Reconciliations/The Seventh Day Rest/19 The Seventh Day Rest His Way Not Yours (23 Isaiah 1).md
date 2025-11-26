@@ -17,7 +17,7 @@ Let's see what scripture says about that starting at the very beginning and then
 - Vain = empty, worthless
 - Incense = a symbol of prayer and devotion
 - [[Gate of Wisdom/Abomination\|Abomination]] = morally disgusting, detestable, or abhorrent
-- New moon, SabbathS , convocations = God-ordained festivals and assemblies (which includes the Seventh Day Rest, see Num. 28–29; Lev. 23) - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]],
+- New moon, [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]] , convocations = God-ordained festivals and assemblies (which includes the Seventh Day Rest, see Num. 28–29; Lev. 23) - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]],
 
 ## **Who**:
 -  Your = [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]] and those living in Jerusalem.

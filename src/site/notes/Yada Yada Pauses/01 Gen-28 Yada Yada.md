@@ -111,6 +111,7 @@
 				- to be his wife. 
 
 #### Esau saw and took - Eden language
+#### company of peoples [[Yada Yada Pauses/01 Gen-32 Yada Yada\|01 Gen-32 Yada Yada]]
 
 - <mark style="background: #B2A23AA6;">Jacob</mark> <mark style="background: #04CD3EA6;">went out</mark> 
 	- from <mark style="background: #4DA6EDA6;">Beersheba</mark>, 
@@ -161,6 +162,7 @@
 #### Fulfillment of the blessing from Isaac.
 #### New covenant made with Jacob
 #### Sounds like: I will not leave nor forsake [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-31#v6\|Deut-31#v6]] and [[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-13#v5\|Heb-13#v5]]
+#### Reaching into heaven in heaven, only one other structure described the same way - [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-11#v4\|Gen-11#v4]] Tower of Babel. 
 
 - <mark style="background: #B2A23AA6;">Jacob</mark> <mark style="background: #04CD3EA6;">awakened</mark> 
 	- out of <mark style="background: #B2A23AA6;">his</mark> sleep, 

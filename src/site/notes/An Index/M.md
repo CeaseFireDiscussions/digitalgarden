@@ -10,6 +10,7 @@
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Olive Branch Reconciliations/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre\|Mamre]]
+- [[Gate of Wisdom/Sign/Mark\|Mark]]
 - [[Sacred Truces/Matthew 28 v19 Baptizing in the Name\|Matthew 28 v19 Baptizing in the Name]]
 - [[Sacred Truces/Matthew 28 v19 Go and Teach\|Matthew 28 v19 Go and Teach]]
 - [[Sacred Truces/Matthew 28 v19 Into All the World\|Matthew 28 v19 Into All the World]]
