@@ -32,7 +32,7 @@ But <mark style="background: #B2A23AA6;">they</mark> <mark style="background: #4
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
 - Your fathers - [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]] brought out of [[Zunpublished/Egypt\|Egypt]].
 - You - [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
-- Inhabitants of [[Zunpublished/Jersusalem\|Jersusalem]]
+- Inhabitants of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]]
 
 ## **<mark style="background: #04CD3EA6;">What</mark>**: 
 - Conditional Blessings

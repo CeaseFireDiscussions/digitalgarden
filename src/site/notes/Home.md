@@ -16,6 +16,8 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 
 | Latest Drops                                                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)\|24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)]]   |
+| [[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]         |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]]                                                                                                                            |
 | [[Gate of Wisdom/Common\|Common]]                                                                                                                                                                  |
 | [[Gate of Wisdom/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]                                                                                                                      |
@@ -24,9 +26,7 @@ Thank you for joining us on these CeaseFire Moments, we hope you learn something
 | [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]                                                                                                                               |
 | [[Gate of Wisdom/Appointed Time/Feast\|Feast]]                                                                                                                                                     |
 | [[Gate of Wisdom/Appointed Time/SabbathS\|SabbathS]]                                                                                                                                               |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)\|24 The Seventh Day Rest is Taken by God in Anger (25 Lamentations 2)]]   |
 | [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]                                                                       |
-| [[Olive Branch Reconciliations/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]         |
 | [[Gate of Wisdom/Burden\|Burden]]                                                                                                                                                                  |
 | [[Torah Portions/2025.11.22 Shabbat Reading\|2025.11.22 Shabbat Reading]]                                                                                                                          |
 | [[Yada Yada Pauses/01 Gen-33 YadaYada\|01 Gen-33 YadaYada]]                                                                                                                                        |

@@ -106,7 +106,7 @@ For reading purposes [[_The Scrolls/2. Nevi'im (Prophets)/31 - Obadiah/Obad-01\|
 		- **that** you stood on the other side, 
 		- in the day **that** strangers carried away his //[[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]// substance <mark style="background: #CD04BBA6;">//material wealth//</mark>, 
 		- and foreigners entered into his <mark style="background: #CD04BBA6;">//Jerusalem// </mark>gates, 
-		- and cast lots for [[Zunpublished/Jersusalem\|Jersusalem]] <mark style="background: #CD04BBA6;">//the capital of Judah//</mark>, 
+		- and cast lots for [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]] <mark style="background: #CD04BBA6;">//the capital of Judah//</mark>, 
 			- even <mark style="background: #B2A23AA6;">you</mark> <mark style="background: #CD04BBA6;">//Edom//</mark>,  were like one of them <mark style="background: #CD04BBA6;">//strangers and foreigners//</mark>. 
 	- But 
 		- don't look down 

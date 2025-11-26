@@ -21,7 +21,7 @@ The <mark style="background: #D7CD91A6;">Lord</mark> has <mark style="background
 - Solemn assembly = [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]], the weekly seventh day rest (Sabbath) is listed as one of the appointed times.  
 ## **<mark style="background: #E0CC4BA6;">Who</mark>**:
 -  The king and the priest - not a specific person - the offices of such. The Davidic line were the kings, the Aaronic line were the priests. [[_The Scrolls/2. Nevi'im (Prophets)/28 - Hosea/Hos-03#v4\|Hos-03#v4]], [[_The Scrolls/2. Nevi'im (Prophets)/24 - Jeremiah/Jer-33#v21\|Jer-33#v21]]
-- Zion, Her, My, I = [[Zunpublished/Jersusalem\|Jersusalem]]
+- Zion, Her, My, I = [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]] 
 - The enemy = [[Gate of Wisdom/Dwelling Places/Realm of Humans/Babylon\|Babylon]]
 
 ## **<mark style="background: #04CD3EA6;">What</mark>**: 
