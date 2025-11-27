@@ -64,6 +64,7 @@ The <mark style="background: #D7CD91A6;">Lord</mark> has <mark style="background
 - Spoken of outside the [[Gate of Wisdom/Ten Words\|Ten Words]] aka [[Gate of Wisdom/Ten Commandments\|Ten Commandments]]
 - Causing it to be forgot is a punishment.
 
+
 # Connections
 
 ## [[Olive Branch Reconciliations/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]

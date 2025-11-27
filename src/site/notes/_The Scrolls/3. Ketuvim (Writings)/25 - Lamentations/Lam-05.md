@@ -8,7 +8,6 @@
 ***
 
 
-
 ###### v1 
 Remember, Yahweh, what has come on us. Look, and see our reproach. 
 

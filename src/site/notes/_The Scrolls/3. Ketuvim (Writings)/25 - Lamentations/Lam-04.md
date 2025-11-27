@@ -9,7 +9,6 @@
 ***
 
 
-
 ###### v1 
 How the gold has become dim! The most pure gold has changed! The stones of the sanctuary are poured out at the head of every street. 
 

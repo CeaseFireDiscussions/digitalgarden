@@ -8,7 +8,6 @@
 ***
 
 
-
 ###### v1 
 I am the man who has seen affliction by the rod of his wrath. 
 
